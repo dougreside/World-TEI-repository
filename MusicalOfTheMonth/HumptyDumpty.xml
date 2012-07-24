@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="drama.xsl"?>
+<!DOCTYPE TEI SYSTEM "./tei_drama.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Humpty Dumpty</title>
+</titleStmt>
+<publicationStmt>
+ <publisher>New York Public Library for the Performing Arts</publisher>
+ <pubPlace>New York City</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title>Humpty Dumpty</title>
+<author>John Denier, Esq.</author>
+<author>George L. Fox</author>
+<author>A Reiff Jr.</author>
+<date>1868</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<front>
+<titlePage><titlePart>
+<title>HUMPTY DUMPTY
+</title>
+<desc>A PANTOMIME IN A PROLOGUE AND ONE ACT</desc>
+</titlePart>
+<byline>Arranged By John Denier, Esq. as played by Him, and as originally played by
+George L. Fox at the Olympic Theater, New York</byline>
+<titlePart>Together With a Description of the Costumes--Cast of the Characters--
+Entrances and Exits--Relative Positions of the Performers on Stage, 
+and the whole of the stage business.
+</titlePart>
+<docImprint><pubPlace>Chicago</pubPlace>
+<publisher>The Dramatic Publishing Company</publisher></docImprint>
+</titlePage><pb/>
+<castList>
+<head>Cast of Characters</head>
+<castGroup>
+<head>PROLOGUE</head>
+<castItem>Romance, a Lady.</castItem>
+<castItem>Burlesque, a Lady.</castItem>
+<castItem>New Jersey, A Live Yankee</castItem>
+</castGroup>
+<castGroup>
+<head>
+PANTOMIME
+</head>
+<castItem>HUMPTY DUMPTY, the Great Prophet of Pie.</castItem>
+<castItem>Old One Two, afterwards Pantaloon.</castItem>
+<castItem>Tommy Tucker, afterwards Harlequin.</castItem>
+<castItem>Little Goody Two Shows, afterwards Columbus.</castItem>
+<castItem>Dr. Cureall, a Traveling Dentist.</castItem>
+<castItem>Sam, his Attendant.</castItem>
+<castItem>Mons. Starchington, a Fop.</castItem>
+<castItem>Mrs. McGlone, a Market Woman.</castItem>
+<castItem>Red Glare, a Demon Sprite</castItem>
+<castItem>Peasants, Villagers, etc.</castItem>
+</castGroup>
+</castList>
+<pb/>
+<set><head>SCENERY</head>
+<ab>Scene 1-Rocky Pass or Ancient Street in 1st groove</ab>
+<ab>Scene 2-Landscape in 5th grooves.  Set wall a pig-pen across 2 E.R. Box or stool on upper side of
+pig-pen for Clown to get on wall:  picket fence half across stage from 4 E.R.; beehive at end of fence,
+ with big nose behind hive for PANTALOON to slip on when stug; set cottage, with practiable door and 
+ window over door, across E.L.; six stuffed clubs in front of beehive for VILLAGERS; crab net against 
+ cottage; ten wooden bricks and three stuffed ones behind pig pen; tables and chairs c., as in diagram.</ab>
+ <tech>
+ <graphic url="stageset.jpg"></graphic></tech>
+</set>
+<div>
+<head>Costumes</head>
+<div><label>Humpty Dumpty--</label><ab>Over dress or strip-dress, short red vest, a brown round
+jacket with a big white collar, loose dark, striped pants, tied at knee,
+and red leggins from knee down, with white buttons on sides, and a conical hat, white 
+skull cap.  Second dress (to be under strip-dress), clown's dress, red and white tights, trunks and jacket 
+ornamented with figures and spangled as fancy as desired; slippers with very low flat heels.</ab></div>
+<div><label>Old One Two--</label><ab>Over dress or strip-dress, long brown pants and blouse, with 
+belt and collar; Pantaloon wig and beard.  Second or under dress, red high vest, brown tab jacket with pointed lace 
+collar, brown knee pants with tabs on bottom, red clocked stockings, brown leather pumps with 
+large red rosettes on front and very low heels.</ab></div>
+<div><label>Tommy Tucker--</label><ab>Over dress, artist's blue yoke blouse with white color, white long pants, straw hat 
+and ribbon.  Under dress Harlequin--Patches and spangled, red, blue, yellow, and black.  Some wear a dress all in one to 
+lace up in front, and some prefer jacket and pants, black belt, black half 
+mask, black silk skull cap.  Some wear black chin piece.</ab></div>
+<div><label>Goody Two Shoes</label><ab>--Over dress, brown peasant's dress, short and plain with white apron.  Under dress, Columbine--White satin,
+short, lock neck and short sleeves, with satin diamonds around the neck.  (Correct colors to be red, blue, black and yellow for the diamonds.)
+Tarleton under-skirt, tucks, and white trunks.</ab></div>
+<div><label>Dr. Cureall.--</label><ab>Yellow low-cut vest, lavender ankle tights, red long-tailed coat, ruffled shirt front, big breat-pin, three cornered hat, with white fur around it, 
+in the style of Continental hat</ab></div>
+<div><label>Sam, His Attendant--</label><ab>Big jacket, white pants, blue cap with peak.</ab></div>
+<div><label>Starchington, the Fop--</label><ab>Black tights, white embroidered vest, low cut, black 
+or blue long tail coat, white gaiter tops, conical hat, eyeglass with ribbon, 
+big ruffle on shirt.</ab></div>
+<div><label>Red Glare--</label><ab>Red demon dress with hood and horns.  Spangled with silver spangles looks best.</ab></div>
+<div><label>Market Woman.--</label><ab>Calico wrapper, frilled cap, big apron with pockets.</ab></div>
+<div><label>Villagers.--</label><ab>Yoke blouses, belts, straw hats, light pants.  No beards or whiskers.</ab></div>
+<div><label>Lady Villagers.--</label><ab>French peasants' dresses or tuck-up, and hats.</ab></div>
+</div>
+<div><head>Properties</head>
+<div><label>Scene 1.--</label><ab>Rocky Pass or Ancient Street in 1st grooves--Scroll for Romance,
+1 E.R.; large pen, made to imitate quill, about three feet long, gilded, for Romance, 1 E.R.; wand made of foil paper,
+three or four feet long, with star or other ornament on top, for Burlesque, 1 E.L.; a big property watch, to wind 
+up with clock key, for New Jersey, 1 E.L.</ab></div>
+<div><label>Scene 2.--</label><ab>Landscape in 5th grooves-Apple for Humpty; bag half full of sawdust; 5 E.L.; crab-net against cottage across 
+4 E.L.; table and chairs R. of 5 E.L.; broom against cottage; big nose behind beehive; ten wooden bricks 
+and three stuffed ones behind wall of pig-pen; glass of water and one of beer, 
+1 E.L.; six stuffed clubs in front of beehive; big property log, eight inches in diameter, and six feet long, in 5 E.R.; box marked
+"Doctor," with loaded pistol in, big knife and big wooden tooth in, with string on tooth--tooth of 
+wood, painted, 5 inches long, 2 1/2 inches diameter--box to be in 5 E.L. for Doctor; 
+sign and fish horn for Doctor&#39;s Boy, 5 E.L.;sign to be lettered "Doctor Cureall--Corns and Teeth Extracted."  This sign 
+must be made like a manner, with a handle to hold it up.  Profile pig&#39;s head in pig-pen, and little live 
+sucking pig in back of pig-pen; profile head, jaws to work like scissors; stool or box to get on wall by pig-pen; a property crow 
+on a piece of strong wire, six feet long, in 2 E.R., to work over HUMPTY&#39;s head on the wall at cue; also a bee to 
+work over beehive on a piece of wire at cue--(It is best for Tommy Tucker to work both of the above, as he will be more 
+reliable, and know better the proper cue); sheet and flatiron and shirt, to iron, for Goody in cottage, and furnace, 
+if possible, to put iron on; bushel basket, with broken crockery in and a piece of 
+cloth tied over the top, markerd on the side of the basket "Eggs," for Market Woman, 5 E.R.; a large pasted board sheet of music for FOP,
+5 E.L.; eyeglass and ribbon for same; one pair of plain slippers in a paper for Tommy Tucket; one pair of gilt or gold slippers for Demon 
+Red Glare; short ladder in 3 E.L. to reach window of cottage; step-ladder behind cottage to get up to 
+window; little pig stretch out 1 E.L.; steel bat for Harlequin, to be brought on by Burlesque in last scene.</ab></div>
+</div>
+<div><head>Stage Directions</head><lb/>
+<ab>R. means Right of stage, facing the Audience; L Left; C. Centre; R.C. Right of Centre; L.C. Left of Centre.  D.F. Door in Flat,
+or Scene running across the back of stage; C.D.F. Centre Door in the Flat; R.D.F. Right door in the Flat; L.D.F. Left Door in the 
+Flat; R.D. Right Door; L.D. Left Door; 1 E. First entrance; 2 E. Second entrance; U.E. Upper Entrance; 1,2 or 3 G.
+First, Second, or Third Grooves. </ab>
+<ab> R. R.C. C. L.C. L. </ab>
+<ab>The reader is supposed to be upon the stage, facing the audience.</ab>
+</div>
+
+</front>
+<body>
+<div>
+<head>HUMPTY DUMPTY<lb/>
+	Prologue</head>
+	<stage>SCENE 1.--Rocky Pass or Ancient street in 1st grooves.  About eight bar or tremolo 
+	music to take up curtain.  At rise of curtain Romance disovered leaning on wing, 
+	1 E.R.  As curtain rises she advances a little towards footlights. </stage>
+
+	<sp>
+		<speaker>Romance</speaker>
+	<lg>
+	<l>Heigh-ho!  it&#39;s very tiresome, I declare,</l>
+<l>	I vow, I&#39;m almost driven to despair</l>
+<l>	For want of occupation.</l>
+<l>	Time was, not long ago, when at my knees</l>
+<l>	Bowed countless scores of wandering deviltries;</l>
+<l>	When haunted castles, brigands, steel-clad knights,</l>
+<l>	Outlaws, demons, and guardian sprites,</l>
+<l>	Trap-doors, spectres, and dungeons drear,</l>
+<l>	Chains, gibbets, pirats, death and fear</l>
+<l>	Were profitable stock, without a doubt;</l>
+<l>	But, Alas!  their glories now are quite played out.</l>
+<l>	And as the taste for all such things is gone,</l>
+<l>	I'm left without a leg to stand upon.</l>
+<l>	Ah!  here comes Burlesque : I cannot but confess</l>
+<l>	She's the cause of this my sad distress.</l> </lg> <stage>(music cue.)</stage>
+</sp>	
+<stage>A few bars of lively music to bring on Burlesque, who enters 1 L.E.,
+runs to centre, and breaks in time with music. </stage>
+<sp><speaker>Burlesque</speaker><lg><l>Slap! Bang! <stage>(stamping foot)</stage> naught can trap me that&#39;s pedantic,</l>
+<l>For I&#39;m Burlesque, for which the boys are frantic.</l></lg>
+	</sp>
+
+<sp><speaker>Romance</speaker><l>I&#39;m Romance--</l></sp>
+
+<sp><speaker>Burlesque</speaker><lg><l>I&#39;m a peg higher</l>
+<l>Though oft romantic you&#39;re a </l>
+<l>Severe old dodger, but I&#39;m so funny</l>
+<l>Folks prefer me to you at half the money</l>
+<l>You&#39;re Beadle-dime stuff many shops encumbers</l>
+<l>And don&#39;t they spin you out in the New York Weekly numbers?</l>
+<l>Romance, don&#39;t war with me, yet I wish you</l>
+<l>Would tell me the cause of quarrel, and what&#39;s the issue.</l></lg></sp>
+
+<sp><speaker>Romance</speaker>
+<lg>
+<l>My ghosts with clanking chains</l>
+<l>My solitary horseman, G.P.R. James--</l>
+</lg>
+</sp>
+
+<sp><speaker>
+Burlesque.</speaker>
+<lg>
+<l>Oh! unhorsed him and deprived him of his reigns.</l>
+</lg>
+</sp>
+
+
+<sp><speaker>Romance.</speaker>
+<l>My midnight spectres, what have they done with them!</l></sp>
+
+
+<sp><speaker>Burlesque.</speaker><l>Spec&#39;s I&#39;ve made fun of them.</l>
+</sp>
+
+
+<sp><speaker>Romance.</speaker><l>My poisoned cup and demon grim--</l>
+
+</sp>
+
+<sp><speaker>Burlesque.</speaker><l>Juggled, cupped and saucered him.
+</l>
+</sp>
+
+<sp><speaker>Romance.</speaker>
+<lg>
+<l>Oh! Burlesque, come, let&#39;s be friends;</l>
+<l>I&#39;m ruined and undone, that&#39;s flat,</l>
+<l>My treasury bankrupt--</l>
+</lg>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<lg>
+<l>Poh! poh!  only that?</l>
+<l>That happens every blessed day,</l>
+<l>And if you are but knowing you can make it pay.</l>
+<l>You&#39;re bankrupt!  now show your tact.</l>
+<l>And take advantage of the bankrupt act.</l>
+<l>Go through the court at once, my friend and pitcher;</l>
+<l>The fault&#39;s your own if you don&#39;t come out the richer.</l>
+</lg>
+</sp>
+
+<sp><speaker>Romance.</speaker>
+<l>But that&#39;s not what I mean.</l>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<l>What then, alack?</l>
+</sp>
+
+<sp><speaker>Romance.</speaker><lg>
+<l>I fear my prosperous days will ne&#39;er again come back.</l>
+<l>The reign of Romance is forever o&#39;er.</l>
+</lg>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<lg>
+<l>What is there in that so much to deplore?</l>
+<l>Try something else.</l></lg>
+</sp>
+
+<sp><speaker>
+Romance. 
+</speaker>
+<l>What else?</l>
+</sp>
+
+
+<sp><speaker>Burlesque.</speaker>
+<l>I have it!  form a partnership with me.</l>
+</sp>
+
+<sp><speaker>Romance.</speaker>
+<l>Agreed!</l>
+</sp>
+
+<sp><speaker>
+Burlesque.
+</speaker>
+<lg> 
+<l>Into business then at once we&#39;ll go,</l>
+<l>Hang out our shingle, Burlesque &amp; Co.</l>
+<l><stage>(musing)</stage> Now for a subject we must search,</l>
+<l>A good one too, or we'll be left in the lurch,</l>
+<l>What can we do to make a noise?  Let&#39;s see.</l>
+</lg></sp>
+
+<sp><speaker>Romance.</speaker>
+<lg>
+<l>What say you to a Grand Peace Jubilee,</l>
+<l>Drums and trumpets by the score,</l>
+<l>Combined with the cannon&#39;s thundering roar?</l>
+<l>The Hub has tried it with success.</l>
+</lg>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<lg>
+<l>The Hub may have tried it, but ther&#39;s one thing clear,</l>
+<l>It will not do to kick up such a hubbub here.</l>
+</lg>
+</sp>
+ 
+<sp><speaker>Romance.</speaker>
+<l>Suppose a rather foreishn subject we import?</l>
+</sp>
+
+<sp><speaker>Burlesque.</speaker><l>It would take too long, and our time&#39;s too short.</l></sp>
+
+
+<sp>
+<speaker>New Jersey</speaker> <stage>(outside).</stage>
+<l>Consarn your all fired picter!  hold on there 
+a spell.</l><stage>(as he speaks the last word he enters, backing in from 1 E.L.)</stage>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<l>Who can this be, all dressed up in kersey?</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<l>Who be?  I be, you be darned, I be New Jersey.</l></sp>
+<sp>
+<speaker>Romance and Burlesque.</speaker>
+<stage>(together).</stage>
+<l>New Jersey.</l></sp>
+
+<sp><speaker>
+Jersey
+</speaker><l>Yes, New Jersey.</l></sp>
+
+
+<sp><speaker>Burlesque.</speaker>
+<l>New Jersey?  New Jersey?  I never heard of it--no never!</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker><l>Never heard of New Jersey?--that&#39;s clever.</l>
+</sp>
+
+<sp><speaker>Burlesque.</speaker><l>No!</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<l>
+Well, I swow, I never--
+</l>
+</sp>
+
+<sp><speaker>Romance.</speaker>
+<l>Some undiscovered country--
+</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<lg>
+<l>No!  That&#39;s the place where people flock,</l>
+<l>Anxious to buy Erie Railroad stock.</l>
+</lg></sp>
+
+<sp><speaker>Burlesque.</speaker>
+<l>Oh, what a hat!</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<lg>
+<l>There, that&#39;s enough of that.</l>
+<l>I bought it from (<stage>name some local hatter</stage>) the hatter, by Jehosaphat.</l>
+</lg>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<l>Oh, what a coat!  (lifts up tails) don&#39;t it look queer?</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker><stage>(to Romance).</stage>
+<l>
+Say, marm, do you raise canberries down here?
+</l>
+</sp>
+
+<sp><speaker>Romance.</speaker>
+<l>No!  this land is not our own--I&#39;m but a squatter.</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<lg>
+<l>Oh, that&#39;s what&#39;s the matter. <stage>(business of taking out big watch and winding it up)</stage></l>
+<l>I swow if I aint forgot--</l>
+<l>I hope to holler if it aint arter 12 o&#39;clock. <stage>(puts back watch and makes a start as if to go.)</stage></l>  
+<l>I must be off.</l>
+</lg>
+</sp>
+
+<sp><speaker>Romance.</speaker>
+<l>Hold!  with his ideas he may give us aid.</l>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<lg>
+<l>Yes, if for them he is well paid.</l>
+<l>A new idea in Jersey--that&#39;s funny.</l>
+<l>They&#39;ve only one idea--that&#39;s making money.</l>
+<l>Friend Jersey, we&#39;re in trouble for a plot.</l>
+<l>Say, can you help us out or not?</l>
+<l>We seek an entertainment new and pleasant,</l>
+<l>A thing that&#39;s rather hard to find at present.</l>
+</lg>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<lg>
+<l>Suppose a modest Congressman you try,</l>
+<l>Who wouldn&#39;t come the back-pay grab on the treasu-ry,</l>
+</lg>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<l>Poh! poh!  that wouldn&#39;t do.  I&#39;ve an idea.
+</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<l>Just in time.
+</l>
+</sp>
+
+<sp><speaker>Romance.</speaker><l>What is it? burlesque?</l></sp>
+
+
+<sp><speaker>Burlesque.</speaker>
+<l>No! &#39;tis pantomime.</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<lg>
+<l>That&#39;s a good idea, &#39;tis pretended;</l>
+<l>So the least that&#39;s said is soonest mended.</l>
+</lg>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<l>Yes, we&#39;ll have a pantomime, one to please the boys.</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<l>Why not the gals--oh girly girl?</l>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<lg>
+<l>Aye, old men and women--</l>
+<l>A good one, too, that will go swimmin&#39;</l>
+</lg>
+</sp>
+
+<sp><speaker>Jersey.</speaker><l>Jest pitch in and tell us, if you&#39;re going to.</l>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<lg>
+<l>In yonder village dwells a maiden famed</l>
+<l>For virture.  Goody Two Shoes she is named;</l>
+<l>For wit and beauty none can soar above her,</l>
+<l>And faithful Tommy Tucker is her lover.</l>
+<l>But he is poor, and his humble suit</l>
+<l>Is frowned upon by her stern old father.</l>
+</lg>
+</sp>
+
+<sp><speaker>Jersey.</speaker>
+<l>
+&#39;Tarnal brute!
+</l>
+</sp>
+
+<sp><speaker>Burlesque.</speaker>
+<lg>
+<l>They have a servant, Humpty Dumpty called,</l>
+<l>By whom the lovers constantly are mauled.</l>
+<l>So in our charge we&#39;ll take them, and will see</l>
+<l>If from these tyrants we can set them free.</l>
+<l>Now then for the charm.</l>
+</lg>
+</sp>
+<sp>
+<speaker>Jersey</speaker>
+<stage>(to Romance).</stage> 
+<l>Can I depend on you?
+</l></sp>
+<sp><speaker>Romance.</speaker><l>You can--you can</l></sp>
+<sp>
+<speaker>Burlesque</speaker>
+<stage>(To Jersey).</stage>
+<l>And you?</l>
+</sp>
+
+<sp><speaker>Jersey.</speaker><l>You can on me or any other man.</l>
+  <stage>(at the end of this speech, and while Burlesque is speaking the next
+Jersey leads by the hand Romance off 1 E.R., and returns to Burlesque.)</stage>
+</sp>
+<sp><speaker>Burlesque.</speaker>
+<lg>
+<l>Now, then, one, two, three, four, five, six,</l>
+<l>Old Pantomime, go in swimming with your tricks;</l>
+<l>But first in a little of the German we will mix.</l>
+</lg>
+</sp>
+<stage>Jersey and Burlesque face each other.  The orchestra plays &quot;Independence Day has come,&quot; and 
+Burlesque and New Jersey do a little Yankee dance in the style of the old-fashioned 
+Yankee dance.  Jersey backs Burlesque off 1. E.L., kicking up forwards and backwards.  Pull off for Scene 2d.</stage>
+</div> 
+<div>
+<head>PANTOMIME</head>
+<desc>VILLAGE SCENE, OR FARM OF PLENTY</desc>
+<stage>Qaudrille music at opening of this scene.</stage>
+<stage>Note.--If there is no scene in 1 for the 1st scene, it is often done 
+in the 2d scene full stage.  Romance can be seen leaning on the pig-pen across 2 E.R. 
+Set cottage 3 or 4 E.L.  Table and chair, partly on stage, in 3 E.L. 
+Broom, and crabnet on pole, against set cottage.  Picket fence half 
+across from 4 E.R.  Beehive as in diagram.</stage>
+
+<ab>
+TOMMY TUCKER enters from 5 E.R., comes down stage, and in 
+pantomime says, &quot;In that cottage lives my sweetheart; I&#39;ll go there 
+and try to get her out.&quot;  Goes near the cottage and claps his hands 
+three times--listens--no reply.  VILLAGERS and GOODY TWO SHOES 
+enter from 5 E.R.  VILLAGERS stand in line from pig-pen to beehive. 
+GOODY rather hiding behind otehrs.  TOMMY don&#39;t know they are despondent.  
+1st VILLAGER goes over to TOMMY and hits him on the back.  TOMMY turns and 
+faces him.  VILLAGER says in pantomime, &quot;Will you shake hands with me?&quot; 
+TOMMY says, &quot;No,&quot; and turns.  Same business repeated, but TOMMY shrugs his 
+shoulders and says, &quot;Yes,&quot; shakes hands, and VILLAGER goes back in line.  TOMMY leans 
+on wing again.  VILLAGERS now all sing <stage>(orchestra gives chord to start it)</stage>--</ab>
+<sp>
+<lg>
+<l>Little Tommy Tucker sang for his supper--</l>
+<l>What shall he eat but white bread and butter?</l>
+<l>How shall he cut it without any knife?</l>
+<l>How can he marry without any wife?</l>
+</lg>
+</sp>
+<ab>
+At the conclusion of this TOMMY feels very downcast and backs 
+from wing to centre of stage--GOODY at the same time backs towards him.  When in the centre 
+of the stage they both bump together--the VILLAGERS claps their hands--GOODY and TOMMY turn 
+and see each other.  They are both deilghted--they both face each other, and shake handsm and 
+jump up and down, as if greatly rejoiced.  TOMMY says, &quot;Give me a kiss.&quot; GOODY says 
+&quot;No.&quot;  TOMMY says, &quot;See, I have got a present for you,&quot; at the same time 
+he takes from his belt a pair of new shoes, and holds them up for her to see.  She makes a 
+grab, when he quickly puts them behind him, and says, &quot;If you 
+give me a kiss I will give them to you.&quot;  GOODY studies a moment, then says, 
+&quot;If you dance with me I will give you the kiss.&quot;  TOMMY consents, gives her 
+the shoes, and they both run up the stage to centre.  Music gives chord, and they both together 
+dance a village hornpipe.  At conclusion of dance great noise off 5 E.L.  TOMMY 
+looks off entrance and pantomimes to VILLAGERS, &quot;Old man is coming and they must all be off.&quot; 
+VILLAGERS off 5 E.R.  TOMMY and GOODY off 1 E.R.
+</ab>
+<ab>
+OLD ONE TWO enters from 5 E.L.  with a bag half full of sawdust on his back--
+turns and beckons to HUMPTY--goes a few steps further, when he falls on his face, the 
+sawdust bag on his back keeping him down.  He hits his hands on the stage for help, and keeps it up 
+as long as he lies there.  HUMPTY enters from 5 E.L. eating an apple and kiss his hand to some one 
+off the 5 E.L.--turns, sees audience, laughs--ses OLD ONE TWO--laughs again--puts his apple in his 
+pocket--stands over ONE TWO and slaps his arms to warm up--stoops over and takes hold of the two bottom 
+corners of the bag, turns back to audience, puts the back on his back--sawdust falls out of the mouth of the 
+pag on ONE TWO, and HUMPTY walks off with the empty bag on his back, very slowly and unconcerned off 5 E.L.
+</ab>
+<ab>
+GOODY and TOMMY enter from 1 E.R., run over, call in VILLAGERS from 5 E.R., who stand in line as before.  
+GOODY and TOMMY lift up OLD ONE TWO by the arms, and brush him off.  GOODY takes chair down by foot-lights 
+for OLD ONE TWO, goes up stage and asks him if he won&#39;t sit down.  ONE TWO says, &quot;No--thanks.&quot;  
+He feels better, and goes to VILLAGERS and shakes hands.  HUMPTY enters from 5 E.L. eating apple--sees empty 
+chair, very cooly walks to it and sits down in it--rubs his stomach and eats away on his apple.  
+TOMMY goes over to him, slaps him on the back.  HUMPTY turns--they both bow.  TOMMY says, &quot;Give me a bite of 
+your apple.&quot;  HUMPTY says, &quot;No.&quot; and turns front and eats away.  TOMMY slaps him on the back again--
+asks him again for a bite of the apple.  HUMPTY thinks, then says, &quot;Yes.&quot;  TOMMY holds out open hand for 
+the apple.  HUMPTY bites off a very little piece and goes out to put it in TOMMY&#39;s hand--thinks a second and 
+concludes it is too big--bites another piece off the small piece, and lays it in TOMMY&#39;s hand with an air 
+of satisfied generosity.  TOMMY looks at it and says, &quot;Is this for me?&quot;  HUMPTY says, &quot;Yes.&quot;  Tommy says,
+&quot;Who is that big piece for?&quot;--meaning the apple in Humpty&#39;s hand.  HUMPTY says, &quot;For me,&quot; and bows.  
+TOMMY repeats, &quot;This little piece for me?&quot;  HUMPTY laughs.  TOMMY draws back hand and fires piece of apple in HUMPTY&#39;s 
+eye.  HUMPTY picks piece of apple out of his eye and goes to throw it away.  On second thought puts it in his mouth and chews away.  
+TOMMY tells OLD ONE TWO who says, &quot;We will fix him&quot;--so gives each one a stuffed club.  He gets at the head of the 
+line--they all follow as close as possible.  They advance to HUMPTY, who sees them coming, and just as OLD ONE TWO goes to 
+hit him, HUMPTY jumps up very quick and runs off with big steps, laughing, 5 E.R.  With the force of the blow OLD ONE TWO falls 
+across the chair.  TOMMY and VILLAGERS mistake him for HUMPTY and they all commence to beat him unmercifully.  He finallys gets 
+up off chair and beats and fights them all off--takes chair up stage and goes in the cottage, 4 E.L., rubbing his back and shaking his 
+fist.</ab> 
+<ab>
+HUMPTY enters from 5 E.R., laughs as the old man goes in the cottage--goes over to pig-pen and says, &quot;I will get up on the wall, 
+back of the pig-pen, and eat my apple.&quot;  So he gets on stool or boxback of pig-pen, then on the upper side of pig-pen, then up on 
+the wall--eats away on his apple and rubs his stomach--when the big Crow is worked out on a piece of wire over his head.  He don&#39;t 
+seee it at first, but finally he sees it and is very much frightened, and fights it off with his hat, and fires his apple at it--jumps down 
+off wall, runs over to cottage, gets the net, goes to foot-lights L., and says &quot;he will catch him in that.&quot;  While he is doing this OLD ONE 
+TWO comes out of the cottage, goes over and looks in pig-pen.  HUMPTY don&#39;t see him, but goes to catch Crow--misses Crow, and puts net 
+over OLD ONE TWO&#39;s head, and they both swing around twice, when HUMPTY lets go net, and OLD ONE TWO falls on his back, up stage.  
+HUMPTY runs over and stands against wing, 1 E.L., and laughs.  OLD ONE TWO gets up quick, runs up to HUMPTY, and tries to hit him 
+in the head with the handle of the net.  HUMPTY ducks as he strikes, and he hits the wing with the handle.  HUMPTY straightens up, and 
+ONE TWO kicks him, which carries him across the stage to 1 E.R.  ONE TWO throws down net, when they both see the Bee over the beehive.  They both 
+take clubs and approach the beehive.  HUMPTY R. and ONE TWO L.  They both fight the Bee--then they cross, Humpty L. and ONE TWO in front of hive.  
+HUMPTY puts down his club and warms up his hands--take up his club again and  makes the big strike at Bee over the hive, when ONE TWO gets club in 
+the face.  He takes slap and makes a big long fall down stage.  HUMPTY throwns down club--walks down to the foot-lights.  ONE TWO goes for the BEE again, and 
+HUMPTY joins him.  They fight at the Bee again, when ONE TWO reaches behind beehive, takes big red nose and puts on, and hollers, and the 
+supposition is that he is stung on the nose.  HUMPTY takes him down to foot-lights--looks at nose, goes to warm his hands on it, and turns to warm 
+his back.  ONE TWO kicks him.  HUMPTY turns and laughs at his nose, and says, &quot;I will go call a doctor.&quot;  ONE TWO says, &quot;Yes7quot; and he 
+walks off 1 E.R., holding his nose and shaking his head in pain.  HUMPTY picks up net and puts it on his shoulder--goes up stage to 5 E.L., and beckons 
+with net R. and L.--then goes down to L. 1 E. to wait the arrival.</ab>
+<ab>
+VILLAGERS enter from 5 E.R. and stand in line as before.  DOCTOR&#39;S ASSISTANT enters from 6 E.L., with banner in front of 
+him lettered &quot;<emph>Dr. Cureall--Teeth and Corns Extracted</emph>&quot;--blowing a fishhorn.  He walks down to within a few feet of the pig-pen, 
+puts down the banner in front of him, and stops blowing the horn.  (This assistant is usually blacked up as a negro.)  HUMPTY goes over, 
+reads the banner, and seems pleased.  Goes back 1 E.L., when DR. CUREALL enters from 5 E.L., with medicine chest, marked 
+&quot;Doctor,&quot; under his arm.  He makes a circuit of the stage very pompous--VILLAGERS applaud him.  TOMMY and GOODY enter from 
+2 E.L. and stand by HUMPTY.  HUMPTY walks to meet DOCTOR in centre of stage, near foot-lights.  When they come face to face they both bow.  
+HUMPTY hits DOCTOR on back with net as they bow.  DOCTOR faces audience and gives the net a push.  HUMPTY lets the net go, and as it swings round it 
+hits TOMMY, who is right back of HUMPTY.  TOMMY gets hit in the stomach, and pushes it from him--HUMPTY still holding it--when it circles round and hits 
+the DOCTOR in the stomach.  HUMPTY takes net by middle of handle and smashes it down on the floor, when it goes on TOMMY&#39;s foot, who grabs it 
+from HUMPTY in a rage and throws it off 2 E.L., and explains and shows his foot to GOODY, who consoles him, and they fill up a little time while HUMPTY 
+apologizes to DOCTOR and bows and says, &quot;Yes,&quot; and points with pomp to his banner.  HUMPTY says &quot;he has a patient for him,&quot; and 
+points for him to go up stage and make ready while he calls the patient.  HUMPTY crosses to 1 E.R., and slaps his hands to call ONE TWO, and while thus 
+engaged the DOCTOR walks up stage.  VILLAGERS bring down table to centre of stage about twelve feet from foot-lights--put chair behind it, and the 
+DOCTOR gets up on chair, then up on table--lays his box on the table in front of him, opens the lid of it, and stands upon the table, rubbing 
+his hands, and waiting for patient.  ONE TWO enters from 1 E.R.  HUMPTY drags him to centre of stage and tells him &quot;the doctor is there 
+and will cut off his nose.&quot;  They both walk up to table and bow to DOCTOR who looks at nose.  HUMPTY turns L. and tells GOODY and TOMMY 
+&quot;that the old man will have his nose cut off.&quot;  They are surprised.  DOCTOR takes out big knife, sharpens it on his hand like a razor, 
+and cuts a hair with it; he then takes hold of ONE TWO&#39;s nose, and cuts it off and holds it up high in his hand.  All hurrah and applaud.  
+ONE TWO and HUMPTY go down to foot lights.  HUMPTY looks at ONE TWO&#39;s nose and is delighted.  He tells ONE TWO that he will have a tooth 
+pulled out.  ONE TWO says, &quot;Good.&quot; and pat him on the back.  ONE TWO goes to side of DOCTOR&#39;s table, R.  HUMPTY goes to table L. of 
+DOCTOR and tells him he wants a tooth extracted.  DOCTOR says, &quot;Open your mouth and I will look.&quot;  He puts his fingers in HUMPTY&#39;s 
+mouth to feel the tooth, when HUMPTY bites them.  DOCTOR pulls his finger to get them out of his mouth, and HUMPTY lets go.  DOCTOR&#39;s arm 
+swings around and hits ONE TWO in the face; he is standing on the other side of table.  ONE TWO takes the slap--VILLAGERS examine his eye--DOCTOR 
+shakes hand in pain.  TOMMY turns and tells GOODY that HUMPTY bit the DOCTOR&#39;s fingers, and as he pantomimes to her he points his finger to 
+the DOCTOR but don&#39;t look at him--HUMPTY bites the finger--TOMMY hollers and turns and sees HUMPTY laughing, when he kicks him.  HUMPTY gets in 
+front of table, back to audience--takes big wooden tooth out of box and holds it up with his hand by his mouth (<stage>he don&#39;t let the 
+audience see it</stage>)--DOCTOR takes hold of the string of the tooth, and makes believe he fastens string around HUMPTY&#39;s tooth--then 
+DOCTOR takes loaded pistol out of box, cocks it, and holds it up in right hand, and takes hold of string with left hand--everybody looks at DOCTOR, 
+who bends his knees and sinks down--everybody dos the same--three times to make ready.  At the end of the third bob the DOCTOR fires the pistol, pulls 
+on the string, and holds the tooth dangling in the air.  HUMPTY falls on his back and kicks.  VILLAGERS cheer.  DOCTOR puts pistol and tooth in box, 
+bows to VILLAGERS and goes off 5 E.R.  TOMMY and ONE TWO pick up HUMPTY by taking hold of him by his elbows, and carry him, high up, all broke up, to the 
+foot-lights, when GOODY puts chair under him to sit in; then GOODY goes in cottage, 4 E.L.  ONE TWO pats him on the back--TOMMMY runs off, 1 E.R., and 
+brings him a glass of water.  HUMPTY says, &quot;Do you want me to drink that?&quot;  TOMMY says, &quot;Yes.&quot;  HUMPTY says, &quot;It is only fit 
+to swim in; I want something stronger.&quot;  TOMMY goes off again and brings on glass of beer.  HUMPTY don&#39;t look at it, he thinks it is water, and 
+he shakes his head &quot;no.&quot;  ONE TWO takes it from TOMMY and offers it to HUMPTY.  TOMMY goes off 1 E.R.  HUMPTY don&#39;t look at it, but still 
+refuses it.  While this is going on the DOCTOR&#39;S BOY does not go off with the rest, but puts his banner and horn down by the pig-pen, and goes to 
+sleep.  ONE TWO says, &quot;he will drink the beer himself,&quot; and walks down to R. corner of stage and begins to drink the beer.  HUMPTY recovers, 
+turns and sees ONE TWO drinking the beer, goes quietly over to him and kicks him in the stomach, which makes him squirt the beer out in a stream.  ONE 
+TWO coughs and spits and goes in cottage.  HUMPTY runs up stage and points and laughs as he goes in cottage.  He then sees DOCTOR&#39;S BOY asleep, 
+and takes the banner and throws it off 3 E.R.--then takes 
+the horn and a stuffed club and goes to BOY and blows horn in his ear.  BOY gets up, rubbing his eyes, dazed, and points to 5 E.L., when HUMPTY 
+beats him very lively off 5 E.L.  HUMPTY laughs and points to cottage--goes and looks in at keyhole--hits the door with a club, and runs in behind 
+cottage, 5 E.L.  OLD ONE TWO comes out, says, &quot;he heard something,&quot; sneaks around and peeks off 1 E.L. HUMPTY sneaks out behind him, and while 
+he is looking off hits him a heavy blow with the club and runs back behind cottage.  ONE TWO grunts and limps into the cottage with a stiff leg.  HUMPTY 
+comes out from behind the cottage, laughs, blows horn again, and knocks on the door again with the club, and runs, as before, behind cottage.  ONE TWO comes 
+out again--this time with a gun--sneaks all around--goes to L. hand corner and looks off 1 E. and raises gun to fire as HUMPTY comes out again, and 
+just as ONE TWO has the gun up hits again on the back a heavy blow with the stuffed club, and runs off with big steps, 5 E.R.  ONE TWO swings gun around 
+and falls--gets up, puts gun in house, shakes fist at 5 E.R., puts table out 2 E.L., calls GOODY out of cottage, tells her to bring out ironing 
+materials and go to ironing at table L.  ONE TWO calls on TUCKER from 3 E.R., and tells him to take broom and sweep up sawdust, which he does.  ONE TWO 
+picks up stuffed club and goes and looks at the pigs in the pen.  HUMPTY comes on 1 E.R., sees GOODY irnoning, goes over to her and bows.  She makes 
+faces at him.  He says &quot;he loves her and would marry her.&quot;  She refuses his offer.  He asks her to shake hands and be friends.  She says, &quot;Yes.&quot;  
+He spits on his hand and rubs it on his pants and puts it out to her.  She puts the iron in his hand--he hollers and turns his back--she puts the iron on 
+his back--he hollers again, turns round and shakes his fist at her--when ONE TWO sneaks over and give him a heavy blow with the club on his back.  
+TOMMY sees all this, and he is laughing and sweeping.  When he has finished sweeping he puts broom in cottage.  When HUMPTY gets hit he cries and goes 
+over to proscenium, or wing, 1 E.R., and rubs his back.  ONE TWO shakes his club at him, and goes to centre of stage and beckons HUMPTY to come over to him.  
+HUMPTY goes over to him, and he says to HUMPTY--at the same time pointing to 5 E.R.--&quot;Go over there and bring a big log of wood here to saw and 
+split.&quot; During this TOMMY is making love to GOODY at the table.  HUMPTY says, &quot;Me go and bring a big log of wood here?  no, sir?&quot; and 
+turns his back to ONE TWO and shakes his head.  ONE TWO taps him on the shoulder and says &quot;Will you go?&quot;  HUMPTY says &quot;No.&quot; ONE TWO 
+repeats it.  HUMPTY says &quot;No.&quot;  ONE TWO puts down his club, rolls up his sleeves and spits on his hands.  HUMPTY sees this preparation sideways--
+puts his finger to his nose, shuts one eye, and runs off big steps, 5 E.R.  ONE TWO goes to give him a blow with great force, and as he strikes HUMPTY 
+is gone, and the force of the blow makes him take a spinning fall up stage.  He jumps up quick, sees TOMMY making love to GOODY at the side 
+of the table, his back to ONE TWO and so he rushes at him in his frenzy and beats him on the back with the stuffed club and drives him off 1 L.E.  
+Then he goes to the table and hits on the table in a rage and tells the girl to iron fast--he steps his foot in the furnance, which still more 
+enrages him--then throws down the club and walks toward 5 E.R., just as HUMPTY comes in with a big log, which hits him on the head and 
+knocks him on his back.  He turns on his stomach and goes to get up, when HUMPTY hits him on his back with the end of the log and knocks him 
+out straight like a frog in jumping.  This is done three times, and when ONE TWO gets to the foot-lights he staggers 
+and falls across the stage, and HUMPTY puts down log on end and it falls on ONE TWO crosswise.  HUMPTY is greatly excited and claps his hands.  
+GOODY sees it and is also excited.  She claps her hands and calls TOMMY from 1 E.L.  TOMMY tells HUMPTY to lift it up, it is killing 
+ONE TWO.  HUMPTY says, &quot;All right,&quot; and spits on his hands, lifts the log up to his breast, when he lets it go down on the 
+OLD MAN bang! who groans.  All excited.  HUMPTY says &quot;he will lift the other end&quot;--goes to the foot-lights&#39; side and lifts that end up, 
+and lets it fall again on the OLD MAN.  HUMPTY straddles across the log, facing the audience, and commences to fan himself with his hat.  
+TOMMY hits him on the shoulder and says, &quot;Roll it off.&quot;  HUMPTY says &quot;he hasn&#39;t got muscle enough,&quot; but gets up, spits on 
+his hands, and rolls the log up to the OLD MAN&#39;s neck.  TOMMY says, &quot;He is choking.&quot;  HUMPTY says, &quot;All right&quot;--gets by the 
+OLD MAN&#39;s head and rolls the log over his body and off his feet.  ONE TWO gets up, weak and slow--HUMPTY raises the log up from the left side 
+and it gets on ONE TWO&#39;s toe--he hollers--TOMMY says, &quot;It is on his toe&quot;--he pushes the log and points to his own foot, when over it 
+goes on ONE TWO again, and knocks him down again, same as before, with the log on top of him lengthwise.  HUMPTY goes over by 
+head, R., and lifts log up and straddles over the OLD MAN and gets the log up straight.  ONE TWO gets up and faces 1 E.R.  HUMPTY gets 
+log on his shoulder--turns to go off R., when he hits ONE TWO in the back, who makes a headlong fall off 1 E.R.  He backs with the log, and the 
+end of it knocks down TOMMY, a long back fall.  HUMPTY goes to 5 E.R. , when a man in a woman&#39;s dress, comes on from the entrance with a 
+basket containing broken crockery, marked &quot;Eggs,&quot; on her head--the log hits her in the somach, when down she goes, eggs and all.  
+That blow turns the log and HUMPTY around, and he foess off 5 E.L., when in comes the FOP, and he gets hit with the log and knocked down, a back fall, 
+which turns the log round again, and it knocks the WOMAN off 5 E.R., just as she is picking up her basket.  HUMPTY follows off the same entrance 
+with the log.  ONE TWO comes on from 1 E.R., and meets the FOP--FOP crosses ONE TWO and takes R. corner--TOMMY gets up from fall and goes 
+behind table and makes love to GOODY--FOP is very excited--ONE TWO calms him.  HUMPTY enters from 5 E.R. and sees FOP, laughs at him, goes to GOODY and 
+says, &quot;Is that your beau?&quot; and laughs--takes the iron from GOODY and irons--burns his fingers and cries out.  ONE TWO, in the meantime, 
+asks the FOP to be seated--he consents, and ONE TWO brings chair C.  HUMPTY sits in chair and laughs, puts iron in his own lap--it burns him, and 
+he goes over backward, chair, iron, and all, and does a back roll out of the chair up on to his feet, all doubled up, hands on head and stomach--
+walks a funny walk off 3 E.R.  ONE TWO picks up chair and iron--puts iron on table--crosses to FOP and says, &quot;Never mind, you shall be 
+introduced to my daughter&quot;--goes to table to bring GOODY, as he supposes, when TOMMY puts his hand out under GOODY&#39;s arm--ONE TWO 
+takes TOMMY&#39;s hand and drags him to centre--FOP faces TOMMY and bows--sees it is TOMMY and tells ONE TWO, who looks surprised--ONE TWO gives 
+him a slap in the face, which takes him off 1 E.L.  ONE TWO tells FOP &quot;not to mind it, to excuse him, he will introduce him at all hazards.&quot;
+While the above action takes place GUMPTY comes on from 3 E.R.--sees the situation--goes to GOODY and puts his hand under her arm, which ONE TWO comes over 
+and takes, and thinks surely he has GOODY this time.  HUMPTY walks like a lady, shamed, and puts in his finger in his mouth, very silly looking.  
+ONE TWO says to FOP, &quot;My daughter.&quot;</ab>
+<ab>
+HUMPTY turns his back to FOP and bows--both bow together--FOP hits his nose 
+on HUMPTY&#39;s back--jumps, claps his hands, and tells ONE TWO &quot;There is HUMPTY.&quot;  HUMPTY keeps on bowing.   ONE TWO looks, sees him 
+bowing, and kicks him with his right leg once, twice--the third kick HUMPTY runs off 5 E.R., and ONE TWO missing him 
+makes a spinning back fall.  He gets up very excited, goes to table and grabs GOODY by right hand, very angry, 
+and brings her down to C. to FOP, and says, &quot;There she is.&quot;  TOMMY sneaks out from 1 E.L., and gets behind GOODY just as FOP goes 
+to look at her--she runs to table and commences to iron, and TOMMY stands up in her place with his arms 
+folded.  FOP goes to bow, thinking all is right this time, when to his surprise there stands TOMMY.  He stamps his foot, claps his hands 
+and tells ONE TWO to look.  ONE TWO looks, sees TOMMY, draw back his left hand to make a circling blow in the head, when TOMMY bends over forward and runs off 
+1 E.L., the blow, of course, missing him.  ONE TWO circles around and hits FOP a terrific mash in the face, which knocks him flat on his back.
+<stage>(The above business must be very carefully rehearsed, so that it will be done quite naturally, otherwsie it will not please the audience.)</stage>
+ ONE TWO picks up FOP and pats him on the back, and says, &quot;Never mind.&quot;  FOP is very much excited, and crosses to L.  ONE TWO goes to table and takes GOODY&#39;s hand and gives 
+ her a long swing in front of him down to extreme R. Corner--follows her down and tells her &quot;she must bow to FOP&quot;--she says &quot;No,&quot; and 
+ makes face at FOP.  ONE TWO, very angry, takes her by the shoulder and pushes her to centre.  FOP bows--GOODY will not.  ONE TWO presses 
+ down on her shoulders to make her bow--repeats twice--third time GOODY ducks down quick and turns off L.  ONE TWO, losing his support, 
+ falls heavily on his face on stage.  He gets up quick, tells FOP she is turned in the head, and for him to come back to talk about the marriage 
+ ceremony at three o&#39;clock.  FOP Is pleased, says &quot;Yes,&quot; rubs his hands, and does a very foppish walk off 5 E.L. 
+ ONE TWO holds up his hands, puts table off entrance and goes in cottage.  AS FOP goes off HUMPTY peeks his head out of 1 E.R., and 
+ when FOP is off and ONE TWO is in the cottage he walks out, luaghs, and walks to 5 E.L., imitating the FOP&#39;s walk--looks off 5 E.L.--sees FOP coming back--
+ runs to pig-pen, gets on wall and gets armful of bricks, the stuffed ones on top.  FOP comes on cautiously from 5 E.L.  <stage>(Music stops when FOP 
+ comes on in this scene until he goes off.)</stage>  FOP goes down to R. corner and points to cottage and says, &quot;There lives my sweetheart--I will go over there and sing 
+ to her a serenade&quot;--walks to C. in front of cottage--takes from under his throat--gets all ready, and then he commences to sing in a very bad 
+ burlesque manner, shaking his leg out back, stretching his neck out forwards, doing splits, bending the post forwards, and working ad lib., until he gets 
+ ready to sing--</ab>
+ <sp>
+ <lg>
+ <l>&quot;My Jane, my Jane, my dearest Jane,</l>
+ <l>Oh, never, never look so shy.&quot;</l>
+ </lg>
+ </sp>
+ <ab>
+ As he says, &quot;shy,&quot; HUMPTY fires a stuffed brick from the wall and hits him bang on the head.  FOP stops singing, runs down to footlights, takes off 
+ his hat and feels his head with his hand--looks at his hand--don&#39;t see any blood--shakes his fist, and expresses &quot;he will sing it or die&quot;--goes down in front of 
+ cottage and commences again--</ab>
+<l>&quot;Oh, let me like a soldier fall.&quot;</l>
+<ab>
+As he says &quot;fall,&quot; HUMPTY throws second stuffed brick, which hits him in the head, and he does a sort of half-forward somersault, and 
+lands sitting.  He gets up quick, looks towards pig-pen, sees HUMPTY DUMPTY laughing, and shakes his fist at him.  HUMPTY fires third stuffed 
+brick.  FOP dodges it and runs off 5 E.L., just as OLD ONE TWO comes out of cottage and catches brick in facem which knocks him down 
+flat on his back in front of cottage.  HUMPTY laughs, and ONE TWO gets up apparently stunned--picks up brick, looks at it, rubs his head, 
+studies a moment, puts his finger aside his nose, and walks with a circling motion, the brick in his hand, to front of the pig-pen and looks 
+behind it, supposing some one to be there hiding, when HUMPTY takes all the bricks and lets them fall on ONE TWO, who falls flat 
+on his face from the weight of the bricks--he gets up, takes three bricks, and circles around stage very cautiously to R. corner.  
+HUMPTY jumps down, takes three bricks and follows very cautiously--when ONE TWO gets to extreme R. he turns quickly and meets HUMPTY face to face.  They both 
+stand still in a picture, each with a brick raised to throw.  <stage>(Music chord.)</stage>  Humpty makes three big steps backward to L. corner--
+ONE TWO follows, but makes big steps forward in time with HUMPTY--at end of third step picture as before.  Repeat back to first position.  HUMPTY fires 
+brick at ONE TWO, who dodges in turn.  This is repeated until each has thrown three bricks, when HUMPTY hits ONE TWO with a fourth brick in the head.  HUMPTY 
+sees what he has done, and goes off 1 E.L.  ONE TWO is stunned, staggers, reels and falls C. of stage, with head up stage.  TOMMY rushes out from 3 E.R. and GOODY 
+ from 3 E.L.--they run to ONE TWO, take him by the arms and lift him up--he comes to his senses, looks at TOMMY and says, &quot;What do you want here?&quot;  TOMMY 
+ says he &quot;wants to marry GOODY.&quot;  ONE TWO says, &quot;Have you got any money?&quot;  TOMMY looks despondent and says, &quot;No, but he has strong arms and a stout heart, and 
+ he can work.&quot;  ONE TWO says, &quot;Bah!&quot; and pushes him off 1 E.R.--takes GOODY by the right hand with his right hand and circles her down into R. corner and says 
+ to her, &quot;What do you want?&quot;  She says, &quot;she wants his consent to marry TOMMY.&quot;  He saus, &quot;No, never,&quot; and motions her to go--he 
+ disowns her, and walks towards cottage.  GOODY follows--he turns--she implores--he stamps his foot and shakes his head and points her off--he goes in cottage, 
+ slamming the door in her face.  GOODY turns back to cottage, puts her hands up to her face and commences to cry.  BURLESQUE enters from 3 E.R.--<stage>(Music 
+ stops while she is on until she goes off)</stage>--a long domino or cloak covers and disguises her. <stage>(A piece of fish line is usually fastened to the cloak or 
+ domino, so that it can be pulled off, 3 E.R., when BURLESQUE takes it off.)</stage>  BURLESQUE walks on as an old woman--goes over to GOODY and taps her on the shoulder.  
+ GOODY is surprised and frightened.  BURLESQUE speaks, &quot;Sweet Goody Two Shoes, why that pensive air?&quot;  GOODY describes in pantomime that she has been driven 
+ from home.
+</ab>
+<sp><speaker>Burlesque.</speaker> <lg>
+<l>Driven from home and don&#39;t know where to fare;</l>
+<l>The young should happy be and ot despair.</l>
+<l>See, I&#39;m old and have to beg--your looks are good;</l>
+<l>Give me a paltry coin to buy some food</l>
+</lg>
+</sp>
+<ab>GOODY looks sad and expresses &quot;she has no money,&quot; but thinks ofthe shoes, and runs off 2  E.L. to get them.  While she is off HUMPTY 
+comes on with two bricks from 5 E.L.--runs into BURLESQUE--is terribly frightened--drops bricks and shivers off 5 E.L.  GOODY comes on with the shoes 
+TOMMY gave her--gives them to BURLESQUE, who takes them and speaks:
+</ab>
+<lg>
+<l>I like the shoes--they&#39;re worth ten loaves of bread;</l>
+<l>Would I something had to give in stead</l>
+</lg>
+<stage>BURLESQUE here takes off domino, and it is pulled in 3 E.R.  She waves her hand to 1 E.L. (Music flourish.)  
+RED GLARE, the Demon, enters from 1 E.L. The business of the Demon here is to come on with a head spring--form a 
+picture in front of BURLESQUE--foot back--hand her a pair of golden shoes--do a flip-flap and a back--point and off 
+1 E.L.  But if the person playing RED GLARE is not a tumbler he merely runs on, does a foot back, hands the shoes, 
+makes a salam and trips off 1 E.L.  BURLESQUE takes the shoes, and when RED GLARE is off she hands them to GOODY and speaks.</stage>
+<sp><speaker>Burlesque</speaker>
+<lg>
+<l>In place of your kids take these</l>
+<l>Wrought with Etruscan gold beyond the seas;</l>
+<l>Their magic power will protect you--have no fear;</l>
+<l>I trust I may be with you to aid and cheer. <stage>[Exit 3 E.R.</stage></l>
+</lg>
+</sp>
+<ab>
+GOODY takes shoes--runs down to foot-lights--kisses them, and is eoverjoyed--runs off 1 E.L.
+HUMPTY comes on from 5 E.L.--he feels very brave--shakes his fist off 3 E.L.--walks circling 
+towards 3 E.l. with his thumbs under his arms.  As he gets within eight or ten feet of 1 E.L. 
+the thunder rattles and RED GLARE enters from 
+1 E.L.--he does a head spring, or a roll over, and comes up in front of HUMPTY--stands a second or two--
+does a standing twister, and runs off 1 E.L.  HUMPTY shakes and shivers to the cottage, opens 
+the door, drags OLD ONE TWO out, throws him down in R. corner, falls on his knees C., near the foot-lights, 
+and begins to say prayers, moving his lips very fast, with his back to 1 E.L.  GOODY runs on from 1 E.L. 
+with the golden shoes--slaps HUMPTY on the back--he thinks it is the devil--shivers--tells ONE TWO to &quot;look 
+there is the devil&quot;--at the same time he is afraid to turn his head to look.  ONE TWO laughs and tells 
+HUMPTY his head is cracked.  HUMPTY turns slowly around--sees GOODY, laughs, gets up, sees the golden shoes, 
+and wants them.  GOODY says &quot;No.&quot;  ONE TWO spins HUMPTY down to R. hand corner--
+goes to GOODY, sees shoes, is pleased that she is rich, embraces her and takes her in cottage.  HUMPTY 
+goes to follow, when ONE TWO comes out and pushes him back, and tells him he must sleep in pig-pen, it is good enough 
+for him--goes in cottage and slams door in HUMPTY&#39;s face.  Poor HUMPTY don&#39;t know what to do--goes over to pen, 
+looks over in it, puts his foot in--pig bites it--he hollers, and pulls his foot out--thinks he will try 
+and sleep on the wall--ywans and climbs up on wall--sits there stretching and gaping, when TOMMY enters from 1 E.R., runs to 
+cottage, and claps his hands three times.  GOODY looks out of window, and TOMMY says, &quot;I&#39;ll get you a ladder, put it up 
+to cottage window.  GOODY gets out of window, comes down the ladder and runs off with TOMMY 1 E.R.  ONE TWO puts 
+his head out of window just as they disappear.  HUMPTY claps his hands, is excited, and jumps down on stage--
+runs over to ladder and carries it away just as ONE TWO is stepping on the first rung--he takes it off 
+1 E.L.--comes back, goes to get up on wall again, when he falls in the pig-pen.  OLD ONE TWO falls down on 
+stage and runs over to pig-pen.  HUMPTY hands out little pig to ONE, TWO, who takes it and tries to keep it 
+still.  HUMPTY falls out of hole in front of the pig-pen on his back on the stage, when the old pig&#39;s head comes out 
+of the hole and gives him two or three sharp bites on his leg.  He hollers, gets up, rubs his leg and takes little 
+pig from ONE TWO.  TOMMY and GOODY run across stage, hand in hand, from 1 E.R. and off 1 E.L. 
+ONE TWO follows, and HUMPTY with the pig follows him.  TOMMY and GOODY run across again from 2 E.L. to 
+1 E.R.--HUMPTY and  ONE TWO follow.  As HUMPTY is on L. he changes live pig for little dummy trick pig 
+that stretches out.  Away they go across the stage after TOMMY and GOODY, HUMPTY with the trick pig 
+under his left arm, and as they get in centre of stage ONE TWO takes hold of hind quarters of the pig and 
+pulls apart or stretches out three or four feet, and ONE TWO falls.  HUMPTY runs off, dragging 
+trick pig, 1 E.R.  ONE TWO gets up quick and follows him 1 E.R.  GOODY and TOMMY run on again from 1 E.R. and 
+run up to cottage and turn.  HUMPTY runs on from 1 E.R. and runs to catch TOMMY, who runs under his arm.  
+HUMPTY grabs GOODY and throws her down in L. corner front, and stands in a threatening manner.  ONE 
+TWO runs on from 1 E.R., grabs TOMMY, throws him down in R. hand corner, and stands threatening.  While they 
+are in these positions <stage>(picture)</stage> BURLESQUE enters from 4 E.R., comes down to C., 
+puts her hand out and says, &quot;Forbear!&quot; <stage>(music stops)</stage>  They all turn and face her except 
+HUMPTY, who says <stage>(speaks)</stage> &quot;Where is the bear?&quot;  He back up against BURLESQUE--is frightened--
+turns, sees her, bows, kisses his hand to her, and says <stage>(speaks)</stage> &quot;Aint she pretty?&quot;</ab>
+<sp><speaker>Burlesque</speaker> <stage>(speaks)</stage>
+<lg>
+<l>Rash mortals, halt!</l>
+<l>I&#39;m come to punish each one for his fault,</l>
+<l>While others I reward.</l>
+<l>You, my young friends, some other day</l>
+<l>I&#39;ll have another part for you to play.</l>
+</lg>
+</sp>
+<stage>This last speech is made to GOODY and TOMMY, who at the end of speech go off, 
+GOODY 1 E.R., and TOMMY 1 E.L.  Change as soon as they get off and be ready to come on 
+as COLUMBINE and HARLEQUIN at once</stage>
+<ab>HUMPTY goes to BURLESQUE and speaks, &quot;I don&#39;t want to play any more.&quot;  She stamps her 
+foot at him--then turning R. she speaks to ONE TWO</ab>
+<sp>
+<lg>
+<l>Now, Old One Two, base, false and cruel</l>
+<l>The time has come for drinking your own gruel</l>
+<l>Too long on human misery and sorrow</l>
+<l>You have fattened, ne&#39;er thinking of tomorrow.</l>
+<l>Shipwreck&#39;dat length, tho&#39; long you&#39;ve &#39;scraped the shoals.</l>
+<l>Know that henceforth your name&#39;s struck from the rolls.</l>
+</lg>
+</sp>
+<ab>During this speech ONE TWO gets on his knees to BURLESQUE bows his head 
+and puts up his hands as if in prayer, and speaks,
+&quot;Mercy, mercy!&quot;  HUMPTY comes down between them and motions 
+BURLESQUE to move--she goes a few steps towards 2 E.L. and HUMPTY takes a comical position in front 
+of ONE TWO--pulls his clown hat over his eys, taps ONE TWO on the head, who looks up, 
+and says to him, &quot;No mercy,&quot; and walks very tragically towards 1 E.L.  ONE TWO gets up, and 
+BURLESQUE goes to C. and points to 
+him to go.  ONE TWO looks at her sorrowfully, says &quot;Bah!&quot; snap his fingers, 
+and walks off 1 E.R., and gets ready to change.  She then turns to HUMPTY and points to 1 E.L., 
+meaning to him to go--he looks off entrance and motions to some imaginary person to move on--then he turns to BURLESQUE 
+and bows--she repeats and points--HUMPTY thinks she is pointing to his hat--takes it off 
+and puts it on her arm or hand as she is holding it out and pointing--she throws his hat down on stage--
+he picks it up, brushes it and makes faces at her--she repeats the pointing and stamps her foot.
+He begins to comprehend and pantomimes to her, &quot;Do you want me to go off there?&quot;--
+she says &quot;Yes,&quot;--he says &quot;oh!&quot;--puts his hands in his pockets and walks towards 1 E.L., 
+hits his nose on the proscenium, and backs off bowing, 1 E.L.  BURLESQUE goes C. and continues 
+her speech.</ab>
+<sp>
+<lg>
+<l>You, Goody Two Shoes and Tommy Tucker, shall these outshine,</l>
+<l>So change to dazzling Harlequin and graceful Columbine.</l>
+</lg>
+</sp>
+<ab>
+Orchestra plays about eight bars of lively music, when both dance on, one 
+from R. and the other from L.  At end of music each do a foot back at the side 
+of BURLESQUE, changed from TOMMY TUCKER to HARLEQUIN and from GOODY TWO SHOES to 
+COLUMBINE.  BURLESQUE hands bat to HARLEQUIN and says--
+</ab>
+<sp>
+<lg>
+<l>Take this bat, &#39;twill be your guard--</l>
+<l>Let prudence guide and joy be your reward.</l>
+</lg>
+</sp>
+<ab>HARLEQUIN takes bat, and bows to BURLESQUE, and COLUMBINE 
+and HARLEQUIN take hands and go up to extreme back of stage, C., 
+and assume different positions and pictures.</ab>
+<ab>ONE ONE TWO comes on from 1 E.R. and leans against proscenium 
+(some one stands ready at cue to pull strings and pull off and in 
+strip-dress),--when he is in position BURLESQUE speaks--
+</ab>
+<sp>
+<lg>
+<l>Now, Old One Two, I&#39;ll change you soon</l>
+<l>To hobbling Old Pantaloon</l>
+</lg>
+</sp>
+<ab>
+Eight bars of old-man music and ONE TWO strips and changes to PANTALOON.  He twists 
+each joint--takes out snuff-box--takes a pinch--walks stiff and bent to foot-lights, and as last 
+bar of music plays, sneezes--walks to BURLESQUE and bows--then goes and stands by wing 1 E.R.  
+HUMPTY sneaks out without his hat and stands with back against proscenium <stage>(some one 
+ready to pull his strings from 1 E. out of sight of audience)</stage>--he looks down to stage very 
+despondent.  BURLESQUE says--
+</ab>
+<sp>
+<lg>
+<l>Now, Humpty Dumpty, don&#39;t look down</l>
+<l>And I&#39;ll change you to a merry clown</l>
+</lg>
+</sp>
+<ab>
+Eight bars of lively music--HUMPTY changes to a clown--does a few comic steps 
+or a few tumbling tricks to fill out music, and rubs up against wing, 1 E.L. 
+and says at conclusion of music, &quot;Oh!  beeswax!&quot;--is delighted with his dress, pockets, etc.,
+and goes to BURLESQUE, bows his thanks, and stands by wing, 1 E.L.  BURLESQUE speaks--
+</ab>
+<sp>
+<lg>
+<l>Our work accomplished, and our labor done,</l>
+<l>There yet remains a life not yet begun;</l>
+<l>A life of laughter, fun and good cheer</l>
+<l>We all delight to live out once a year.</l>
+<l>So now away and begin your capers</l>
+<l>And win your spurs in to-morrow&#39;s papers.</l>
+<l>A happy night to all, and now farewell!</l>
+<l>And may another year find all here well.</l>
+</lg>
+</sp>
+<stage>BURLESQUE exits 1 E.R.--Lively music and what is called the &quot;Rally&quot; now takes 
+place.</stage>
+<ab>
+CLOWN and PANTALOON face each other--put their hands on their 
+knees--point at each other--run together C.--shake both hands--
+give each other one, two three slaps quick--turn up stage facing--
+HARLEQUIN and COLUMBINE point to them--run up stage to catch 
+them--they run under CLOWN and PANTALOON&#39;s arms down to foot-lights--turn and 
+repeat the same, leaving CLOWN and PANTALOON at foot-lights.  They all run to centre--take hands, 
+pull out and go around, making a ring--once around each way.  HARLEQUIN and 
+COLUMBINE break hands, which leaves all four in a line back of stage--
+COLUMBINE L. of CLOWN, HARLEQUIN R. of PANTALOON.  COLUMBINE gives CLOWN a slap--
+HARLEQUIN gives PANTALOON a slap--CLOWN gets on PANTALOON&#39;s shoulders in centre, 
+HARLEQUIN and COLUMBINE on each side in graceful positions.  RED GLARE, the 
+demon or sprite, comes on with a row of flip-flaps, and does a split in 
+front of CLOWN and PANTALOON, which forms the TABLEAU--a couple of pans of red 
+fire on each side.  Curtain falls slowly on HUMPTY DUMPTY.</ab>
+
+</div>
+</body>
+</text></TEI>

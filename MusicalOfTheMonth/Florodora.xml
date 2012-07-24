@@ -1,0 +1,4173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="drama.xsl"?>
+<!DOCTYPE TEI SYSTEM "tei_drama.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Florodora</title>
+</titleStmt>
+<publicationStmt>
+ <publisher>New York Public Library for the Performing Arts</publisher>
+ <pubPlace>New York City</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title>Florodora</title>
+<author>Owen Hall</author>
+<author>E. Boyd Jones</author>
+<author>Paul Rubens</author>
+<date>1900</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<front>
+<titlePage>
+<titlePart>
+<title>
+Florodora
+</title>
+</titlePart>
+<lb/>
+<docAuthor>
+Book by Owen Hall,<lb/>
+Lyrics by E. Boyd Jones and Paul Rubens<lb/>
+Music by LESLIE STUART<lb/>
+<note>
+Produced 10 November 1900 at the Casino Theater in New York<lb/>
+</note>
+</docAuthor>
+<pb/>
+</titlePage>
+<castList>
+<head>FLORODORA</head>
+<head>CAST OF CHARACTERS</head>
+<castItem>
+CYRUS W. GILFAIN:  Proprietor of the Island and of the 
+				  world-renowned Florodora</castItem><lb/>
+<castItem>
+FRANK ABERCOED:   Confidential clerk to Gilfain, and 
+				manager of the whole business on the 
+				Island.</castItem><lb/>
+<castItem>
+LEANDRO: 		Overseer of the farm</castItem><lb/>
+<castGroup>
+<castItem>ERNEST PYM		   }</castItem><lb/>
+<castItem>REGINALD LANGDALE  }</castItem><lb/>
+<castItem>TENNYSON SYMS      }	Clerks of Gilfain's.</castItem><lb/>
+<castItem>FRANK AEFELBAUM   }  </castItem><lb/>
+<castItem>JOHN SCOTT		   }</castItem><lb/>
+<castItem>WILLIAM GROGAN     }</castItem><lb/>
+</castGroup>
+<castItem>
+CAPTAIN ARTHUR DONEGAL:  Of the 4th Royal LIfe Guards.
+					     Lady Holyrood's brother.
+</castItem><lb/><castItem>
+ANTHONY TWEEDLEPUNCH:	Showman, hypnotist, palmist and
+						phrenologist.
+</castItem><lb/><castItem>
+DOLORES:				A girl on Gilfain's farm.
+</castItem><lb/><castItem>
+ANGELA GILFAIN
+</castItem><lb/><castItem>
+LADY HOLYROOD:			A widow, Arthur Donegal's sister.
+</castItem><lb/><castGroup>
+<castItem>CALISTA		}</castItem><lb/>
+<castItem>JOSE		}</castItem><lb/>
+<castItem>INEZ		}			Spanish Girls, Heads of the various farms,</castItem>
+<castItem>JUANITA		}			</castItem><lb/>
+<castItem>VIOLANTHE	}</castItem><lb/>
+<castItem>VALLEDA		}</castItem><lb/>
+</castGroup>
+<castGroup>
+<castItem>JOSIE LING			}</castItem><lb/>
+<castItem>MAMIE ROWE			}</castItem><lb/>
+<castItem>DAISY CHAIN			}	English Girls, friends of Angela's.</castItem><lb/>
+<castItem>LOTTA CHALMERS		}</castItem><lb/>
+<castItem>CYNTHIA BELMONT		}</castItem><lb/>
+<castItem>CLAIRE FITZCLARENCE	}</castItem><lb/>
+</castGroup>
+<castGroup>
+<castItem>Spanish Bred Farm Laborers, </castItem><castItem>Flower Girls,</castItem><castItem> Porters,</castItem><lb/>
+<castItem>And A Couple of Negroes.</castItem><lb/>
+</castGroup>
+</castList>
+</front>
+<body>
+<pb/>
+<div type="Act" n="1">
+<div type="Scene" n="1">
+<stage>ACT I</stage>
+<stage><p>SCENE:	A small Island of the Phillippine
+		group.  Down stage R. are the offices
+		and warehouses of Cyrus Gilfain,
+		manufacturer of Florodora, a famous
+		perfume.  His private laboratory is
+		down stage L.  Rear drop shows a 
+		flower farm with hydrangea blossoms
+		palms, etc.
+		</p>
+		<p>
+		There is also the open sea and a small
+		creek or a landing stake from which a 
+		boat can get away.
+	</p>
+	<p>
+DISCOVERED:  Farm Attendants, engaged in packing 
+			 blossoms into big baskets.  They are
+			 packing cases at the side with the 
+			 name of "Florodora, Cyrus Gilfain,
+			 Proprietor" printed on.  Gilfain's
+			 name is also on the door of his 
+			 laboratory
+		</p>
+		</stage>
+		<stage>
+		OPENING CHORUS
+	</stage>
+	<sp><lg>
+<l>	Flowers a-bloomish so gay</l>
+<l>		Roses on every tree</l>
+<l>	Sweetest words that lovers can say</l>
+<l>		Fair as the whispering sea.</l>
+<l>	Roses softly blooming</l>
+<l>	to your sweet perfuming</l>
+<l>		Say goodbye.</l>
+<l>	Fragrance distilling</l>
+<l>	Willing or unwilling</l>
+<l>		Ye must die.</l>
+	</lg><lg>
+<l>	So should we maidens, too
+</l>
+<l>		Heed the hours, that fly away, away
+</l>
+<l>	For a flower or maid, 'tis true
+</l>
+<l>		That life alas is but a day.
+</l>
+<l>	So should we maidens, too
+</l>
+<l>		Heed the hours that fly away, away
+</l>
+<l>	For a flower or maid tis true
+</l>
+<l>		That life, alas, is but a day.
+</l>
+	</lg><lg>	
+<l>	And through the day
+</l>
+<l>	'Tis thus we wander dreaming, dreaming
+</l>
+<l>	Mid the flowers
+</l>
+<l>	With visions soaring widely, widely
+</l>
+<l>	To that Fairy Land</l>
+	<pb/>
+		<l>That only maidens discover</l>
+	<l>Wandering hand in hand.</l>
+		<l>With Cupid for lover.</l>
+	</lg>
+	</sp>
+	<stage>
+	<stage>(Enter SPANISH GIRLS)</stage>
+	</stage>
+	<sp>
+<lg>
+<l>	Flora, Florodora
+</l>
+<l>		Of all perfumes divine
+</l>
+<l>	As Goddess we adore her
+</l>
+<l>		In her flowery shrine
+</l>
+<l>	Her gifts on our Island bestowing
+</l>
+<l>	There lies in each flower gaily blowing
+</l>
+<l>		A fortune ne'er ending
+</l>
+<l>		To maids that are tending
+</l>
+<l>	The shrine of our Saint Florodora.
+</l>
+<l>		Of all perfumes divine
+</l>
+<l>		As Goddess we adore her
+</l>
+<l>		In her flowery shrine
+</l>
+<l>	Her gifts on our Island bestowing
+</l>
+<l>	There lies in each flower gaily blowing
+</l>
+<l>		A fortune ne'er ending
+</l>
+<l>		To maids that are tending
+</l>
+<l>	The shrine of our Saint Florodora.</l>
+</lg><lg>	
+<l>	So dance once again</l>
+<l>		The gay Caballero</l>
+<l>	And sing a bolero refrain</l>
+<l>	And sing a bolero, bolero refrain.</l>
+<l>	Dance Caballero again,</l>
+<l>		Gay castanetting</l>
+<l>		To lovers coquetting</l>
+<l>	So sing a bolero and dance caballero again</l>
+	</lg>
+	<lg>
+<l>	So should we maidens too,</l>
+<l>		Heed the hours that fly away,</l>
+<l>	For a flower or maid 'tis true,</l>
+<l>		That life alas is but a day,</l>
+<l>	Florodora, Florodora.</l>
+<l>		With a gay castanet dance before her,</l>
+<l>	Flora, Dora, Flora, Dora,</l>
+<l>		As a Goddess or a Queen we adore her,</l>
+<l>			Cabellero.</l>
+<l>		Sing Bolero, sing bolero,</l>
+<l>			Sing a bolero, dance Caballero again.</l>
+		</lg>
+		</sp>	
+		<stage>
+			(Chorus finishes, enter LEANDRO, L.U.E. Spanish 
+			Girls come forward and chorus)</stage>
+			<pb/>
+			<sp><speaker>Leandro</speaker>
+		<stage>(C.)</stage>
+	<p>You're very troublesome, you girls.  Just the very day that 
+	Mr. Gilfain's arriving from his trip to England you're all
+	late.  What's the excuse for this?</p></sp>
+		<stage>(Girls laugh)</stage>
+			<sp><speaker>Inez</speaker><p>We take longer when we expect such a distinguished visitor.</p></sp>
+			<sp><speaker>Valleda</speaker><p>I had a couple inches off my skirt.  Late time Mr. Gilfain
+	was here he told me he liked to see my pretty ankles.</p></sp>
+			<sp><speaker>Leandro</speaker>
+		<stage>(Smokes cigarette)</stage>
+	<p>I guess you like to please him that way, in any extent.  But
+	he's not coming to an anatomical museum.  The world, is waiting
+	 for this season's supply of Florodora, our great perfume.
+	 We must see that they get it.  Don't chatter to the clerks - 
+	 but get to business.</p></sp>
+	 	<stage>(Goes right during the following number)</stage>	 	
+	 	<stage>(Enter PYM, LANG, SIMS, AEPFEL, SCOTT, and GROGAN
+	 	R.3.E.)</stage>
+	 		 <sp><speaker>Pym</speaker>
+	 	<stage>(To Leandro)</stage>
+	<p>Well, Leandro, is everything in order for Mr. Gilfain?</p></sp> 	
+	 		 <sp><speaker>Leandro</speaker>
+	 	<stage>(Xes R. to C.)</stage>
+	<p>Everything in my department.  I can't answer for the office
+	 work.</p></sp>	 
+	 		<sp><speaker>Pym</speaker><p>Who asked you to?  We attend to that.</p></sp>
+	 		<sp><speaker>Leandro</speaker><p>You?  You mean Mr. Abercoed attends to it.</p></sp>
+	 		<sp><speaker>Pym</speaker>
+	 	<stage>(Good humoredly)</stage>
+	 <p>Well he represents Mr. Gilfain, so we do our duty to our
+	 employer when we obey Abercoed.</p></sp>
+	 	<stage>(Turns a little up stage L.)</stage>
+	 	<stage>(Enter ABERCOED L.U.E)</stage>
+	 	<pb/>
+		<sp>	<speaker>Abercoed</speaker>
+		<stage>(Goes C.)</stage>
+	<p>Well, boys, is everything all right in the office?</p></sp>
+			<sp><speaker>Pym</speaker><p>Yes sir.  There's a splendid crop of blossoms and a capital
+	crop of orders too.</p></sp>
+			<sp><speaker>Abercoed</speaker><p>And Mr. Gilfain will find everything ready for him.  He can 
+	prepare the essence of Florodora the minute he arrives.</p></sp>
+			<sp><speaker>Clerks</speaker><p>Can we go now --</p></sp>
+			<sp><speaker>Abercoed</speaker><p>You may go now...</p></sp>
+		<stage>(Pym, Sims, Lang and Aelfel and clerks exit R. in 
+		office)</stage>
+			<sp><speaker>Leandro</speaker>
+		<stage>(Xing to L.)</stage>
+	<p>I wish I could find out how he makes Florodora.</p></sp>
+			<sp><speaker>Abercoed</speaker><p>None of that.  The secret of preparing Florodora is Mr.
+	Gilfain's own.  To try to find out is to try to rob him.
+	Have you anything to say to me --</p></sp>
+			<sp><speaker>Leandro</speaker><p>Yes I have.  One of the farm girls neglects her work.</p></sp>
+			<sp><speaker>Abercoed</speaker>
+		<stage>(Watching him carefully)</stage>	
+	<p>Which one?</p></sp>
+			<sp><speaker>Leandro</speaker><p>The one all of you spoil of course.</p></sp>
+			<sp><speaker>Abercoed</speaker>
+		<stage>(Aside)</stage>
+	<p>Dolores.</p></sp>
+			<sp><speaker>Leandro</speaker><p>First of all Mr. Gilfain says she is not to do more work than 
+	she likes.  Then she does none at all and he doubles her wages.
+	There's some mystery about that girl.</p></sp>
+			<sp><speaker>Abercoed</speaker><p>Mystery, nonsense.  Mr. Gilfain likes her as we all do, and
+	wants to be kind to her, besides what is it you anyway?</p></sp>
+			<sp><speaker>Leandro</speaker><p>Everything.  She is idle and careless, she sets a bad example.
+	I can't maintain discipline.</p></sp>
+		<stage>(Symphony of Dolores' Song commences)</stage>
+			<sp><speaker>Abercoed</speaker><p>Send the girl to me, I'll talk to her.</p>
+		<stage>(Leandro exits R.U.E)</stage>
+	<p>I can't allow Leandro to lord it over her.</p></sp>
+		<stage>(DOLORES voice is heard off stage -- singing)</stage>
+		<stage>(Abercoed exits R.2.E.)</stage>
+		<stage>(After song, Dolores goes up L.C.  ABERCOED enters 
+		from R.2.)</stage>
+			<sp><speaker>Abercoed</speaker><p>Ah Dolores come here.
+		<stage>(E.C.)</stage>
+	Leandro has been complaining about you.  He says that you
+	don't attend to your work.</p></sp>
+			<sp><speaker>Dolores</speaker>
+		<stage>(L.C.)</stage>
+	<p>Of course I don't - I hate work.  But don't you be angry with 
+	me.  Mr. Gilfain never is.</p></sp>
+			<sp><speaker>Abercoed</speaker><p>And he's the master.  So we must all spoil you like he does, 
+	I suppose, and follow his lead.</p></sp>
+			<sp><speaker>Dolores</speaker>
+		<stage>(Xes to L. toying with a flower and drops it)</stage>
+	<p>Is it difficult to follow that lead?</p></sp>
+			<sp><speaker>Abercoed</speaker>
+		<stage>(Following her a little)</stage>
+	<p>It is difficult not to follow it.</p></sp>
+		<stage>(Picks up flower)</stage>
+			<sp><speaker>Dolores</speaker><p>
+	A man can always get over a little difficulty like that, if 
+	he wants to.
+	</p>
+	</sp><pb/>
+			<sp><speaker>Abercoed</speaker><p>No, not always  -- there may be reasons why he must not - why
+	he dare not.
+	</p></sp>
+			<sp><speaker>Dolores</speaker>
+		<stage>(Goes to him)</stage>
+	<p>And have you any such reasons.</p></sp>
+			<sp><speaker>Abercoed</speaker><p>Yes -- one.</p></sp>
+			<sp><speaker>Dolores</speaker><p>I guess it.  You've married already.</p>
+		<stage>(Goes L.C.)</stage>
+	<p>Most foreigners have wives in their own country.  That's why
+	they come abroad.</p></sp>
+		<stage>(Xes R.)</stage>
+	<sp><speaker>Abercoed</speaker><p>No, you are wrong, Dolores.  I left my country, quarreled with
+	my own people, because I wouldn't marry.</p></sp>
+		<sp><speaker>Dolores</speaker>
+		<stage>(Xes to)</stage>
+	<p>Yes, you.
+		<stage>(Comes down)</stage>
+			</p></sp><sp><speaker>Abercoed</speaker><p>
+	Because I wouldn't marry a woman I didn't love.
+		<stage>(Xes to L.C.)</stage>
+			</p></sp>
+			<sp><speaker>Dolores</speaker>
+		<stage>(Xes to R.C.)</stage>
+	<p>I like you for that.  And you will only marry a woman you 
+	really love?
+			</p></sp><sp><speaker>Abercoed</speaker><p>
+	Marry?  I mustn't marry - at least, not yet.
+			</p></sp><sp><speaker>Dolores</speaker><p>
+	Well, if you mustn't marry, that needn't prevent you being 
+	in love.
+			</p></sp><sp><speaker>Abercoed</speaker><p>
+	No, and Dolores, perhaps I'm in love.
+			</p></sp><sp><speaker>Dolores</speaker><p>
+		<stage>(Expectantly)</stage>
+	With me -- are you in love with me.
+	<pb/>
+			</p></sp><sp><speaker>Abercoed</speaker><p>
+	Well I mustn't say with whom, but I am in love with somebody.
+	Some day I may be free, and I promise to tell you all about 
+	it then.
+			</p></sp><sp><speaker>Dolores</speaker><p>
+	I shall remember that promise.
+			</p></sp><sp><speaker>Abercoed</speaker><p>
+	And I will seal it.</p>
+		<stage>(Kisses her)</stage>
+		</sp>
+			<stage>DUET -- DOLORES AND ABERCOED</stage>
+					<stage>"SOMEBODY"</stage>
+					<sp><speaker>Dolores</speaker><lg>
+<l>	If you're in love with somebody,</l>
+<l>	Happy and lucky somebody,</l>
+<l>	Tell me, I pray, her name and say,</l>
+<l>	Where did you meet her?  What was the day,</l>
+<l>	When you met this somebody.</l>
+					</lg></sp><sp><speaker>Abercoed</speaker><lg>
+<l>	To somebody, why should I tell the day?</l>
+<l>	Well, give this kiss to somebody,</l>
+<l>	There's none in the [world like she]</l>
+<l>	On land, and sea, where'er I be,</l>
+<l>	My heart will be here, just here,</l>
+<l>	With somebody?</l>
+	</lg>
+					</sp><sp><speaker>Dolores</speaker><p>
+	Ah! -- with somebody
+					</p></sp><sp><speaker>Abercoed</speaker><lg>
+<l>	Ah!</l></lg><lg>
+<l>			It is for you to tell, my lady,</l>
+<l>			And since you know her well, my lady,</l>
+<l>			You are the image of somebody,</l>
+<l>	Yes you are the image of somebody, somebody,</l>
+<l>	Ah! -- my lady, ah! - my lady,</l>
+<l>	You're the image of somebody, of somebody,</l>
+<l>	Yes of somebody, somebody!</l>
+	</lg>
+					</sp><sp><speaker>Dolores</speaker>
+<lg>
+<l>	It is for me to tell this lady,</l>
+<l>	And since I know her well this lady</l>
+<l>	I am the image of somebody, of somebody,</l>
+<l>	I am the image of somebody.</l>
+	</lg>
+	</sp><pb/>
+					<sp><speaker>Abercoed</speaker><lg>
+<l>	Who'd be king.  Not, I, not I.</l>
+<l>	If I must part with somebody.</l>
+<l>	Pleasure and pride on a throne, goodbye.</l>
+<l>	 To pleasure and pride I'd say goodbye,</l>
+<l>	To remain with somebody.</l>
+					</lg></sp><sp><speaker>Dolores</speaker><lg>
+<l>	To somebody why should you say goodbye,</l>
+<l>	If you should fly away, away</l>
+<l>	Then what would become of somebody?</l>
+<l>	While you can stay, come then what may,</l>
+<l>	Yes, heaven to somebody.</l></lg>
+					</sp><sp><speaker>Dolores</speaker>
+	<l>Ah --</l>
+					</sp><sp><speaker>Abercoed</speaker>
+	<l>Ah ---- to somebody.</l>
+	<lg> 
+<l>	It is for you to tell, my lady,</l>
+<l>	And since you know her well my lady,</l>
+<l>	You are the image of somebody,</l>
+<l>	Ah -- my lady -- ah my lady,</l>
+<l>	You are the image od somebody, of somebody,</l>
+<l>	Yes of somebody, somebody,</l>
+<l>	I love somebody, somebody.</l>
+<l>	On land, or sea, where'er I be --</l>
+<l>	I love this somebody, and,</l>
+	<l>This somebody loves me well.</l>
+	</lg>
+					</sp><sp><speaker>Dolores</speaker><lg>
+<l>	It is for me to tell this lady,</l>
+<l>	And since I know her well, this lady,</l>
+<l>	I am the image of somebody, of somebody,</l>
+<l>	I am the image of somebody,</l>
+<l>	Ah -- ah, ah, you love this somebody,</l>
+<l>	And this somebody loves you well --</l>
+	</lg>
+		<stage>(Abercoed kisses her.  Dolores runs off L.1.E.
+		Abercoed runs off R.2.E. after picking up flower)</stage>
+		<stage>(At end of Duet enter Spanish Girls R.U.E. Come
+		down L.C.)</stage>
+		<stage>(Noise heard off L.U.E.  Enter TWEEDLEPUNCH down C.
+		and others up on stand.  Hurry music and murmurs off -
+		and from R.U.E.)</stage>
+		<pb/>
+		<stage>(Tweedlepunch followed by LEANDRO who has knife.
+		Tweedlepunch has bags, and phrenological chart and
+		dummy head.  Tweedlepunch runs on and finally climbs
+		up on shed R. after looking off L.I.E)</stage>
+		<stage> (The idea to be conveyed being that he has been 
+		chased by Leandro, and is in fear of violence)</stage>
+					</sp><sp><speaker>Leandro</speaker><p>
+		Ah Caramba.
+			<stage>(Knife Bus.)</stage>
+		Come down from there.
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Is there anything about my appearance that suggests that I
+		am a damned fool?
+			<stage>(Leandro rushes at him - knife bus.)</stage>
+		If you come any nearer I'll scream.
+					</p></sp><sp><speaker>Leandro</speaker><p>
+		What are you doing on this island?
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Trying to avoid being punctured.
+			<stage>(Leandro picks up phrenological dummy head and after
+			looking at it throws it down saying disgustedly)</stage>
+		Bah, Oh I say don't throw anything about like that.
+					</p></sp><sp><speaker>Leandro</speaker><p>
+		I will.  I'll fix it!
+			<stage>(Kicks the head and hurts his foot)</stage>
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Serves you right - that's my head you're kicking.
+					</p></sp><sp><speaker>Leandro</speaker><p>
+		Your head?
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Yes - I lost it in the excitement when you were giving me 
+		such a warm - welcome to your dinky old island.
+					</p></sp><sp><speaker>Leandro</speaker><p>
+		Ah.  I'll give you a warmer one.
+				<stage>(with knife bus.)</stage>
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Look out, look out.
+				<stage>(After climbing still further up on shed)</stage>
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		I have a revolver.
+			<stage>(Threateningly)</stage>
+					</p></sp><sp><speaker>Leandro</speaker><p>
+		No.
+			<stage>(Making another pass at him with knife)</stage>
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		In my satchel.
+			<stage>(Pointing to satchel)</stage>
+		Hand up my satchel.
+					</p></sp><sp><speaker>Leandro</speaker><p>
+		Who are you and what are you doing here?
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		I am Anthony Tweedlepunch, phrenologist, palmist, and wholesale
+		Scientist from the Royal Aquarium, London.  My photograph-
+			<stage>(Throws it to him)</stage>
+					</p></sp><sp><speaker>Leandro</speaker><p>
+		No strangers are allowed on the Island of Florodora.
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		I was not aware of that.  If you will kindly send some gentlemanly 
+		person to talk to me, I will be charmed to dispense 
+		with your society.
+					</p></sp><sp><speaker>Leandro</speaker><p>
+				<stage>(Kicks bag)</stage>
+		Ah Caramba.
+				<stage>(Bus. with knife)</stage>
+		I'll go and find Mr. Abercoed.  He'll attend to you in short
+		order.  Ah.
+				<stage>(Bus. with knife and exit Leandro R. through shed)</stage>
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Isn't he abrupt.</p>
+				<stage>(Bus. of trying to look off under shed from his perch
+				on roof.)</stage>
+		<p>I hope Abercoed isn't another ruffian with a carver.</p></sp>
+				<stage>(Starts to clamber down from shed and upon hearing girls
+				laugh, clambers back again)</stage>
+				<stage>(Enter JUANITA, INEZ, VALLEDA, etc. L.U.E.)</stage>
+					<sp><speaker>Tweedlepunch</speaker><p>
+		Ah ladies ---
+				<stage>(Girls seeing him, scream)</stage>
+				<pb/>
+		Don't do that, I'm not a bogy man.
+				<stage>(Climbing down from shed and pausing to look off
+				under shed where Leandro went off before dropping 
+				to stage.)</stage>
+					</p></sp><sp><speaker>Inez</speaker><p>
+		Perhaps he's a burgelaar.
+					</p></sp><sp><speaker>Valleda</speaker><p>
+		Let us go and call Leandro.
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		If Leandro is the gentleman with the knife, I have met him
+		and he endeavored to cut me.
+					</p></sp><sp><speaker>Inez</speaker><p>
+		Who might you be.
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		I am Anthony Tweedlepunch, phrenologist, etcetra, etcetra.
+		My photograph.
+			<stage>(Hand card.)</stage>
+			<stage>(Pick up damaged dummy head.  Recovers baggage and 
+			place it with dummy head R.)</stage>
+					</p></sp><sp><speaker>Valleda</speaker><p>
+		You are a palmist also, the card says - 
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Yes, - I can read your palm, and tell you anything you 
+		wish to know for a shilling - for two shillings I tell you 
+		a great deal that never happened.  Let me see your palm.
+			<stage>(Bus. of reading palm)</stage>
+		You don't use pearl's soap?  Your mother was a married
+		woman.  You are a flirt and are inclined to transfer your 
+		affections at the slightest provocation.
+					</p></sp><sp><speaker>Valleda</speaker><p>
+		Transfer my affections - how do you know?
+					</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		By the number of cross lines running off your main line.
+		You are rather careless of your clothes - your clothes 
+		line is full of knots.
+					</p></sp><sp><speaker>Valleda</speaker><p>
+		I think you are a fraud.
+			<stage>(Girls walk up stage -- laugh)</stage>
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		If I am - it is my business.</p>
+			<stage>(To Calista)</stage>
+		<p>Here just one moment, please.  Do you know I have taken
+		quite a fancy to you?</p></sp>
+				<sp><speaker>Calista</speaker><p>Have you?
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Yes.  I should like to cement our friendship with some little
+		token.  If you will permit me.  Let me see --
+			<stage>(Hands in pocket)</stage>
+		What have I.  Ah, my pocket knife.  Do you know I have carried 
+		that knife for ten years?  Will you accept it?
+				</p></sp>	<sp><speaker>Calista</speaker><p>
+		Oh thank you very much.
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		You are not superstitious if you are we won't make it a 
+		present just give me some little thing in exchange.  Anything 
+		will do, it does not matter the amount.
+				</p></sp>	<sp><speaker>Calista</speaker><p>
+		Yes but I haven't anything less than a dollar.
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+			<stage>(Takes it quickly)</stage>
+		That will do.  A dollar will break the hoodoo
+			<stage>(Aside)</stage>
+		That's pretty good.  They only cost me fifty cents a dozen.
+				</p></sp><sp><speaker>Inez</speaker><p>
+		Here comes Mr. Abercoed and Leandro.
+			<stage>(Tweedlepunch goes R.  Enter ABERCOED and LEANDRO
+			R.3.E.)</stage>
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Where is this stranger.
+			<stage>(Sees Tweedlepunch)</stage>
+		Are you aware sir that Str-Angers are not allowed on this island?
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Quite so, but my mission here is private.  Can you tell me 
+		if there is upon this island a lady named Quisara?
+		</p>
+		</sp><pb/>
+				<sp><speaker>Abercoed</speaker><p>
+		No such person known here.  We are expecting the owner of the 
+		island, Mr. Gilfain, whose yacht has been sighted.  Perhaps
+		he can inform you.  Are you acquainted with Mr. Gilfain?
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Yes, that is - I have never met him.
+			<stage>(Aside)</stage>
+		The villain - it was he who robbed my old friend Quisara
+		of the secret of Florodora.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Mr. Gilfain is the Supreme authority here.  I must detain you
+		until he arrives and leave the disposition of your fate to 
+		him.
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		Fate?  My word... There'll be something doing here.
+				</p></sp><sp><speaker>Leandro</speaker><p>
+		Hadn't I better stab him and throw him into the sea at once.
+		What's the use of bothering Mr. Gilfain.
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		That young man is too nervous to be trusted with a knife.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		No - take him away and confine him in the flower shed until
+		Mr. Gilfain has landed.
+			<stage>(Goes up C. on bank)</stage>
+				</p></sp><sp><speaker>Leandro</speaker><p>
+			<stage>(To Tweedle)</stage>
+		Come...
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Not with you --
+			<stage>(Bus. with knife)</stage>
+		Just as you say - charmed, I'm sure.
+			<stage>(Picking up luggage)</stage>
+		Would you mind carrying my head?  I fear it is slightly
+		cracked.
+			<stage>(Leandro takes dummy head angrily - punches it)</stage>
+		My dear sir can't we be friends!!
+			<stage>(Pulls flask)</stage>
+		<stage>(Abercoed goes up C. and looks off R.)</stage>
+				</p></sp><sp><speaker>Leandro</speaker><p>
+		Amigos.
+</p></sp><pb/>
+				<sp><speaker>Tweedlepunch</speaker><p>
+		No, Hennessy three star but Amigos, if you like that better.				
+				</p></sp><sp><speaker>Leandro</speaker><p>
+		Bah, Adolante - caramba.
+			</p></sp><stage>(Bus. with knife)</stage>
+			<sp><speaker>Tweedle</speaker><p>
+		Quite so.  I'll bet this fellow will stick me for the drinks.
+			<stage>(Exit Tweedle. and Leandro R. through shed)</stage>
+			<stage>(Gun off)</stage>
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Here he comes.  Here's Mr. Gilfain.	</p></sp>
+			<stage>(Exits R.3.E.)</stage>
+			<stage>(Enter Chorus Spanish ladies and clerks)</stage>
+			<sp><speaker>Chorus of Welcome</speaker>
+			<lg>
+<l>		Hail from the storm and sea and wind,</l>
+<l>		Hail the master indulgent and kind,</l>
+<l>			Lord of our Isle,</l>
+<l>			He is returning,</l>
+<l>			A shout and a smile,</l>
+<l>		And cheek that is burning,</l>
+<l>		For with power not less than Kings,</l>
+<l>		Neath his rule and his sheltering wings,</l>
+<l>			We can alloy</l>
+<l>			Our toil with jollity,</l>
+<l>			So life we enjoy,</l>
+<l>			Of Utopian quality.</l>
+<l>		So trip, trip, trip to meet him,</l>
+<l>			And then to greet him,</l>
+<l>			From off the ship,</l>
+<l>		Huzza, huzza, huzza,</l>
+<l>		Our bright delight of displaying,</l>
+<l>		My wild hurraying,</l>
+<l>		With might and main,</l>
+<l>		Huzza, Huzza, huzza,</l>
+<l>		We say good day to you, we say good day to you.</l>
+<l>		With them vie,</l>
+<l>		With a shy and downcast eye,</l>
+<l>		And try to convey you,</l>
+<l>		By a merry good day today,</l>
+<l>		Hail we with merry frivolity,</l>
+<l>		Song dance and jollity,</l>
+<l>		O'er our home and our isle he'll reign,</l>
+		<pb/>
+<l>		For he returns to us again,</l>
+<l>		So trip, trip, trip, to meet him,</l>
+<l>			And then to greet him,</l>
+<l>			From off the ship,</l>
+<l>		Huzza, huzza, huzza,</l>
+<l>		Our bright delight displaying,</l>
+<l>		With wild hurraying,</l>
+<l>		With might and main,</l>
+<l>		Huzza, huzza, huzza,</l>
+<l>		Our king is returning,</l>
+<l>		A welcome returning,</l>
+<l>		Hail the master, king and master,</l>
+<l>		We hail you sir, from storm and sea,</l>
+<l>		We hail, hail, huzza.</l></lg></sp>
+			<stage>(Enter GILFAIN R.U.E. straw hat, light spaca [opera?] coat,
+			white vest, and trousers, he is a good natured
+			smiling old fool, -- Gilfain eyes Ines, Juanita,
+			Valleda, and Violanthe, insinuatingly)</stage>
+			<stage>(Enter six English ladies and Leandro)</stage>
+				<sp><speaker>Gilfain</speaker><p>
+		Thanks, friends thanks.  Wonderful what a hearty welcome they
+		give you, when you're sole proprietor of them all
+				</p></sp>
+				<sp><speaker>All</speaker><p>
+		We're glad to see you back again, sir.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		You're glad to see the prodigal returned, eh?  I see you
+		have brought out the fatted calves - I'm very glad to be
+		back.
+				</p></sp><sp><speaker>Pym</speaker><p>
+		I hope you liked England.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Liked England.  Why I'm going to become a denaturalized
+		Englishman.   I think that's what they call it -- I know it 
+		means an unnatural American.  I've bought a castle in Wales,
+		a beautiful romantic spot about four miles from Gylnnyddle.
+		Waddlefad on the banks, of the Jimmyerickingnyflynn river.
+				</p></sp><sp><speaker>Pym</speaker><p>
+		How poetical
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Isn't it?  But Wales is no place for poetry.  England's the
+		place for poetry.  Why, there's a feller over there named
+		Austin - I think he comes from Texas, they call him the 
+		<pb/>
+		poet lariat.  He's got a contract by the year with the Government
+		for all the poetry he turns out.  And from what I heard
+		it is only machine goods at that.  England is a wonderful
+		country.  And the girls - the English girls.
+				</p></sp><sp><speaker>Inez</speaker><p>
+		Are they prettier than we are.
+			<stage>(Xing to C.)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(C.)</stage>
+		A different style of beauty, my dear.  But you shall judge
+		for yourself.  I have brought some of Angela'a friends over 
+		with me to see the Island.  Here they are all lined up.
+			<stage>(Pointing to the English girls R.)</stage>
+		Remnants left over from the matrimonial stock of our latest
+		London season, ladies, my clerks.
+			<stage>(Clerks X to R. to English girls)</stage>
+		Now boys and girls you know that my one subject in life after 
+		Florodora is to see you all happy.  I am going to take you all 
+		over to Wales.  How will travelling suit you eh?
+				</p></sp><sp><speaker>Inez</speaker><p>
+			<stage>(Xing C. to Gilfain)</stage>
+		Oh we shouldn't like that at all.  There was a traveller here
+		this morning and he seemed far from happy.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		A traveller?  Who is he - what's his name.
+				</p></sp><sp><speaker>Valleda</speaker><p>
+			<stage>(Xes C. to Gil)</stage>
+		Professor Tweedlepunch, from the Royal Aquarium, London.
+		Here's his photograph.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		No strangers allowed here.  Leandro, where is this interloper,
+		Prof. Tweedlepunch.
+				</p></sp><sp><speaker>Leandro</speaker><p>
+			<stage>(Xes C. to Gil.)</stage>
+		I left him asleep on the shed.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Asleep on my premises - how dare he?  I'll wake him up - the 
+		idea here boys - Pym, Sir, show our friends around the island.
+		Come Leandro.
+			<stage>(Exit Gilfain, followed by Leandro R.2.E.)</stage>
+			<stage>(All exit)</stage>
+		<pb/>
+		<stage>(Enter Lady HOLYROOD R.U.E.)</stage>
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+			<stage>(Call off stage)</stage>
+		Angela. Angela. I've lost Angela Gilfain and I've lost my
+		way.  Oh here is someone - will you please tell me --
+			<stage>(Enter ABERCOED R.U.E.)</stage>
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+			<stage>(Taking off his hat bows, and recognizes her)</stage>
+		Good gracious, Lady Holyrood.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Good gracious Frank Abercoed.  You here.
+			<stage>(They shake hands)</stage>
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Yes -- where I hoped that none of my acquaintances in England 
+		should ever find me.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Oh you are very polite -- of course, we know that you had 
+		disappeared.  We read it in the Daily Telegraph -- but no
+		one know why you went or where you'd gone.  Some said you had
+		run away, with a French Ballet girl - others, that you were 
+		in a lunatic asylum.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+			<stage>(C.)</stage>
+		No, neither.  I left England because I'd a promise I couldn't
+		perform.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		How noble.  Who was the promise to -- a woman, or a money 
+		lender?
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Didn't you know I was engaged to marry?
+			<stage>(Whispers to her)</stage>
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Yes, I remember.  Well, why didn't you marry her?
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Well I didn't love her and like a coward I ran away.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		A coward -- to run away from a woman with $10,000 a year!
+		I call it pluck or folly, the same thing.  But she consoled 
+		herself.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		How?
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Married soon afterward.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+			<stage>(Eagerly)</stage>
+		Married.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Oh I daresay, they're separated now.  They've been married
+		more than a year.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Then I'm free -
+			<stage>(Xes)</stage>
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Quite right to be grateful -- so few unmarried men are free.
+		They all have ties they can't shake off.  Married women are 
+		the only people that seem to be really free.
+			<stage>(Taps him -- goes to him)</stage>
+		But what have you been doing with yourself all this time.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		I went to America to earn my living.  I called at Mr. Gilfain's
+		office and told him I wanted a position - he asked 
+		me what I could do.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		I suppose you told him you could play bridge.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		No I told him I could read, write, and add up figures.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Unusual accomplishment for an English gentleman.  Wasn't he 
+		surprised.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Now he told me to sit on a high stool - I sat there a year 
+		and then he sent me here as his representative, and here I am.
+		<pb/>
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Yes here you are right enough, but you can't stop here forever 
+		now that you're Lord Abercoed.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Lord Abercoed.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Don't you know?  Your uncle's been dead ever so long.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Dead?  My uncle dead -- are you certain?
+			<stage>(Xes to L.C.)</stage>
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+			<stage>(Xes R.)</stage>
+		Well reasonably so -- I attended his funeral.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Then I am Lord Abercoed.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Yes, and you're wanted in England at once.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		I shan't go.  I can be happy enough here.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		What stay here?
+			<stage>(Up stage)</stage>
+		In this outlandish hole?  Ah there must be some special
+		attraction.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Well, I'm free now - and there is -
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		In love, eh?
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Yes --
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+			<stage>(R.)</stage>
+		How nice, oh do tell me about it.  Are you in love like a 
+		common person with a nice girl -- or like a fashionable man 
+		with a friend's wife?
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		But what brought you here.
+		<pb/>
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Oh, I came with Mr. Gilfain on business.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Business.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Yes, you see, in the first place, I am looking for a suitable
+		match for my brother Arthur - now - Angela Gilfain will do 
+		splendidly, and then as Mr. Gilfain is so very rich, - why I
+		might be persuaded to - to - to --
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Oh I see.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		I am so glad you see.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		You want to be the second Mrs. Gilfain?
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Hush, hush.  Nothing is arranged.  Up to now I am faithful 
+		to the memory of my first husband.
+			<stage>(Aside)</stage>
+		It is so easy to be faithful to a man who isn't alive.
+			<stage>(Xes L.)</stage>
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Well, I know you must have had some strong motive for leaving 
+		town.  Why London must be like a deserted village without
+		Lady Holyrood.
+			<stage>(Takes off hat, bows graciously)</stage>
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Oh I suppose they're perfectly wretched without me.  They 
+		always are when I leave town.
+			<stage>(Abercoed stands, one foot on stool during verse.
+			Sits for second R. corner)</stage>
+				SONG -- LADY HOLYROOD
+				"When I Leave Town"
+		I'm a lady, don't forget,
+		With a sense of etiquette,
+		And all I say,
+		Is in the Daily Mail next day,
+		Dances, Music Hall and plays
+		Drawing rooms and smart soirees
+		Or Henley, Goodwood and Paree,
+		Owe their great success to me.
+		<pb/>
+				Refrain
+		I'm known everywhere
+		From Bayswater to Berkeley Square,
+		I have a sort of air that positively knocks you down,
+		I'm so gay you know,
+		On the go, to and fro,
+		There's nothing anywhere about,
+		When I leave town when I leave town.
+				-2-
+		If I go to sup or dine,
+		I know where to crew the line,
+		A smart black frock,
+		And always home by 12 o'clock
+		I don't pay anything at all,
+		Bar a dreadful Sunday call,
+		And when my funds are singing low,
+		Someone sees to that, you know.
+				<stage>(Refrain.  Exit Lady Holyrood L.1.E. after dance.
+				Abercoed rises and Xes to R.C. Enter DOLORES after 
+				song L.U.E.)</stage>
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		Who was that woman?
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		A lady from England.
+				</p></sp><sp><speaker>Dolores</speaker><p> 
+			<stage>(Angry)</stage>
+		The lady - the lady who wants to marry you?  I see.  She's 
+		come to find 
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		No, no, Dolores, she's a friend of Mr. Gilfain's.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		And a friend of yours too.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Yes and a good friend since she has brought me good news.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		She was a long time telling you.  I don't like her at 
+		all.
+		</p>
+		</sp><pb/>
+				<sp><speaker>Abercoed</speaker><p>
+		Why, don't be unreasonable, Dolores, she was only looking 
+		for Mr. Gilfain.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		Yes, but she found you.  After what you told me this morning,
+		I can't bear to see you speak to another woman.
+			<stage>(Exits R. 1 to behind the warehouse)</stage>
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Jealous!  Well, that shows she's in earnest.
+			<stage>(Enters LADY M. L.U.E.)</stage>
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Oh, Lord Abercoed, I forgot to tell you I've lost Angela
+		Gilfain.
+				</p></sp><sp><speaker>Abercoed</speaker><p>	
+		Oh, we'll soon find her.  It's a very little island.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Yes, but she's a very little girl.
+			<stage>(Enter THREE MEN carrying a large basket of flowers.
+			ANGELA is in it L.U.E. when they get to C. Lady H.
+			speaks)</stage>
+		My, what beautiful flowers.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Yes -- that's what we make this perfume of.  Take it into 
+		the warehouse boys.
+			<stage>(Angela bobs up from flowers and men put basket 
+			down on stage C)</stage>
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Please don't have me put in the warehouse, Mr. Abercoed.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Why, Miss Gilfain, come out of that.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		What are you doing there?
+			<stage>(Angela gets out, helped by others)</stage>
+				</p></sp><sp><speaker>Angela</speaker><p>
+		It was to surprise you and Arthur and because I was so 
+		afraid of papa.  He's changed his mind again.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Changed his mind -- about what?
+		<pb/>
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Well, he promised I should marry Arthur and then on our trip
+		across, he said I mustn't.  He's found someone else more suitable 
+		and -- oh, I can't tell you -- you tell him, Lady Holyrood.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Certainly.
+			<stage>(Turns to Abercoed)</stage>
+		You are to be the happy man, Mr. Gilfain wants you to marry
+		Angela.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Impossible.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Why, of course it is --
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		My dear.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		I mean I am so very fond of Arthur.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		You see, I told the story of the lost Lord Abercoed on the
+		yacht.  Mr. Gilfain guessed it was you and he wants to make 
+		his daughter an English Peeress like all other American 
+		millionaires.
+			<stage>(Xes R)</stage>
+			<stage>(Enter DONEGAL L.U.E.)</stage>
+				</p></sp><sp><speaker>Donegal</speaker><p>
+			<stage>(Coming down C. to Angela)</stage>
+		Oh, there you are, I have been looking all over the place for 
+		you.
+			<stage>(Turns R. and sees Abercoed)</stage>
+		Why, Frank Abercoed, upon my word -- I beg your pardon, Lord 
+		Abercoed.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Lord Abercoed?
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Yes, he's a lord now with a seat in the House of Peers and 
+		with all the privileges of a true born British brewer.
+			<stage>(Xes R.C)</stage>
+		<pb/>
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Lord Abercoed, you of Abercoed Castle?
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Yes, that's the family place.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Why, that's the place papa has bought and he's going to turn
+		it into a warehouse.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		My old home, a warehouse?
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+			<stage>(Bus. indicates Abercoed)</stage>
+			<stage>(Xes L.C.)</stage>
+		And he wants the title to go with the estate to his daughter.
+			<stage>(Turns R)</stage>
+		Arthur, you must look sharp.  You can't find an heiress
+		every day.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Oh bother your heiress.  I hate money.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Hate money?  What blasphemy.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Well, that is.  I hate anything I know so little about!  Ah!
+			<stage>(Xes L)</stage>
+		But I love Angela for her own sweet little self.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		And we're not going to give each other up, are we?
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		I should say not.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+			<stage>(Coming down C)</stage>
+		Oh, your father will give his consent when he sees how fond
+		you are of each other.  Everybody should marry for love.
+		Don't you think so, Lady Holyrood.
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+			<stage>(R. startled)</stage>
+		Yes - oh yes - if they can afford it.  For poor people love 
+		is madness.
+		<pb/>
+				</p></sp><sp><speaker>Angela</speaker><p>
+			<stage>(Xes R.C. to Abercoed)</stage>
+		Then you will tell papa that you won't marry me on any 
+		account?
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		You may depend upon it.
+			<stage>(To Donegal)</stage>
+		I shan't be your rival.
+			<stage>(Goes up C)</stage>
+			<stage>(Donegal and Angela go up L.C. arm in arm)</stage>
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		Wait for me, Lord Abercoed.
+			<stage>(To Donegal)</stage>
+		Brother, come here a moment.
+			<stage>(Donegal excuses himself and comes to Lady H)</stage>
+		Now, I don't want my plans upset.  If you don't marry Angela,
+		I don't know who you will get to keep race horses for you.
+		I can't, you know.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Keep horse races -- I can't afford to keep chickens.
+			<stage>(Xes C to Angela - Lady H. goes up R.C. and takes 
+			Abercoed's arm)</stage>
+				</p></sp><sp><speaker>Lady H.</speaker><p>
+		I say, Arthur, why not try white mice -- they are very inexpensive.
+			<stage>(Exit R. with Abercoed into warehouse)</stage>
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Well, you see you needn't be afraid.  The rival says he 
+		would not have me for a gift.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+			<stage>(L)</stage>
+		He's a fool.  I think you are a very tempting investment.
+		Although Frank is a lord, he's as poor as a church mouse.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Aren't all lords poor?
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Well, most of them are -- until they are married.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		I only care for money as a means to an end.
+		<pb/>
+				</p></sp><sp><speaker>Donegal</speaker><p>
+			<stage>(Down C)</stage>
+		Well, don't worry, you won't have any difficulty in finding 
+		a man willing to be that end.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Yes, but the man I love doesn't seem to love me.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+			<stage>(Takes her in his arms)</stage>
+		You see there's one great obstacle in our marriage.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		What is it?
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Why, your father.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		But you're not going to marry my father?
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		No, but I fear it would be a very unhappy marriage for both 
+		of us.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		What would you say if I told you I couldn't live without 
+		you?
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		I'd say you are the dearest, the sweetest little woman 
+		in the world and as soon as we get back to England, we get 
+		the whole thing over with in a hurry.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		So we shall, in spite of papa.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		That's the way to talk.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		I shan't wish to have you take pity on an old maid.  Youth 
+		is the time for love.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Well, the earliest time is the time for me -- and I'm in 
+		a deuce of a hurry, I must confess.</p></sp>
+				<sp><speaker>DUET - "GALLOPING"</speaker>
+				<lg>
+<l>		Love is a fiery steed.</l>
+<l>			Galloping, galloping gaily,</l>
+<l>		Needing no spur as he'll wildly speed, wildly speed,</l>
+<l>			Over new pastures daily, daily, daily,</l>
+<l>		Taking the bit his teeth between</l>
+<l>			Faster and faster,</l>
+<l>			Brooking no master,</l>
+<l>		Over the ditches and hedges so green,</l>
+<l>			Over the green,</l>
+<l>			Over the green,</l>
+<l>		Blind to the future, and threatened to disaster,</l>
+<l>			Galloping, galloping, galloping, gaily.</l>
+				</lg></sp>
+				<stage>REFRAIN</stage>
+				<sp><lg>
+<l>		Woman's the driver and love's the steed</l>
+<l>		That carried the burdens daily, oh.</l>
+<l>		So keep him in training then life indeed,</l>
+<l>		Goes galloping, galloping, gaily, Oh.</l>
+		</lg>
+			<l>	Ah.</l>
+		<lg>
+<l>		So keep him in training the life indeed,</l>
+<l>			Goes galloping, galloping, galloping on.</l>
+<l>				Goes galloping gaily on.</l>
+<l>				Ah! Ah!</l>
+<l>				Galloping, galloping. Oh.</l>
+<l>				Gaily, gaily, gaily.</l>
+		</lg></sp>
+					<stage>2</stage>
+<sp><lg>
+<l>		Love, when he cometh in middle age,</l>
+<l>			Different horses altogether</l>
+<l>		Willing to trot with his equipage, equipage,</l>
+<l>			Learning the length of his tether, tether.</l>
+<l>		Jog-trot's the pace, though it is the truth,</l>
+<l>			Fraught with less danger,</l>
+<l>			Thoughts of the manger,</l>
+<l>		Shorten the wind for the flights of youth,</l>
+<l>			Flights of youth,</l>
+<l>			Flights of youth,</l>
+<l>		Never is likely to bolt with a stranger</l>
+<l>			Galloping, galloping, gaily, gaily.</l></lg>
+</sp>
+				<stage>REFRAIN</stage><sp>
+<l>		Woman's the -- driver and love's the steed, etc.</l></sp>
+			<stage>(Dance and exeunt L.1. E)</stage>
+			<stage>(After song, enter from R. 2. E. GILFAIN and TWEEDLEPUNCH
+			carrying head on stand)</stage>
+		<pb/>
+				<sp><speaker>Gilfain</speaker><p>	
+		It is a fortunate thing for you sir, that your knowledge 
+		of phrenology can be of use to me or you would have been 
+		thrown off the island, sir - Mr. Tweedle.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Punch - Tweedlepunch - my photograph.
+			<stage>(Handing card to Gilfain)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		That's the fourth photograph you've given me.  Do you 
+		take me for an album.
+			<stage>(Throws down picture)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Oh I say - don't throw them about like that.
+			<stage>(Picking up picture)</stage>
+		They cost me a cent and a half a piece.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Do you mean to tell me that by the bumps on the head you 
+		can tell which person should marry.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Xing R)</stage>
+		I do - unless its subject has been married before, in 
+		which case some of the bumps may not be natural.
+			<stage>(GILFAIN Xes L. gets stool comes C)</stage>
+		Now it is my theory, that for every woman is born a 
+		man is born to match her.
+			<stage>(Xing C. with stool, sits)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p> 
+		I know a lot of women who are looking for that man.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		My science saves them the trouble.  Now, for instance, if 
+		the count Dr. Castellane has consulted me, I would have 
+		married him to Betty Green.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		What a combination!  If you can do all you say, you are
+		quite a remarkable man.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Handle photograph to Gilfain)</stage>
+		My dear sir, I should say so --
+		<pb/>
+			<stage>(Gilfain refuses picture with anger)</stage>
+		Excuse me my mistake.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Now I have a daughter - and I want her to marry if you 
+		could find her affinity.
+			<stage>(Doubtful)</stage>
+		I'd give the world if I could trust you.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Give me <emph rend="underline">half</emph> the world and I'll give you gilt edged security.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		If this scheme of yours is any good I can let you in on a 
+		good thing.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Good for you or good for me.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Good for you, if you succeed.   Now being an American, I
+		naturally want my daughter to marry an English Lord.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Quite so.  But where to find a lord in this island, the Lord
+		only knows, eh?
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Ah, but there is a Lord?  My head clerk, Abercoed, is really 
+		Lord Abercoed.
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+		No?
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Yes, he doesn't know that I know it.  Now if science could 
+		arrange that my daughter Angela should marry Lord Abercoed,
+		I would be very grateful to science.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		And mark your gratitude in a substantial manner.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Of course.  I'm a man of business.  And science might be 
+		induced to do something else.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Science is always open to reason - if there's enough of it.
+		Science is golden.
+		<pb/>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		I'll give you a chance to make yours 18 K.
+			<stage>(Confidentially)</stage>
+		Now I have a favorite among my farm girls--
+			<stage>(Tweedle bursts out laughing)</stage>
+		Are you laughing or crying?  What is the matter with this 
+		jackass.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Oh you flirt--
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		First, what do you mean, sir -- she's nothing particular.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Giggling)</stage>
+		Oh of course not.  This is no place for the son of a 
+		clergyman.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		And of course a man in my position couldn't marry her of his 
+		own accord.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Of course not.  But, if nature had selected her for you,
+		you would yield.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		I suppose the terms will be the same in my case as in my 
+		daughter's.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Tell me - you see in your case science will have to work 
+		over time.  100 for coupling the two couples.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		100 nothing.  I'll give you $10 a head.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Oh no, ten dollars a bump.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		I'll give you fifty dollars a head - take it or leave it?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Well then I'll take it.  But can you make the young people 
+		believe in me?  Very few do --
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		They'll do anything I order them - I'm master here.
+			<stage>(Broad)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Aside)</stage>
+		Then every girl on the island will pass through my hands
+		and I shall surely find the little Quisara.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Well then is it a go?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Shaking hands)</stage>
+		It is - the saddest thing in life is forming friendships.
+		We meet today and part tomorrow.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		I hope so.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		I beg pardon -- 
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		You heard what I said.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		My mistake, but I should like to cement our friendship 
+		before parting, by some little token if you will permit me
+		let me see.
+			<stage>(Fumbling in pocket)</stage>
+		What have I?
+			<stage>(Brings out knife)</stage>
+		Oh, my pocket knife - now I have carried that knife for 
+		ten years - will you accept it?
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Certainly not.  I wouldn't deprive you of it for the world.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Ah, I see, superstitious.
+			<stage>(Coughing)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Well yes, I am - a little.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Then we won't make it a present.  Just give me something 
+		in exchange.  Anything will do.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		I haven't any change.
+			<stage>(Hand in pocket bring out bills)</stage>
+		Nothing smaller than a $2.00 bill.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Taking it quickly)</stage>
+		That will do - two dollars will break the hoodoo.
+			<stage>(Xing R. turning upstage)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Well I'll be d-----
+			<stage>(Xing L)</stage>
+			<stage>(Enter LADY HOLYROOD R.U.E)</stage>
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+			<stage>(R. sniffs)</stage>
+		What a lovely odor.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(L)</stage>
+		Oh yes -- Florodora.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Ah Lady Holyrood, permit me - Prof Tweedlepunch, the 
+		phrenologist.
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+			<stage>(Advancing to her)</stage>
+		Charmed, I'm sure.  My dear Madame, will you permit me.
+		My photograph.
+			<stage>(Hand her photograph, After handing photograph he 
+			comes R.C. to stool, slowly)</stage>
+			<stage>(Puts hat pin in his hat)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		We were discussing the science of marriage.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+			<stage>(C)</stage>
+		Marriage isn't a science it's an art.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(L.C)</stage>
+		Prof. Tweedlepunch has a system of marriage that makes 
+		everybody happy!
+				</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+			<stage>(R.C)</stage>
+		Everybody but me, I have never married.
+			<stage>(Sighs)</stage>
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		Disappointed in love?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Picks up stool and head)</stage>
+		I should say so.  I advertised for a girl with a million
+		dollars and didn't get a single reply.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+			<stage>(To Tweedle)</stage>
+		Does your system of marriage apply to second marriage, 
+		Mr. Tweedlepunch?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		To any number.
+			<stage>(Xes R. takes stool and head and puts them in R. 
+			corner)</stage>
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		What a pity you didn't live in Bluebeard's time.
+			<stage>(Tweedle. and Gilfain giggle)</stage>
+		Are you thinking of marrying again?
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Are you, Lady Holyrood?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(R. C., aside)</stage>
+		She's got her eye on the millionaire.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		But I must find the right one this time.  What's the good 
+		of being a widow if you don't profit by your experience.</p></sp>
+			<stage>(Hands Gilfain the photo.  He throws it away in disgust)</stage>
+		<stage>TRIO -- "I WANT TO MARRY A MAN, I DO"</stage>
+				<sp><speaker>Lady Holyrood</speaker><l>
+		I want to marry a man, I do, I do.
+				</l></sp><sp><speaker>Gilfain</speaker><l>
+		She does,
+				</l></sp><sp><speaker>Tweedle</speaker><l>
+		She do.
+				</l></sp><sp><speaker>Lady Holyrood</speaker><l>
+		I want to tell you my plan, I do, I do.
+				</l></sp><sp><speaker>Gilfain</speaker><l>
+		She does,
+				</l></sp><sp><speaker>Tweedle</speaker><l>
+		She do.
+				</l></sp><sp><speaker>Lady Holyrood</speaker><l>
+		I want to marry a man, I do, I do.
+				</l></sp><sp><speaker>Gilfain</speaker><l>
+		She does,
+				</l></sp><sp><speaker>Tweedle</speaker><l>
+		She do.
+				</l></sp><sp><speaker>Lady Holyrood</speaker>
+<lg><l>			There's no use in looking about each day,
+</l>
+<l>		For husbands will either be dull or gay,
+</l>
+<l>		I've got to get one whose built my way
+</l>
+<l>		If I want to get one that will do, will do
+</l>
+<l>				I do.
+</l></lg>
+			</sp><sp><speaker>Gilfain</speaker>
+		<l>She does,</l>
+				</sp><sp><speaker>Tweedle</speaker>
+		<l>She do.</l></sp>
+				<sp><speaker>REFRAIN</speaker><lg>
+<l>		You've got to get hold of the right one,
+</l>
+<l>			and all will be right as can be,
+</l>
+<l>		The task isn't really a light one,
+</l>
+<l>			And it can't be performed for a fee.
+</l>
+<l>		You don't want a stay-out-all night one,
+</l>
+<l>			Or one who indulges in afternoon tea,
+</l>
+<l>		If you only get hold of the right one,
+</l>
+<l>			It's as easy as A.B.C.
+</l>
+				</lg></sp><sp><speaker>Gilfain</speaker><l>
+		As A, B, C.
+				</l></sp><sp><speaker>All</speaker><l>
+		It's as easy as A, B, C.
+				</l></sp><sp><speaker>Lady Holyrood</speaker><l>
+		A husband I want to adore, I do, I do.
+				</l></sp><sp><speaker>Gilfain</speaker><l>
+		She does,
+				</l></sp><sp><speaker>Tweedle</speaker><l>
+		She do.
+				</l></sp><sp><speaker>Lady Holyrood</speaker><l>
+		I won't have a husband who wears a low hat,
+		Or goes out to dinner in somebody's flat.
+				</l></sp><sp><speaker>Gilfain</speaker><l>
+		Or one who's addicted to sleep on the mat.
+				</l></sp><sp><speaker>Lady Holyrood</speaker><l>
+		Oh I think I should know what to do, to do, to do.
+				</l></sp><sp><speaker>Gilfain</speaker><l>
+		She does,
+				</l></sp><sp><speaker>Tweedle</speaker><l>
+		She do.</l></sp>
+		<sp>
+				<speaker>REFRAIN</speaker>
+		<l>You've got to get hold of the right one, etc.</l></sp>
+			<stage>(Dance and exeunt TWEEDLEPUNCH R. 2 E and LADY HOLYROOD
+			L. 1 leaving GILFAIN on stage C)</stage>
+				<sp><speaker>Gilfain</speaker><p>
+		If this Prof. Tweedlepunch can do all he claims he can he's 
+		a wonder.  I think I'll call all my people here, and let 
+		him test his ability at once.</p>
+			<stage>(Enter LEANDRO R. 2 E)</stage>
+		<p>Call all my people here at once.</p>
+			<stage>(LEANDRO beckons people on R. and L)</stage><stage> (CHORUS)</stage>
+		<p>Now then, Prof. Tweedlepunch, can arrange it so that I marry
+		Dolores, I need no longer fear the exposure of the secret 
+		of Florodora, and with my daughter Angela married to Lord 
+		Abercoed I will be able to get into the best society in both 
+		England and America.</p></sp>
+			<sp><speaker>SONG AND CHORUS "PHRENOLOGY"</speaker>
+		<lg>
+<l>		There is nothing I disparage</l>
+<l>		Like an ill-assorted marriage,</l>
+<l>		You must choose your wife with phrenological care,</l>
+<l>		For the resin beneath her bonnet,</l>
+<l>		Has your future mapped upon it,</l>
+<l>		So when you're engaged take down her hair.</l>
+				</lg></sp><sp><speaker>Chorus</speaker><lg>
+		<l>So when you're engaged take down her hair</l>
+				</lg></sp>		<pb/><sp><speaker>Gilfain</speaker><lg>
+<l>		Though she may declare it fidgets,</l>
+<l>		As you fumble with your digits,</l>
+<l>		You reveal a well developed bump of crime - </l>
+<l>		You may one day find her thickening</l>
+<l>		Up your turtle soup with strychnine,</l>
+<l>		Be advised and shake her while there's time.</l>
+				</lg></sp><sp><speaker>Chorus</speaker><l>
+		Be advised and shake her while there's time.
+				</l></sp><sp><speaker>Gilfain</speaker><lg>
+<l>		Then you no wedding need be dreading,</l>
+<l>		Once phrenology defined,</l>
+<l>			What is the virtue that will hurt you,</l>
+<l>			And the vice you needn't mind,</l>
+<l>			But science at defiance and to grief you're</l>
+<l>					sure to come,</l>
+<l>			If you're scorning every warning of the cra-ni-um.</l></lg></sp>
+					<sp><speaker>2.</speaker><lg>
+<l>		If her temper bumps unsightly don't miss the matter lightly</l>
+<l>		If you do beware there's trouble in the air,</l>
+<l>		For in manner most pathetic, she'll put gables on your attic</l>
+<l>			With a rolling pin or else a chair.</l>
+				</lg></sp><sp><speaker>Chorus</speaker><lg>
+<l>		With a rolling pin or else a chair.</l>
+				</lg></sp><sp><speaker>Gilfain</speaker><lg>
+<l>		Should she reach your solar plexus, you will wish you were </l>
+<l>				in Texas</l>
+<l>		Or in some place else that's always hot and dry,</l>
+<l>		So before the new row commences, you should build up your </l>
+<l>				defences,</l>
+<l>			If you're wise you'll prove an alibi,</l>
+<l>			If you're wise you'll prove an alibi.</l>
+				</lg></sp><sp><speaker>Chorus</speaker><lg>
+<l>		For the marriage, I disparage is the usual blind affair,</l>
+<l>		Just a scramble at a gamble with the prizes very rare,</l>
+<l>		Ere the crisis my advice is - with your finger and your </l>
+<l>			thumb,</l>
+<l>		Explore the mountain and the molehills on her cra-ni-um.</l>
+		<pb/>
+				</lg></sp><sp><speaker>Gilfain</speaker><lg>
+<l>		If her bumps of conversation, should arouse your consternation</l>
+<l>		You had better not stay out too late at night,</l>
+<l>		For she'll ask for explanation, causing many combinations,</l>
+<l>		Leading to a fight till broad daylight.</l>
+<l>		Into a fight till broad daylight yes he's right.</l>
+<l>		You will learn that matrimony, is a matter for your money,</l>
+<l>		For if such a girl you marry you will wish that you were dead.</l>
+<l>		When she had procured an absolute divorce,</l>
+<l>		For you'll find it isn't funny trying to pay alimony,</l>
+<l>		That it's not a case of horse, and horse.</l>
+<l>		That it's not a case of horse and horse.</l>
+				</lg></sp><sp><speaker>Chorus</speaker><lg>
+<l>		That is why you'd better tarry ere you do decide to wed,</l>
+<l>		 For if such a girl you marry you will wish that you were dead.</l>
+<l>		So science at defiance, and to grief you're sure to come,</l>
+<l>		If you're scorning every warning of the cra-ni-um.</l>
+				</lg></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(L.C.)</stage>
+		Ah here comes the Professor.  Science shall begin work at 
+		once.
+			<stage>(ENTER TWEEDLEPUNCH R.2.E- with paraphernalia.
+			Crowd rushes toward him.  He goes to R. corner
+			and gets head and stand)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Alarmed)</stage>
+		One at a time, please.  One at a time.  Heavens do you all
+		want to get married?
+			<stage>(6 chairs L. for English ladies place R.C)</stage>
+				Girls
+		Of course we do.
+			<stage>(Men bring on platform and chair from R)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Of course they do, girls will be girls.  LAdies and gentlemen
+		before dealing out universal happiness I wish to mention that 
+		I am at the head of my profession.
+			<stage>(Takes hat pin out of hat.  Hat off, closes hat and 
+			puts it under chair at platform)</stage>
+		I have felt the bumps of all the crowned heads of Europe, 
+		all the fat heads of Asia, all the swelled heads of America
+		not forgetting the black heads of Africa.
+			<stage>(Plate and coin bus.)</stage>
+		We will now proceed to business.
+			<stage>(Enter ANGELA and DONEGAL L.U.E. comes down C)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(L. C)</stage>
+		To show my confidence in the system I've inaugurated for 
+		the happiness of others - I am prepared --
+			<stage>(Steps on platform)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(To Gilfain)</stage>
+		Be seated, sir.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(Turns -- seeing Angela)</stage>
+		At least, my daughter is prepared to submit herself to 
+		Mr. Tweedlepunch's scientific investigations.
+			<stage>(X L.C)</stage>
+				</p></sp><sp><speaker>Angela</speaker><p>
+			<stage>(C)</stage>
+		Why Papa - who is he?
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(Turns)</stage>
+		Oh he'll tell you all about himself.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(R.C)</stage>
+		Allow me - my photograph.
+			<stage>(Gives Angela his photograph)</stage>
+		Taken with my little dog.  The one on the right is the dog.
+		Miss Gilfain will you kindly place your head here.
+			<stage>(Indicating chair in stand)</stage>
+				</p></sp><sp><speaker>Angela</speaker><p>
+			<stage>(To Donegal)</stage>
+		Shall I, Arthur?
+				</p></sp><sp><speaker>Donegal</speaker><p>
+			<stage>(Shrugging his shoulders, Xes to R)</stage>
+		Oh certainly do whatever papa wishes, like a good girl.
+			<stage>(Angela hands hat to Tweedle - he puts hat on figure)</stage>
+				</p></sp><sp><speaker>Angela</speaker><p>
+			<stage>(Goes to chair and stops)</stage>
+		Oh, no, I don't think I will.
+		<pb/>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Never fear, my dear.  Papa is here.
+				Tweed
+		No danger.
+			<stage>(Angela goes to chair)</stage>
+		Pray be seated.
+			<stage>(She sits, head back, chin up - snaps collar--bus.)</stage>
+		You will pardon my securing you to the chair - my investigations 
+		have at times submitted me to personal violence.
+			<stage>(Places hand on Angela's head - looks at it - pause, 
+			very serious and almost crying)</stage>
+		Mr. Gilfain I find on your daughter's head--
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		What.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Bumps.  Of truthfulness and simplicity - amiability -- good 
+		nature and obedience strongly developed - bump of affection 
+		sticks out like a water-melon!
+			<stage>(Unfastens collar of chair, Angela gets down)</stage>
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Good gracious.
+			<stage>(Gets down to Donegal)</stage>
+		He's pretty good judge of character.
+			<stage>(Enter ABERCOED R.2.E comes to C, looks at head,
+			until spoken to_
+			(To Tweedle)</stage>
+		I shall keep your photograph.
+			<stage>(Tweedle. gives Angela her hat)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Thank you Miss.</p>
+			<stage>(Aside)</stage>
+		<p>Very few do.</p>
+			<stage>(Bus. coin and plate)</stage>
+			<stage> (To Gilfain)</stage>
+		<p>Nothing doing; nothing doing.  Mr. Gilfain I find that your 
+		daughter is scientifically fitted to marry a man of good 
+		business habits.</p>
+			<stage>(Gilfain calls Tweedle's attention to Abercoed - 
+			whistling business aside)</stage>
+		<p>I'm on the chief clerk.</p>
+			<stage>(To Abercoed)</stage>
+		<p>Allow me, sir.  Would you kindly place your head here?</p>
+		</sp><sp><speaker>Abercoed</speaker>
+			<stage>(C)</stage>
+		<p>Certainly not.  No science on earth could force me to 
+		marry where I didn't love.</p></sp>
+		<pb/>
+		<sp><speaker>Angela</speaker>
+			<stage>(R)</stage>
+	<p>
+		Oh do try it, Mr. Abercoed it doesn't hurt a bit.
+				</p></sp><sp><speaker>Gilfain</speaker>
+			<stage>(L)</stage>
+		<p>Go on - get in the game - have a dash, have a dash.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		I don't mind if I do.
+			<stage>(Smacks his lips)</stage>
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+			<stage>(R. foot on edge of platform)</stage>
+		Oh very well.
+			<stage>(Goes to Tweed)</stage>
+		Your decision won't affect me.
+			<stage>(Bus. sits in chair.  Tweedle feels head, raps it hard 
+			twice.  Abercoed takes hat off head - one of the men 
+			who stands R. of platform puts it on.  Hat has large 
+			knob on top)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Feels head)</stage>
+		This is a remarkable head
+			<stage>(Taps it)</stage>
+		Listen to that sound.
+			<stage>(Taps it again.  Abercoed takes hat and puts it on)</stage>
+		This young man's head is so wonderfully developed.
+			<stage>(Puts hand around edge of hat all way)</stage>
+		Size enormous.
+			<stage>(Hand on front)</stage>
+		Frontal development above the average.
+			<stage>(Hand on R. side)</stage>
+		Bump of good business habits splendid.
+			<stage>(Hand on knob top)</stage>
+		Bump - of - of - of - Agra - Niagara - Niagaranenishness.
+			<stage>(Looks at it)</stage>
+		Oh ----
+			<stage>(Laughs)</stage>
+		You see sir, to what limit my science can go when this young 
+		man's bumps can talk through his hat.
+			<stage>(Abercoed gives hat back to man R. gets down. X L - 
+			of Tweedle)</stage>
+		Mr. Gilfain, allow me to present you with the son-in-law 
+		science has selected for you.
+		<pb/>
+				</p></sp><sp><speaker>All</speaker><p>
+		Son-in-law.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		They are made to take each other - like the ace and the king 
+		of trumps.
+			<stage>(He takes the hands of Abercoed and Angela and is 
+			about to join them when they snatch them away, 
+			angrily)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(L. of C)</stage>
+		Wonderful.  I had hoped that Angela would do better 
+		but I submit.
+				</p></sp><sp><speaker>Angela</speaker><p>
+			<stage>(X L. C.)</stage>
+		You may submit - I won't.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+			<stage>(Following her to C)</stage>
+		Look here, Mr. Gilfain, I'm not going to stand this.  I want 
+		to marry Angela and Abercoed doesn't.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		No, I don't mean to, either, in spite of this meddling 
+		trickster.
+			<stage>(ABERCOED exits R. 2)</stage>
+				</p></sp><sp><speaker>Chorus</speaker><p>
+		Quite right!
+			<stage>(DONEGAL and ANGELA X back of platform to R. - 
+			Enter Dolores, L.U.E. smoking comes down C)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Bus. coin and plate)</stage>
+		Well, who is next.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+			<stage>(Bus. C)</stage>
+		What's going on?
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(L. going C. to Dolores)</stage>
+		We're all going to be married.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		By machinery.
+		<pb/>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Professor Tweedlepunch, this is Dolores--</p>
+			<stage>(Significantly)</stage>
+		<p>My favorite farm girl;</p></sp>
+				<sp><speaker>Tweedle</speaker>
+			<stage>(Aside)</stage>
+		<p>I'm on.</p>
+			<stage>(Xes to Dolores)</stage>
+		<p>Will you allow me?  My photograph.</p>
+			<stage>(He offers Dolores the photograph - she knocks it 
+			out of his hand, blows smoke in his face)</stage>
+		<p>I can't stand these, no tobacco cigarettes.</p></sp>
+			<stage>(Dolores Xes L. and blows smoke in Gilfain's face,
+			then kneels down and talks to Spanish girls)</stage>
+		<stage>(Enter LADY HOLYROOD L.U.E comes down C)</stage>
+			<sp><speaker>Lady Holyrood</speaker><p>
+		What's this?  A mass meeting?  What glorious institution 
+		are they trying to destroy now, I wonder.
+				</p></sp><sp><speaker>Gilfain</speaker>
+			<stage>(L.C)</stage>
+		<p>We're about to try marriage by natural selection.</p>
+				</sp><sp><speaker>Lady Holyrood</speaker><p>
+		Shall we all try it Mr. Gilfain.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Don't you think that I'm too old to marry.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		A man is never too old to marry - if he's very rich.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Do you think so Lady Holyrood, then I'll try it for your 
+		sake.
+			<stage>(Xes R.C. to platform)</stage>
+		Mr. Tweedlepunch, may I--
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(To Gilfain)</stage>
+		Would you kindly place your head there.
+			<stage>(Gilfain goes to machine followed by Lady Holyrood
+			 L.C)</stage>
+			 	</p></sp><sp><speaker>Angela</speaker><p>
+			 <stage>(R. to Donegal)</stage>
+		I hope he gets an extravagant woman with a nasty temper.
+		<pb/>
+			<stage>(Xes L. to platform)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Mr. Gilfain, will you be seated?</p>
+			<stage>(Bus. of lifting him up by coat and dropping him
+			back into seat)</stage>
+			<stage>(Gilfain protesting, head back, chin up - snaps 
+			collar around his neck as with others)</stage>
+			</sp><sp><speaker>Gilfain</speaker><p>
+		Oh, has he pinched my diamond?</p>
+			<stage>(Bus:  hand up to tie Tweedlepunch pulls it down - 
+			repeated three times.  Tweedlepunch finally puts 
+			his knee on Gilfain's hand, which is on Gilfain's knee)</stage>
+				</sp><sp><speaker>Tweedlepunch</speaker><p>
+		You have a fine head, sir.
+			<stage>(Slaps head)</stage>
+		A big head -
+			<stage>(Slaps head)</stage>
+		I may say a fat head.
+			<stage>(Feels Gilfain's bumps)</stage>
+		Oh, What's this?  What have we here --
+			<stage>(L)</stage>
+		- and here -- 
+			<stage>(R)</stage>
+		and here?
+			<stage>(Bus)</stage>
+		tut, tut, remarkable.
+		</p></sp>
+				<sp><speaker>Angela &amp; Lady Holyrood</speaker>
+		<p>What is it?</p>
+			<stage>(DOLORES Xes behind platform R)</stage>
+				</sp><sp><speaker>Tweedle</speaker><p>
+		Ah you don't know.  He doesn't know.
+			<stage>(To Lady Holyrood)</stage>
+		I don't know.  Bumps, bumps of robbery largely developed - 
+		bumps of false pretences enormous - habitual criminality
+		like a cannon ball.
+			<stage>(Go back to Gil)</stage>
+			<stage>(Bus. Tweedlepunch pulls handkerchief out of Gilfain's 
+			pocket)</stage>
+			<pb/>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Well, you'll not carry that out.
+			<stage>(Bus. grabs handkerchief from Tweedle)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		My mistake.  To carry out my system to perfection, you 
+		should marry a girl of sound common sense, strength of 
+		purpose - courage and ambition.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Let me out of this.
+			<stage>(Tweedle releases him)</stage>
+		You made it very unpleasant for me, sir.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Oh, no, no I, bumps;
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Thumps, I call it.
+			<stage>(Gilfain Xes L.C.)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		I will now proceed to find the girl.
+			<stage>(Girls all jump up)</stage>
+				</p></sp><sp><speaker>Angela</speaker><p>
+		I pity the poor girl who gets Papa.
+			<stage>(Bus. Tweedlepunch and Lady Holyrood)</stage>
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+			<stage>(Xes R.C. to Tweedlepunch, who is standing on platform)</stage>
+		Mr. Tweedlepunch, will you please feel my bumps.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Will I?  Won't I?
+			<stage>(Feels bumps, Gilfain whistles to him, pantomimes a 
+			"I'm on")</stage>
+		Pardon me dear Madame.  Quite impossible.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		I'm not impossible.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		No, no.  You have no bumps.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		I have bumps.  You don't know your business.
+		<pb/>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Hugh.  Don't give it away.
+			<stage>(Down C)</stage>
+		Lady Holyrood up C. then around to R. corner)
+			<stage>(Approaches Dolores and taps her on the shoulder twice)</stage>
+		The favorite farm girl?
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		What is the trouble, sir?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		I have no trouble.  Permit me -
+			<stage>(He leads her forward and she reluctantly sits
+			in chair)</stage>
+		May I take a little bit off the top.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		What do you mean, off the top?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		You know.
+			<stage>(Bus. kiss)</stage>
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		How dare you, sir?
+			<stage>(Throws Tweedle. off L.C)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Cut that out.  Go on with the business.  Do you know what 
+		you are doing sir?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Yes - taking a little bit off the top.  But it's so refreshing.
+		Be seated.  Common sense as big as a turkey's egg.  Courage - 
+		you could hange a hat on it.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		That's not a bump.  That's my ear.  And besides you are 
+		mussing my hair.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Strength of purpose
+			<stage>(To Gilfain)</stage>
+		Mr. Gilfain, nature has graciously designed your favorite 
+		farm girl for your wife.
+			<stage>(Passes her - X to L.C. she goes up C)</stage>
+				</p></sp><sp><speaker>All</speaker><p>
+		His wife?
+			<stage>(Angela Xes C. tearing up picture of Tweedle and 
+			throws it in his face, then Xes to Gilfain - 
+			Tweedle - C Xes and sits in chair of platform)</stage>
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+			<stage>(R. aside)</stage>
+		Not if I can help it.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Good, if I marry Dolores, my secret is safe forever.  It's 
+		all right.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		It's not all right, pap.  I won't have Dolores for my mother.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(Passing her over to L)</stage>
+		You attend to your own business my dear.
+			<stage>(Turns to Dolores who is C)</stage>
+		Come my darling kiss your husband.
+			<stage>(Enter ABERCOED R - 2 E Xes to C)</stage>
+		<stage>(GILFAIN tries to kiss Dolores - bus. all get up)</stage>
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		No, no, I won't.
+			<stage>(Runs upstage and meets Abercoed)</stage>
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		What's this?  What's the matter?
+			<stage>(Bus - takes Dolores in his arms, and passes her over 
+			to R, she still clings to him, during the next speech)</stage>
+				</p></sp><sp><speaker>Dolores</speaker><p>
+			<stage>(R.C)</stage>
+		Mr. Gilfain wants to marry me and kiss me.  Don't let him.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+			<stage>(C - soothingly)</stage>
+		Don't be afraid.  Mr. Gilfain I protest against this.  Give 
+		up this sham science and let us marry where our hearts 
+		direct.
+		<pb/>
+				</p></sp><sp><speaker>All</speaker><p>
+		Quite right.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Don't you dare to disobey me, sir.  I'm not going to be 
+		dictated to by a mere clerk.  Do as I order you.  Marry 
+		my daughter Angela.
+				</p></sp><sp><speaker>Abercoed</speaker><p> 
+		I will not.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+			<stage>(Xes down R. C)</stage>
+		That's something like a man.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Then I dismiss you from my service.  Leave this Island 
+		at once.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		As you wish.  But I'll be no party to the schemes of this 
+		mountebank, Mr. Gilfain, I leave your service at once.
+			<stage>(Exit L.U.E.)</stage>
+				</p></sp><sp><speaker>All</speaker><p>
+		Quite right.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+			<stage>(Xes to Gilfain L.C)</stage>
+		I'll never marry you.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		You won't.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		No, never, no never, never.
+			<stage>(Exits L.U.E)</stage>
+		Angela and Donegal go to Gilfain.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		I call this base ingratitude.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Oh papa.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+		Don't speak to me for another century.
+			<stage>(Exit L.U.E)</stage>
+			<pb/>
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+			<stage>(R)</stage>
+		Well, Mr. Tweedlepunch, a pretty mess you've made of it.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Sits in chair on platform)</stage>
+		I don't seem to have given entire satisfaction.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		I should think not; now come here you silly old gentleman.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Pardon me, I should like to cement our friendship.  If you 
+		will allow me -- let me see, what have I?
+			<stage>(Looks in pocket)</stage>
+		Ah, my pocket knife.  I have carried that knife for ten 
+		years.  Will you adopt it.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		My dear sir, I don't want your knife.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Ah, I see superstitious.
+				Lady 
+		Well, I will admit that I am.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Well then, we won't make it a present.  Give me some little 
+		thing in exchange.  Anything will do.  It don't matter 
+		about the amount.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		My, but you are a nuisance.
+			<stage>(Gets coin out of purse)</stage>
+		Well there's a penny.
+			<stage>(Tweedle nearly falls in a faint)</stage>
+		<stage>(Lady Holyrood catches him by the coat)</stage>
+		Now listen to me.  I have my check book with me.
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+		Now I am going to give you $500.
+			<stage>(Bus)</stage>
+		If you arrange that, Mr. Gilfain chooses another wife.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Science is a mere baby in the hands of a banker.
+			<stage>(Goes to platform and stands - there)</stage>
+				<pb/>
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+			<stage>(L.C. aside to Angela)</stage>
+		Yes and we'll attend to Tweedlepunch
+			<stage>(Girls and men crowd around Tweedlepunch, saying 
+			"Me next" - - "I WANT TO GET MARRIED" - etc.)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Please, steady.  You shall all be married if you'll only 
+		wait.
+			<stage>(Tweedle - back the chorus off L.U.E.)</stage>
+		Donegal has worked up C - stops his exit up L)
+		    <stage>( After the exit of the Chorus, LADY HOLYROOD and 
+		     ANGELA pull TWEEDLE back, in doing so they rip
+		     his coat up the back)</stage>
+		Oh I'm undone.
+			<stage>(Going up C and turns)</stage>
+			<stage>(After Tweedlepunch speaks his lines, Lady Holyrood
+			R. and Angela L rush to him and catch hold of an 
+			end of his necktie, which is made of elastic.  At 
+			the end of this line, they pull it out and let it go 
+			suddenly, it snaps against his neck.  Is of being 
+			hurt, etc.)</stage>
+				</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+			<stage>(R)</stage>
+		But why did you interfere with us?
+				</p></sp><sp><speaker>Angela</speaker><p> 
+			<stage>(L)</stage>
+		Why should I marry a man I don't love?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(C)</stage>
+		You don't know - 
+			<stage>(Indicating Lady Holyrood)</stage>
+		She doesn't know, I don't know - bumps.
+			<stage>(Runs around Lady L. and exits L.I.E. followed by 
+			Angela and Lady Holyrood and Donegal)</stage>
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		If I catch him, I'll give him a bump that he'll never 
+		forget.
+			<stage>(Exit)</stage>
+			<stage>(Enter L.U.E., ABERCOED and DOLORES)</stage>
+				</p></sp><sp><speaker>Dolores</speaker><p>
+			<stage>(L.C)</stage>
+		And are you really going?
+		<pb/>
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+			<stage>(R. C)</stage>
+		Yes, dear, I must.  After what Mr. Gilfain said - 
+		how can I remain?
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		I'll return soon and claim you.  Can't you trust me?
+		Yes, but I could trust you just as well if I went with 
+		you.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		Never fear, dear, I won't be long parted from you - and
+		whenever I am, you will always be in my thoughts, waiting 
+		for me under the shadows of the beautiful palms.</p>
+			<stage>(Seats her R)</stage>
+			<stage>(SINGS)</stage>
+				<stage>"THE SHADE OF THE PALM."</stage><lg>
+<l>		There is a garden fair, set in an eastern sea,</l>
+<l>		There is a maid keeping trust with me,</l>
+<l>		In the shade of the palm,</l>
+<l>		With a lover's delight,</l>
+<l>		Where 'tis ever the golden day, or silvery night,</l>
+<l>		How can I leave her in this dream of sweet Arcadia,</l>
+<l>		How can I part with her for lands away?</l>
+<l>		In this land of Eden fairest of the sea</l>
+<l>		Oh my beloved bid me stay, in this fair land of Eden,</l>
+<l>		Bid me, beloved, to stay - oh my Dolores</l>
+		</lg>
+				<stage>REFRAIN</stage><lg>
+<l>		Oh my Dolores queen of the Eastern sea,</l>
+<l>			Fair one of Eden, look to the West for me,</l>
+<l>			My star will be shining, love,</l>
+<l>		When you're in the moonlight calm,</l>
+<l>		So be waiting for me by the Eastern sea,</l>
+<l>		In the shade of the sheltering palm.</l></lg>
+			<stage>(At the end of the first refrain, Dolores rises, 
+			Xes to C, very slowly, turns at opening of second
+			verse)</stage>
+				<stage>2.</stage>
+				<lg>
+<l>		There is an island fair, girt by the Western Sea,</l>
+<l>		Dearest, 'tis there one day thou'lt go with me,</l>
+<l>		'Neath the glorious moon hand in hand we'll roam,</l>
+<l>		Hear the nightingale song of June, in young dear land of home.</l>
+<l>		There dearest heart will the past but seem an idle vision,</l>
+<l>		Nought but a dream that fadeth fast away,</l>
+<l>		And the songs we were singing in, in Elysian vales,</l>
+<l>		Seem but a carol of yesterday, happy songs we were singing,</l>
+<l>			Songs of a by-gone day.</l></lg></sp>
+			<stage>(At the finish of song, ABERCOED takes her in his 
+			arms and picture - until Orchestra finishes.  Then 
+			exit ABERCOED L.2.E - Dolores follows him almost 
+			to entrance, slowly)</stage>
+				<sp><speaker>Tweedle</speaker><p>
+			<stage>(Enters L.U.E. - xing to ")</stage>
+		They all seem very angry.
+			<stage>(Sits R. corner - lights gradually change to a 
+			salmon.  Dolores goes to Tweedle - angrily)</stage>
+			<pb/>
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		Now what have you got to say for yourself.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		I'm not saying a word.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+			<stage>(Shakes him - tears his coat)</stage>
+		Oh maybe they've done with you, but I'm not.
+			<stage>(after Dolores tears Tweedlepunch's coat into two
+			pieces, he buttons it up in front and then changes it 
+			from back to front vice versa, bus. to finish before 
+			end of speech)</stage>
+		Is that all right in the back?
+			<stage>(Business Dolores:  stamps foot)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Don't be angry.
+				Del.
+		I'm not angry.  Don't you dare say I'm angry.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		I didn't say you were angry.  I say, don't be angry.  You 
+		are all right you'll soon be married.
+				Del.
+		I know it.  But I'm going to marry Mr. Abercoed, not Mr. 
+		Gilfain.  Do you understand that?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Marry the discharged clerk, when you can get the master?
+		Nonsense, besides that'll hurt Mr. Gilfain's feelings.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		Wel I -- I --
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Have you known him a long time?
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		Ever since I was a baby.  I was born on this Island.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		What a chubby little thing you must have been.
+			<stage>(Bus. with necktie after coat business, he begins to 
+			tie necktie, after trying it he pulls the ends 
+			and it snaps as before)</stage>
+		Well then can you tell me --
+				Delores
+		It belonged to my father.  He went abroad and died - and 
+		then Mr. Gilfain took care of me.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Your father.  What was his name?
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		Fernando Quisara.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Quisara?
+			<stage>(Tweedle takes off his hat, quickly - hat pin 
+			in right hand an left)</stage>
+		And Gilfain took possession of the Island of Florodora,
+		and of you.  I have found her.  I have found her.
+			<stage>(Xing L)</stage>
+			<stage>(Enter ABERCOED L. 2. E)</stage>
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		You silly old man I have been here all the while.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		But I didn't know you were Dolores Quisara.  He did, that's 
+		why he wanted to marry you.
+			<stage>(Drops down R.)</stage>
+		Gilfain is a --
+				</p></sp><sp><speaker>Dolores</speaker><p>
+		What?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		He's a reptile.  You will never marry him.  You can marry 
+		Mr. Abercoed or me, or any other blackguard you like, but 
+		Gilfain, never.  He's a worm - an ordinary cabbage worm
+		and I'll crush.
+			<stage>(He holds his foot up)</stage>
+		That's my crushes - 
+			<stage>(With indignation)</stage>
+			<stage>(Bus. hat pin - puts hat on head, jabs pin in hat -
+			sticks himself, exclamation of pain)</stage>
+		He's a cobra di Capello.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(Off stage, calls)</stage>
+		Leandro.
+		<pb/>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		There he is.  Now you just watch me.
+			<stage>(Goes upstage to meet Gilfain)</stage>
+			<stage>(Abercoed and Dolores Xes to L.)</stage>
+			<stage>(Enter GILFAIN and other principals L.U.E - 
+			Tweedlepunch brings Gilfain down C angrily)</stage>
+		Mr. Gilfain you know me.
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(Shakes hands with him)</stage>
+		Know you - you are my best best friend.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Now isn't that aggravating?
+			<stage>(Goes R.)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(C. to Abercoed)</stage>
+		You still here?  I told you to be off.
+				</p></sp><sp><speaker>Abercoed</speaker><p>
+		I don't need to be told again, sir.  I'm going.
+				</p></sp><sp><speaker>Dolores</speaker><p>
+			<stage>(X 1 X)</stage>
+		I'll go too.  I'll go with him.
+			<stage>(Arms around Abercoed)</stage>
+				</p></sp><sp><speaker>Gilfain</speaker><p>
+			<stage>(Catches her by the hand and Xes her to R.C.)</stage>
+		No you don't; you stay here.  You're mind.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(R.)</stage>
+		And mine.</p></sp>
+			<stage>(Exits slowly L U E)</stage>
+				<stage>FINALE</stage><sp>
+				<speaker>Girls</speaker><lg>
+<l>			Hey, hey, lackaday</l>
+<l>				Our loving hearts asunder, he has riven</l>
+<l>			With tears, tears we cannot stay</l>
+<l>				We see our boys to others given.</l>
+				</lg></sp>
+		<pb/>
+				<sp><speaker>Tenors and Basses</speaker><lg>
+<l>			Of scientific fraud.</l>
+<l>			The worst of all phrenology</l>
+<l>			The maids we hold in hate are given us to wed.</l>
+<l>				While girls that we've adored,</l>
+<l>				Without the least apology,</l>
+<l>			Are now assigned to mate with men,</l>
+<l>			Who've other girls instead.</l></lg></sp>
+		<stage>(Boat comes on C - Abercoed comes down from R U E)</stage>
+				<sp><speaker>DUST - Abercoed and Dolores</speaker>
+<lg>
+<l>			This is not sorrow</l>
+<l>			This is not parting,</l>
+<l>		This is the hour when two hearts unite</l>
+<l>			Seas may divide us,</l>
+<l>			Years keep in longing</l>
+<l>		This is the dawn that knows no night,</l>
+<l>			Time will not sever</l>
+<l>			We vow for ever</l>
+<l>		This bond we will never betray.</l></lg></sp>
+				<sp><speaker>Abercoed</speaker><lg>
+<l>			Farewell, my own,</l>
+<l>			You are the dearest at parting</l>
+<l>			To thee ever alone, dear love.</l>
+<l>			I will vow I will ever be true.</l>
+				</lg></sp><sp><speaker>Dolores</speaker><lg>
+<l>		Farewell, though seas may divide us,</l>
+<l>		Farewell, though fate may divide us,</l>
+<l>			Farewell, farewell.</l>
+<l>			I love you forever and ever.</l>
+<l>			Where'er I roam, where I roam</l>
+<l>				Abercoed and Donegal</l>
+<l>			Stay we implore you</l>
+				</lg></sp><sp><speaker>Chorus</speaker><lg>
+<l>			See, hand in hand they kneel,</l>
+<l>			They may, you may repent, hear --</l></lg>
+			<stage>(Abercoed exits L to R in boat)</stage>
+				<pb/>
+					</sp><sp><speaker>All</speaker>
+			<stage>(Kneeling to Gilfain)</stage><lg>
+<l>				Hand in hand we kneel imploring</l>
+<l>					Of your harshness you'll repent</l>
+<l>				Do not part two hearts adoring,</l>
+<l>					By withholding your consent,</l>
+<l>				We kneel, We kneel</l>
+<l>					We implore you - </l>
+<l>				We pray you repent,</l>
+<l>					We pray you, do you part us</l>
+<l>				By withholding your consent, your consent.</l>
+<l>					Of scientific fraud</l>
+<l>				The worst of all phrenology</l>
+<l>					The men we hold in hate</l>
+<l>				Are given us to wed.</l>
+<l>					While men that we've adored,</l>
+<l>					Without the least apology,</l>
+<l>				Are now assigned to other girls instead.</l>
+					</lg></sp><sp><speaker>Gilfain</speaker><lg>
+<l>				Though your lover has departed,</l>
+<l>				Be no longer brokenhearted,</l>
+<l>					For you now are free,</l>
+<l>					To love and marry me.</l></lg>
+			<stage>(LADY HOLYROOD enters L. I. E and drops down R.C.)</stage>
+<lg>
+<l>				He will not return to claim you.</l>
+<l>				You're deserted, none shall blame you - </l>
+<l>					If you marry me.</l>
+<l>					Yes, marry me.</l>
+						</lg></sp><sp><speaker>Lady H.</speaker><lg>
+<l>					Why marry in this hurry.</l>
+<l>					Surely you've no need to worry,</l>
+<l>					There are good fish waiting, waiting</l>
+<l>							in the sea.</l>
+<l>						For a millionaire colonial,</l>
+<l>					In such matters matrimonial,</l>
+<l>						You might do worse than wait for me,</l>
+<l>					Do worse than wait for me.</l>
+						</lg></sp><sp><speaker>Chorus</speaker>
+					<stage>(To Dolores)</stage><lg>
+<l>						Be no longer broken hearted,</l>
+<l>						For he now has set you free,</l>
+<l>						You're deserted, none can blame you,</l>
+<l>						If his bride you mean to be.</l></lg>
+						<pb/>
+					<stage>(To Gilfain)</stage>
+<lg><l>					But despite your worst endeavor</l>
+<l>					She'll be true to him forever,</l>
+<l>					She'll be true to him forever,</l>
+<l>						Or her love returns.</l></lg>
+					<stage>(Gil. walks from R to L)</stage>
+						</sp><sp><speaker>Chorus</speaker><lg>
+<l>					We will refuse you</l>
+<l>					We will defy you,</l>
+<l>					Though our resistance appears to you in vain</l>
+<l>					We mean revolting,</l>
+<l>					We won't obey you,</l>
+<l>					We will deny you</l>
+<l>					We won't be matched again</l>
+						</lg></sp><sp><speaker>Dolores</speaker><lg>
+<l>					Ah come my defender, come now and protect me,</l>
+<l>					Till no one proclaim that no hand will divide,</l>
+<l>					That no hand will divide.</l>
+					</lg>
+					</sp>
+					<sp>	<speaker>Abercoed</speaker><stage> (Off stage)</stage><lg>
+<l>					Oh my Dolores, Queen of the Eastern sea,</l>
+<l>					Fair one Eden, look to the west for me,</l>
+<l>					My star will be shining love,</l>
+<l>					When you're in the moonlight calm,</l>
+<l>					So be waiting for me by the Eastern sea,</l>
+<l>					In the shade of the sheltering palm.</l></lg>
+					</sp>
+				<stage>(Enter TWEEDLE L U E)</stage>
+						<sp><speaker>Chorus</speaker><lg>
+					<l>'Tis the star of love, (etc.)</l>
+					</lg></sp>
+					<pb/>
+				</div></div>
+				<div type="act" n="2">
+				<div type="scene" n="1">	
+						<stage>FLORODORA</stage>
+						<stage><emph rend="underline">ACT II</emph></stage>
+		<stage>SCENE 1:  		A courtyard</stage>
+						<stage>Exterior of Abercoed Castle, a fine
+						old castle in Wales L.</stage>
+						<stage>
+						Over the Castle entrance is the 
+						word "Florodora".</stage>
+						<stage>A pretty garden lawn tent, with 
+						flag flying.  Florodora, just off 
+						stage R.I.E.)</stage>
+		<stage>DISCOVERED:		Peasants in Welsh costume.</stage>
+		<sp><speaker>CHORUS OF PEASANTS</speaker><lg>
+<l>				Rising from the loaded table,</l>
+<l>				Where we feasted till unable</l>
+<l>					To devour another sip or crumb,</l>
+<l>				Thanks to ancient port and sherry,</l>
+<l>				Most elated - gay and merry</l>
+<l>					So much so, if truth be said</l>
+<l>					We would best go home to bed.</l>
+					</lg></sp>
+					<sp><speaker>GIRLS</speaker>
+				<l>No, no, no, no, no.</l>
+				</sp>
+					<sp><speaker>Tenor Sole</speaker><lg>
+<l>				No despite our over-feeding,</l>
+<l>				In defiance of good breeding,</l>
+<l>				Let us wind up the proceeding,</l>
+<l>					In the only way we know,</l>
+<l>				Hearken to a wise suggestion,</l>
+<l>				For there's not the slightest question,</l>
+<l>				You can much assist digestion.</l>
+<l>					We must show </l>
+<l>					With the light fantastic tie </l>
+<l>					So you show the toe</l>
+				</lg></sp>
+					<stage>REFRAIN AND DANCE</stage>
+					<sp><speaker>Six girls and Six Boys:</speaker>
+					<lg>
+<l>				Dainty ankles tripping lightly,</l>
+<l>					Neath an unsuspected frill,</l>
+<l>				Tiny waist encircled tightly,</l>
+<l>					Causing manly heart a thrill,</l>
+<l>				Merrily we romp and rollick,</l>
+				<pb/>
+<l>					Pirouette and gaily prance</l>
+<l>				With unmitigated frolic,</l>
+<l>				In a manner quite bucolic,</l>
+<l>					We'll embrace the welcome chance,</l>
+<l>					Now to revel in the dance.</l>
+				</lg></sp>
+				<stage>(At the end of dance, chorus breaks up into groups,
+				R. and L.)</stage>
+				<stage>
+				<stage>(Enter VALLEDA followed by LEANDRO C. she is now 
+				Lady Holyrood, and dressed accordingly, She goes 
+				to door L. and says to footmen inside)</stage>
+				</stage>
+						<sp><speaker>Valleda</speaker><p>
+					<stage>(R.C.)</stage>
+				Will you tell Lady Holyrood that she's wanted at once?
+						</p></sp><sp><speaker>Leandro</speaker><p>
+					<stage>(C. insinuating)</stage>
+				And ain't I wanted, too?
+						</p></sp><sp><speaker>Valleda</speaker><p>
+					<stage>(Xing him to L.C.)</stage>
+				Not by me anyhow.  I didn't come to England to mix up with 
+				a foreigner.
+						</p></sp><sp><speaker>Leandro</speaker><p>
+					<stage>(Aside)</stage>
+				She puts on as many airs as if she was the missus.
+				</p></sp>
+					<stage>(Goes up R.)</stage>
+					<stage>(Enter Lady Holyrood, L.U.E. from castle)</stage>
+						<sp><speaker>Lady Holyrood</speaker><p>
+					<stage>(Coming down C)</stage>
+				Well, Valleda, what is it?
+						</p></sp><sp><speaker>Valleda</speaker><p>
+					<stage>(R.C.)</stage>
+				Your ladyship's brother, Capt. Donegal, has arrived.
+						</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+				Tell him to see me here.
+					<stage>(Valleda goes up C. to steps)</stage>
+				I've made Mr. Gilfain see that for the sake of propriety
+				I must have my family with me.
+					<stage>(Enter Donegal, C. comes down)</stage>
+			<pb/>
+					</p></sp><sp><speaker>Donegal</speaker><p>
+			Ah there you are, sis!
+				<stage>(Embraces her)</stage>
+					</p></sp><sp><speaker>Lady H.</speaker><p>
+			Valleda, tell Miss Angela that Capt. Donegal is here.
+				<stage>(exit Valleda into castle)</stage>
+					</p></sp><sp><speaker>Donegal</speaker><p>
+				<stage>(R.)</stage>
+			You are a wonderful woman, sis, I never thought you could 
+			give me an invitation here.
+					</p></sp><sp><speaker>Lady H.</speaker><p>
+			I insisted upon it, I told Mr. Gilfain that my reputation 
+			would suffer if I remained here without my family.  Hither 
+			you must come or I must go.
+					</p></sp><sp><speaker>Donegal</speaker><p>
+			Quite right.  Oh, I say, sis, I'm just dying for a drink.
+					</p></sp><sp><speaker>Lady H.</speaker><p>
+			Right over there.
+				<stage>(Points to tent R)</stage>
+			Refreshment tent.
+					</p></sp><sp><speaker>Donegal</speaker><p>
+			Splendid.  Oh, by the way, have you arranged anything?
+			Are you going to marry Gilfain?
+					</p></sp><sp><speaker>Lady H.</speaker><p>
+			No, not yet.
+					</p></sp><sp><speaker>Donegal</speaker><p>
+			Not yet.  Well, you are in a very peculiar position here,
+			aren't you.
+					</p></sp><sp><speaker>Lady H.</speaker><p>
+			Not at all.  I am society help and have charge of the 
+			entire establishment.
+					</p></sp><sp><speaker>Donegal</speaker><p>
+			Ah, I see -- a sort of lady housekeeper, with seven nights 
+			a week out, and ---
+				<stage>(Rest of speech interrupted)</stage>
+					</p></sp><sp><speaker>Lady H.</speaker><p>
+			Don't be ridiculous, Arthur, every new millionaire requires
+			a title to look after his social advancement.  Even a 
+			millionaire is nothing but a baby in the hands of a woman
+			with tact.</p></sp>
+			<pb/>
+				<stage>(Donegal exits into tent R)</stage>
+					<stage><emph rend="underline">SOLO:</emph></stage>
+							<stage>"TACT:"</stage>
+							<sp>
+							<speaker>Lady Holyrood</speaker>						
+							<lg>
+<l>					There are people who have tried</l>
+<l>					To be smart and dignified</l>
+<l>					But there's just one little thing that they have lacked,</l>
+<l>					They have cash enough maybe,</l>
+<l>					And no end of pedigree,</l>
+<l>					But they never have a penny's worth of tact,</l>
+<l>					You wouldn't tell a lie </l>
+<l>					Oh no, you'd rather die,</l>
+<l>					For you'd surely be discovered before long,</l>
+<l>					But if only tact you've got,</l>
+<l>					You can do an awful lot,</l>
+<l>					Which before you might have thought was very wrong.</l>
+					</lg></sp>
+							<stage>REFRAIN:</stage>
+						<sp>	
+					<lg>		
+<l>					Tact, tact,</l>
+<l>					Take it for a fact,</l>
+<l>					Just try it; you will find it will invariably act,</l>
+<l>					Perhaps they told you in your youth,</l>
+<l>					That there's nothing like the truth,</l>
+<l>					But it really can't compare at all with tact, tact, tact.</l>
+<l>					No, it really can't compare at all with tact.</l>
+					</lg></sp>
+							<stage><emph rend="underline">2nd.</emph></stage>
+					<sp>
+					<lg>
+<l>					In the morning you must drive.</l>
+<l>					Into Bond Street, and you dive,</l>
+<l>					Into all the stores as busy as a bee,</l>
+<l>					At a jewellers shop you stop,</l>
+<l>					And you pop inside the shop,</l>
+<l>					Ah, good morning, something nice to show me,</l>
+<l>					A tiara, ah what fun.</l>
+<l>					I think I'll take that one,</l>
+<l>					But dear, me, I do believe my brougham has gone,</l>
+<l>						Never speak about the price,</l>
+<l>						Just talk pretty and look nice,</l>
+<l>					And ask him how his wife is getting on.</l>
+					</lg>
+					</sp>
+						<stage>REFRAIN:</stage>
+						<sp>	
+					<lg>		
+<l>					Tact, tact,</l>
+<l>					Take it for a fact,</l>
+<l>				Always kiss a tradesman's baby and you'll find that it'll act,</l>
+<l>					When at last enough you owe</l>
+<l>					Into bankruptcy you go</l>
+					<pb/>
+<l>				You can save a lot of money if you've tact, tact, tact.</l>
+<l>					Yes, you can save a lot of money if you've tact.</l>
+					</lg>
+					</sp>
+					<stage>
+							3rd.</stage>
+						<sp>	<lg>
+<l>					Then at the Goodwood you must stay,</l>
+<l>					And roulette of course you play,</l>
+<l>				For the evenings otherwise would be slow.</l>
+<l>					But you needn't be upset,</l>
+<l>					When you find yourself in debt,</l>
+<l>				If you're not inclined to pay you simply owe,</l>
+<l>					Well, next day you're on the course.</l>
+			</lg><lg>
+<l>				So a friend will put the money on for you,</l>
+<l>					For a lady in the ring,</l>
+<l>					Wouldn't be the proper thing,</l>
+<l>				And besides you've lost your purse -- you always do.</l>
+				</lg></sp>
+					<stage>		Refrain</stage>
+					<sp><lg>
+<l>						Tact, tact,</l>
+<l>						Take it for a fact,</l>
+<l>					The race is run, you cannot see the horse that you have backed</l>
+<l>						Then you say, what have you done?</l>
+<l>						I meant to back the one that won,</l>
+<l>					Oh you can do a lot of betting if you've tact, tact, tact,</l>
+<l>						You can do a lot of betting if you've tact.</l>
+						</lg></sp>
+						<stage>4th.</stage>
+<sp><lg><l>						The academy you view,</l>
+<l>						Or you've nothing else to do</l>
+<l>					Or you're really fond of art of course you don't,</l>
+<l>						Then a pianist you know,</l>
+<l>						And a promise you will go,</l>
+<l>					To his concerts --if you're musical you won't.</l>
+<l>						Then a gorgeous gown you buy</l>
+<l>						The price is cut too high,</l>
+<l>					Considering that the gown is cut so low,</l>
+<l>						For the lady of today,</l>
+<l>						Doesn't have a heart they say,</l>
+<l>					But she has a neck and that she means to show.</l>
+					</lg></sp>
+						<stage>REFRAIN</stage>
+							<sp><lg>
+<l>						Tact, tact,</l>
+<l>						Take it for a fact,</l>
+<l>					Her dinner dress has no support and yet it seems to act,</l>
+<l>						And her costume at the ball,</l>
+<l>						It's not material at all,</l>
+<l>					It's enough if she had diamonds and tact, tact, tact,</l>
+<l>						It's enough if she has diamond and tact.</l></lg>
+					</sp><pb/>
+						<stage>5th</stage>
+						<sp>	<lg>
+<l>					If you stage a moral play,</l>
+<l>					And somehow it doesn't pay,</l>
+<l>					Don't despair about the patronage you've lacked,</l>
+<l>					Try to get the piece suppressed,</l>
+<l>					Let the people do the rest,</l>
+<l>					If they think it's bad, the house will soon be packed,</l>
+<l>					But there's still a quicker way,</l>
+<l>					To make a losing venture pay,</l>
+<l>					Get a preacher to denounce the piece by name,</l>
+<l>					Everyone must see the show,</l>
+<l>					That has roused the pulpit so,</l>
+<l>					Everyone must pay to do it just the same.</l>
+					</lg></sp>
+							<stage>Refrain</stage>
+<sp><lg>
+<l>					Tact, tact,</l>
+<l>					It never fails to act,</l>
+<l>					Your treasurer'll be busy if your play has been attacked,</l>
+<l>					Any clergyman who's wise,</l>
+<l>					Knows it pays to advertise,</l>
+<l>					And sometimes preachers do it for a fact, fact, fact,</l>
+<l>					Sometimes preachers do it for a fact.</l>
+					</lg></sp>
+							<stage>6th</stage> 
+							<sp>
+<lg>
+<l>					If your best young man is shy,</l>
+<l>					And you really don't know why,</l>
+<l>					Here's a plan you'll find works out of sight.</l>
+<l>					Turn the gas down rather low,</l>
+<l>					For gas hurts the eyes you know,</l>
+<l>					And your eyesight might be ruined by the light,</l>
+<l>					If he seems a bit perplexed,</l>
+<l>					As to what he should do next,</l>
+<l>					Gently nestle close against his manly breast,</l>
+<l>					Say you're not afraid and swear,</l>
+<l>					You would trust him anywhere.</l>
+<l>					And a minister will have to do the rest.</l>
+</lg>					</sp>
+							<stage>Refrain</stage>
+							<sp>
+<lg>							
+<l>					Tact, tact,</l>
+<l>					For a matrimonial pact,</l>
+<l>					Just turn the gas down lower, and see how it will act,</l>
+<l>					Cupid I might hear remark,</l>
+<l>					Always works best in the dark,</l>
+<l>					You can help him quite a little if you've tact, tact, tact,</l>
+<l>					You can help him quite a little if you've tact.</l>
+					</lg></sp>
+						<stage>(After Song, exit LADY HOLYROOD L.I.E. DONEGAL
+						enters from tent R.  Enter VALLEDA and ANGELA
+						from castle L)</stage>
+						<sp><speaker>Valleda</speaker><p>
+						<stage>(L.C. to Donegal)</stage>
+					Here's Nice Angela
+							</p></sp><sp><speaker>Angela</speaker><p>
+					Oh, Arthur, I'm so glad to see you again.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+						<stage>(R.C.)</stage>
+					And I'm precious glad to see you.  I was afraid your father 
+					wouldn't let me in here.
+							</p></sp><sp><speaker>Angela</speaker><p>
+					He wouldn't but for Lady Holyrood insisting upon it.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Well, I'm all right now, how does dear papa get on?
+						<stage>(Re-enter LADY HOLYROOD L.I.E.)</stage>
+							</p></sp><sp><speaker>Angela</speaker><p>
+						<stage>(C)</stage>
+					Worse and worse, since he bought this castle and came to 
+					live in England, he's more ridiculous than ever.
+							</p></sp><sp><speaker>Lady H.</speaker><p>
+						<stage>(L.E.)</stage>
+					A rich man is never ridiculous in England, or anywhere else.
+							</p></sp><sp><speaker>Angela</speaker><p>
+					But pap overdoes it.
+						<stage>(Lady H. goes up C)</stage>
+					He goes about as if he were Barnum's circus, and his 
+					carriages are all red and gold like Lord Mayor's.
+							</p></sp><sp><speaker>Lady Holyrood</speaker><p>
+						<stage>(R.)</stage>
+					Um, It looks like a patent medicine wagon.
+							</p></sp><sp><speaker>Angela</speaker><p>
+					He call Leandro the captain of his body guard.  And those 
+					who used to be his clerks he now calls his secretaries.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Ah, that reminds me, has anything been heard of his late
+					clerk, Abercoed?</p></sp>
+					<sp><speaker>Angela</speaker>
+							<stage>(L)</stage><p>
+					No--nothing, since he left the Island, he seems to have disappeared
+					altogether.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					And that pretty spanish girl?
+						<stage>(Turning to Lady H.)</stage>
+					What was her name?
+						<pb/>
+							</p></sp><sp><speaker>Lady H.</speaker><p>
+					I beg your pardon!
+						<stage>(Goes up C)</stage>
+							</p></sp><sp><speaker>Angela</speaker><p>
+					Dolores?  She vanished with professor Tweedlepunch right after 
+					Abercoed left.  They haven't been heard from either.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+						<stage>(C. goes to Angela)</stage>
+					Well, never mind them, how about our little bit of business?
+					Are we to be married, with dear papa's consent, or do we 
+					take French leave?
+							</p></sp><sp><speaker>Angela</speaker><p>
+						<stage>(L)</stage>
+					I don't care which, but pap- still believes Professor 
+					Tweedlepunch's science.  He says nature cannot make mistakes.
+						<stage>(During this speech, Lady Holyrood having gone up C.
+						gets back to her position R.)</stage>
+							</p></sp><sp><speaker>Lady H.</speaker><p>
+						<stage>(R)</stage>
+					Nature not make mistakes?  Absurd!  Think of the original 
+					color of my hair!
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Don't say that, somebody may believe you.
+							</p></sp><sp><speaker>Angela</speaker><p>
+					He insists that even if I don't marry Lord Abercoed I must 
+					marry a nobleman.  He says the present harmony in the Anglo
+					Saxon race is because of the marriage of American Heiresses 
+					and English Peers.
+							</p></sp><sp><speaker>Lady H.</speaker><p>
+					Nonsense!  That's where he's wrong again.  England and 
+					America owe their present friendship to the success of the 
+					Belle of New York.  We'll leave Arthur to interview the new 
+					millionaire.
+						<stage>(EXIT with ANGELA into castle R)</stage>
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Not I!  I can't stand these millionaires with their new money 
+					and their old castles.  I'm off with you.</p><stage>(Exits into castle)</stage></sp>
+							<sp><speaker>Leandro</speaker><stage>(On platform C)</stage><p>
+					Mr. Gilfain the millionare!</p></sp>
+						<stage>(MUSIC>  Enter from C. SERVANTS in livery headed by 
+						LEANDRO, they form lines, the chorus crowd round 
+						GILFAIN C. in English clothes, frock coat, patent-
+						leather boots, silk hat, etc., following him are the 
+						CLERKS similarly dressed and all carrying despatch boxes)</stage>
+						<pb/>
+							<sp><speaker>SOLO...GILFAIN</speaker>
+						<stage>"WHEN YOU'RE A MILLIONAIRE"</stage>
+<lg>
+<l>				When you're a millionaire, endeavor,</l>
+<l>					To pose as one of such</l>
+<l>				Throw your money in the air -- you'll never,</l>
+<l>					Be told you throw too much,</l>
+<l>				Take a castle of gorgeous splendor,</l>
+<l>					For your daughters and your abode,</l>
+<l>				Let a dozen footmen attend her,</l>
+<l>					When she crosses the crowded road,</l>
+<l>				Let your noble guests be bloated.</l>
+<l>					With peas that cost a guinea each</l>
+<l>				And in case it shouldn't be noted,</l>
+<l>					Mention the price in every speech,</l>
+<l>				Every hobby you must take up,</l>
+<l>					Whether it's diamonds or a Yacht,</l>
+<l>				And professional beauties make up,</l>
+<l>					Even although you'd rather not.</l>
+</lg>
+							<stage>REFRAIN</stage> 
+							<lg>
+<l>				Just the nation will declare you are, </l>
+<l>					When they see what a millionaire you are,</l>
+<l>						A blessing and a boon,</l>
+<l>						To the country which soon,</l>
+<l>				Will grant you a peerage and there you are,</l>
+<l>				The nation will declare you are,</l>
+<l>				When they see what a millionaire you are,</l>
+<l>						A blessing and a boon,</l>
+<l>				To the country which will soon.</l>
+<l>				By the way of requital,</l>
+<l>				Will grant you a title,</l>
+<l>						And there you are.</l>
+</lg>
+</sp>
+				<stage>(Chorus repeats refrain)</stage>
+				<stage>2nd</stage>
+				<sp><lg>
+<l>				You must run an evening journal,</l>
+<l>					Either of pink or yellow tint,</l>
+<l>				In which your doing di-urnal,</l>
+<l>					And will appear in largest print,</l>
+<l>				Such as "We learned he bagged the keeper,</l>
+<l>					When in the woods he shot today,</l>
+<l>				But he finds his game comes cheaper,</l>
+<l>					Bought in the ordinary way,</l>
+<l>				Keep many a training stable,</l>
+<l>					Although your horses never win,</l>
+<l>				Join the very best club you're able,</l>
+<l>					Members go out when you come in,</l>
+<l>				Lease a theatre if entangles,</l>
+<l>					You would get behind the scenes,</l>
+<l>				Your bangles causing wrangles,</l>
+<l>					Among the various footlight queens.</l>
+</lg></sp>
+					<stage>(Chorus repeats refrain)</stage>
+					<stage>3rd</stage>
+<sp><lg>
+<l>				When you're a millionaire, remember the earth belongs to</l>
+<l>				If you're rich you needn't care the world will endorse</l>
+<l>					Whatever you do,</l>
+<l>				You must go to dear old London and engage a palace there,</l>
+<l>				Then just make yourself a social clown and your name,</l>
+<l>					will ring through the land</l>
+<l>				To show that you're not proud to go in and snub a prince's </l>
+<l>															friend,</l>
+<l>				And to square yourself, just show that you've got money </l>
+<l>					to burn and lend,</l>
+<l>				You give an evening party, and invite all the swells you </l>
+<l>															know,</l>
+<l>				But you mustn't feel disappointed if to Devonshire House,</l>
+<l>					they go.</l>
+</lg></sp>
+						<stage>Refrain</stage>
+				<stage>(Chorus repeats)</stage>
+				<stage>(Exit Chorus R. and L. SPANISH GIRLS L.I.E. The 
+				CLERKS remain on stage in groups, one stands R. by 
+				tent, talking to typewriter)</stage>
+						<sp><speaker>Gilfain</speaker><p> 
+				Before the festivities we must attend to business.  Here 
+				goes.  Secretary for the Home Department.</p>
+					<stage>(PYM steps forward)</stage>
+				<p>Is our popularity increasing with our tenants.</p>
+						</sp><sp><speaker>Pym</speaker><p>
+				Not as I should like, sir.  There are some agitators,
+				among them who object to being entertained every day and are 
+				finding fault with you.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Dear, dear.  I give them salmon, game, caviar, pate de fois
+				gras champagne.  What do they want?  I provide them with 
+				conjurors, the biograph, and a band from Blue Hungary, and 
+				still they aren't satisfied.  It's very disappointing.
+				<pb/>
+						</p></sp><sp><speaker>Pym</speaker><p>
+				I can't make it out.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				They will do, go inside and see if you can make it out.</p>
+					<stage>(Exit Pym L.2.)</stage>
+				<p>Where's my typewriter?</p></sp>
+						<sp><speaker>Miss Belmont</speaker>
+					<stage>(Talking to Leandro at tent)</stage>
+				<p>Here, sir.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Come here.  A tip flirting with that married man.</p></sp>
+						<sp><speaker>Miss Belmont</speaker><p>
+				I'm not flirting and he's not a married man.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Have you written my letters?
+					</p></sp>
+						<sp><speaker>Miss Belmont</speaker><p>
+				As many as I could.  It takes a long time to correct the 
+				mistakes in your grammar.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				I won't have them corrected.  Leave them all in.  I want 
+				to be taken for an English nobleman.
+					</p></sp>
+						<sp><speaker>Miss Belmont</speaker><p>
+				I'll do my way or not at all.  I am an experienced
+				stenographer, and I won't let anyone dictate to me.
+					<stage>(She exits R.U.E.)</stage>
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Phew, what a temper!</p>
+					<stage>(Speaking after her)</stage>
+				<p>You don't mind my being here, do you?</p>
+					<stage>(Aepfelbaum exits into cast)</stage>
+					<stage>(Aside)</stage>
+				<p>While Dolores is roaming all over the world, with that schemer,
+				Tweedlepunch, my secret is not safe for one moment.  And I'm 
+				like the English dailies - I never get the earliest news of 
+				anything.  Follow me Leandro - sneak -</p> </sp>
+					<stage>(Exits R. followed by Leandro)</stage>
+					<stage>(Enter CLERKS L.2., ENGLISH LADIES, R.2.)</stage>
+					<pb/>
+					<stage>MUSICAL NUMBER "TELL ME PRETTY MAIDEN"</stage>
+<sp><speaker>Men</speaker><lg>
+<l>				Tell me, pretty maiden</l>
+<l>				Are there any more at home like you?</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				There are a few, kind sir,</l>
+<l>				But simple girls, and proper too.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				Then tell me pretty maiden,</l>
+<l>				What these simple girlies do?</l>
+<l>				Then tell me pretty maiden what the girlies do.</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				Kind sir, their manners are perfection,</l>
+<l>				And the opposite of mine.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				Then take a little walk with me,</l>
+<l>				And then I can see,</l>
+<l>				What a most particular girl should be.</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				I may love you too well, to let you go,</l>
+<l>				And flirt with those at home, you know.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				Well, don't mind little girl.</l>
+<l>				You'll see I'll only want but you.</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				It's not quite fair to them,</l>
+<l>				If you told them that you were true.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				I don't care a pine for your sisters if you love me-</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				What would you say if I said I liked you well?</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				I'd vow to you on bended knee.</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				On bended knee,</l>
+<l>				If I loved you, would you tell me what I ought to do,</l>
+<l>				To keep you all mine, alone, to always be true to me?</l>
+<l>				If I loved you, would it be a silly thing to do?</l>
+<pb/>
+<l>				for I must love someone.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				Then why not me?</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				Yes, I must love someone really</l>
+<l>				And it might as well be you</l></lg></sp>
+						<stage>2nd</stage>
+<sp><speaker>Girls</speaker><lg>
+<l>				Tell me gentle stranger</l>
+<l>				Are there any more at home like you.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				There are few, sweet maid,</l>
+<l>				And better boys you never knew.</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				Then tell me gentle sir,</l>
+<l>				The things these very rankish fellows do,</l>
+<l>				Then tell me, tell me</l>
+<l>				What these fellows do.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				Dear maid, they flirt with girls too freely,</l>
+<l>				And it's not the same girl twice.</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				Then let me round and let me show,</l>
+<l>				For an hour or so,</l>
+<l>				How far such fellows can really go.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				I never introduce a girl, I intend.</l>
+<l>				To be my most particular friend.</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				I won't mind what they do</l>
+<l>				No man would ever flirt with me.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				It's not worth risking it - </l>
+<l>				I know with them you won't agree</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				I don't want to know them</l>
+<l>				If you will do the flirting.</l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				Of course I will try, for we're doing very well.</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				And vow to me - </l></lg>
+</sp><sp><speaker>Men</speaker><lg>
+<l>				On bended knee --</l>
+</lg></sp>
+				<sp><speaker>Girls</speaker><lg>		 
+<l>				On bended knee.</l>
+<l>				If I loved you,</l>
+<l>				Would you tell me what I ought to do?</l>
+<l>				To keep you all mine alone,</l>
+<l>				To always be true to me,</l>
+<l>				If I loved you,</l>
+<l>				Would it be a silly thing to do,</l>
+<l>				For I must love someone.</l></lg></sp>
+<sp><speaker>Men</speaker><lg>
+<l>				Then why not me</l></lg>
+</sp><sp><speaker>Girls</speaker><lg>
+<l>				Yes, I must love someone, really</l>
+<l>				And it might as well be you.</l></lg></sp>
+					<stage>(EXEUNT)</stage>
+					<stage>(Enter ANGELA and DONEGAL C. from castle)</stage>
+						<sp><speaker>Donegal</speaker><p>
+				And so all this grandeur doesn't suit you.
+						</p></sp><sp><speaker>Angela</speaker><p> 
+				No, I don't care for it.
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				Don't worry about it, you won't have it when you marry me.
+						</p></sp><sp><speaker>Angela</speaker><p>
+				I shan't mind being poor, I should think it delightful
+				for a change.
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				But you forget, when you are poor you have no change.
+				You need it all for car fare.
+						</p></sp><sp><speaker>Angela</speaker><p>
+				No elaborate toilettes for dinner.
+					<stage>(Xing L.)</stage>
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				No.  Quite necessary.
+				<pb/>
+						</p></sp><sp><speaker>Angela</speaker><p>
+				You are young and strong.  I don't believe we'll need 
+				to keep a servant.  I can get the breakfast.
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				Oh no.
+					<stage>(Aside)</stage>
+				I know those breakfasts
+					<stage>(Aloud)</stage>
+				No I'll get the breakfasts
+						</p></sp><sp><speaker>Angela</speaker><p>
+				No, I'll get the breakfast!  Dear you can build the fire.
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				No I couldn't think of imposing upon your generosity to
+				that extent.  No I'll get the breakfast and you shall 
+				build the fire.  What do you say?
+						</p></sp><sp><speaker>Angela</speaker><p>
+				But why have a fire at all?
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				Yes, why - well when the fire is out.  Why have any 
+				breakfast?  We are young and strong, we don't need any 
+				breakfast.
+						</p></sp><sp><speaker>Angela</speaker><p>
+				How about the dinner?
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				Oh we'll be invited out to dinner.
+						</p></sp><sp><speaker>Angela</speaker><p> 
+				And those delightful Bohemian suppers.
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				Yes, everything in cans.
+						</p></sp><sp><speaker>Angela</speaker><p>
+				Who will answer the door bell?
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				Oh, you don't need anyone to answer the door bells, when 
+				you live in flats.  The doors open mysteriously of 
+				themselves.
+						</p></sp><sp><speaker>Angela</speaker><p>
+				Oh Flats.  Heavenly!  When we want anything, there'll be 
+				something to touch.
+						<pb/>
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				Touch.  Oh I see, you mean your father, don't you?
+						</p></sp><sp><speaker>Angela</speaker><p>
+				No, I don't.  Now then, go and tell your sister all 
+				about it.
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				All right.  I'll obey you now, but just wait till we 
+				are married.
+					<stage>(Exits into castle)</stage>
+						</p></sp><sp><speaker>Angela</speaker><p>
+					<stage>(Xing C.)</stage>
+				I do hope he won't be gone long, if he is, I can call him 
+				back again.  No girl ever goes through her school days 
+				without learning that trick.</p></sp>
+				<stage>SONG ANGELA - "WILLIE WAS A GAY BOY"</stage>
+				<stage>(Exit into castle)</stage>
+				<stage>(After song - enter ABERCOED C. disguised as an 
+				old Welsh harper with a gray beard, commotion and 
+				shouts, outside "There he goes", "you've got him"
+				etc., etc. Abercoed runs on followed by LEANDRO who 
+				catches him.  He is out of breath and struggles)</stage>
+						<sp><speaker>Leandro</speaker><p>
+				The Governor said no strangers here.  This fellow is up to 
+				some game.
+					<stage>(To Aber)</stage>
+				Honest men, don't need to disguise themselves.
+					<stage>(He tears off Abercoed's disguise)</stage>
+					<stage>(Enter DONEGAL R.2. and ANGELA L.1.E.)</stage>
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				Why, what's the matter?
+						</p></sp><sp><speaker>Leandro</speaker><p>
+				A burglar.  Or a highwayman.
+						</p></sp><sp><speaker>Abercoed</speaker><p>
+					<stage>(Breaks away - men go up C)</stage>
+				No it's neither.  It's only an honest friend who wants to 
+				have a look at his old home.
+						</p></sp><sp><speaker>Donegal</speaker>
+					<stage>(Surprised)</stage>
+				<p>Abercoed!</p></sp>
+					<stage>(Shakes hands - goes up to men)</stage>
+					<pb/>
+						<sp><speaker>Angela</speaker><p>
+				Lord Abercoed.  Oh I'm delighted to see you.</p>
+					<stage>(Donegal comes down R.  To Chorus men up C)</stage>
+				<p>You've made a mistake here - you'll get into serious 
+				trouble when papa hears of this. 
+						</p></sp><sp><speaker>Leandro</speaker><p>
+				I'd better make myself scarce.</p>
+					<stage>(Exeunt Leandro up steps hack.  Angela comes 
+					down L.C.)</stage>
+						</sp><sp><speaker>Abercoed</speaker>
+					<stage>(C)</stage>
+				<p>Don't blame them.  They didn't know me a gray beard.
+				You must forget my abrupt visit, Miss Gilfain, but I wanted 
+				to get a last look at the old castle, and as I didn't care 
+				to be known, I put these things on.</p></sp>
+					<stage>(Enter LADY M. from Castle L.)</stage>
+						<sp><speaker>Lady M.</speaker>
+					<stage>(Shaking hands)</stage>
+				<p>Oh Lord Abercoed, I have just heard.  I'm so sorry, the 
+				tenant didn't expect to find any of the British aristocracy 
+				at home just now.
+						</p></sp><sp><speaker>Abercoed</speaker><p>
+				You see, when I got back to England I found there was 
+				nothing left but my title.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				Well that's worth something if you take it to Cincinnati.
+						</p></sp><sp><speaker>Abercoed</speaker><p>
+				I don't intend to.
+					<stage>(Looking around)</stage>
+				I'm going back to the Island of Florodora.
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				What for?
+						</p></sp><sp><speaker>Abercoed</speaker><p>
+				I have been utterly miserable about Dolores.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				It's curious -- but I never met a man who isn't miserable
+				about some woman or other.
+					<stage>(Enter VALLEDA C. Angela, Abercoed and Donegal
+					retire up stage to seat L.)</stage>
+					<pb/>
+						</p></sp><sp><speaker>Valleda</speaker><p>
+					<stage>(Comes down R)</stage>
+				My lady, my lady.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+					<stage>(C)</stage>
+				What is it?
+						</p></sp><sp><speaker>Valleda</speaker><p>
+				I couldn't help it, my lady.  We can't get rid of those 
+				people who come to the Kitchen door.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				Who are they?  What are they like?
+						</p></sp><sp><speaker>Valleda</speaker><p> 
+				The man is a very queer looking person.  He wanted to 
+				give me his photograph.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+					<stage>(Xing L.)</stage>
+				His photograph.  Did he want to give you a knife 
+				as well?
+						</p></sp><sp><speaker>Valleda</speaker><p>
+				Yes, my lady.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+					<stage>(Aside)</stage>
+				Tweedlepunch.
+					<stage>(Aloud)</stage>
+				Is there a lady, also?
+						</p></sp><sp><speaker>Valleda</speaker><p>
+				There is a female, my lady.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				Well, it's the same thing in these days of generates.
+				I'll see them, Valleda.  SHow them to my apartments at 
+				once and don't tell anyone they're here.  And be ready to 
+				bring them here when I tell you.
+						</p></sp><sp><speaker>Valleda</speaker><p>
+				Yes my lady.
+					<stage>(Exits R. C.)</stage>
+						</p></sp>
+				<sp><speaker>Lady H.</speaker>
+					<stage>(Aside)</stage><p>Tweedlepunch might help my plans.  But I'm sorry he 
+				brought Dolores.  She might upset them.  Ah, no, there's 
+				no fear of her marrying Gilfain, while <emph rend="underline">this</emph> is on the 
+				premises.</p></sp>
+					<stage>(Turns up stage)</stage>
+					<pb/>
+					<sp>
+				<speaker>Donegal</speaker><p>
+					<stage>(To Abercoed)</stage>
+				I say old chap, you'll stay to luncheon, won't you?
+						</p></sp><sp><speaker>Abercoed</speaker><p>
+				Thank you.
+						</p></sp><sp><speaker>Donegal</speaker><p>
+				Oh, don't mention it.  It shouldn't cost me anything you 
+				know.
+					<stage>(Exit Angela and Donegal into castle)</stage>
+					<stage>(Abercoed resumes disguise and exit R.U.E.
+					Enter Gilfain from tent R. Gilfain speaks 
+					into tent)</stage>
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Now you waiters, what do you mean by putting mayonnaise 
+				dressing on the ice-cream.
+					<stage>(Enter Lady H.)</stage>
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				I quite forgot to tell you I have a surprise for you.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+					<stage>(L.)</stage>
+				Ah, indeed what is it?
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				I have engaged two most celebrated artists, from Paris,
+				who simply went wild over them.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Eh?  Ah beautiful Paris - gay Paree - where morning begins 
+				at noon and night never begins.  The city of angels 
+				without wings, where you can live a year in a minute,
+				and forget where you live while you're doing it.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				You know Paris, of course.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Know it, who doesn't know it.
+					<stage>(Aside)</stage>
+				Never was there in my life.
+					<stage>(Aloud)</stage>
+				Bring them in.  Bring them in.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+					<stage>(C)</stage>
+				THIS is the first time they have ever appeared in private.
+				<pb/>
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+					<stage>(Turning to chorus)</stage>
+				You hear that, my friends, there is nothing too good for 
+				us, no matter, what it costs.
+					<stage>(To Lady H.)</stage>
+				What do they do?
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+					<stage>(Aside)</stage>
+				Oh dear, I don't know.
+					<stage>(Aloud)</stage>
+				Do?  Why they can do everything.  Do everything but they 
+				don't speak English.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Um - I'll speak French.
+					<stage>(Aside)</stage>
+				Don't know a word of it - but no matter.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				Admit our distinguished entertainers.
+					<stage>(Aside)</stage>
+				I'm not afraid of Dolores, but I hope Tweedlepunch doesn't
+				give it away.
+					<stage>(Music, enter TWEEDLEPUNCH and DOLORES C.)</stage>
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				We're in at last.
+						</p></sp><sp><speaker>Dolores</speaker><p>
+					<stage>(R.)</stage>
+				Hush, remember you are French.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+					<stage>(Comes between them to Dolores)</stage>
+				You look after him, Dolores.  See that he doesn't make
+				any bad breaks.
+						</p></sp><sp><speaker>Dolores</speaker><p>
+					<stage>(To Lady H.)</stage>
+				I feel so funny without my skirts.  It's so draughty.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+					<stage>(C)</stage>
+				Oh brace up - be a man.
+						</p></sp><sp><speaker>Dolores</speaker><p>
+				I can't.
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				Do you think he'll know me?
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				Not if you'll keep your mouth shut.
+				<pb/>
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				I've a good mind to expose the fraud right here before 
+				his own people.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				That man'd spoil our plans.
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				Do I look all right?  I feel like a cow.
+						Lady M.
+				Well, you look like an undertaker.
+					<stage>(Xing L. to Gilfain)</stage>
+				I'm sure you will find them very entertaining.
+					<stage>(Exit Lady H. into Castle)</stage>
+						</p></sp><sp><speaker>Dolores</speaker><p>
+					<stage>(R. to Tweedle. C.)</stage>
+				Now keep quiet, don't say anything.  If you must speak say 
+				oui, oui.
+					<stage>(Xes L to Gilfain)</stage>
+				Lord Gilfain, oh Lord not yet, not quite yet.  Will you commence
+				begin -- go on.  You there - in the stove pipe, what can you do?
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+					<stage>(Xes to L. to Gilfain)</stage>
+				Me?
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Oui.
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+					<stage>(Interrupting)</stage>
+				We?  Us? Oh, oui, oui, oui.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Marvelous.  He understands my French perfectly.  What's 
+				your name?
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				Tweedle - - 
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Tweedle --?
+						</p></sp><sp><speaker>Dolores</speaker><p>
+					<stage>(Pulls Tweedle, Xes to R. C.)</stage>
+				Dee -- dee -- Tweedle dee de ou - 
+						</p></sp><sp><speaker>Tweedle</speaker><p> 
+				Tweedle de - oui- oui.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Oh I see.  Well, what can you do?
+				<pb/>
+						</p></sp><sp><speaker>Dolores</speaker><p>
+					<stage>(C. Advancing)</stage>
+				My lord, we have sing before all ze crowned heads of Europe.
+				The Queen of Sibera she patronize us - when we sing ze king 
+				of France he throw up --
+						</p></sp><sp><speaker>Gilfain</speaker><p> 
+					<stage>(L)</stage>
+				What.  The sponge.
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				Oui.  Oui.
+						</p></sp><sp><speaker>Dolores</speaker><p>
+					<stage>(C.)</stage>
+				Ne ze big bouquet, no.
+					<stage>(Indicating wine)</stage>
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				You don't tell me.  Well if you are good enough for the King 
+				of France you are good enough for us.
+					<stage>(To Dolores)</stage>
+				Go ahead.  Do whatever you can.
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				Can? Can.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Yes - can - can.
+					<stage>(Dance can can -- all laugh)</stage>
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				Can?  Can?
+					<stage>(Xing C to Gilfain)</stage>
+				You stupid old man.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				What's that?
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				Oh, oui, oui.  Je ne sais pas.  He doesn't say pas N'est?
+				Oui - oui - comme ce - 5 francs 50 - swindle - la, la.
+						</p></sp><sp><speaker>Dolores</speaker><p>
+				Il ne comprend pas de tout - de tout - de tout.
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				What are you doing, swearing at him.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+					<stage>(To Clerks L.)</stage>
+				Oh I see, he wants some tutti fruitti.  Oh yes, Taisy - 
+				vous - yes - yah.   Je comprend.  Tout senit, tout senit,
+				I don't know what I am talking about.  Oh I don't understand 
+				a word of this.
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				You have no bump of language.
+					<stage>(Dolores catches tweedle by R arm and swings him 
+					 X to R.C.)</stage>
+					 	</p></sp><sp><speaker>Gilfain</speaker><p>
+					 <stage>(L. startled)</stage>
+				Bump?  Ye Gods.  that sounds like Tweedlepunch.
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				Boemp.  Boemp.  n'est oui, oui.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Oh, boemp.  I see - well, what can you do?
+						</p></sp><sp><speaker>Tweedle</speaker><p>
+				Jug.
+					<stage>(Bus.)</stage>
+				I'll bet two dollars it is a jag.  What is it?
+						</p></sp><sp><speaker>Dolores</speaker><p>
+				He make ze rabbit and ze fried egg to come out of ze hat.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Ah.  I see he's a juggler, one of those fellows who turns 
+				water into wine and wine into himself.  I don't want any 
+				juggling.  Give us something else.  What else can you do?
+						</p></sp><sp><speaker>Dolores</speaker><p>
+				Alone we sing - 
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				That's right sing us a song.</p></sp>
+					<stage>(Goes up L.C. and sits)</stage>
+					<stage>(Tweedlepunch takes bet on and starts song - imitation 
+					of leading orchestra)</stage>
+					<sp>
+						<speaker>DUET -- DOLORES AND TWEEDLEPUNCH</speaker>
+							<stage>"WHEN WE'RE ON THE STAGE"</stage>
+							<lg>
+<l>						We both on the stage, we two,</l>
+<l>						There's nothing that we can't do.</l>
+<l>						We're remarkably fine in a Gaiety line</l>
+<l>						But we revel in Shakespeare too,</l>
+<l>						My Juliet's great, I know,</l>
+<l>						As I presently mean to show,</l>
+<l>						While my friend on the right,</l>
+<l>						Tho he's rather a sight</l>
+<l>						Will portray Romeo.</l>
+								</lg>
+								<stage>Refrain</stage> 
+						<lg>
+<l>						Sing a song of sweet flirtation, for our </l>
+<l>							style is versatile.</l>
+<l>						Everything we do is sure to be the rage.</l>
+<l>							Mendelssohn or Coon plantation,</l>
+<l>							Any sort of imitation,</l>
+<l>							We'll show what we can do,</l>
+<l>							When we're on the stage.</l>
+						</lg>
+							<stage>2</stage>
+							<lg>		
+<l>						In Opera we excel </l>
+<l>						Whether Faust or William Tell</l>
+<l>							For I look so sweet </l>
+<l>							When I play Maguerite</l>
+<l>						And he plays the devil quite well.</l>
+<l>							Covent garden is crowned, of course,</l>
+<l>							And encores they invariably force,</l>
+<l>						We return every year,</l>
+<l>						And we always appear,</l>
+<l>							If we're ever so hoarse.</l>
+								</lg>
+								</sp><sp><speaker>Chorus</speaker>
+									<stage>3</stage>
+									<lg>
+<l>						If you should think that's all.</l>
+<l>						Just go to St. James Hall.</l>
+<l>							You'll be taken by a storm</l>
+<l>							When you hear me perform</l>
+<l>						And you won't mind buying your stall.</l>
+<l>							Madame Patti's outclassed I'm afraid.</l>
+<l>							Sarasate's quite put in the shade.</l>
+<l>						When I Sing people cry,</l>
+<l>						And some of them die,</l>
+<l>							When the violin's played.</l></lg>
+						<stage>(During this verse FOOTMEN bring down and place 
+						prop piano up C.)</stage>
+							</sp><sp><speaker>Chorus</speaker><lg>
+<l>						We are awfully good as a coon,</l>
+<l>						With a sugary sort of a tune,</l>
+<l>							And we don't care one jot,</l>
+<l>							If the words are all rot,</l>
+<l>						If they just take a turn on the moon.</l>
+<l>							A cake walk then we'll do,</l>
+<l>							And we'll sing about Dinah or Sue,</l>
+							<pb/>
+<l>							For we really don't know,</l>
+<l>							What we're singing and so,</l>
+<l>								We just leave it to you.</l>
+								</lg></sp>
+						<stage>(After song, Dolores and Tweedlepunch exit into 
+						tent.  Footmen pick up scraps of paper and broken 
+						Violin, etc.  Chorus men take stools off as they 
+						exit)</stage>
+						<sp><speaker>Gilfain</speaker><p>
+				He certainly is a funny man.
+					<stage>(Taking C.)</stage>
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+					<stage>(L.)</stage>
+				Well how did the entertainment go off?
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				Charmant, magnifique....I'm getting along nicely with my 
+				French don't you think.  You're a wonderful manager.
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				It's very easy to manage things if you have other peoples
+				money to do it with.
+					<stage>(Xes R.)</stage>
+				You ought to take a fancy to a woman of high social position.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				I have.  I have. 
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				A smart woman - who knows her way about.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				That's it that's what I want.  That's what I'm looking for,
+				a woman like you, you dainty little bit of Dresden majolica.
+					<stage>(Bus. Xes L.C.)</stage>
+					<stage>(He is about to put his arms around Lady Holyrood, she 
+					stands, facing audience.  He behind her.  She gets his 
+					hands inside her arms, which are slightly extended, her 
+					hands resting on the sun shade.  As his hands come 
+					forward, she sees this, and says he's mine.  Gilfain 
+					draws his hand away.  No he isn't.)</stage>
+						</p></sp><sp><speaker>Lady H.</speaker><p>
+				How funny.  I really believe he means it.</p>
+					<stage>(Aside)</stage>
+				<p>At last, a second marriage. The triumph of hope over experience.
+						</p></sp><sp><speaker>Gilfain</speaker><p>
+				I must go and see if there's any news of Dolores.  I'm 
+				wavering between love on one side and business on the other.
+				<pb/>
+				I'm bound to marry Dolores.  Business, my dear, strictly 
+				business.  I'll be back in a moment.</p></sp>
+					<stage>(Exits L.U.E.)</stage>
+						<sp><speaker>Lady H.</speaker><p>
+				I've an inkling that he won't like the news when he gets 
+				it.</p></sp>
+					<stage>(Exits)</stage>
+							<stage>SONG FOR DOLORES</stage>
+						<stage>"THE QUEEN OF THE PHILIPPINE ISLANDS"</stage><sp>
+						<lg>
+<l>					In the Philippines lived a maiden fair</l>
+<l>					With her wondrous hair and her eyes so fair,</l>
+<l>					That men were all inclined to swear,</l>
+<l>						By this girl of the Philippine Island.</l>
+<l>					Now stranger came on the days of old.</l>
+<l>					To this land of sunset and of scent gold.</l>
+<l>					And his story of love he demurely told,</l>
+<l>						To this maid of the Philippine Island.</l>
+</lg>
+							<stage>Refrain</stage>
+							<lg>
+<l>					Yes, he told her that she was his only love,</l>
+<l>						Quite his only love,</l>
+<l>						His one and only love.</l>
+<l>					And he vowed he'd be true as he bade her adieu</l>
+<l>						E'er he roamed o'er the sea far away.</l></lg>
+							<stage>2</stage>
+							<lg>
+<l>					Now this lover bold - once cupid's heart dart.</l>
+<l>					Had pierced his heart, began to smart.</l></lg></sp>
+							<stage>Refrain</stage>
+						<stage>(Exit Dolores.  After song.  Enter DONEGAL L. 2.
+						XING to tent R. 2)</stage>
+							<sp><speaker>Donegal</speaker><p>
+					Well, my love affair seems to be going very slowly.  I must 
+					try to hurry this up.</p></sp>
+						<stage>(Crash in tent -- Enter SERVANT from tent)</stage>
+							<sp><speaker>Leandro</speaker><p>
+					It's that musician chap.  He's in a dreadful state.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Why?  What's wrong with him?
+							</p></sp><sp><speaker>Leandro</speaker><p>
+					Why he's drunk all the wine on the table and then swept 
+					everything off.</p></sp>
+					<pb/>
+							<sp><speaker>Donegel</speaker><p>
+					Oh, intoxicated, well get rid of him, put him in the coal 
+					cellar.</p></sp>
+						<stage>(Tweedle screams and whoops things up in tent,
+						enters Xes to C.)</stage>
+							<sp><speaker>Tweedle</speaker><p>
+					Whoop - whoop.
+							</p></sp><sp><speaker>Donegal</speaker>
+						<stage>(Catching him - both stop C.)</stage>
+					<p>Here stop this row.</p>
+						<stage>(Look at him)</stage>
+					<p>Well, upon my word.  Tweedlepunch - why, where did you 
+					get it?
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+					Mr. Donegal.  Mr. Captain Donegal.  Arthur.  You love 
+					Angela, don't blame you.  Angela by name and Angela by 
+					nature.  We'll all be angels later on -- higher up - my 
+					preliminary interview with Angela -- 
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Miss Gilfain, if you please.
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+					Arthur, you are right - always right.  Angela is -- 
+							</p></sp><sp><speaker>Donegal</speaker>
+						<stage>(R)</stage>
+					<p>Miss Gilfain.
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+					Don't interrupt.  While in the Philippines, resting 
+					under the shades of the sheltering palms, in the precinct 
+					of the perfume of that rotten perfumery, Florodora -- 
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					That will do.  What are you doing here.
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+					Business.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					What?
+							</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+					Business of a most particularly private and personal 
+					nature.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Oh indeed.
+						<stage>(Looks him over)</stage>
+					Why what have you got on?
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+					Clothes.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					No - no - why - why- 
+						<stage>(Bus. point at clothes)</stage>
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+					Oh.  It was the only way we could get in - Society demands 
+					it and I don't want to wear the damn things.  I'd 
+					just as soon -- 
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					What are you driving at.  I beg your pardon.
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+					It was the only way we could get in - sislishily
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Now let us try that again.  Quietly.
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+						<stage>(Slowly)</stage>
+					It was the only way we could get in --
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Whoa.
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+						<stage>(Surreptitiously)</stage>
+							</p></sp><sp><speaker>Donegal</speaker><p>
+						<stage>(Laughs, Xes to L. behind Tweedle)</stage>
+					I see.
+							</p></sp><sp><speaker>Tweedle</speaker><p>
+						<stage>(Looking R. for Donegal)</stage>
+					Arthur, Arthur.
+							</p></sp><sp><speaker>Donegal</speaker><p>
+					Here I am.
+						<stage>(Tweedle turns L. backwards, looks at Donegal,
+						smiles)</stage>
+					Where is Dolores.
+					<pb/>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		She's here.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		What?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		She's here.  She's here to claim her rights.  Most women have
+		wrongs but Dolores has rights.  Once upon a time, I had a 
+		bosom friend.  In the happy land beyond the seas, where the 
+		lotus blooms and the busy bee bask and bask in the busy 
+		sunshine.
+				<stage>(Donegal goes up and comes down R.C.)</stage>
+		Arthur, Arhur.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Here, here.
+			<stage>(Same bus as before)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Her father - my friend - we were bound together by bonds -
+		by ties - that fade not neither do they spin - he died and 
+		left me an orphan.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		What?  He died and left you an orphan.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		No, no, Dolores died - same thing.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Dolores died.  Why you said she was here.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		No, no, she's the orphan.
+			<stage>(His collar is unbuttoned)</stage>
+		Excuse me I have lost my collar stud.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		What?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		I have lost my collar stud.
+			<stage>(Bus.  looks R and L then slaps both legs to 
+			see if it has fallen down inside - then pulls 
+			skirt from outside of vest)</stage>
+				</p></sp><sp><speaker>Donegal</speaker><p> 
+		Here, stop that.  You forget where you are.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		See it?  I haven't got eyes in my chin.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		The trouble with you, my friend, is that you are drunk.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Oh, Arthur - Artie
+			<stage>(Smiles)</stage>
+		Art.  No, not drunk, only excited.
+			<stage>(Leans on Donegal's shoulder - Donegal moves away - 
+			He falls.  Donegal picks him up.  He crosses his 
+			legs and can't stand)</stage>
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Get on your feet.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Untwist me.
+			<stage>(Donegal with his right foot puts Tweedle's left
+			left off right and he stands up)</stage>
+		Well - I pretty nearly fell.  
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		I should say you did.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Arthur, I should like to cement our friendship with some 
+		little token - 
+			<stage>(Hand in pocket, takes out six knives, tried to put
+			in Donegal's hand - they fall to ground.)</stage>
+		I have carried that knife.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+<stage>
+			(Picking up knives, laughing)</stage>
+		I see you're stupid superstitious.  What are you doing 
+		with these things.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Puts knives in pocket)</stage>
+		I see you're stupid superstitious.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Now see here, I want you to understand that the ladies 
+		must not see you while you are in this condition.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		The ladies.
+			<stage>(Xes L.)</stage>
+			<pb/>
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Brace you up, do you see that tent.
+			<stage>(Points to tent R U E)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		I see several.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Well, go into the tent.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Which one.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Go into all of them.  Come on, careful - step over that 
+		stone.
+			<stage>(Tweedle lifts foot high as if stepping over.  Xes 
+			up R.C.)</stage>
+		He is caught by Donegal and taken in front of tent.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		William.  William.  Bring me a glass of water.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		What's that?
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		A glass of water.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		A glass of water.  YOu had better go and put your head 
+		under the pump.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		No, thank you.  I don't want any more bumps.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Pump, Pump.
+			<stage>(Servant brings small tray with glass from tent)</stage>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Ah, I hate to part with that old Virginia cheroot.
+			<stage>(Bus. kisses the butt of cigar, then puts it 
+			on tray)</stage>
+			<stage>(Takes small vial out of pocket to put some of 
+			contents into glass)</stage>
+			<pb/>
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		Here, that won't do you any good.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Pardon me, I know my constitution.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		The trouble with you is that you know too much.
+			<stage>(Tweedle takes glass in right hand and holds
+			nose with left arm)</stage>
+		I want you to understand that <emph rend="underline">I</emph> know you are a fraud.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		No, No.  Gilfain't fraud and I can prove it.  Leandro,
+		Leandro.
+			<stage>(Enter SERVANT from tent)</stage>
+		Your arm - walk me up and down)
+			<stage>(Bus. of taking arm and walking around the stage twice 
+			extravagantly - step in front of tent.  Donegal 
+			follows around saying "Steady, steady, etc.)</stage>
+				</p></sp><sp><speaker>Angela</speaker><p>
+			<stage>(Calling off)</stage>
+		Arthur, Arthur.
+			<stage>(Enter ANGELA L. 2)</stage>
+		Dolores is here.  She's with papa, and they're flirting 
+		madly.
+			<stage>(Sees Tweedlepunch who is doing his walk)</stage>
+		Why Arthur, what's the matter with Mr. Tweedlepunch.
+				</p></sp><sp><speaker>Donegal</speaker><p>
+		It's a bad case of sunstroke.
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Sun stroke.
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+		Miss Gilfain, how did you recognize me with my moustache?
+				</p></sp><sp><speaker>Angela</speaker><p>
+		Why you have only half a moustache.
+		<pb/>
+				</p></sp><sp><speaker>Tweedle</speaker><p>
+			<stage>(Bus. feels lips - looks on floor)</stage>
+	 	I must have swallowed the other half.
+	 			</p></sp><sp><speaker>Donegal</speaker><p>
+	 	There is some mystery here.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	Miss Gilfain, I am sorry to say that your father is an unsuperable, 
+	 	a double usurper.
+	 			</p></sp><sp><speaker>Angela</speaker><p>
+	 	Oh, Mr. Tweedlepunch, you mustn't say that.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	Yes, I must say it.  His money isn't his - Florodora isn't 
+	 	his, everything belongs to another.
+	 			</p></sp><sp><speaker>Donegal and Angela</speaker><p>
+	 	To another?
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	Dolores is the rightful owner of all his wealth.
+	 			</p></sp><sp><speaker>Angela</speaker><p>
+	 	Dolores?
+	 			</p></sp><sp><speaker>Donegal</speaker><p>
+	 	Oh, I see - then that's why he paid you to say that Dolores 
+	 	ought to marry him.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	Of course.  Pardon me, but he didn't pay me.  He only promised.
+	 		<stage>(Enter LADY H. and VALLEDA L. 2. Valleda is carrying 
+	 		bard's disguise)</stage>
+	 			</p></sp><sp><speaker>Lady H.</speaker><p>
+	 		<stage>(L)</stage>
+	 	Now Valleda, put the things on.  Then you may go.
+	 		<stage>(Valleda exits L.2)</stage>
+	 		<stage>(Lady H Xes to Donegal)</stage>
+	 	Arthur, will you please go into the house and help keep 
+	 	the ball rolling?
+	 			</p></sp><sp><speaker>Donegal</speaker><p>
+	 		<stage>(C)</stage>
+	 	But I don't understand your little game.
+	 			</p></sp><sp><speaker>Tweedlepunch</speaker><p>
+	 	Now do as your little sister wants.
+	 	<pb/>		
+	 			</p></sp><sp><speaker>Lady H.</speaker><p>
+	 	If you don't, I won't consent to your marriage.
+	 			</p></sp><sp><speaker>Angela</speaker><p>
+	 	Yes do, Arthur, or she won't consent to your mother and 
+	 	my sister.
+	 			</p></sp><sp><speaker>Donegal</speaker><p>
+	 	My mother and your sister, and your father is going to be 
+	 	my brother and -- well, I am getting this thing beautifully 
+	 	mixed.  I think I'd better go and --
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		<stage>(Handing bottle)</stage>
+	 	Take one drop of that and walk up and down.
+	 		<stage>(Exit Donegal L. 2 E)</stage>
+	 			</p></sp><sp><speaker>Lady H.</speaker><p>
+	 	Now tell us all about it.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	You see this thing?
+	 		<stage>(Takes out wig)</stage>
+	 	I had that on my head.
+	 		<stage>(Put it on)</stage>
+	 	I looked such a fool.  Then I played and smashed it -- and 
+	 	in fact I smashed all the instruments.
+	 		<stage>(Bus. holds head - pain from drunk, etc.)</stage>
+	 			</p></sp><sp><speaker>Lady H.</speaker><p>
+	 	What is the matter?
+	 			</p></sp><sp><speaker>Angela</speaker><p>
+	 	Sunstroke.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	Oh yes, sunstroke -- the sun is very hot.
+	 			</p></sp><sp><speaker>Angela</speaker><p>
+	 	What are you going to do?
+	 			</p></sp><sp><speaker>Lady H</speaker><p>
+	 		<stage>(Xes to Tweedle)</stage>
+	 	Mr. Tweedlepunch and I have a deeply laid plot for Mr. Gilfain's 
+	 	punishment.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	Quite so - he's going to marry a society widow -- that'll punish him.
+	 			</p></sp><sp><speaker>Lady H.</speaker><p>
+	 		<stage>(Aside to Tweedle)</stage>
+	 	Fix that for me and I'm going to give you 5000 pounds.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		<stage>(C. aside to Lady H)</stage>
+	 	And I'm going to take it.
+	 			</p></sp><sp><speaker>Angela</speaker><p>
+	 	But what are you going to do with papa?
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	Ah, you don't know -- your father doesn't know -- I don't 
+	 	know.</p>
+	 		<stage>(Indicating Lady H)</stage>
+	 	<p>She knows.
+	 			</p></sp><sp><speaker>Lady H.</speaker><p>
+	 	And Mr. Gilfain will know pretty soon.  Now come along, put 
+	 	this on.
+	 		<stage>(Hands him disguise)</stage>
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		<stage>(Puts on wig and hat - then beard bus.)</stage>
+	 	What am I supposed to be?
+	 			</p></sp><sp><speaker>Lady H.</speaker><p>
+	 	A harper.
+	 			</p></sp><sp><speaker>Angela</speaker><p>
+	 	You play the harp.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	I can't play the harp.  I'm not an angel yet.
+	 			</p></sp><sp><speaker>Angela</speaker><p>
+	 	Now you are eighty.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	Pardon me -- forty-two.
+	 			</p></sp><sp><speaker>Lady H.</speaker><p>
+	 	You be eighty with these on.
+	 			</p></sp><sp><speaker>Tweedle</speaker><p>
+	 	Then I won't put them on.
+	 		<stage>(Bus. coat - they try to get him by the coat tails,
+	 		as in Act I)</stage>
+	 	No, you don't -- once is enough for me, I'd better prepare 
+	 	for the attack in private.
+	 		<stage>(He gathers up props)</stage>
+	 	<pb/>
+	 			</p></sp><sp><speaker>Angela</speaker><p>
+	 	Papa will never be able to resist.
+	 			</p></sp><sp><speaker>All</speaker><p>
+	 	Such glorious conspirators as we shall be.  Revenge.  Revenge, 
+	 	Revenge.</p></sp>
+	 		<stage>(Music.  They exeunt L. 1 E. mysteriously)</stage>
+	 		<stage>(LIGHTS GO OUT)</stage>
+	 				<stage>DARK CHANGE OF SCENE</stage>
+	 	<pb/>
+	 	</div><div type="scene" n="2">
+	 	<stage>SCENE II:		Interior of Abercoed's Castle,
+	 					showing a fine baronial hall.
+	 					Curtain discloses guests dancing 
+	 					to the music of a barn dance.
+	 					After dance enter DONEGAL C. while 
+	 					chorus is humming refrain of 
+	 					"MILITARY MAN"</stage>
+	 					
+	 			<stage>SOLO AND CHORUS - "I WANT TO BE A MILITARY MAN"</stage>
+	 				<sp><speaker>Solo - Donegal</speaker><lg>
+<l>	 	Oh, the man that's dressed as usual is out of it today,</l>
+<l>	 		For the regular dandy man, no single woman cares,</l>
+<l>	 	She won't look upon your suit or you I've heard the world say </l>
+<l>	 		Till you've donned the garb that Tommy Atkins wears.</l>
+	 		</lg></sp>
+	 				<stage>Refrain - Chorus</stage>
+	 				<sp><speaker>Donegal</speaker><lg>
+<l>	 	There came a cry to arms,</l>
+<l>	 		The fresh coat lost its charms,</l>
+<l>	 	And the topper came a cropper with a rat-a-plan,</l>
+<l>	 		Oh, you lose a lot of chances,</l>
+<l>	 		And you don't get asked to dances,</l>
+<l>	 	If you're not dressed all in khaki like a military man.</l>
+	 				</lg></sp><sp><speaker>Chorus</speaker>
+	 		<stage>(At back)</stage>
+	 	<lg>
+<l>	 	I want to join the milit-tary,</l>
+<l>	 	I've got no chance with June, or Flo, or Mary,</l>
+<l>	 	I want to hear the martial rat-a-plan,</l>
+<l>	 	I want to be a military man,</l>
+<l>	 	That is my plan - it is,</l>
+<l>	 	I want to be a military man.</l>
+	 	</lg>
+	 	</sp>
+	 				<sp><speaker>2nd</speaker>
+	 				<lg>
+<l>	 	If you stroll down Piccadilly in the middle of the day,</l>
+<l>	 		And a very smart gentleman in khaki comes along,</l>
+<l>	 	You may think he's Lord Tomboddy, or Sir Algy, Poppinjay,</l>
+<l>	 		But I think it's very likely you'll be wrong.</l>
+</lg>
+	 		</sp>
+	 				<sp><speaker>Refrain - Donegal</speaker><lg>
+<l>	 			For you really must confess</l>
+<l>	 			That in the latest martial dress,</l>
+<l>	 		The classless and the masses look as like they can,</l>
+<l>	 			While to gaze at him you tarry,</l>
+<l>	 			So one says Hello there's Harry,</l>
+<l>	 		Gone and dressed himself in Khaki like a military man.</l>
+</lg>
+	 		</sp>
+	 		<pb/>
+	 				<sp>
+	 				<speaker>(Chorus as before)</speaker>
+	 				<lg>
+<l>	 		Now as this is from the stable, why I hope you'll keep it dark</l>
+<l>	 			For the straightest of the tips I've had from Tattersal today</l>
+<l>	 		And I learn that all the race courses right down to Kempton Park</l>
+<l>		Will be laid with khaki turf without delay.</l>	 	
+	 			</lg>
+	 			</sp>
+	 				<sp><speaker>Refrain - Donegal</speaker>
+<lg>
+<l>	 			And all the jockeys you will see,</l>
+<l>	 			Will ride a khaki gee,</l>
+<l>	 		And the starter will look smarter in the silver tan - </l>
+<l>	 			While the vague impression's growing,</l>
+<l>	 			That all the swells are going,</l>
+<l>	 		To the races dressed in khaki like the military man.</l>
+</lg>	 		
+	 			<stage>(Chorus as before)</stage>
+	 			<stage>(Donegal exits L. 1 e)</stage>
+	 				</sp><sp><speaker>Gilfain</speaker><p>
+	 		I have to make an announcement that I am sure will give you 
+	 		infinite satisfaction.  I am about to be married.
+	 				</p></sp><sp><speaker>All</speaker><p>
+	 		We congratulate you.
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		My beautiful bride was born on the Island of Florodora -- 
+	 		her name is Dolores -- and -- 
+	 			<stage>(Enter Dolores)</stage>
+	 		Here she is.  My friends, my bride, my bride, my friends.
+	 			<stage>(Bus. of bowing)</stage>
+	 				</p></sp><sp><speaker>Dolores</speaker><p>
+	 		Mr. Gilfain thinks he has discovered by a scientific process
+	 		that we are suited to each other.  After Mr. Gilfain is 
+	 		married, he'll find out how much science has to do with it.
+	 		If we marry, we shall be very happy among you all.  I am 
+	 		sure.  That is if we --
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		Not so many ifs please.
+	 				</p></sp><sp><speaker>Dolores</speaker><p>
+	 		Well, we are not married yet.
+	 				</p></sp><sp><speaker>Leandro</speaker><p>
+	 		Supper is served.
+	 			<stage>(Exeunt to a few bars of barn dance)</stage>
+	 			<pb/>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		Come Dolores, you shall preside for the first time at your 
+	 		own table.
+	 			<stage>(Enter TWEEDLE L. 2, disguised as a harper, he 
+	 			confronts and stops Gilfain)</stage>
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		Stop!  Not so fast!  Spare a minute for the bard.  DIM LIGHTS
+	 			<stage>(Chorus drift off)</stage>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 			<stage>(Up C)</stage>
+	 		But I don't want a bard.  I want my supper.  Besides, I don't 
+	 		understand Welsh.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		You'll soon hear it.
+	 			<stage>(He turns the lights out)</stage>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 			<stage>(Comes down L.C)</stage>
+	 		What do you mean by tinkering with my lights?  Well, if you 
+	 		insist on it, bring me something soft.  Complimentary and 
+	 		something.  But hurry up with it.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 			<stage>(Sits on low stool R.C)</stage>
+	 		Nothing can ever soothe you again.
+	 			<stage>(Twangs the harp)</stage>
+	 		Robber!
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		What?  Who spoke?  Who said robber?
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		A voice from the past remarked robber.
+	 			<stage>(Twang)</stage>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		How dare a voice from the past remark anything of the sort?
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		You're standing in other people's shoes.  Usurper!
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		It isn't true -- the Abercoed's family squandered their 
+	 		property.  Gambled it, threw it away -- I bought it.
+	 		<pb/>
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		With whose money?
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		With my own.  The money I made out of the secret of Florodora.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		Whose secret swindler?
+	 			<stage>(Twang)</stage>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		Mine.  I registered the trade mark.  I'm not going to be 
+	 		bullied by voices of the past.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		You'll have to submit.  You'll have to submit, you lobster --
+	 		thief, unless you restore to them their own.
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		What I have I mean to keep
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		That's what the blood red Abercoed said.  But he altered his 
+	 		tune.
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		I wish you'd change yours.  Who was blood-red Abercoed?
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		A robber in the middle ages.  The first of the Abercoeds --
+	 			<stage>(Twang)</stage>
+	 		He stole the money from a friendless girl whose guardian he 
+	 		was.
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		Well, what has that to do with you?  I don't like fairy stories.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		The friendless girl tells her own stories.  First of all she 
+	 		sickened.
+	 			<stage>(Twang)</stage>
+	 		Then she died.
+	 			<stage>(Twang)</stage>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		I'm glad of it -- there's an end of her.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		Oh, no, she rose up and haunted him with this legend.
+	 			<stage>(Rises and comes nearer)</stage>
+	 			<pb/>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		I don't like legends.  Cut it out.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		Of mortal ere within this castle be,
+	 		A man cursed of crime or treachery,
+	 		A maid devoid of virtue or of truth,
+	 		One who has tricked a maiden in her youth.
+	 			<stage>(Twang)</stage>
+	 		O'er him shall float the form of Ethelwynda -- 
+	 			<stage>(Aside)</stage>
+	 		That's a good name.
+	 			<stage>(Aloud)</stage>
+	 		To haunt his footsteps and his progress hinder -- cursed 
+	 		by the cursed curse of Ethelwynda.
+	 			<stage>(Twang)</stage>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 			<stage>(Terrified)</stage>
+	 		No, not that.  Mercy.  Mercy!  I'll confess all.
+	 			<stage>(Enter LADY HOLYROOD L. 2)</stage>
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		Did not the island of Florodora and the secret of Florodora 
+	 		belong to my friend Quisara?
+	 			<stage>(Xing R. to turn on lights)</stage><stage>LIGHTS UP</stage>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 			<stage>(C)</stage>
+	 		They did!  They did!
+	 			<stage>(Lights up)</stage>
+	 			<stage>(When lights are turned up, enter all the PRINCIPALS
+	 			and the CHORUS R. and L. taking positions for finale.
+	 			ABERCOED and DOLORES from C - ANGELA and DONEGAL from 
+	 			L. 2)</stage>
+	 				</p></sp><sp><speaker>Lady H.</speaker><p>
+	 		When he died, they belonged to his daughter Dolores.
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		They did.  But I'll restore everything -- Ethelwynda has 
+	 		been too much for me.  I'm a simple man of business but 
+	 		I can't do business with spirits.
+	 				</p></sp><sp><speaker>Angela</speaker><p>
+	 			<stage>(Down L.C)</stage>
+	 		But there are no spirits here, papa.
+	 		<pb/>
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 			<stage>(C - looks around gingerly)</stage>
+	 		Yes, there is -- there's one -- take that fellow away.  I 
+	 		can't stand the bard.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 			<stage>(R. removes disguise)</stage>
+	 		My photograph.
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 		Tweedlepunch.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 		Oui!  Oui!
+	 			<stage>(Pulls off disguise)</stage>
+	 				</p></sp><sp><speaker>Lady H.</speaker><p>
+	 			<stage>(Comes forward laughing)</stage>
+	 		Me, me!</p></sp>
+	 				<sp><speaker>Gilgain</speaker><p>
+	 		And Lady Holyrood too, you little rogue -- wait until we are 
+	 		married.  Well, I'll restore everything.
+	 				</p></sp><sp><speaker>Dolores</speaker><p>
+	 			<stage>(C)</stage>
+	 		I don't want everything.  Give me the castle.
+	 				</p></sp><sp><speaker>Abercoed</speaker><p>
+	 		And I have a little present for the bard.
+	 			<stage>(She crosses to Tweedle and gives him check)</stage>
+	 				</p></sp><sp><speaker>Angela</speaker><p>
+	 			<stage>(Indicating Dolores and Abercoed)</stage>
+	 		Well, may I marry Arthur?
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 			<stage>(L)</stage>
+	 		Yes.  We'll all be married.
+	 			<stage>(Tweedle Xes. L. to Gil C)</stage>
+	 		Pardon me, your photograph.
+	 			<stage>(Hands Tweedle his photo)</stage>
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 			<stage>(Taking out knife)</stage>
+	 		I would like to cement our friendship.
+	 				</p></sp><sp><speaker>Gilfain</speaker><p>
+	 			<stage>(Holds up knife from Act 1)</stage>
+	 		I'll match you for it.
+	 			<stage>(Xes R.C. to Lady Holyrood for finale)</stage>
+	 		<pb/>
+	 				</p></sp><sp><speaker>Abercoed</speaker><p>
+	 			<stage>(R.C)</stage>
+	 		But we mustn't forget Mr. Tweedlepunch.
+	 				</p></sp><sp><speaker>Dolores</speaker><p>
+	 			<stage>(C)</stage>
+	 		No, he's been our best friend, henceforth, he shall be our sole 
+	 		representative.
+	 			<stage>(Tweedle pleased L.C)</stage>
+	 		Abroad.
+	 				</p></sp><sp><speaker>Tweedle</speaker><p>
+	 			<stage>(Disappointed)</stage>
+	 		Oh!
+	 				</p></sp><sp><speaker>Dolores</speaker><p>
+	 		And oversee the island of Florodora.
+	 		</p></sp>
+	 				<stage>FINALE</stage>
+	 			<sp><speaker>(CHORUS OF THE MILITARY MAN)</speaker><lg>
+<l>	 		I want to join the military - tary,</l>
+<l>	 		I've got no chance with Jane, or Flo or Mary.</l>
+<l>	 		I want to hear the martial rat-a-plan,</l>
+<l>	 		I want to be a military man.</l>
+<l>	 		That is my plan - it is - </l>
+<l>	 		I want to be a Military Man.</l>
+	 		</lg>
+	 		</sp>
+	 		<stage>
+	 				CURTAIN
+	 				</stage>
+	 	</div></div></body>
+	 	</text></TEI>
+				

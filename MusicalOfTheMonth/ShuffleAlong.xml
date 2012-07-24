@@ -1,0 +1,6087 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="drama.xsl"?>
+<!DOCTYPE TEI SYSTEM "tei_drama.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Shuffle Along</title>
+</titleStmt>
+<publicationStmt>
+ <publisher>New York Public Library for the Performing Arts</publisher>
+ <pubPlace>New York City</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title>Shuffle Along</title>
+<author>Flournoy Miller</author>
+<author>Aubrey Lyles</author>
+<author>Eubie Blake</author>
+<author>Noble Sissle</author>
+<date>1921</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<front>
+<titlePage>
+<titlePart>
+<title>
+Shuffle Along
+</title>
+</titlePart>
+
+<lb/>
+<docAuthor>Book by Flournoy Miller & Aubrey Lyles<lb/>
+
+Music by Eubie Blake<lb/>
+
+Lyrics by Noble Sissle<lb/>
+</docAuthor>
+<pb/>
+</titlePage>
+
+</front>
+<body>
+<pb/>
+<div type="Act" n="1">
+<div type="scene" n="1">
+<head>Act 1<lb/>
+
+Scene 1: [A Street in Front of the Jimtown Hotel]</head>
+
+
+
+<stage>OPENING CHORUS[: "Election Day"]</stage>
+
+
+
+<sp><speaker>CHORUS. </speaker>
+<lg>
+
+<l>Election Day, Election Day,</l>
+
+<l>That's the day when everybody's happy,</l>
+
+<l>That's the day when everybody's glad.</l>
+
+<l>Election Day, Election Day,</l>
+
+<l>That's the day when you forget</l>
+
+<l>All the aches and pains you have had.</l>
+
+</lg>
+<lg>
+
+<l>You gather at the election polls,</l>
+
+<l>And there you stand in line.</l>
+
+<l>Although the day be dark and cold,</l>
+
+<l>Still you never mind.</l>
+
+<l>You are thinking of the politicians whom last year you trusted,</l>
+
+<l>And when they got into positions, promises they busted.</l>
+
+<l>You will try not make the same mistake&#8212;</l>
+
+<l>This Election Day. Hooray!</l>
+
+<l>Hooray! Hooray! Hooray!</l>
+</lg>
+
+</sp>
+<stage>(looking to stage right) </stage>
+
+<stage>(Enter supporters of Steve Jenkins right.)</stage>
+<sp>
+<speaker>JENKINS
+SUPPORTERS.</speaker>
+
+<l>We stand for everything that we can get.</l>
+
+<l>Our man is for the country going wet.</l>
+
+<l>We'll bring back the whiskey, beer, and gin.</l>
+
+<l>We know that Steve Jenkins will win.</l>
+
+</sp>
+
+<sp><speaker>CHORUS. </speaker><lg>
+
+<l>The gang of Steve Jenkins, a lame and hungry bunch,</l>
+
+<l>They're going to bring back the five-cent beer and lunch.</l>
+
+<l>If he's elected, it sure will be a sin.</l>
+
+<l>We hope that he'll never, never win.</l>
+</lg>
+<stage>(following Steve Jenkins supporters as they exit
+right)</stage>
+
+
+
+<stage>(looking towards left)</stage>
+<lg>
+<l>Hooray! Hooray!</l>
+
+<l>What crowd is this a-coming . . .</l>
+
+<l>Hooray! Hooray!</l>
+
+<l>With whistling fife and drumming?</l>
+
+<l>Let's clear the way for a great big demonstration.</l>
+
+<l>They will carry the day with a riotous consternation.</l>
+
+</lg>
+</sp>
+<stage>(Enter left Mrs. Peck and Mr. Peck's supporters. Onions
+is one supporter and carries a drum.)</stage>
+
+
+
+<sp><speaker>PECK
+SUPPORTERS.</speaker>
+<lg>
+<l>Me, him, and she,</l>
+
+<l>She, him, and me,</l>
+
+<l>We're the ones who will elect</l>
+
+<l>For our Mayor, we will have Sam Peck.</l>
+
+<l>You will agree that me, him, and she</l>
+
+<l>Will take 'em, make 'em, shake 'em, break 'em,</l>
+
+<l>Just we three.</l>
+
+</lg>
+</sp>
+
+<sp><speaker>CHORUS. </speaker><lg>
+
+<l>Gee, but they are funny,</l>
+
+<l>"She, him, and me."</l>
+
+<l>It's worth lots of money such a sight to see.</l>
+
+<l>Poor Cox's Army ain't</l>
+
+<l>One, two, three.</l>
+
+<l>With a bunch of hecks like old Sam Peck's</l>
+
+<l>"Me, him, and she."</l>
+</lg></sp>
+
+
+<stage>(The two stanzas above repeat. Mrs. Peck and
+supporters exit.)</stage>
+
+
+
+<stage>(Enter Harry Walton's supporters right.)</stage>
+
+
+<sp><speaker>HARRY
+SUPPORTERS.</speaker>
+<lg>
+
+<l>We're for Harry Walton, here we come.</l>
+
+<l>We'll vote for Harry Walton, our favorite son.</l>
+
+<l>And with banners blowing, we will soon be showing</l>
+
+<l>(If we keep step with the <hi rend="underline">hep
+hep</hi> and rattle of the drum),</l>
+
+<l>Honor is our motto, bright and grand.</l>
+
+<l>Justice is the platform on which we stand.</l>
+
+<l>And since we are in it, we are going to win it.</l>
+
+<l>Harry Walton is the man.</l>
+
+<l>He is the man for whom we all will
+stand.</l>
+</lg>
+</sp>
+
+<stage>(Mr. Williams appears on hotel step.)</stage>
+
+
+
+<sp><speaker>CHORUS.</speaker>
+<p> <stage>(addressing
+Mr. Williams)</stage> Speech! Speech!</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker><p>
+Friends and citizens of Jimtown.&#8212;It is useless for me to attempt to tell
+you what kind of a man Harry Walton is and that he <hi rend="underline">is</hi> the right man for the Mayor, for no doubt you all know him as
+well as I. In fact, we have watched him grow from boyhood.</p></sp>
+
+
+
+<sp><speaker>CHORUS.</speaker>
+<p> <stage>(interrupting)</stage>
+He is the man!</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker>
+<stage>(continuing)</stage> <p>His honesty, integrity,
+and efficiency make him the logical man for the office, and it is the solemn
+duty of each and every citizen of Jimtown to vote for him, for he's all right.</p></sp>
+
+
+
+<sp><speaker>CITIZEN.</speaker>
+<p> What's the matter with Harry Walton?</p></sp>
+
+
+
+<sp><speaker>CHORUS.</speaker>
+<p> He's all right!</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker>
+<p> Who's all right?</p></sp>
+
+
+
+<sp><speaker>CHORUS.</speaker><lg>
+<l> Harry Walton's all right! Hooray! Hooray!
+Hooray!</l>
+
+
+
+<l>We're for Harry Walton, here we come.</l>
+
+<l>We'll vote for Harry Walton, our favorite son.</l>
+
+<l>And with banners blowing, we will soon be showing</l>
+
+<l>(If we keep step with the <hi rend="underline">hep
+hep</hi> and rattle of the drum),</l>
+
+<l>Honor is our motto, bright and brand.</l>
+
+<l>Justice is the platform on which we stand.</l>
+
+<l>And since we are in it, we are going to win it,</l>
+
+<l>Harry Walton is the man.</l>
+
+</lg>
+</sp>
+<stage>(The chorus repeats the stanza above. Dance. The
+chorus exits.)</stage>
+
+
+
+<sp><speaker>JESSIE.</speaker><stage>(following father center stage)</stage><p> Father,
+your speech was brief but to the point, and you are right. Harry is the man.</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker><p>
+Well, daughter, no doubt some may say that my efforts in his behalf are
+prompted by the fact that he is to become my son-in-law, but my only motive is
+to see the right man in the right place.</p></sp>
+
+
+
+<sp><speaker>JESSIE.</speaker>
+<p> And Harry is the right man.</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker><p>
+Well <stage>(laugh)</stage>, I trust my daughter is
+looking at it through unbiased eyes and not because she is to become the future
+Mrs. Harry Walton.</p></sp>
+
+
+
+<stage>(Ruth
+Little approaches.)</stage>
+
+
+
+<sp><speaker>JESSIE.</speaker><stage>(rebuking)
+</stage><p>Oh, Father!</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker>
+<p> Oh, did I tell on you?</p></sp>
+
+
+<stage>(He exits slowly into hotel.)</stage>
+
+
+
+<sp><speaker>RUTH.</speaker><p> Oh,
+I see after Harry is elected there seems to be a certainty that there is going
+to be a little wedding.</p></sp>
+
+<sp><speaker>JESSIE.</speaker>
+<p> Oh, no, Ruth.</p></sp>
+
+
+
+<sp><speaker>RUTH.</speaker><p> Oh,
+that's all right. I have known it right along. But&#8212;<hi rend="underline">(very independently)</hi> none of that wedding stuff for me, kid.</p></sp>
+
+
+
+<sp><speaker>JESSIE.</speaker>
+<p> Why not, Ruth?</p></sp>
+
+
+
+<sp><speaker>RUTH.</speaker>
+<p> Because I'm simply too full of jazz.</p></sp>
+
+
+
+<stage>(Jessie follows father into the hotel.)</stage>
+
+
+<stage>SONG: "I'm Simply Full of Jazz"</stage>
+
+
+
+<sp><speaker>RUTH.</speaker>
+<lg>
+
+<l>Everybody thinks I'm crazy.</l>
+
+<l>They say I've gone plum mad.</l>
+
+<l>Everybody thinks I'm crazy,</l>
+
+<l>Lost all the sense I ever had.</l>
+
+</lg>
+<lg>
+
+<l>When they see me shake, it makes them shiver.</l>
+
+<l>When I do a break, it makes them quiver.</l>
+
+<l>But I'm not insane. I'm not to blame.</l>
+
+<l>The cause of it all isn't in my brain.</l>
+
+</lg>
+
+<stage>(Jazz Jasmines enter and assist in song and
+dance.)</stage>
+
+<lg>
+
+<l>Just because I like to do a wiggle</l>
+
+<l>In a regular Salome style,</l>
+
+<l>Just because I like to do a li'l wriggle,</l>
+
+<l>Like on the Hawaiian isle . . .</l>
+</lg>
+
+<lg>
+<l>'Cause I kick like a donkey, jump way back,</l>
+
+<l>'Cause I act like a money, and ball the jack,</l>
+
+<l>And like Miss Minnie, I do the shimmy,</l>
+
+<l>Keep my shoulders shaking until you hear them crack . . .</l>
+</lg>
+
+<lg>
+<l>Just 'cause you see my feet
+a-shufflin'</l>
+
+<l>Just because I act like a razz,</l>
+
+<l>'Cause I seem a little hazy, I ain't crazy.</l>
+
+<l>I'm just full of jazz, jazz, jazz,</l>
+
+<l>Simply full of jazz.</l>
+</lg></sp>
+
+
+<stage>(Enter right Harry Walton followed by Onions. Mr.
+Williams appears on hotel step.)</stage>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> I want to see you.</p></sp>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<p> <stage>(stopping
+short center stage)</stage> What do you want? </p></sp>
+
+<sp><speaker>ONIONS.</speaker><p> What
+I want to explain to you is&#8212;that simply because I happen to be working
+for Jenkins and Peck in that grocery store&#8212;ain't no sign that I got to
+vote for neither of them.</p></sp>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<p> What can I do about that?</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS. </speaker><stage>(interrupting)</stage><p>Just a moment, Harry. Possibly I can enlighten
+the gentleman.</p></sp>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<p> I hope you can.</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> Proceed with the illumination.</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS. </speaker><p>A
+vote, my friend, is every citizen's sacred right and should be cast
+conscientiously using, of course, your best judgment as to the man who stands
+for the best principle.</p></sp>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<p> Exactly.</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> And for the one that we feels is to benefit us
+the most.</p></sp>
+
+
+<sp><speaker>JIM WILLIAMS.</speaker>
+<p> Why certainly.</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> <stage>(to
+Harry)</stage> There you is. I knows you heard dat.</p></sp>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<p> Why of course I heard that.</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> Well, I figgers that for $5.00 you is the best
+man.</p></sp>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker><stage>(perplexed)</stage><p>What do you mean?</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker><p> Well
+to make it plain, if you give me $5.00, I knows you is the best man. Therefore,
+I votes for you. You can't beat that.</p></sp>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<p> I don't care for your kind of a vote. Thank
+you.</p></sp>
+
+
+
+<sp><speaker>ONIONS. </speaker><stage>(picking up basket and making hasty exit to
+hotel)</stage><p>I done asked that man
+for too much money. I can see dat right now.</p> <stage>(meets Jessie on step)</stage></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker>
+<p> Harry, how is the election coming along?</p></sp>
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<p> Glad to say it is coming along quite well.</p></sp>
+
+
+<sp><speaker>JIM WILLIAMS.</speaker><p>
+That's fine and dandy. My boy, it behooves you to win, for if you are beaten by
+either of those ignoramuses, Steve Jenkins or Sam Peck, who would run our town
+just as they run their grocery store, I shall never consent to you becoming my
+son-in-law.</p></sp>
+
+<stage>(Jessie listening.)</stage>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<stage>(reproachfully)</stage><p>Why, Mr. Williams!</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker><stage>(walking
+to hotel)</stage><p> That's final. <stage>(goes into hotel)</stage></p></sp>
+
+
+
+<sp><speaker>JESSIE.</speaker><stage>(making
+sure father has gone, then crossing to Harry)</stage><p>&#8212;Harry, you can't lose. Jenkins or Peck beating you, why the
+idea is absurd.</p></sp>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker><stage>(down-heartedly)
+</stage><p>I know, Jessie, but suppose .
+. .</p></sp>
+
+
+
+<stage>SONG: "Love Will Find a Way"</stage>
+
+
+<sp><speaker>JESSIE</speaker>
+<lg>
+
+<l>Come, dear, and don't let our faith weaken.</l>
+
+<l>Let's keep our love fires burning bright.</l>
+
+</lg>
+</sp>
+
+<sp><speaker>HARRY WALTON.</speaker><lg>
+
+<l>Your love for me is heav'nly beacon,</l>
+
+<l>Guiding me through love's darkest night.</l>
+
+</lg></sp>
+
+<sp><speaker>JESSIE</speaker>
+<lg>
+
+<l>Don't start minding or fault-finding,</l>
+
+<l>No matter how dark one's path may grow.</l>
+
+</lg></sp>
+
+<sp><speaker>HARRY WALTON</speaker>
+<lg>
+
+<l>Fate won't hurry. Well, don't worry.</l>
+
+<l>We'll just keep our hearts aglow.</l>
+
+</lg></sp>
+
+<sp><speaker>BOTH</speaker>
+<lg>
+
+<l>Love will find a way, though skies now are gray.</l>
+
+<l>Love like ours can never be ruled.</l>
+
+<l>Cupid's not schooled that way.</l>
+
+<l>Dry each tear-dimmed eye.</l>
+
+<l>Clouds will soon roll by.</l>
+
+<l>Though fate may lead us astray,</l>
+
+<l>My dearie, mark what I say:</l>
+
+<l>Love will find a way.</l>
+
+</lg></sp>
+
+<stage>(They repeat the chorus and exit right.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Good morning, Mrs. Peck.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Good morning.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Have you any influence over your husband at
+all?</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Why, of course. I am his wife.</p></sp>
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Why don't you get him to withdraw from this
+race then?</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> I will have him withdraw only on one
+condition.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> And what's that?</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> And that is if Steve Jenkins does.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><stage>(annoyed
+and excited)</stage><p> Now ain't that
+ridiculous? Steve Jenkins was nominated by the political machine, and your
+husband Sam Peck is running on an independent ticket. Can you beat that? An
+independent ticket.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Oh, well my husband was always independent.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Well, I know, but it looks to me that he would help Steve Jenkins to win inasmuch
+as they are partners in Jimtown's most prosperous store.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> No, jest "store." Not "prosperous."</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><stage>(pleading)</stage><p>Well, can't you see he is only splitting the
+ticket, and he hasn't got a chance to win? So why don't you get him to give up?</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> I don't want him to give up.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> And why not?</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker><stage>(proudly)
+</stage><p>Because if he is elected, then
+I would be the First Lady of the town.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Oh, I thought there was a catch to it. Well, don't worry. He will never be
+elected.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<stage>(loudly)</stage>
+ <p>And why not?</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Because Tom Sharper is the political boss of Jimtown, and <hi rend="underline">my</hi> candidate, Steve Jenkins, will be the next Mayor.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><stage>(emphatically)</stage><p>&#8212;Never. You have asked me two or three
+times to have my husband withdraw, but I'll wager you never asked Mr. Walton to
+do so.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Oh, that lovesick bird. He is the least of my
+worries.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> I suppose so.</p></sp>
+
+
+<sp><speaker>UNCLE NED.</speaker><stage>(emerges
+from hotel)</stage><p> Good morning,
+Sister Peck.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Good morning, Uncle Ned.</p></sp>
+
+<sp><speaker>UNCLE NED.</speaker>
+<p> You sure looks like a flapper this morning.</p></sp>
+
+
+
+<stage>(Mrs. Peck snickers and exits right.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Good morning, Uncle Ned. How are you feeling
+this morning?</p></sp>
+
+
+<sp><speaker>UNCLE NED.</speaker>
+<p> Oh, jes' tol'ble.&#8212;Jes' tol'ble.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> I'm glad to hear that. How are you figuring on
+voting?</p></sp>
+
+
+<sp><speaker>UNCLE NED.</speaker>
+<p> Well, not for Steve Jenkins or Sam Peck.</p></sp>
+
+
+<sp><speaker>TOM SHARPER</speaker>
+<p>. Sam Peck is out of the question. But why not
+for Steve Jenkins?</p></sp>
+
+
+<sp><speaker>UNCLE NED.</speaker><p>
+'Cos every time I goes into dat grocery store, one of dem low-lifed rascals
+tries to rob me. Dey ain't got no chance of gitting elected nohow. No more
+chance den a one-legged man has in a kicking match and someone done stole bof' his
+crutches.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Well now, Uncle Ned, I am really sorry to hear you say that, because I figured
+that an old village patriot of your standing, your vote would be worth just a
+brand new $10 bill. <stage>(showing money)</stage></p></sp>
+
+
+
+<sp><speaker>UNCLE NED.</speaker><p>
+Oh, dat's diff'rent <stage>(taking bill)</stage>&#8212;dat's
+diff'rent.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> That's what I thought.</p></sp>
+
+
+<sp><speaker>UNCLE NED.</speaker>
+<p> Whyn't you axe me dat at first? <stage>(walks away)</stage></p>
+</sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Don't forget now. Steve Jenkins to win.</p></sp>
+
+
+<sp><speaker>UNCLE NED.</speaker>
+<p> Fergit? <stage>(looking
+at money)</stage> How's I'm gwine to fergit son? <stage>(pauses&#8212;and turns back) </stage>Look here, Tom.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> What's the matter now?</p></sp>
+
+
+<sp><speaker>UNCLE NED.</speaker><p>
+Take dis here money right straight back, boy. I never sold a vote in my life. I
+come up in dem good old bandana days when honesty was the best policy.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Bandana days?</p></sp>
+
+
+<sp><speaker>UNCLE NED.</speaker>
+<p> Dat's what I said.</p></sp>
+
+
+<stage>SONG: "Bandana Days"</stage>
+
+
+
+<sp><speaker>UNCLE NED and TOM SHARPER.</speaker>
+<lg>
+
+<l>Why, the dearest days of my life were bandana days,</l>
+
+<l>Bandana days, though filled with turmoil, trouble, and strife.</l>
+
+<l>Dearest mem'ries will live always. . . .</l>
+
+</lg>
+<lg>
+
+<l>In those dear old bandana days,</l>
+
+<l>Cane-and-cotton-ne'er-forgotten bandana days . . .</l>
+
+<l>And in those quaint old bandana ways,</l>
+
+<l>When our dads were courting our dear mammies,</l>
+
+<l>They were sure some bashful sammies . . .</l>
+
+</lg>
+<lg>
+
+<l>And in all their bandana plays:</l>
+
+<l>Banjos strummin', they'd be hummin' bandana lays,</l>
+
+<l>And in the pale moonlight</l>
+
+<l>They'd swing left and right</l>
+
+<l>In those dear old bandana days.</l>
+
+</lg>
+</sp>
+
+<stage>(Enter Sam Peck and Steve Jenkins from right
+having a heavy argument. Sam carries a soapbox.)</stage>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> I don't want to hear dat now.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+I'm a man what knows everything. You ain't got no business being no Mayor, and
+you knows you ain't. What you talking about, being Mayors&#8212;?</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(interrupting)</stage><p>I got jes' as much right to be Mayors of
+Jimtown as you is&#8212;and&#8212;mucher 'fers that's recerned. What you
+talkin' 'bout, I ain't got no right to be Mayors of Jimtown?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><stage>(loudly)</stage><p>It takes brains to be a Mayor. You ain't got
+brains enough to have a decent headache. You jes' runnin' against me 'cos you
+jealous of me&#8212;dat's all you is. Me en' you runnin' a grocery store
+togeder, too. Minute you think I got a chance of gitting elected, you splits
+the ticket. Dat's what I git fer taking you in the grocery store as my partner.
+Ought never to have taken you in der in the first place.<stage> (crosses left)</stage></p>
+
+</sp>
+<sp><speaker>SAM PECK.</speaker>
+<p> <stage>(following)</stage>
+Now here listen. Wait a minute. Lemme git you straightened out about dat der
+grocery store. I put jes' as much money in dat store as you did, and maybe a
+li'l more. I dunno.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> You ain't put no more into it.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Well, I mout a good deal more.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> No you ain't out.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Yes, I mout. <hi rend="underline">(loudly)&#8212;</hi>Don't tell me I moutn't. But when it comes to
+politics, that's where the friendship ceases, right der and den. And den here's
+another thing.&#8212;I ain't gwine to let you run for Mayors of Jimtown, and I
+be's the common folks. So git dat right out of yo' haid while you is at it. <stage>(crosses right)</stage></p>
+</sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(following)
+</stage><p>There you goes talkin' like
+dat. I tol' you when I first started runnin'&#8212;I sez,&#8212;Sam, if I gits
+elected Mayors of Jimtown, I'm gwine to make you the Vice Mayor.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> <stage>(with
+surprise)</stage> The Vice Mayor???????</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Sure, it's a good job for you.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Why don't you offer me a job that amounts to something? The Governor of the
+County or something like dat. What kin I do with the Vice Mayor's job?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+To show you dat you ain't got no business bein' nothing. You ain't even voted
+for yourself yet.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> I can't vote for myself.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Anybody what's runnin' for de office kin vote
+for derself.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> No dey can't.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Don't tell me dey can't&#8212;for I done voted for myself fo' times dis mornin'.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Yeh, but I is placed in a ver' reculiar redition. I is a Republican runnin' on
+de Independent ticket, and I ain't gwine vote aginst the Old Party.</p></sp>
+
+
+
+<stage>(Enter Tom Sharper right, followed by citizens.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Steve, I've been looking all over town for you to make a speech. You need every
+vote you can get, so make a good one.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Go ahead, Tom, reduce me. Reduce me.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><stage>(standing
+center stage beside Steve) </stage><p>Fellow
+citizens, I take great pleasure in introducing to you Mr. Steve Jenkins, the
+people's candidate for mayor. Hear ye him!</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(standing
+on soapbox, right of crowd and Steve) </stage><p>And
+hear ye me. I is runnin' jes' as well as he is, and I is the bes' man.</p></sp>
+
+
+
+<sp><speaker>CITIZEN  [RUFUS LOOSE].</speaker>
+ <stage>(a Civil
+War veteran)</stage> <p>That's right. That's right.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Here we is. Take your choice.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker> <stage>(hat in
+hand, with the characteristic pose of a politician, in all seriousness)</stage><p>
+Ladies&#8212;Gentlemenses&#8212;Peopleses&#8212;and Folkses&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> You ain't left out nobody. I'll give you
+credit for dat.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Go ahead, Steve, don't pay any attention to
+him.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+As I stand befo' you, gazin' into each and every one of yo' eyes, the question
+that rizzes in my mind <hi rend="underline">is</hi>: What do
+you think of me?&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Don't tell him.</p></sp>
+
+
+<sp><speaker>CHORUS.</speaker>
+<p> Don't tell him??????</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> No, don't tell him.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Can you imagine that guy, disturbing this
+crowd? <stage>(to Sam)</stage> This is my candidate.
+<stage>(to Steve)</stage> This is your crowd&#8212;not
+his.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Oh, this is anybody's crowd. Go lay down.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(resuming
+posture) </stage><p>I may not be bedecked
+with jewels and diamonds rare&#8212;</p></sp>
+
+
+
+<sp><speaker>UNCLE NED.</speaker>
+<p> You is not.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>I may not wear watches and chains&#8212;but I
+have worn&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Balls and chains.</p></sp>
+
+
+
+<stage>(Tom grabs Uncle Ned's cane to rush at Sam but
+cannot get it away.)</stage>
+
+
+
+<sp><speaker>UNCLE NED.</speaker>
+<p> <stage>(to Tom,
+beside him)</stage> Clam yourself, son. Clam yourself.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Ladies,
+gentlemenses, folkses, and peopleses&#8212;When I first entered this race for Mayors
+of Jimtown, I had not the least redea&#8212;</p></sp>
+
+
+<sp><speaker>UNCLE NED.</speaker>
+<p> That's language.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> &#8212;that there was a dark horse in the
+race.</p></sp>
+
+
+
+<stage>(Chrous snickers. Sam looks around for a brick.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Surprised I was, I must say, ver' much heap surprised I was when I found dat
+dat dark horse was my own business parter.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> <stage>(to Sam)</stage>
+Now say something.</p></sp>
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Well, I maght be de dark horse, but you <stage>(pointing to Steve) </stage> ain't gwine never be
+no black Mayor.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> <stage>(peeved,
+loudly)</stage> Listing to me, folkses. Listing to me. We will pay no more
+attention to my reponent. We will "ignose" him and talk on matters of heap much
+more reportance.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Get down to the point, Steve.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+F'rinstance,&#8212;look at the redition of your city today. I say look at the
+redition of Jimtown today. We have no lextrive lights here.</p></sp>
+
+
+
+<sp><speaker>CITIZEN.</speaker>
+<p> You said it, Steve.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Statistics <stage>(at
+this Uncle Ned has a stroke of apoplexy, and Tom is finally able to bring him
+to)</stage> will show you dat dey ain't been no lextrive lights in Jimtown&#8212;not&#8212;since&#8212;before&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(disgustedly)
+</stage><p>Oh, dey ain't been never none
+here.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+And dey wahn't any here befo' den, neither. What we need is lextrive lights.</p></sp>
+
+
+
+<sp><speaker>CITIZEN.</speaker>
+<p> Plenty of them.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Look how dark it is here o' night?</p><stage> (looking
+at Sam)</stage>
+</sp>
+
+<sp><speaker>CHORUS.</speaker>
+<p> Who?&#8212;Oh.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> What you all looking at me for?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+So dark here o' nights that if you light one match you got to light another one
+to see if the first one is lit. Make me your Mayor,&#8212;</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> How about it boys?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+I'll see dat everybody in Jimtown gits lit up. I'll do more den dat&#8212;I'll
+see dats you all gits 'lectrocuted!</p></sp>
+
+
+
+<stage>(Waiter enters with tray of food and stops in
+front of Sam. Sam takes some and makes hasty exit, attracting the attention of
+Steve, who follows.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+What's the matter now? Don't pay any attention to Sam, Steve. Let him go.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> You make the speech, Tom.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Oh, I can't make&#8212;</p></sp>
+
+
+
+<stage>(Entire crowd leaves right.)</stage>
+
+
+
+<stage>SONG: "Uncle Tom and Old Black Joe"</stage>
+
+<note>[may have appeared in Act 2,
+directly following "If You Haven't Been Vamped by a Brownskin"]</note>
+
+
+
+<sp><speaker>UNCLE TOM and OLD BLACK JOE.</speaker>
+<lg>
+
+<l>I'm Uncle Tom, and I'm Old Black Joe.</l>
+
+<l>I came up from the time long ago.</l>
+
+<l>My name's in history. Everyone sings of me.</l>
+
+<l>Though three score and twenty, we have pep aplenty.</l>
+
+<l>Now we are going right down to the square,</l>
+
+<l>And we will be showing the Mayor</l>
+
+<l>Where he shall start to build a City Hall</l>
+
+<l>And tell him when we're coming to call.</l>
+
+</lg>
+<lg>
+
+<l>We are electioneers, Jimtown electioneers,</l>
+
+<l>And since '61, Old Black Joe and Uncle Tom,</l>
+
+<l>At election time, whether rain or shine:</l>
+
+<l>We're
+down at the polls when they call the roll;</l>
+
+<l>We
+have elected every president since '63;</l>
+
+<l>The
+last one that we elected was old Booker T.</l>
+
+<l>If you want to know who makes Jimtown go,</l>
+
+<l>It's Uncle Tom and Old Black Joe.</l>
+</lg>
+</sp>
+
+
+<stage>(Dance. Exit left. Enter Steve from right,
+dejected looking, followed by Tom.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Ain't you a fine candidate for Mayor? I spend one half the morning trying to
+get that crowd together and the other half walking them up one street and down
+the other to find you to make a speech, and when you get to the most important
+part of it, you do a bonehead trick like that.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Looka here, Tom, I wonder if dat was baked or fricasee'd chicken what he had on
+dat tray. Did you notice?</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Listen here, Steve, do you know this is Election Day and you are running for Mayor?
+Do you realize that?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> 'Course I know. What you always asking me dat
+for?</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Because at the last minute you followed a tray full of food round here and lose
+those votes when I told you you needed them.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Looka here, Tom. Ain't Sam runnin' for Mayor same as I is? Didn't he follow dat
+man same as I did? What you talking about?</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> I know, but you can't compare yourself to Sam.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+How come I can't? We're partners runnin' a grocery store together, ain't we?</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+I know, but Sam is spending twice as much money in this election as you&#8212;</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Spending twice as much money???</p></sp>
+
+
+<sp><speaker>TOM SHARPER. &#8212;</speaker>
+<p>Yes, and he's away ahead of you.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(questioningly)
+</stage><p>I wonder where he's gittin' the
+money from??</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Didn't you just say that you and Sam were partners in the same grocery store?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(pondering)</stage><p>&#8212;Yes, and that's jes' what I am thinking 'bout,
+too. We're partners.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER. </speaker>
+<p>And your profits are the same?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Well, dey ought to be. Mebbe dey ain't.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Yet you wonder why he's got twice as much money to spend as you?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+See here, Tom, you don't mean Sam is stealing from me. Do you?</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Yes. That's just what he is doing, and he has been stealing from you ever since
+you have been in business with him.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+<stage>(rather puzzled)</stage> What am I gwine to
+do about it?</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> I have taken matters in my own hand.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(rejoicing)
+</stage><p>Well I'm glad of dat, 'cos you
+kin catch him. I can't. You is slicker den I is.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Quite right. I have sent to New York for Keeneye, that great colored detective.
+You jes' leave Sam to me. I'll fix him.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(disappointedly)
+</stage><p>No, no. If you done sent for a
+retective, you is gwine to fix me. Dat's what you're gwine to do.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> <stage>(impatiently)</stage>
+Listen, Steve, you don't understand.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+I understands better 'n you do. You is the man what don't understand. I
+understands flooencly myself.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Ain't there stealing going on in the store?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(drawing
+it out) </stage><p>Y&#8211;e&#8211;s, and
+he'll come down here and catch the wrong stealer. That man ain't gwine to come
+down here and jes' watch Sam. He is gwine to lock up the first man he catches
+stealin'.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Why, of course.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Well, I can't take no chances like dat, Tom.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> You can't???</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> No, no, no.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Say, listen Steve, I am hiring this detective to watch Sam, not to watch you.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(rejoicing)
+</stage><p>Oh, he is gwine to watch the man
+what you wants him to watch.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Why, of course. Ain't he our detective? But listen, its going to take plenty of
+money to do this thing.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Well, if he comes down here and watches Sam and keeps his eyes off me, you can
+have all the money you want.</p></sp>
+
+
+
+<stage>(Three groups of two boys each enter from opposite
+sides, meet, and listen to the conversation.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Fine. That's all I want to hear you say.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+All I want you to do is to git me elected, and if you do, I'm gwine to dance at
+your wedding.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> And there's going to be a wedding, just as
+soon as you are elected.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(surprised)</stage><p>Looka here, Tom. Who are you gwine to marry?</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Why, Emaline!</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Who's she?</p></sp>
+
+
+
+<stage>(Half of the six boys stand on one side of Steve,
+and the other beside Tom.)</stage>
+
+
+
+
+
+<stage>SONG: "In Honeysuckle Time"</stage>
+
+<sp><speaker>TOM SHARPER.</speaker><lg>
+
+<l>Everybody loves Emaline,</l>
+
+<l>She's the gal that all the fellows hang around.</l>
+
+<l>Everybody knows Emaline,</l>
+
+<l>Why she's the pal of ev'ry other gal in town.</l>
+
+<l>But e'ry pal and gal will soon be singing the blues,</l>
+
+<l>When they hear the latest news:</l>
+
+</lg>
+
+<stage>[Chorus of
+Happy Honeysuckles enters to assist in song and dance.]</stage>
+
+<lg>
+
+<l>In honeysuckle time, sweet Emaline</l>
+
+<l>Said she'd be mine, and in the wedding line</l>
+
+<l>There'll be no hesitating</l>
+
+<l>For the preacher will be waiting.</l>
+
+<l>When the knot am tied</l>
+
+<l>With Emmy by my side,</l>
+
+<l>All the fellows will be jealous,</l>
+
+<l>And feeling kind-a-rough,</l>
+
+<l>When I come along with Emaline a-struttin' my stuff.</l>
+
+<l>Hot dog, my soul, goin'-a knock 'em cold.</l>
+
+<l>I'll be worth my weight in gold</l>
+
+<l>In honeysuckle time,</l>
+
+<l>When Emaline said she'd be mine.</l>
+
+</lg>
+</sp>
+<stage>(Curtain.)</stage>
+
+</div>
+
+<div type="scene" n="2">
+<head>
+Scene 2: Possum Lane</head>
+
+<stage>(Enter Mrs. Peck and Mr. Peck arguing right.)</stage>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> How dare you give me an argument?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(Following
+wife center stage) </stage><p>Now, honey,
+listen. I knows what I'm doing.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Never mind, I don't want you to stand around
+talking to these girls.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> I got to talk to the women-folkses in order to
+get their votes. Ain't I?</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> I'll solicit the women's votes. You get the
+men's.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+No, if I can't talk to de women-folkses, den I'se sorry that I'se runnin' for
+de office.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Well, I'm not. Because if you are elected,
+then I can run the town.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(surprised)
+</stage><p>If I'm elected, <hi rend="underline">you</hi> kin run the town??</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Of course! Ain't you my husband?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Yeh, I'm your husband.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Well, ain't I yo' boss??</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> My <hi rend="underline">boss???</hi></p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><stage>(making
+a motion towards him)</stage><p> Ain't I?
+Ain't I??</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(running
+away) </stage><p>Yeh!</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+Well, if you run the city and I run you, don't that make me run everything?</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Den all de power that I gits, dat jes' adds to
+yo' power.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+Imagine me the leading light of the city, running things to suit myself. Why,
+the first law I'll pass will be to close up Jim Green's Bevo parlour.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> <stage>(reprovingly)</stage>
+For what? The man ain't done nothing to you.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+Oh, he's making too much money, and his wife is wearing such fine clothes, why
+she's snubbing everybody. But, you wait. My time is coming. I'll show her. I'll
+fix her. I'll <hi rend="underline">show</hi> her.</p></sp>
+
+<sp><speaker>SAM PECK.</speaker><p>
+Yeh, but I ain't elected yet&#8212;and Steve, he's gittin' jes' as many votes
+as I is.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+Well, you know why? 'Cause he's buying them, and you know where he's getting
+the money from: right out of the cash register in your store.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Out of the cash register????</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Why, of course.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> You mean he's stealin' the money.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+He has been stealing from you ever since you have been in business with
+him&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(tremendous
+surprise) </stage><p>Is that so????</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Yes. But he is through stealing now.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> When did he die?</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+Sam,&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Yeh?&#8212;</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+I forgot to tell you&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Yeh, go ahead&#8212;</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> I sent to New York for that great colored
+detective.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(walking
+away slowly) </stage><p>No, no, honey.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+Yes, dear, Keeneye is his name, and he's wonderful. He's wonderful, dear.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> No. We don't need no retective hanging 'round
+dat store.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> He's stealing from you. Isn't he?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Dat's all right. I'll catch him.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Well, shouldn't he be watched?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Honey, let the man stay in New York. Now I knows what I'm talkin' "bout.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+Oh, well now, never mind. I have sent for him, and he'll be here today. So you
+keep a lookout for him, and for heaven's sakes, keep your mouth shut.</p>
+
+<stage>(Jessie and Ruth enter right. Sam walks toward
+them smilingly. Mrs. Peck spies them.)</stage>
+<p>
+Say, Sam, come on down here to the corner where there are a lot of men. We can
+get some votes down there.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(to
+girls, whispering) </stage><p>I'll be with
+you all in jes' a minute.</p> <stage>(to wife, who
+is walking stage right)</stage> <p>You go on down there, honey, and get them all
+together, and I'll be there in jes' a minute. </p><stage>(walks back to girls)</stage></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><stage>(following
+him) </stage><p>Is that so? I think you'll
+go this minute. Sam! Sam!</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Yes, yes. I'se comin'&#8212;</p></sp>
+
+
+
+<stage>(Exit together left.)</stage>
+
+
+
+<stage>SONG: "Gypsy Blues"</stage>
+
+
+
+<sp><speaker>JESSIE.</speaker>
+<lg>
+
+<l>I was talking to a gypsy,</l>
+
+</lg>
+</sp>
+<sp><speaker>RUTH.</speaker>
+<lg>
+<l>And what did she have to tell you?</l>
+
+</lg></sp>
+<sp><speaker>JESSIE</speaker>
+<lg>
+
+<l>When my palm she read,</l>
+
+<l>I asked her when I would wed,</l>
+
+<l>And she shook her head.</l>
+</lg></sp>
+
+
+<sp><speaker>RUTH.</speaker><lg>
+
+<l>And then what did she say?</l>
+
+</lg></sp>
+<sp><speaker>JESSIE.</speaker><lg>
+
+<l>I don't know, because I ran away.</l>
+
+</lg></sp>
+
+<sp><speaker>JESSIE.</speaker>
+<lg>
+
+<l>Now I've got the gypsy blues.</l>
+</lg>
+</sp>
+<sp><speaker>RUTH.</speaker>
+<lg>
+
+<l>And you're sorry that you did refuse&#8212;</l>
+
+</lg>
+</sp>
+<sp><speaker>JESSIE.</speaker>
+<lg>
+
+<l>To wait and listen to her gypsy news.</l>
+
+</lg>
+</sp>
+<sp><speaker>RUTH.</speaker>
+<lg>
+
+<l>Maybe she was just in doubt.</l>
+</lg>
+</sp>
+<sp><speaker>JESSIE.</speaker>
+<lg>
+
+<l>An' some line was trying to figure out.</l>
+
+</lg></sp>
+<sp><speaker>RUTH.</speaker>
+<lg>
+<l>And tryin' to find what it was about.</l>
+</lg></sp>
+
+<sp><speaker>JESSIE.</speaker>
+<lg>
+
+<l>I would give all my weight in gold</l>
+
+<l>To know what she was about to tell me.</l>
+</lg></sp>
+
+<sp><speaker>RUTH.</speaker>
+<lg>
+
+<l>But if she had a-said that your sweetie you'd lose,</l>
+
+<l>They'd had to bury you.</l>
+</lg></sp>
+
+<sp><speaker>JESSIE.</speaker>
+<lg>
+
+<l>(Rather than to start a ruse.)</l>
+
+</lg></sp>
+
+<sp><speaker>RUTH.</speaker>
+<lg>
+
+<l>Why you ran away and you got your dues.</l>
+
+</lg></sp>
+
+<sp><speaker>BOTH.</speaker>
+<lg>
+
+<l>That's why {you/I} got those ipsy kypsy blues,</l>
+
+<l>Gypsy blues.</l>
+</lg></sp>
+
+
+<stage>(They are assisted by Henry Walton in a second
+chorus.)</stage>
+
+
+
+<stage>[Curtain
+opens.]</stage>
+</div><div type="scene" n="3">
+<head>Scene 3: Jenkins's and Peck's Grocery Store</head>
+
+
+
+<stage>(Onions dozing on flour barrel with duster in
+hand. Sam enters.)</stage>
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Good morning, Onions.</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> <stage>(waking
+up)</stage> Yes, yessir. Good morning. Yessir&#8212;well, I see you is late again,
+as usual.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(removing
+coat) </stage><p>Yes, but dat ain't none
+of your business. You ain't no time-keeper here. You is the porter in dis
+store.</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> Yessir. You is right.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> You learn dat, and don't tell me about me
+bein' late no more.</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> Yessir, rescuse me.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Never mind the rescusing. Jes' don't done it
+no more.</p></sp>
+
+
+
+<stage>(Opens cash register just as Steve enters.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Ahem!</p></sp>
+
+
+
+<stage>(Sam quickly takes chair and lights pipe.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(watching
+eccentric dusting by Onions) </stage><p>Dey
+ain't no use of you dustin'. You ain't swept up here dis monin'.</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> I jes' got here.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> You didn't reliver them goods to Miss Jones,
+neither, did you?</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> I ain't had my breakfast yet.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> You ain't carried dat barrel downstairs,
+neither, is you?</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> I was out voting.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+You gwine to keep on working like dat until one of dese days the police is
+gwine to come in here and arrest you for vagrancy. Go on, carry dat barrel downstairs,
+and hurry up. You is lazy, dat's what's the matter wid you. The more we pay you,
+the less you work. Got to quit paying you, and you'll work better.</p>
+
+
+
+<stage>(Onions goes out and a customer enters.)</stage>
+<p>
+Never see the man what was as lazy as you is.</p></sp>
+
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> I am in a hurry. I would like to get waited
+on.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Sam, there's a customer.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Well, wait on him.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> I waited on the last customer what come in
+here.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> I waited on the last customer myself.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Don't tell me. I waited on the last customer.</p></sp>
+
+
+
+<stage>(Customer growing more impatient.)</stage>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+I knows who I waits on and whose I don't. What's the matter wid you? You must
+be losing your mind, ain't you? What do you think I am in de store for if I
+don't knows who I waits on. You make a man mad wid arguing like dat.&#8212;What
+was the last thing what was sold in here, anyhow?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Huh?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> I say, what was the last thing that was sold
+in here?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Dat shows what you know about it. We didn't have the last thing what was sold
+in here.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Well I jes' lit my pipe, and I ain't gwine to quit smoking to wait on nobody.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+I jes' got here, and I'm tired. Look here, what do you want anyhow, mister?</p></sp>
+
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> I want five pounds of meal.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> You want what?</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Five pounds of meal.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Go on behind dat counter there. <stage>(customer crosses to opposite counter)</stage> Counter
+der. <stage>(pointing)</stage> Nothing gwine to
+hurt you. Gwine back der. Look in the third barrel marked "lime." Git yourself a sack and scoop,
+and git five pounds of meal. Man wants meal, git meal. Come in here arguing 'bout
+dat old five pounds of meal . . .</p></sp>
+
+
+
+<stage>(Customer stoops to get meal.)</stage>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Yes,&#8212;and a man what comes in here and wants all the waiting-on he wants
+ought to come in when we're standing up.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> <stage>(looking
+at man who is still scooping meal)</stage> Heah, heah, mister. Straighten up der
+sometime. What's the matter wid you? Man sends you in der for five pounds of
+meal, and you gits five tons of it. Come on round from der anyhow. Where you
+git dat? Come in here and take all the meal we got.</p>
+
+
+
+<stage>(Customer approaches with a tremendous bag of
+flour. Steve eyes it.)</stage>
+
+<p>
+Sam, do you think he got five pounds all right?</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(looking
+at bag) </stage><p>Well, he ain't missed
+it much.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> You better weigh dat meal, mister. You'll find
+de scales over der. <stage>(customer goes in
+wrong direction)</stage>&#8212;<hi rend="underline">I said de
+scales</hi> are over <hi rend="underline">der</hi>. <hi rend="underline">No</hi>, not up der. You is the dummest
+customer ever I saw in my life.</p>
+
+
+<stage>(Customer finds scales and weighs meal.)</stage>
+
+<p>
+I ain't never seen the man as dum as what you is.</p></sp>
+
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Five pounds exactly.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Well, all you got to do is pay for it.</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Well, I was going to pay for it.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> If you take it out of here, you gwine to pay
+for it.</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Very well. Here is your money.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> What you got?</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Dollar bill.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Dollar bill?</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Yessir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Ain't you got no change?</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> No.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> No change at all?</p></sp>
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> No.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Say, bring that cash register over here.</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker><stage>(indignant)
+</stage><p>What do you think I am?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> You want to pay for it, don't you?</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Yes, but I'm not the porter 'round here.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Sam, keep down the argument. Make change for
+the gentleman.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Come here, son.&#8212;What'd you git?</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Five pounds of meal.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(has
+legs crossed; uncrosses them and re-crosses them other way) </stage><p>Ahem! Five pounds of meal. Hit 20" on the
+register. Git out your change. Got it? Now leave your name and address in case
+the register is short when we checks up tonight.</p></sp>
+
+
+
+<stage>(Customer meets lady as he leaves.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> These customers are gitting as lazy as they
+kin be. </p><stage>(spies lady and jumps up)</stage></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> O jes' don't pay any attention to them. </p><stage>(spies lady and also jumps up)</stage></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Right here, lady, right here. Now sit down, Sam, you wanted to smoke.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+No. Now you jes' got through waiting on the last customer what come in here.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Dat's all right. I kin wait on 'em all.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> No you can't wait on 'em all.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> How come I can't? It is as much my store as it
+is yours.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Yeh, it's as much my store as it is yourn,
+too.</p></sp>
+
+
+<sp><speaker>BOTH.</speaker>
+<p> What'll you have, lady?</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> A large sack of flour.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Onions. Bring a basket. We'll give her the
+best meal in the house. <stage>(each places one
+bag of flour in basket)</stage> Here you is. Right here now. Do you want to take
+them with you or shall&#8212;?</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Don't result the customer like dat. We'll
+reliver the goods.</p> <stage>(puts on coat)</stage></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Yeh, we'll reliver the goods.</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Can't you send it C.O.D.?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Send it who?</p></sp>
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> C.O.D.?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Oh, he ain't working here no more. I'll take it up der myself if you say so.</p></sp>
+
+
+
+<sp><speaker>CUSTOMER.</speaker>
+<p> Very well, here's my card. Take it to this
+address.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> I'll be right there, lady, jes' as quick as I
+can.</p></sp>
+
+
+<sp><speaker>STEVE and SAM.</speaker><stage>(as
+Onions picks up basket) </stage><p>Put
+the basket down, Onions.</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> Ain't I working here no more?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Yeh, you is working here.</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> That's what I thought.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Yeh, but you go down-cellar and bring up a
+barrel of molasses. <stage>(to Sam)</stage> What's
+the matter wid you?</p></sp>
+
+
+
+<stage>(Sam and Steve grab basket and are leaving when
+Tom Sharper enters.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Just a minute Steve. What are you going to do
+now?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+A lady jes' came in here and bought this flour, and I'm gwine to take it up to
+de house.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> <stage>(angry)</stage> You
+are going to take it up?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> I ain't gwine to let him take it up. </p><stage>(both tugging at basket)</stage></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Can you beat that? You, the candidate for Mayor, to be seen on Election Day
+with a basket in your hand.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Yeh, but you ain't seen the lady.</p></sp>
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> <stage>(disgustedly)</stage>
+What's that got to do with it? Leave that to common folks and errand boys,
+not for big men like you.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> <stage>(conceitedly)</stage>
+Say, I is a big man, ain't I? <stage>(to
+Sam)</stage> Go on take it up der.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> I could have been up der wid it while you is
+arguin'.</p>
+
+
+
+<stage>(Mrs. Peck enters and Sam immediately drops
+basket.)</stage>
+
+<p>
+Onions!&#8212;Onions!</p>
+</sp>
+
+<sp><speaker>ONIONS.</speaker>
+<p> <stage>(rushing
+in)</stage> You called me. I knows dat.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Yeh. Reliver the goods to the lady. Hurry up.
+She is waiting for dem.</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker><stage>(puzzled)
+</stage><p>Look here, the goods you jes' told
+me to put down there?</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(angry)
+</stage><p>Yeh, yeh. Will you reliver dem
+goods, or will you won't?</p>
+
+
+
+<stage>(Onions leaves with basket)</stage>
+
+<stage>
+(to wife) </stage><p>I'll be with you in jes' a minute,
+honey.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><stage>(standing
+with Steve, right) </stage><p>Has Keeneye
+arrived yet?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+No. That retective hasn't come here yet, and you said he was gwine to be here
+dis morning.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Positively said he would be here today. Say, I got to have some more money.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> I can't git to it right now.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Ain't this your store??</p></sp>
+
+
+
+<stage>(Mrs. Peck asks husband for money. Sam opens register
+and gives money to her.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+<stage>(referring to Sam)</stage> He lives in that
+cash register.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Has Keeneye arrived yet?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> No, he hasn't 'rived as yet.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Well keep a lookout for him. He will be here
+within the hour.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Oh, if he gits here, I'll see him.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><stage>(going
+to door) </stage><p>I'm going downtown to
+do a little shopping. Be home early, won't you dear?</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(escorting
+her to door) </stage><p>Yeh, honey. </p><stage>(waves goodbye, returns and goes to
+telephone, right)</stage><p> Hello!&#8212;Hello!</p></sp>
+
+
+
+<stage>(Tom and Steve go to cash register. Tom stands at
+counter, and Steve opens register just as Tom throws can of baking powder to
+floor. Sam looks around for cause of the confusion. Steve passes money to Tom.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Say, I want you to buy some votes with dat
+money. Do you hear?</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> You don't doubt me? Do you?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Well, I can't say that I doubts you, but as much money as I done give you, I
+ought to be elected four times before now.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Now listen here, Steve. To prove to you that I'm on the level, I am going to
+take you right around the corner and let you see me spend every cent of this
+money in your interest. Now, you can't beat that, can you?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+And to shows you that I trusts you&#8212;</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> All right . . .</p> <stage>(walks to door)</stage></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. &#8212;</speaker><p>I'm gwine wid you.&#8212;Sam, I'm gwine 'round the polls here wid
+Tom.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Go ahead.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+When I gits back, I wants to find some of the store here. I know I ain't gwine
+to find it all, but be as easy wid me as you kin. You know, jes' leave 'nough
+'round here so as I'll know where de place was anyhow.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+And while you is out, better go 'round to the telephone people here. I couldn't
+git dis last number. I expects we owe dem a little something.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> You carried the last money 'round der
+yourself. Didn't you?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Sure.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Well, I knows we owes 'em den.</p> <stage>(goes out with Tom)</stage></sp>
+
+
+<stage>(Detective Jack Penrose enters and addresses Sam,
+who is sitting stage left.)</stage>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> &#8212;Good morning.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Good morning.</p></sp>
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> Whom have I the pleasure of addressing?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Well, you is talking to Sam Peck, one of the owners of the store here, and I am
+also runnin' for de Mayor of de town. What kin I do for you?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<stage>(presents
+card)</stage>
+<p>  My card. </p>
+</sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(after
+studying it) </stage><p>Oh yes. You is
+the retective that my wife sent for?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker><p>
+Yes. I received Mrs. Peck's letter, so here I am on de grounds ready fer
+business.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+And you is on the right grounds, 'cos all de stealin' dat is gwine on, is gwine
+on right in here, and what me and my wife wants you to do is to jes' catch my
+partner stealin'. Catch him wid de goods on him so that I kin rescuse him.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> I suppose he is in your way.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Well relittically speakin'&#8212;yes.</p></sp>
+
+
+<sp><speaker>JACK PENROSE.</speaker><p>
+You know, Mr. Peck, it is always customary to pay something in advance in all
+professional engagements of this kind.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Yes, naturally I knows dat. Now, how much does
+you want for dis case.</p></sp>
+
+
+<sp><speaker>JACK PENROSE.</speaker><p>
+As this is a very important case, I should judge about $100 ought to take care
+of it.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+ <stage>(surprised)</stage>
+<p>$100 ought to take care of you <hi rend="underline">and</hi> de case!</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> Well, that is very reasonable, sir.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Yes, you is right. And it is worth every penny of it if you catch my partner
+stealin'.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker>
+<p>Worth every penny of it.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> <stage>(going
+to safe)</stage> Money gwine out of here, and don't nobody knows where it is gwine.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> It must be stopped.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> It's got to be stopped. Man can't run no business
+like dat. <stage>(opens safe)</stage> Anytime a man
+gits to runnin' business,&#8212;$100 was it?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> $100, sir.</p></sp>
+
+
+
+<stage>(Sam gives money to detective and puts rest in his
+own pocket.)</stage>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Here you is. Now you understands everything, so jes' go ahead and catch my
+partner.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker><stage>(putting
+hand over pocket where Sam has just put money) </stage><p>Oh, I got you, old boy.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(with
+a look of scorn) </stage><p>No, not me.
+Catch my partner. I knows I'm stealin'. I didn't send for you to tell me dat.</p></sp>
+
+
+
+<stage>(Steve enters.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Sam, I stopped next door over to the telephone company&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(jumping
+up and going to telephone) </stage><p>Good,
+now I kin get dat number.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Yeh&#8212;and dey tol' me to tell you dat before you tries to call up, to call 'round.</p></sp>
+
+
+
+<stage>(Sam hangs up receiver and returns to chair stage
+right.)</stage>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> Good morning. Mr. Jenkins, I presume.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Yes, Jenkins is my name.</p></sp>
+
+
+<sp><speaker>JACK PENROSE.</speaker><p>
+I was telling your partner that I represent the cashmere people in Chicago.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Is dat so? I'm sure glad to hear dat.</p></sp>
+
+
+<sp><speaker>JACK PENROSE.</speaker><p>
+I am expecting a consignment of goods in a few days and hope to do business
+with you.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Sure, bring your goods up here and lemme look
+at dem.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(taking
+coat) </stage><p>I'm gwine 'round to de
+post office here. I'll be right back. </p><stage>(goes
+out)</stage></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(delighted)
+</stage><p>Yes. Stay as long as you like,
+Sam. Wait for de last mail while you is at it. <hi rend="underline">(to detective) </hi>Say, rescuse me jes' a minute.</p>
+
+
+<stage>(Steve runs to door to see that Sam is safely gone, then to cash
+register and gets some money. Mr. Penrose follows Steve to the door and to the
+register. Steve is just putting roll of bills in pocket.)</stage>
+
+<p>Now, Mr. Cashmere, I can talk wid you about dem
+goods, 'cos I heard dat you all had some very good goods.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker> <stage>(presenting card) </stage><p>My card.</p>
+
+
+<stage>(Steve takes off hat, puts money back, fans head,
+walks away.)</stage>
+
+<p>
+Quite warm?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> I hope it gits no warmer.</p>
+
+
+
+<stage>(Mr. Penrose shuts register, and Steve, hearing
+the bang, turns around.)</stage>
+
+<p>
+Say, you didn't see Sam come back in here, did you?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> No, I didn't.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+You ain't wid de cashmere people of Chicago like you said, is you?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> No. I just said that to throw your partner
+off.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(rejoicing)</stage><p>I'm sure glad he don't know who you is, 'cos
+you never would catch him if he did. You know he is kind of sly.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker><p>
+I received Tom Sharper's letter, so here I am on the grounds, ready for
+business.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+All I want you to do is to stop all money from gwine out of here dat I don't
+carry wid me.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> You will have to pay something in advance in
+this case.</p></sp>
+
+<sp>
+<speaker>
+STEVE JENKINS.</speaker>
+<p> I knows dat was coming. Now how much do you
+want in dis case?</p></sp>
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> Well $50 to start with.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+$50 to start with?? How much is it gwine to stop you?? Dat's what I want to
+know. <stage>(goes to safe)</stage> 'Course you see
+where I'm gitting this money from?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> I'm looking at you.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(covering
+combination with hat) </stage><p>But that
+ain't none of your business. You are not here to watch me. You are here to
+watch my partner. $50 did you say?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> $50, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Well, here's two brand-new $25 bills. All I want you to do is to catch my
+partner stealing.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker>
+<p> I'll catch him. I never failed.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(returning)
+</stage><p>Got almost down there to dat
+post office, and clear forgot my letter.</p> <stage>(opens
+register and takes money)</stage></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> <stage>(as Sam
+reaches door)</stage> Sam&#8212; <hi rend="underline">Sam</hi>. Is
+dat where you keep your mail all de time now?</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Dat was a ver' reportant letter, and I thought I would leave it in a safe
+place.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Yeh, but dat letter was so reportant dat it done turn to dollars since you put
+it in der.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(looking
+in pocket) </stage><p>Turn to dollars???
+What you talkin' 'bout??</p> <stage>(discovers
+money, laughs)</stage></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Is I right or wrong? Dat's all I want to know.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> You is right. Reachin' in der right quick, I
+thought I had the letter. <stage>(puts money
+back)</stage></p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Yeh, yeh.</p>
+
+
+
+<stage>(Sam removes coat and sits down.)</stage>
+
+<p>
+Now you ain't got no place to go. Is you?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE.</speaker><p>
+Well, gentlemen, you will have to excuse me. I am going down to see about that
+consignment of goods.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Yes, yes. Don't be gone long.</p></sp>
+
+
+<stage>(Onions enters.)</stage>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Sam, I am gwine to tell you something. You
+better learn one thing and learn it quick.</p>
+
+
+
+<stage>(Onions opens register and begins to dust counter
+vigorously, knocking box to floor. Sam and Steve go after box. Onions opens
+register again. Steve goes over to register as Onions dusts safe.)</stage>
+
+<p>
+This here cash register is beginning to be a regular main thoroughfare. I'm
+gwine to pass some laws 'round here&#8212;</p>
+
+<stage>(Onions opens safe.)</stage>
+
+<p>&#8212;<hi rend="underline">O-N-I-O-N-S</hi>, come 'way from dat safe.</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> I was just dusting it off, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Doing what?</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> D-u-s-t-i-n-g it off.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> You'll be dustin' it out in a minute. Come 'way
+from der, anyhow.</p>
+
+
+
+<stage>(Onions comes to left to Steve.)</stage>
+
+<p>
+There's gwine to be passed some new laws 'round here. From now on, anybody what
+gits anything in here, dey got to pay cash for it&#8212;</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> From now on??</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+&#8212;That goes for everybody. If Sam's wife gits anything here&#8212;she got
+to pay cash for it&#8212;</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> <stage>(snickering)</stage>
+From now on??</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>&#8212;Yeh,
+and dem li'l things you been carryin' out of here, you leave some change here
+for dem. Do you hear?? If I catch you letting anybody take anything out of here
+on credicks,&#8212;out you go!</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> From now on??</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> No, you is gwine den.</p></sp>
+
+
+
+<stage>(Onions begins to dust behind counter.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Sam, I was down to the polls, and Harry Walton ain't got a chance in the world
+to win dis election.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Oh, I knows dat.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Either me or you is sure gwine to win&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> 'Course we is.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+&#8212;And I was thinkin', if I wins, I'm gwine to make you the Chief of
+Police&#8212;dat's providing you wins, it you gwine to make me the Chief of
+Police.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> You can resider yourself 'pinted.</p></sp>
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> What you talkin' 'bout??</p>
+
+
+
+<stage>(Onions opens register.)</stage>
+
+<stage>
+(angry) </stage><p>Onions, from now on,
+don't you dust anything but dem scales over der.&#8212;I'm the man what's gwine
+to win dis election.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> What will you bet?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+If you wins, I'll ride you all over town on my back like any other horse.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> If you wins, I'll ride you all over town on
+mine.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(rising)
+</stage><p>Is dat a bet?</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Sure is.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Come on. Let's shake hands, 'cos I'se sure
+gwine to win.</p></sp>
+
+
+
+<stage>(Mrs. Peck enters and approaches Onions.)</stage>
+
+
+
+<sp><speaker>MRS. PECK. </speaker>
+<p>Onions, I want a large box of baking powder.</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker><stage>(looking
+on shelf) </stage><p>A large box of
+baking powder. Now let me see. A small box wouldn't do??</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><stage>(impatiently)
+</stage><p>No, I want a large box. <stage>(pointing to box on counter)</stage> Here it is.
+Here it is.</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> Oh, yes, der you is. Now wrap it right up.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker><p>
+Why don't you wrap it up?? Do you expect me to go through the streets&#8212;?</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> Help yourself, madam.</p></sp>
+
+
+<stage>(Mrs. Peck wraps it up and goes to door. Onions stops
+her.)</stage>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> Wait a minute. Jes' a moment.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker><stage>(puzzled)
+</stage><p>What <hi rend="underline">is</hi> the matter with you??</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> I must have the money for the baking powder.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Why, the perfect idea??? You surely don't know
+who I am?</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> I don't care who you is.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> This is exasperating. <stage>(walks to husband)</stage> I shall tell my husband about this. Sam, I have
+been grossly insulted by Onions.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(surprised)
+</stage><p>Do tell.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> He wants me to pay for this baking powder.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+Oh, well, honey. Der has been some new rules passed since you been in here.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Yes, but ain't this your store?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(sitting
+placidly at opposite side of room) </stage><p>No,
+ma'am, this is <hi rend="underline">our</hi> store.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> Say, Sam, I haven't any money.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> <stage>(rising
+and going to register to get money)</stage> Whyn't you say dat when you first come
+in here? <stage>(gives her money)</stage></p>
+
+
+
+<stage>(Sam expresses independence, but Steve is alert to
+every bang of the register.)</stage>
+
+<p>There you is. Go on and pay for de goods. Do business right.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> <stage>(after
+giving money to Onions)</stage> Well???</p></sp>
+
+
+
+<sp><speaker>ONIONS.</speaker><stage>(misconstruing
+question) </stage><p>Yes, pretty well,
+thank you.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> My change please?</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker>
+<p> <stage>(flabbergasted)</stage>
+How much did you give me?</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker>
+<p> I gave you $10.</p></sp>
+
+
+<sp><speaker>ONIONS.</speaker><stage>(looks
+in pocket) </stage><p>$10??? </p><stage>(discovers mistake)</stage><p> You is right. You is
+right. </p><stage>(presses register vigorously a
+number of times)</stage></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Onions, Onions, dat ain't no typewriter.</p>
+
+
+
+<stage>(Mrs. Peck drops bill as she leaves. Onions picks
+it up, and Sam takes it from him. Steve jumps up, opens register, and takes
+roll of money. Sam spies him and does likewise to safe. They both leave the
+receptacles open. Steve stops short in door.)</stage>
+
+<p>>Sam! <hi rend="underline">Sam!</hi> Put dat back.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Well, put dat back?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Get to putting.</p></sp>
+
+
+
+<stage>(Both put money back, and crowd enters, including
+Jessie, Harry, Tom, Uncle Ned, and Ruth Little to congratulate Steve.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker>
+<p> Steve, old boy, the next Mayor of Jimtown!</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(proudly)
+</stage><p>I knows I was gwine to git
+elected! I knowd it. I knowd it.</p></sp>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<p> Accept my congratulations, old boy.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><p>
+Sorry you lost, Harry. Glad I won. Come on, Sam, ride me all over town on your
+back.</p></sp>
+
+
+
+<stage>(Sam and Steve exit followed by Tom. Enter Mr.
+Williams hastily seeking Harry Walton.)</stage>
+
+
+
+<stage>ACT 1 FINALE and REPRISE: "Love Will Find a
+Way"</stage>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker>
+<lg>
+
+<l>Young man, I'm sorry to inform you</l>
+
+<l>That you cannot claim my daughter's hand.</l>
+
+<l>But don't be dejected, since you are not elected,</l>
+
+<l>But by my word, I'm bound to stand.</l>
+
+</lg></sp>
+
+<sp><speaker>CHORUS.</speaker>
+<lg>
+
+<l>Jim Williams is a man</l>
+
+<l>Who always by his word must stand.</l>
+
+</lg></sp>
+<sp><speaker>RUTH.</speaker>
+<lg>
+
+<l>But why make them both unhappy</l>
+
+<l>When they love each other tenderly?</l>
+</lg></sp>
+
+<sp><speaker>JIM WILLIAMS.</speaker>
+
+<stage>(rather peevishly)</stage>
+<lg>
+<l>My word, I have pledged, I will never hedge.</l>
+
+<l>Come, Jessie,&#8212;come with me.</l>
+
+</lg></sp>
+
+<sp><speaker>CHORUS.</speaker><lg>
+
+<l>His word is pledged, he'll never hedge.</l>
+
+<l>But with him we all do not agree.</l>
+
+</lg></sp>
+<sp><speaker>CITIZEN.</speaker>
+
+<stage>(interrupting Mr. Williams in his endeavor to
+secure Jessie)</stage>
+<lg>
+<l>Just suppose that <hi rend="underline">you</hi>
+were a lad once again.</l>
+
+</lg></sp>
+
+<sp><speaker>CHORUS.</speaker>
+
+
+<stage>(Once again.)</stage>
+</sp>
+<sp><speaker>2ND CITIZEN.</speaker>
+
+<stage>(interrupting, likewise)</stage>
+<lg>
+<l>And you were disposed of by your sweetheart's dad.</l>
+
+<l>Well, what then?</l>
+
+</lg></sp>
+
+<sp><speaker>CHORUS.</speaker><lg>
+
+<l>(Well, what then?)</l>
+
+</lg></sp>
+<sp><speaker>JIM WILLIAMS</speaker>
+<lg>
+
+<l>It is true what you say, but my word it must stay.</l>
+
+<l>Come, Jessie, bid Mr. Walton good day.</l>
+
+</lg></sp>
+
+<sp><speaker>JESSIE.</speaker><lg>
+
+<l>Harry, my heart is with you.</l>
+
+<l>Please do not give up in despair.</l>
+
+</lg></sp>
+
+<sp><speaker>HARRY WALTON.</speaker><lg>
+
+<l>All hope seems to be in vain, dear,</l>
+</lg></sp>
+
+<sp><speaker>CHORUS.</speaker><lg>
+
+<l>Try to win your lady fair.</l>
+
+<l>True love will always find a way.</l>
+</lg></sp>
+
+<sp><speaker>RUTH.</speaker>
+
+<stage>(consoling Jessie)</stage>
+<lg>
+<l>The darkest hour is before the dawning.</l>
+
+<l>Where there is a will, there is a way.</l>
+</lg></sp>
+
+
+<sp><speaker>JESSIE.</speaker><lg>
+
+<l>Listen to your heart's true warning,</l>
+
+<l>Listen and you will hear it say:</l>
+
+</lg></sp>
+
+<sp><speaker>COMPANY.</speaker><lg>
+
+<l>Love will find a way, though skies now are gray.</l>
+
+<l>Love like ours can never be ruled.</l>
+
+<l>Cupid's not schooled that way.</l>
+
+<l>Dry each tear-dimmed eye.</l>
+
+<l>Clouds will soon roll by.</l>
+
+<l>Though fate may lead us astray,</l>
+
+<l>My dearie, mark what I say:</l>
+
+<l>Love will find a way.</l>
+
+</lg></sp>
+
+<stage>(Curtain. End of Act 1.)</stage>
+
+</div></div>
+<div type="act" n="2">
+<div type="scene" n="1">
+<head>Act
+2<lb/>
+Scene 1: Calico Corners</head>
+
+<stage>(Traffic officer center stage working a semaphore.
+Civil War veteran [Rufus Loose] enters left with girl.)</stage>
+
+
+<sp><speaker>RUFUS.</speaker><p> No
+use talking&#8212;</p></sp>
+
+
+
+<sp><speaker>GIRL.</speaker>
+<p> Why didn't you start dancing with me?</p></sp>
+
+
+<sp><speaker>RUFUS.</speaker>
+<p> Because I told you to shimmy. You turned
+around and did the cootie.</p></sp>
+
+
+
+<stage>(Exit right.)</stage>
+
+
+
+<sp><speaker>UNCLE NED.</speaker>
+<stage>(enters
+right, walks around semaphore)</stage> <p>Good morning, officer. When did you get out
+of jail? Say, look here. How much you gets a week for dis job? Dat's what I
+would like to know.</p></sp>
+
+
+
+<sp><speaker>OFFICER.</speaker><stage>(impatiently)
+</stage><p>Shuffle along.</p></sp>
+
+
+
+<stage>(Uncle Ned exits right.)</stage>
+
+
+
+<stage>SONG: "Shuffle Along"</stage>
+
+
+
+<sp><speaker>TRAFFIC OFFICER and CHROUS.</speaker>
+<lg>
+
+<l>Everyone in town is always singing this song:</l>
+
+<l>"Shuffle Along"&#8212;"Shuffle Along."</l>
+
+<l>Doctors, bakers, undertakers, do a step</l>
+
+<l>That's full of pep and syncopation.</l>
+
+
+
+<l>"Shuffle Along,"</l>
+
+<l>Oh, "Shuffle Along."</l>
+
+<l>Why, life's but a chance, and when times comes to choose,</l>
+
+<l>If you lose, don't start a-singing the blues,</l>
+
+<l>But just you shuffle along,</l>
+
+<l>And whistle a song.</l>
+
+<l>Why, sometimes a smile will right every wrong.</l>
+
+<l>Keep smiling and shuffle along.</l>
+
+</lg>
+</sp>
+<stage>(Jessie enters left. Tom enters right. Meet center
+stage.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER.</speaker><p>
+Well, Miss Williams, tomorrow Steve Jenkins takes his chair as the Mayor of
+Jimtown. My candidate. Oh, but by the way, I heard that your father objected to
+your marrying Harry inasmuch as he lost in the election, and I am truly sorry
+for that indeed.</p></sp>
+
+<sp><speaker>JESSIE.</speaker><stage>(independently)</stage><p>Well, that will never make any difference with
+Harry and me.</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER. </speaker>
+<p>And I hope not.</p></sp>
+
+
+<sp><speaker>JESSIE. </speaker>
+<p>Never in the least.</p></sp>
+
+
+<sp><speaker>TOM SHARPER. </speaker>
+<p>That's fine.</p></sp>
+
+
+
+<stage>SONG: "I'm Just Wild About Harry"</stage>
+
+
+
+<sp><speaker>JESSE.</speaker>
+<lg>
+<l>There's just one fellow for me in this world.</l>
+
+<l>Harry's his name,</l>
+
+<l>That's what I claim.</l>
+
+<l>Why for ev'ry fellow there must be a girl.</l>
+
+<l>I've found my mate</l>
+
+<l>By kindness of fate.</l>
+</lg>
+
+
+<stage>(Chorus of Syncopating Sunflowers enters to assist
+with song and dance.)</stage>
+
+
+<lg>
+<l>I'm just wild about Harry,</l>
+
+<l>And Harry's wild about me.</l>
+
+<l>The heav'nly blisses of his kisses</l>
+
+<l>Fill me with ecstasy.</l>
+
+<l>He's sweet just like choc'late candy</l>
+
+<l>And just like honey from the bee.</l>
+
+<l>Oh, I'm just wild about Harry,</l>
+
+<l>And he's just wild about, cannot do without,</l>
+
+<l>He's just wild about me.</l>
+
+</lg>
+</sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(enters
+right followed by three citizens)</stage><p>
+Here's what I wants to know: Who got elected Mayor, me or you all?</p></sp>
+
+
+
+<sp><speaker>CITIZEN.</speaker>
+<p> You got elected, of course&#8212;but we
+elected you.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(boastingly)</stage><p>And I'm going to run the town, too. I don't
+care who elected me. I ain't been augmented yet. Wait until I take my seat
+tomorrow. I'm gwine to show you how to run the town.</p></sp>
+
+
+
+<sp><speaker>1ST CITIZEN. </speaker>
+<p>Don't forget your promises.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>What did I promise you?</p></sp>
+
+
+<sp><speaker>1ST CITIZEN. </speaker>
+<p>You promised to make me the Tax Collector.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Who?</p></sp>
+
+
+<sp><speaker>1ST CITIZEN. </speaker>
+<p>The Tax Collector?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>What's dat? Dat's the man what handles all de
+money, ain't it?</p></sp>
+
+
+<sp><speaker>1ST CITIZEN. </speaker>
+<p>Of course.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Well,
+there ain't nobody gwine to handle money in dis town from now on, but me!</p></sp>
+
+
+
+<sp><speaker>1ST CITIZEN. </speaker>
+<p>How come?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>I'm the Mayor. I handles all de money.</p></sp>
+
+
+<sp><speaker>2ND CITIZEN. </speaker>
+<p>Look here, Steve, what you figgers on making
+me?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Since when?</p></sp>
+
+
+<sp><speaker>2ND CITIZEN. </speaker>
+<p>What you figgers on makin' me?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Just what you is&#8212;nothing.</p></sp>
+
+
+<sp><speaker>3RD CITIZEN. </speaker>
+<p>Steve, I want a job keeping the streets clean.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Want a job doing what???</p></sp>
+
+
+<sp><speaker>3RD CITIZEN. </speaker>
+<p>Keeping the streets clean.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(sarcastically.)</stage><p>Well, stay off of dem, then.</p></sp>
+
+
+
+<stage>(Sam enters right followed by a trainer and runs
+around the stage with boxing gloves on.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Wait a minute, Sam. <stage>(stopping him)</stage> What do you mean runnin' up and down the street like
+dat? Ain't you got no sense at all?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>I'm trainin' for the Chief of Police.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><stage>(questioningly) </stage><p>Who?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>The Chief of Police.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Where?</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Here in Jimtown.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Whose gwine to appoint you?</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>You is.</p></sp>
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Is I? <stage>(chuckles)</stage></p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(explaining)</stage><p>Now wait a minute. Don't you remember der in
+the grocery store jes' before the election? You said if you was elected Mayor,
+you was gwine to appoint me the Chief of Police. Don't you remember dat?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Oh, I said dat before I was elected.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Der you is.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>If
+you ain't got no better sense den to pay any attention to dem election promises,
+you ain't got sense enough to be no Chief of Police. I'll tell you now.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>So that be's the case?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker>
+<p> Dat am the case. You ain't gwine to be nothing
+here in Jimtown.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(to
+trainer)</stage><p> Is I fit?</p></sp>
+
+
+
+<sp><speaker>TRAINER.</speaker>
+<p> You bet your life you're fit.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> Can I whip anybody here?</p></sp>
+
+
+<sp><speaker>TRAINER.</speaker>
+<p> You can beat anybody in the bunch.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>No one is resepted.</p></sp>
+
+
+<sp><speaker>TRAINER. </speaker>
+<p>You can lick anyone that's over there.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><p>
+<stage>(referring to Steve)</stage> Give him dem
+gloves.</p></sp>
+
+
+
+<sp><speaker>CITIZEN. </speaker><p>I'm
+gwine to leave here&#8212;</p></sp>
+
+
+
+<sp><speaker>2ND CITIZEN. </speaker><p>Oh,
+stick around&#8212;</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(putting
+on gloves) </stage><p>You is gwine to
+fight me for the job, is dat it?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Well, if the job is worth me having, it's worth
+me fighting for.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Well,
+if you whips me, den I'm gwine to make you the Chief of Police.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(curtly)</stage><p>You don't have to worry about dat. If I whips
+you, I'm gwine to <hi rend="underline">be</hi> the Chief of
+Police.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Well,
+you better send word home dat you ain't gwine to be der for dinner. I'm gwine
+to arrange for you to pass right on by yo' door.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(practicing)</stage><p>Well, you knows I'm a man that was born wid
+boxing gloves on.</p></sp>
+
+
+
+<sp><speaker>TRAINER. </speaker>
+<p>That's the boy.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>And it sure looks like you gwine to <hi rend="underline">die</hi> dat same way.</p></sp>
+
+
+<sp><speaker>CITIZEN.</speaker>
+<p> <stage>(at
+semaphore)</stage> Are you ready?</p></sp>
+
+
+
+<sp><speaker>SAM and STEVE. </speaker>
+<p>Yeh.</p></sp>
+
+
+<sp><speaker>CITIZEN. </speaker>
+<p>Let's go.</p></sp>
+
+
+
+<stage>COMIC BALLET: "Jimtown's Fisticuffs"</stage>
+
+<stage>(Steve and Sam)</stage>
+
+
+
+<stage>(Curtain.)</stage>
+
+
+
+</div>
+<div type="scene" n="2">
+<head>Scene 2: Possum Lane</head>
+
+
+
+<stage>SONG: "Sing Me To Sleep, Dear Mammy (With a Hush-A-Bye-Pickanniny Tune)"</stage>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<lg>
+
+<l>Mammy, I'm feeling tired and weary.</l>
+
+<l>My heart is heavy-laden, too.</l>
+
+<l>Mammy, there's only one who can cheer me,</l>
+
+<l>And that only one is you.</l>
+</lg>
+<lg>
+<l>So won't you sing me to sleep, dear Mammy,</l>
+
+<l>With a "Hush-a-Bye-O-Pickaninny" tune</l>
+
+<l>Just like you did in Alabamy?</l>
+
+<l>Mammy, let me hear you croon,</l>
+
+<l>"Go to sleep, ma honey.</l>
+
+<l>Sandman's coming soon.</l>
+
+<l>He's watching you up yonder in the moon."</l>
+
+<l>Then when I fall to sleep in your dear arms,</l>
+
+<l>I know I'm safe from earthly harms.</l>
+
+<l>If you will sing me to sleep, dear Mammy,</l>
+
+<l>With a "Hush-a-Bye-O-Pickaninny" tune.</l>
+</lg>
+</sp>
+
+<stage>(Mr. Walton exits left and re-enters left with a
+telephone in his hand. Jessie enters on right with telephone also.)</stage>
+
+
+
+<stage>SONG: "Everything Reminds Me of You"</stage>
+
+<note>[may have appeared later in Act
+2, following a similarly displaced "Uncle Tom and Old Black Joe"]</note>
+
+
+
+<sp><speaker>HARRY WALTON.</speaker>
+<lg>
+<l>Hello, dearie, I'm feeling kinda blue.</l>
+</lg></sp>
+
+<sp><speaker>JESSIE.</speaker>
+<lg>
+<l>Hello, dearie, I'm feeling lonesome, too.</l>
+</lg>
+</sp>
+<sp><speaker>HARRY WALTON.</speaker>
+<lg>
+
+<l>But I'm trying with all my energy</l>
+
+<l>To be the strong-hearted boy you want me to be.</l>
+</lg></sp>
+
+
+<sp><speaker>JESSIE.</speaker>
+<lg>
+
+<l>But, dear, you must resist each growing sentiment.</l>
+
+</lg></sp>
+
+<sp><speaker>HARRY WALTON.</speaker>
+<lg>
+
+<l>How can I exist, and without you be content?</l>
+
+<l>When in the blues of the skies</l>
+
+<l>I see the blue of your eyes . . .</l>
+
+<l>In the trilling song of a bird</l>
+
+<l>Your voice is heard . . .</l>
+
+<l>It thrills me, stills me,</l>
+
+<l>With love's anguish fills me.</l>
+
+<l>In the white fleur-de-lys,</l>
+
+<l>An emblem of your purity . . .</l>
+
+<l>And when the bee sips the vine,</l>
+
+<l>I feel your lips touch mine . . .</l>
+
+<l>The breath from the rose,</l>
+
+<l>Your perfumed tresses disclose. . . .</l>
+
+<l>Everything reminds me of you, you.</l>
+
+<l>Everything reminds me of you.</l>
+
+</lg></sp>
+
+<stage>(Jessie joins in the second chorus.)</stage>
+
+
+
+<stage>[Curtain
+opens.]</stage>
+</div>
+<div type="scene" n="3">
+<head>Scene 3: Mayor's Office</head>
+<stage>(Large table center, on which there are four
+typewriters, at which four stenographers are working. Secretary is opening mail
+at left of table, and office boy is dozing at the latter's left. Office boy
+wakes up and reads newspaper in his lap.)</stage>
+
+<sp><speaker>MAYOR'S DOORMAN.</speaker><stage>(enters
+quickly with duster in hand, approaches office boy)</stage><p>Say, what do you think this is, a reading
+room? Look at this office.</p></sp>
+
+
+
+<sp><speaker>OFFICE BOY. </speaker>
+<p>Well look at it, you ain't blind.</p></sp>
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker><p>Now,
+listen. Let me tell you something. You better get to dusting and dusting quick.</p></sp>
+
+
+
+<sp><speaker>OFFICE BOY. </speaker>
+<p>Why?</p></sp>
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker><p>Because
+if you don't, when the Mayor arrives, I will see that you get your walking
+papers.</p></sp>
+
+
+
+<sp><speaker>OFFICE BOY.</speaker>
+<stage>(independently)</stage><p>You don't have to tell me when to work, because
+I knows just when I wants to work.</p></sp>
+
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Well, get to work.</p></sp>
+
+
+
+<stage>(Gives him duster and exits left. Office boy does
+acrobatic dance.)</stage>
+
+
+<stage>[DANCE: "Syncopated Stenos"]</stage>
+
+
+
+<stage>(Mr.
+Williams and Mr. Penrose enter.)</stage>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker><stage>(addressing
+Mr. Penrose)</stage><p> See here, young
+man, do you mean to tell me that this Steve Jenkins is the type of a man that
+you advocate for the Mayor of Jimtown?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker><p>Mr.
+Williams,&#8212;</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS. </speaker>
+<p>Well, I'm surprised! A man with your standing .
+. .</p></sp>
+
+
+<sp><speaker>MRS PENROSE. </speaker><stage>(endeavoring to pacify him) </stage><p>Now, Mr. Williams,&#8212; </p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker><stage>(indignantly)</stage><p>Oh, dry up, young man. Dry right up. Don't you
+try to tell me my business. I'm one of the oldest citizens of Jimtown, a
+taxpayer, and have a perfect right to know why the city's money is being so
+foolishly spent. Who in the world ever heard of a city paying for the Mayor's
+valet? What right have we to pay for these five stenographers? And look at this
+office. Look at this office! <stage>(stamps foot
+impatiently)</stage> Does it <hi rend="underline">look</hi> like a
+Mayor's office? I should say not. It looks like some old woman's home!</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker><p>But,
+you must admit, Mr. Williams, that the Mayor has some very beautiful
+stenographers.</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS. </speaker><p>Beautiful
+and minus ability. Why, every one of them would have to have their fingers cut
+off before they could write shorthand. Steve Jenkins, a Mayor. He's no Mayor.
+He's a nightmare. See here, he hasn't been elected Mayor three days when he's
+bought an automobile, engaged six chauffeurs, and we, <hi rend="underline">we</hi>, the city have got to pay for it.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker><p>I
+don't blame you, Mr. Williams, for thinking that way. The whole election is a
+fraud. At the right time and at the right place I will prove to the whole of
+Jimtown that Harry Walton is the rightful mayor.</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS.</speaker>
+<p> <hi rend="underline">You</hi> will
+prove it? And who are you?</p>
+
+
+
+<stage>(Detective shows badge.)</stage>
+
+<p>>Oh, I see.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker><p>My
+position here is a very peculiar one. Tom Sharper hired me to watch Sam Peck.
+Mrs. Peck hired me to watch Steve Jenkins. And when I got here, I found them
+robbing each other, and worst of all, my best friend Harry Walton being
+cheated.</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS. </speaker>
+<p>Cheated?</p></sp>
+
+
+<sp><speaker>JACK PENROSE. </speaker><p>Yes,
+cheated. As I said before, at the right time and at the right place I will
+expose all. For the present, we better not be seen together. I would advise
+that you leave the office at once and leave everything in my hands.</p></sp>
+
+
+
+<sp><speaker>JIM WILLIAMS. </speaker><p>I
+guess you are right, Mr. Penrose, for I don't care to come in contact with
+Steve Jenkins to begin with. Steve Jenkins, the Mayor of Jimtown! Some joke. <stage>(exits left indignantly, banging door)</stage></p></sp>
+
+
+
+<sp><speaker>DETECTIVE. </speaker>
+<p>Good morning, Miss Secretary.</p></sp>
+
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Good morning, sir.</p></sp>
+
+
+<sp><speaker>DETECTIVE. </speaker>
+<p>Is the Mayor in?</p></sp>
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>No, sir, not yet. May I take your name?</p></sp>
+
+
+<sp><speaker>DETECTIVE. </speaker>
+<p>No, thank you. I'll call later.</p></sp>
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Very well, sir.</p></sp>
+
+
+<sp><speaker>DETECTIVE. </speaker>
+<p>Good morning.</p></sp>
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Good morning.</p></sp>
+
+
+
+<stage>(Detective exits right.)</stage>
+
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Attention, his Honor the Mayor of Jimtown.</p></sp>
+
+
+<stage>(Steve enters dressed most flashily, followed by
+Onions, who has two pipes in his mouth. Stenographers stand and salute Mayor.)</stage>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>What you waitin' on?</p></sp>
+
+
+
+<sp><speaker>ONIONS. </speaker>
+<p>The hat.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Reach up der and get it.</p>
+
+
+
+<stage>(Onions takes hat from Mayor's head and exits
+right.)</stage>
+
+<p>>At ease, ladies. At
+ease.&#8212;Secretary!</p></sp>
+
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Oh, yes, sir, your honor.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Secretary!</p></sp>
+
+
+<sp><speaker>SECRETARY TO MAYOR.</speaker><stage>(running
+towards Steve) </stage><p>Oh, yes, sir,
+your honor.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Any mail for the Mayor this morning?</p></sp>
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Oh, yes, sir, and there's one very important letter this morning.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Important letter?</p></sp>
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Oh, yes, sir, your honor.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Who is if from?</p></sp>
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>From the President.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Who?</p></sp>
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>The President.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Oh, you mean Warren. Yes, yes, yes. What did he
+have to say?</p></sp>
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>He wants to make a speech here one night next
+week.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Wants to make a speech here one night next
+week??</p></sp>
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Yes, your honor.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Now,
+let me see. Next week's my busy week. I can't see him.&#8212;Any more mail?</p></sp>
+
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Oh, yes, sir. There's a lot of mail this
+morning.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Did you read it yet?</p></sp>
+
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Not yet, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>That's
+strange. Take the stenographers to the next office. Have them answer it. The
+Mayor don't care to be resturbed.</p></sp>
+
+
+
+<sp><speaker>SECRETARY TO MAYOR. </speaker>
+<p>Attention.</p>
+
+
+
+<stage>(Stenographers stand at attention.)</stage>
+
+<p>>Forward march. Halt. Right
+flank march.</p></sp>
+
+
+
+<stage>(Stenographers and secretary exit right. Steve walks
+around office, scratches his head, brings chair center, then replaces chair.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>Onions!</stage><p></p></sp>
+
+
+
+<sp><speaker>ONIONS. </speaker>
+<p>Yes, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Bring me that chair.</p></sp>
+
+
+<sp><speaker>ONIONS. </speaker>
+<p>Now, you will find the chair right over there.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>I
+knows where <hi rend="underline">it</hi> is. I want <hi rend="underline">you</hi> to go where <hi rend="underline">it</hi> is and bring it where <hi rend="underline">I</hi>
+is. You understand? Bring the chair <hi rend="underline">here</hi>.</p>
+
+
+<stage>(Onions brings chair center.)</stage>
+
+<p>Now be went. Get to wenting.</p></sp>
+
+
+
+<stage>(Onions exits right, and Steve deliberately replaces
+chair to its first position.)</stage>
+
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Chief of Police to see you, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(excitedly)</stage><p>Huh?</p></sp>
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Chief of Police to see you.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Chief of Police to see me?</p></sp>
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Yes, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Did he have any papers in his hand?</p></sp>
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Yes, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(growing
+more excited) </stage><p>Did you tell him
+I was here?</p></sp>
+
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Yes, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>What
+did you want to do that for? You had no business telling that Chief of Police I
+was here. Why didn't you come in here and axe me if I was here or not? <stage>(walking up and down)</stage> Where is he? Out
+there at the front door?</p></sp>
+
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Yes sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(frightened)
+</stage><p>He's liable to be 'round at
+the back door now. I don't know how to get out of here. What did you want to
+tell him I was here for anyhow?</p></sp>
+
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>He said he wanted to see the Mayor.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Said he wanted to see who?</p></sp>
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>The <hi rend="underline">Mayor????????</hi></p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(amazedly)
+</stage><p>I'm the Mayor, ain't I??</p></sp>
+
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Yes, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(independently)
+</stage><p>Tell him to come in here. What
+do I care anyhow?</p></sp>
+
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>This way, officer. His Honor the Mayor.</p></sp>
+
+
+<stage>(Sam enters as Chief of Police.)</stage>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Well, well, it dooz me proud, it dooz me proud.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Make yourself right at home, Sam.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(sitting
+down) </stage><p>Now, how is you runnin'
+things on the inside here?</p></sp>
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(sitting
+down) </stage><p>Oh, man, I'm the
+mayorest Mayor that ever mayored anywhere. Make yourself right at home, Sam.
+That's all you got to do. Go ahead and make yourself right at home.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Don't worry about me. I'm all right.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Der
+ain't nothing in here you kin steal. I got these typewriters all counted. <stage>(he counts the four typewriters)</stage> Yes,
+there's eight of them. Say, look here, Sam.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Yes?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Is you arrested anybody yet?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(slowly)
+</stage><p>Now that's what I come down
+here to see you about.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(frightened)
+</stage><p>How come you got to come down
+here to see me about it?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker><p>Well,
+you will either have to make room in this office for the rest of the prisoners
+or build me some more rooms to the jail.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(surprised)
+</stage><p>Jail all filled up already?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker><p>There
+ain't room enough down there for another man no matter how small he may be.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>I didn't know there was dat many criminals in
+town.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker><p>Well,
+this ain't exactly a matter of criminals. You knows I gits fifty cents a head
+for every man I locks up.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Well,
+there's one man I will give you fifty dollars if you lock him up&#8212;that's
+that Slippery Jim. He's the worst man in town.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Oh, he's a bad character, no doubt.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>Bad!</stage><p> He's <hi rend="underline">so</hi>
+bad, I'm scared to pass a law against him.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>And I made up my mind yesterday to lock him up.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>You
+made up your mind&#8212;?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Yes, yes.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>&#8212;Dat's 'bout as fer as you got,
+too,&#8212;to make up your mind.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>And for three solid hours yesterday, I was
+chasing him.</p></sp>
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Didn't he catch you?</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker>
+<p> I was chasing him.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>I just wanted to know if you was the party of
+the first part or not.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker><p>No,
+I was the recessory after the crime. You see, in the first place, I chased him
+everywhere.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(interested)
+</stage><p>Chased him everywhere?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker><p>And
+then I chased him everywhere else. For three solid hours yesterday, me and
+Slippery Jim was just like this here <stage>(making
+motions with hands)</stage> all over town.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Is dat a fact?</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Yes.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>What do you know about dat?</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>And finally he tripped up and fell right in
+front of me.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(becoming
+excited) </stage><p>Fell in front of
+you???????</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Right in front of me.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>There
+was your chance right then. When he fell, that was your chance.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker><p>And
+I knowed it. And I said to myself, "I'm gwine to unveil myself of this
+retunity."</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Yeh, yeh.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker><p>And
+just as I reached over der to get him,&#8212;</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Just
+as you were gwine to get him,&#8212;</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker><p>Just
+as I reached over there to get him, a black cat run right 'twixt us, and I had
+to turn around and come back.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(hitting
+desk with hand) </stage><p>I'm gwine to
+pass a law to get rid of all the black cats right now.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>There you is!</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Black cats is bad luck anyhow.</p></sp>
+
+<sp><speaker>SAM PECK. </speaker><p>Course
+they is.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Whenever
+they commence conferring with the law, they got to go. Dat's all.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>There you is.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>A black cat run right 'twixt you and duty.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Ain't done nothing else.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(taking
+pencil) </stage><p>Here's the first law
+I'm gwine to pass since I've been the Mayor. "Black cats must go." "Black c c c
+c . . ." Say, look here, Sam, how do you spell "cat" anyhow?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>What do you mean? One of dem jes' plain,
+everyday, walkin' 'round cats?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>No,
+jes' "cat." Any kind of a cat. I don't care what kind of a cat it is. Spell the
+easiest one. You can't pass a law unless you kin spell "cat." You know dat,
+don't you?</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(puzzled)
+</stage><p>Lemme see now,&#8212;"cat."</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Looks like to me anybody ought-to-could spell "cat."</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Well, if dey kin spell anything at all, dey kin
+spell "cat."</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Der ain't but six letters in it.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Is you sure of dat?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Well, I bet my money der ain't <hi rend="underline">over</hi> six. I know dat.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker><p>Well,
+I kin bring dat down to five 'cos I knows the "l"
+is silent, so dat leaves you only five letters for to deal wid.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Yes, but I got to know what dey is and how to
+rotine dem.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker><p>Dat's
+right, too. Well, I've been away from my 'rithmestic so long, I'm a little
+rusty on it now.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Ha! Ha! I got it. You can't stick the Mayor you
+know.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Course you can't.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(proudly)
+</stage><p>You know what I'm gwine to do?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>What's dat?</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>I'll draw one. <stage>(draws a cat on the paper)</stage> Yes, and dat don't look like a cat.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Well, dat's all right. You kin read your own
+writin'.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>No,
+I guess I better call them stenographers in here and let them write dat law
+out. I'll let dem go to dinner, though, first.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Sure.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>Stenographers!</stage><p> This way.</p>
+
+
+
+<stage>(Stenographers enter.)</stage>
+
+<p>>Now you all been so smart
+today, and to show you that I appreciates it, I'm gwine to let you go to
+dinner.</p></sp>
+
+
+
+<sp><speaker>STENOGRAPHERS.</speaker><stage>(full
+of ecstasy) </stage><p>Oh, that's lovely.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>I'm
+gwine to give you five minutes, and I want you back in four. So resider
+yourself rescused.</p></sp>
+
+
+
+<sp><speaker>STENOGRAPHERS. </speaker>
+<p>Come on, girls.</p></sp>
+
+
+
+<stage>(Stenographers start to leave in a hurry.)</stage>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(standing
+up) </stage><p>Heah, heah! What kind of a
+way is dat for you all to leave the presence of the Mayor? How often have I told
+you, whenever you leave the Mayor's office, you wants to slam the Mayor. I'm
+the Mayor, you know. I got to be slammed.</p></sp>
+
+
+
+<stage>(Girls salute him.)</stage>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(rising
+and turning to instruct girls) </stage><p>You
+might as well learn dis now as to learn it later on, 'cos you got to do it
+every day here. Whenever you all is&#8212;</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Sam,
+. . .</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker><stage>(to Steve) </stage><p>Wait 'till I git 'em told. </p><stage>(to
+girls)</stage> <p>Whenever you all is&#8212;</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(motioning
+to him) S-A-M</stage><p>,&#8212;you is
+the same as dem, so come on down wid 'em. Dey ain't but one power. I'm it. <stage>(referring to stenogs)</stage> You all kin went
+now. You all kin went.</p></sp>
+
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(crossing
+to Steve and raising Billy club) </stage><p>Now,
+here, lemme tell you something. You got to make some amendments to dat order.
+The next time dat I slams you, it is gwine to be wid dis. Now don't let dat
+li'l job git you all recited. <stage>(goes back
+to chair)</stage></p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>I
+was jes' thinkin', Sam. In gitting rid of dem cats, how we gwine to do it?
+Shoot 'em?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Well, dat's 'bout as good a way as any, I
+guess.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>You'll have to lemme see your gun, 'cos I got
+to draw that, too.</p></sp>
+
+
+<sp><speaker>SAM PECK.</speaker><stage>(with
+a sour look) </stage><p>You didn't have
+to stand no kind of an examination to get dis job. Did you?</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>I
+got to see your gun anyhow, ain't I? The city furnishes you wid de gun, don't
+it?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Yeh.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Well, it's the duty of the Mayor to suspect it.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Oh, de gun's all right.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>I
+know. But I got to know it's all right so I kin report to de Board of Aldermen
+that de gun's all right.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker><p>Jes'
+go ahead and report to de Board of Aldermen dat Chief of Police's gun's all
+right.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>I know, Sam. But I got to <hi rend="underline">know</hi> it's all right.</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Dat's jes' what I'm telling you. The gun's all
+right.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>How do you know it is?</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Well I got $20 on it in pawn.</p></sp>
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>Some gentlemen from New York to see you, sir.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Some gentlemen from where?</p></sp>
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>New York.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(to
+Sam) </stage><p>Where's dat??</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>I dunno. Dat ain't on my beat.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Tell them to come on in here.</p></sp>
+
+
+<sp><speaker>MAYOR'S DOORMAN. </speaker>
+<p>This way, gentlemen. His Honor the Mayor.</p></sp>
+
+
+
+<stage>(Enter three of the Four Harmony Kings.)</stage>
+
+
+
+<sp><speaker>FIRST. </speaker><p>How
+are you, your Honor? We want to see you about a concert in the town hall.</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker><p>Well,
+you see, since I've been elected Mayor, I've appointed myself the Census
+Bureau. Therefore, I got to know the nature of the entertainment.</p></sp>
+
+
+
+<sp><speaker>FIRST. </speaker>
+<p>It is a singing concert.</p></sp>
+
+
+
+<stage>(Enter fourth Harmony King.)</stage>
+
+
+
+<sp><speaker>FOURTH. </speaker><p>Your
+Honor, I used to sing with the gentlemen&#8212;</p></sp>
+
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Git away?????????</p></sp>
+
+
+<sp><speaker>FOURTH. </speaker>
+<p>I assure you we shall be pleased to sing for
+your approval.</p></sp>
+
+
+<sp><speaker>STEVE JENKINS.</speaker><stage>(as
+Sam makes a hasty exit left) </stage><p>Go
+right ahead. I'll be in the next office listening to you. <stage>(exits)</stage></p>
+
+</sp>
+
+<stage>INTERLUDE: Selections by Four Harmony Kings</stage>
+
+
+
+<note>[Here the Four Harmony Kings performed a number of
+songs from their standalone repertory, including:<lb/>
+
+SONG: "Goodnight, Angeline"<lb/>
+
+(music and lyrics: James Reese Europe, Noble
+Sissle, Eubie Blake)</note>
+
+
+
+<sp><speaker>FOUR HARMONY KINGS</speaker>
+<lg>
+
+<l>Hear that old town
+clock a-striking, Angeline?</l>
+
+<l>S'pose it's time I
+should be hiking, Angeline.</l>
+
+<l>Surely hate to
+leave you, dearie.</l>
+
+<l>'Deed I do.</l>
+
+<l>Honey-chil', when
+you aren't near me</l>
+
+<l>I feel blue.</l>
+</lg>
+<lg>
+
+<l>Goodnight, my
+Angeline.</l>
+
+<l>Farewell, my gal
+so fine.</l>
+
+<l>Leavin' time</l>
+
+<l>Is grievin' time.</l>
+
+<l>I hate to part
+with baby mine.</l>
+
+<l>Nighttime</l>
+
+<l>Was made for
+lovin'.</l>
+
+<l>It's the right
+time</l>
+
+<l>For turtledovin'.</l>
+
+<l>Kisses taste much
+finer,</l>
+
+<l>Hugging seems
+diviner,</l>
+
+<l>But I must leave
+you, honey,</l>
+
+<l>'Cos my heart
+feels funny.</l>
+
+<l>Goodnight,
+Angeline.</l>
+
+
+</lg>
+<note>This was usually then followed by:<lb/>
+
+
+
+ENCORE: "Ain't It a Shame?"<lb/>
+
+(music and lyrics: traditional)</note>
+<lg>
+<l>Ain't it a shame to steal on Sunday,</l>
+<l>Ain't it a shame to steal on Sunday,</l>
+<l>Ain't it a shame to steal on Sunday,</l>
+<l>Ain't
+it a shame?</l>
+<l>Ain't it a shame to steal on Sunday,</l>
+<l>When you got Monday, Tuesday, Wednesday,</l>
+<l>Thursday, Friday, Saturday, too?</l>
+<l>Ain't
+it a shame?</l>
+</lg>
+
+<lg>
+<l>Ain't it a shame to drink hootch on Sunday, <stage>etc.</stage></l>
+
+
+
+<l>Ain't it a shame to shimmy on Sunday, <stage>etc.</stage></l>
+
+
+
+<l>Ain't it a shame to gamble on Sunday, <hi rend="underline">etc.</hi>]</l>
+</lg></sp>
+
+<stage>(Steve and Sam enter at the same time from
+opposite directions.)</stage>
+
+
+<sp><speaker>STEVE JENKINS. </speaker>
+<p>Here, Chief, come on and tell dem 'bout old
+Deacon Birch and dat brownskin vamp down de court de other day. Dey ain't heard
+no scandal.</p></sp>
+
+
+
+<stage>SONG:
+"If You've Never Been Vamped By a Brownskin (You've Never Been Vamped at All)"</stage>
+
+<sp><speaker>SAM PECK</speaker>
+<lg>
+
+<l>Deacon Birch of Mt. Zion Church</l>
+
+<l>Was hailed up into court.</l>
+
+<l>He was brought in by his wife, I think,</l>
+
+<l>And charged with non-support.</l>
+
+</lg>
+
+<lg>
+
+<l>A sealskin brown with jet-black hair</l>
+
+<l>Caused Deac' to lose his head.</l>
+
+<l>And when the judge called Deac' to speak,</l>
+
+<l>Dese am the words he said:</l>
+
+</lg>
+
+<lg>
+
+<l>If you've never been vamped by a brownskin,</l>
+
+<l>You've never been vamped at all,</l>
+
+<l>For the vampingest vamp is a brownskin.</l>
+
+<l>Believe me now, that ain't no stall.</l>
+
+<l>A high brown gal will make you break out of jail,</l>
+
+<l>A choc'late brown will make a tadpole smack a whale,</l>
+
+<l>But a pretty sealskin brown, I mean one long and tall,</l>
+
+<l>Would make the silent Sphinx out in the desert bawl.</l>
+
+<l>If you've never been vamped by a brownskin,</l>
+
+<l>You've never been vamped at all.</l>
+
+</lg></sp>
+
+<note>["Uncle Tom
+and Old Black Joe" and "Everything Reminds Me of You" may have been performed
+here.</note>
+
+
+
+<stage>Curtain.]</stage>
+
+</div>
+
+<div type="scene" n="4">
+<head>
+[Scene 4]: Spencer's Lane
+</head>
+
+<stage>(Sam enters right with lighted lantern in his
+hand. Tom enters from left.)</stage>
+
+
+
+<sp><speaker>TOM SHARPER. </speaker>
+<p>Hey, Sam, is that you?</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Yes, Tom, is that you?</p></sp>
+
+
+<sp><speaker>TOM SHARPER. </speaker><p>What
+are you doing out here this time of night? Are you on the night force now?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>I'm all the force.</p></sp>
+
+
+<sp><speaker>TOM SHARPER. </speaker>
+<p>Who are you looking for?</p></sp>
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Slippery Jim.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><stage>(surprised)
+</stage><p>Slippery Jim???? Is he out
+already??</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Never been locked up yet.</p></sp>
+
+
+<sp><speaker>TOM SHARPER. </speaker><p>I
+thought that was the first man you locked up when you got the job.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>No, Tom, I wasn't <hi rend="underline">thinking</hi> about locking him up.</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><stage>(disgustedly)
+</stage><p>Ain't we got some fine
+protection?? What's that you got in your hand?</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>That's a lamp.</p></sp>
+
+
+<sp><speaker>TOM SHARPER. </speaker><p>Next
+to Aladdin's lamp, that's the oldest-looking thing I ever did see.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>Aladdin's Lamp???? What is Aladdin's lamp?????</p></sp>
+
+
+<sp><speaker>TOM SHARPER.</speaker><stage>(amazed)
+</stage><p>You never heard of Aladdin's
+lamp.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker>
+<p>No, Tom. I never heard tell of it.</p></sp>
+
+
+<sp><speaker>TOM SHARPER. </speaker><p>Well,
+that was the old lamp they found, and when they rubbed it, a genie came up, and
+any question you would ask him, he would answer it, and any wish you would make,
+he would grant it. You see, if that was Aladdin's lamp and you rubbed it, and a
+genie would come up and you asked him where Slippery Jim was, he would tell you
+exactly where to find him.</p></sp>
+
+
+
+<sp><speaker>SAM PECK. </speaker><p>No,
+Tom, I don't want that&#8212;</p></sp>
+
+
+
+<sp><speaker>TOM SHARPER. </speaker>
+<p>Oh, but it was a marvelous lamp.</p>
+
+
+
+<stage>SONG: "Oriental Blues"</stage>
+
+
+<lg>
+<l>If I only had an oil lamp like Aladdin,</l>
+
+<l>With its mystic power from its mystic bower,</l>
+
+<l>I'd call old genie to my side.</l>
+
+<l>Precious stones nor riches would not be my wishes,</l>
+
+<l>But on bended knee, I would implore old genie,</l>
+
+<l>To let my conscience be his guide.</l>
+
+<l>I'm so lonely and there's only</l>
+
+<l>One place that will ease my mind.</l>
+
+<l>It's that land where gentle Oriental maidens you will find.</l>
+
+</lg>
+<lg>
+
+<l>I've got those Oriental blues,</l>
+
+<l>I've got those Oriental blues.</l>
+
+<l>I like to take a trip across the China Sea</l>
+
+<l>To old Shanghai.</l>
+
+<l>Sip a cup of China tea</l>
+
+<l>With poor Butterfly,</l>
+
+<l>Then spend a day at old Bombay</l>
+
+<l>Watching those Hindoo maidens sway . . .</l>
+
+<l>With a night's repose</l>
+
+<l>Where grows the Persian rose,</l>
+
+<l>At dawn on an Arabian steed</l>
+
+<l>At an Arabian speed,</l>
+
+<l>Let me whirl with a Bedouin girl.</l>
+
+<l>Then in Cairo town</l>
+
+<l>I'd like to settle down.</l>
+
+<l>Oh, I've got those mysterious, doggone delirious,</l>
+
+<l>Oriental blues.</l>
+
+</lg></sp>
+
+<stage>(Enter Mrs. Peck from right and Mr. Penrose from
+left.)</stage>
+
+
+
+<sp><speaker>MRS. PECK. </speaker>
+<p>Oh, you are just the man I'm looking for.</p></sp>
+
+
+<sp><speaker>JACK PENROSE. </speaker>
+<p>At your service, madam.</p></sp>
+
+
+<sp><speaker>MRS. PECK. </speaker><p>Mr.
+Penrose, you've been here a long time and you haven't reported to me as yet.
+You were in the store and you must have found Steve stealing. That's how he was
+elected. But still you haven't caught him.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker>
+<p>Oh, I caught him all right.</p></sp>
+
+
+<sp><speaker>MRS. PECK. </speaker><p>Well,
+why didn't you report it? He should have been arrested at once. The idea of him
+robbing my poor husband . . . He's nothing but a common thief, that's what he
+is!</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker>
+<p>I caught your husband robbing Steve.</p></sp>
+
+
+<sp><speaker>MRS. PECK.</speaker><stage>(dumbfounded)
+</stage><p>Huh! You caught my husband
+robbing Steve? Well, now, who hired you, me or Steve?</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker>
+<p>Can you keep a secret?</p></sp>
+
+
+<sp><speaker>MRS. PECK. </speaker>
+<p>Of course I can. I'm a woman.</p></sp>
+
+
+<sp><speaker>JACK PENROSE. </speaker>
+<p>Tom Sharper hired me to watch your husband.</p></sp>
+
+
+<sp><speaker>MRS. PECK. </speaker>
+<p>Well, Tom Sharper's too smart.</p></sp>
+
+
+<sp><speaker>JACK PENROSE. </speaker><p>Not
+as smart as he thinks he is. When I got here, I found Steve robbing Sam, Sam
+robbing Steve, and Onions robbing the both of them. And I in turn robbed all
+three of them.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK. </speaker>
+<p>Oh, this is dreadful.</p></sp>
+
+
+<sp><speaker>JACK PENROSE.</speaker><stage>(giving
+her roll of money) </stage><p>Here is the
+money. Give it to your husband and Steve, and tell them to be in the store
+tomorrow morning ready to run business on the level.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK. </speaker><p>Oh,
+that's impossible. They have to be at the Mayor's office tomorrow morning.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker><p>No,
+not tomorrow morning. Harry Walton shall be at the Mayor's office tomorrow
+morning.</p></sp>
+
+
+
+<sp><speaker>MRS. PECK.</speaker><stage>(puzzled)
+</stage><p>Well, I don't understand this,
+Mr. Penrose.</p></sp>
+
+
+
+<sp><speaker>JACK PENROSE. </speaker>
+<p>Well, come with me Madam, and I will explain.</p></sp>
+
+
+
+<stage>(Walk off stage left, together.)</stage>
+
+
+
+<stage>SONG: "I'm Craving for That Kind of Love"</stage>
+
+
+<sp><speaker>RUTH LITTLE.</speaker>
+
+<lg>
+
+<l>I'm wishing, and fishing, and wanting to hook,</l>
+
+<l>A mankind like you find in a book.</l>
+
+<l>I mean a modern Romeo,</l>
+
+<l>I do not want a phoneo.</l>
+
+<l>He may be the baby of some vamp . . .</l>
+
+<l>Oh, babe, at vampin' and lampin' I'm the champ.</l>
+
+<l>And if I once get him, I'll just set him,</l>
+
+<l>Beneath my parlor lamp&#8212;and let him:</l>
+
+<l>Kiss me, kiss me, kiss me with his tempting lips</l>
+
+<l>(Sweet as honey drips),</l>
+
+<l>Press me, press me, press me,</l>
+
+<l>To his loving breast,</l>
+
+<l>While I gently rest,</l>
+
+<l>Breathe love's tender sighs, while I gaze into his eyes,</l>
+
+<l>Eyes that will just hypnotize.</l>
+
+</lg>
+
+<lg>
+
+<l>Then I know he'll whisper, whisper, whisper to me soft and low,
+Something nice, you know:</l>
+
+<l>"Honey, Honey[, Honey]"</l>
+
+<l>When there's no one near.</l>
+
+<l>My baby dear</l>
+
+<l>Will huddle me, cuddle me, sing to me, cling to me,</l>
+
+<l>Croon to me, spoon to me, sigh to me, cry to me.</l>
+
+<l>I'm craving for that kind of love.</l>
+
+</lg>
+
+<stage>[ENCORE: "Daddy, Won't You Please Come Home?"</stage>
+
+<lg>
+
+<l>I feel dejected, sad and blue.</l>
+
+<l>I've been neglected, lonely, too.</l>
+
+<l>My daddy went away and quit me cold.</l>
+
+<l>Believe me when I say he ruined my very soul.</l>
+</lg>
+<lg>
+
+<l>I surely miss his loving smile.</l>
+
+<l>His hugs and kisses set me wild.</l>
+
+<l>Today he called me on the phone,</l>
+
+<l>And when he said "hello" you should have</l>
+
+<l>Heard me moan:</l>
+</lg>
+<lg>
+
+<l>Oh, Daddy, Da-Da-Da-Daddy,</l>
+
+<l>Daddy, won't you please come home?</l>
+
+<l>Daddy, Da-Da-Da-Daddy,</l>
+
+<l>Now how long are you going to roam?</l>
+
+<l>Why, since you went away,</l>
+
+<l>Both night and day,</l>
+
+<l>"Daddy, Daddy, Daddy, Daddy's"</l>
+
+<l>All I can say.</l>
+
+<l>Oh, Daddy, Da-Da-Da-Daddy,</l>
+
+<l>Daddy, won't you please come home?</l>
+</lg>
+</sp>
+
+<stage>Curtain opens.]</stage>
+
+
+</div>
+
+<div type="scene" n="5">
+<head>[Scene 5]: Ballroom of the Jimtown Hotel</head>
+
+
+
+<stage>[INTERLUDE: "A Few Minutes With Sissle and Blake</stage>
+
+<note>Here Eubie Blake left the pit to join Noble Sissle
+onstage to lead selections form their standalone performance repertory,
+especially songs from their military band days. The individual numbers and
+their order could change nightly, but "Gee, I'm Glad That I'm from Dixie"
+usually opened this set, and "On Patrol in No Man's Land" usually closed it. Of
+the other songs here, "Pickaninny Shoes" and "The Low-Down Blues" were included
+most frequently.</note>
+
+
+
+<stage>SONG: "Gee, I'm Glad That I'm from Dixie"</stage>
+<sp>
+<lg>
+
+<l>Conductor man, wave your hand.</l>
+
+<l>Start this train a-movin' for old Dixieland.</l>
+
+<l>I can't wait, don't hesitate.</l>
+
+<l>Tell that engineer to hit his fast escape.</l>
+
+<l>Time for me to bend the knee,</l>
+
+<l>Standin' in that door waiting there to see,</l>
+
+<l>Down at the station</l>
+
+<l>There'll be a demonstration</l>
+
+<l>Of Southern hospitality.</l>
+
+</lg>
+
+<lg>
+
+<l>Gee, I'm glad that I'm from Dixie,</l>
+
+<l>Down where the Swanee River's flowing.</l>
+
+<l>That's where this choo-choo am a-going.</l>
+
+<l>I hope you make a bee-line through old Virginia,</l>
+
+<l>Cross the Carolinas into Alabam',</l>
+
+<l>Then give me time to send a telegram</l>
+
+<l>That I'se comin',</l>
+
+<l>Yeah comin'.</l>
+
+<l>So weep no more, my lady.</l>
+
+<l>Oh gee, I'm glad that I'm from Dixie,</l>
+
+<l>So I can get a Dixie welcome home.</l>
+
+</lg>
+</sp>
+<stage>POSSIBLE SONG: "Serenade Blues"</stage>
+
+<stage>POSSIBLE SONG: "Ain'tcha Coming Back, Mary Ann, to Maryland?"</stage>
+
+<sp>
+<lg>
+<l>In a country town in Maryland,</l>
+
+<l>Lived a little girl, the village pride.</l>
+
+<l>Ev'rybody called her Mary Ann,</l>
+
+<l>She was the pet of all the countryside.</l>
+
+<l>When Mary Ann left Maryland</l>
+
+<l>Just for a week, why everybody sighed:</l>
+
+</lg>
+<lg>
+<l>Ain'tcha coming back,</l>
+
+<l>Ain'tcha coming back,</l>
+
+<l>Ain'tcha coming back,</l>
+
+<l>Mary Ann, to Maryland?</l>
+
+<l>Since you went away, things ain't half so gay.</l>
+
+<l>Ev'ryone wants Mary Ann.</l>
+
+<l>The birdies miss you, too.</l>
+
+<l>Their little songs are blue,</l>
+
+<l>Since they found you have left us, Mary Ann.</l>
+
+<l>We all are yearning for your returning,</l>
+
+<l>Now, ain'tcha coming back, Mary Ann, to Maryland?</l>
+
+</lg>
+<lg>
+
+<l>In that country town in Maryland</l>
+
+<l>Also lived a handsome blushing lad,</l>
+
+<l>And to win the hand of Mary Ann</l>
+
+<l>He gave up all the other girls he had.</l>
+
+<l>Since Mary Ann wears a wedding band,</l>
+
+<l>We never have to sing that song so sad:</l>
+
+
+
+<l>Ain'tcha coming back, <hi rend="underline">etc.</hi>]</l>
+
+</lg>
+</sp>
+<stage>SONG: "Low-Down Blues"</stage>
+
+<sp>
+<lg>
+<l>My heart is achin', it's 'bout to break in two.</l>
+
+<l>My head is reelin', and I am feelin' blue.</l>
+
+<l>I feel just like a fish without a fin,</l>
+
+<l>And for the want of sleep, I'm getting thin.</l>
+
+<l>If you don't think I'm sinkin',</l>
+
+<l>Look what a hole I'm in.</l>
+
+</lg>
+<lg>
+
+<l>I've got the low-down, the lowest of the low-down blues.</l>
+
+<l>Seems just like my crown is sinkin' through my shoes.</l>
+
+<l>It's not because I'm broke with all my clothes in pawn,</l>
+
+<l>But since that morn I woke and found my sweetie gone,</l>
+
+<l>With that mournful news, I got the lowest of the low-down
+blues.&#8212;</l>
+
+
+
+<l>Believe me now, that fellow never told no lie</l>
+
+<l>Who said you'll never miss the water 'till the well runs dry.</l>
+
+<l>The one who took my sweetie'd better leave this shore,</l>
+
+<l>Or there will surely be some crepe a-hangin' on his door.</l>
+
+
+
+<l>I've got the low-down, the lowest of the low-down blues.</l>
+
+<l>Seems just like my crown is sinkin' through my shoes.</l>
+
+<l>I lost my weight in gold and never even sighed,</l>
+
+<l>But when my sweetie quit me cold, I nearly died,</l>
+
+<l>With that mournful news,</l>
+
+<l>I got the lowest of the low-down blues.</l>
+
+</lg>
+</sp>
+<stage>[SONG: "Pickaninny Shoes"</stage>
+
+
+
+<sp><speaker>NOBLE SISSLE.</speaker>
+
+<stage>(holding a pair of prop baby shoes)</stage>
+<lg>
+<l>Southern scenes unfoldin', </l>
+
+<l>A darky sat a-holdin'</l>
+
+<l>His pickaninny shoes.</l>
+
+<l>From silent meditation</l>
+
+<l>He started conversation</l>
+
+<l>With pickaninny shoes.</l>
+
+<l>In these "Rock-a-by-O-Baby" ways,</l>
+
+<l>He talks of "Rock-a-by-O-Baby" days:</l>
+</lg>
+
+<lg>
+<l>Pickaninny shoes,</l>
+
+<l>Pickaninny shoes . . .</l>
+
+<l>How well I remember when I was a lad.</l>
+
+<l>You were the only true pals that I had.</l>
+
+<l>When boys would chide me,</l>
+
+<l>You'd always guide me</l>
+
+<l>Safely back home</l>
+
+<l>A-yellin' for dad.</l>
+</lg>
+
+<lg>
+<l>Pickaninny shoes,</l>
+
+<l>You saved me a many a bruise,</l>
+
+<l>And though you musty and dusty</l>
+
+<l>And wrinkled and worn . . .</l>
+
+<l>Though you graceless and lace-less</l>
+
+<l>And tattered and torn . . .</l>
+
+<l>Yet if I had to choose,</l>
+
+<l>I'd rather a fortune to lose</l>
+
+<l>Than my pickaninny shoes.</l>
+</lg>
+
+</sp>
+<note>POSSIBLE SONG: "Kentucky Sue"</note>
+
+
+<note>POSSIBLE SONG: "Mirandy"</note>
+
+<note>(music and lyrics: James Reese Europe, Noble Sissle, Eubie Blake)</note>
+<sp>
+
+<lg>
+<l>The darktown dude of Jacksonville</l>
+
+<l>Is a jaspar nicknamed Sandy.</l>
+
+<l>This dusky dude of Jacksonville</l>
+
+<l>Has a gal they call Mirandy.</l>
+
+<l>She's a long, tall, sealskin brown</l>
+
+<l>With a loose and careless way.</l>
+
+<l>If you ask Sandy about Mirandy,</l>
+
+<l>You will hear him say:</l>
+</lg>
+<lg>
+
+<l>There ain't no gal as sweet as my</l>
+
+<l>Mirandy,</l>
+
+<l>Why 'lasses candy</l>
+
+<l>Is like a big round ball of bitterness.</l>
+
+<l>When you taste those lips of sugar sweet</l>
+
+<l>(Oh, boy!) I say you'll fall down at her feet and weep.</l>
+
+<l>You know the whole world's jealous of me and</l>
+
+<l>Mirandy.</l>
+
+<l>I'm her dandy.</l>
+
+<l>I'm only waiting for the time</l>
+
+<l>When the village bell will chime that old rhyme,</l>
+
+<l>For I've bought that wedding band</l>
+
+<l>From an expensive jewelry man</l>
+
+<l>For Mirandy, that gal o' mine.</l>
+
+</lg>
+</sp>
+<note>POSSIBLE SONG: "How Ya Gonna Keep 'em Down on the Farm"</note>
+
+<note>(music: Walter Donaldson &#8211; lyrics: Sam M. Lewis, Joe Young)</note>
+<sp>
+<lg>
+<l>How ya gonna keep 'em down on the farm</l>
+
+<l>After they've seen Paree?</l>
+
+<l>How ya gonna keep 'em away from Broadway,</l>
+
+<l>Jazzin' aroun'</l>
+
+<l>And paintin' the town?</l>
+
+<l>How ya gonna keep 'em away from harm?</l>
+
+<l>That's a mystery!</l>
+
+<l>They'll never want to see a rake or plow,</l>
+
+<l>And who the deuce can <hi rend="underline">parlez-vous</hi>
+a cow?</l>
+
+<l>How ya gonna keep 'em down on the farm</l>
+
+<l>After they've seen Paree?</l>
+
+</lg></sp>
+
+<note>SONG: "On Patrol in No Man's Land"</note>
+
+<note>(music and lyrics: James Reese Europe, Noble Sissle, Eubie Blake)</note>
+<sp>
+<lg>
+<l>What's the time? Nine.</l>
+
+<l>All in line.</l>
+
+<l>All right, boys, now take it slow.</l>
+
+<l>Are you ready? Steady! Very good, Eddie.</l>
+
+<l>Over the top, let's go!</l>
+
+<l>Quiet, quiet, else you will start a riot.</l>
+
+<l>Keep your proper distance, follow 'long.</l>
+
+<l>Cover, brother, and when you see me hover,</l>
+
+<l>Obey my orders and you won't go wrong.</l>
+
+<l>There's a Minenwurfer coming&#8212;look out!</l>
+
+<l>Hear that roar? There's one more.</l>
+
+<l>Stand fast, there's a very light.</l>
+
+<l>Don't gasp, or they'll find you, all right.</l>
+
+<l>Don't start to bombing with those hand grenades.</l>
+
+<l>There's a machine gun, holy spades!</l>
+
+<l>Alert! Gas! Put on your mask.</l>
+
+<l>Adjust it correctly, and hurry up fast.</l>
+
+<l>Drop! There's a rocket from the Boche barrage.</l>
+
+<l>Down! Hug the ground, close as you can, don't stand.</l>
+
+<l>Creep and crawl. Follow me, that's all.</l>
+
+<l>What do you hear? Nothing near. Don't fear.</l>
+
+<l>All is clear!</l>
+
+<l>That's the life of a stroll when you take a patrol</l>
+
+<l>Out in no man's land. Ain't it grand?</l>
+
+<l>Out in no man's land.</l>
+</lg>
+
+</sp>
+<note>At this point, Blake returned to his baton to
+conduct the remaining numbers.]</note>
+
+
+<stage>SONG: "Baltimore Buzz"</stage>
+
+<sp><speaker>[TOM
+SHARPER and COMPANY.]</speaker>
+<lg>
+
+<l>There have been a thousand raggy, draggy dances</l>
+
+<l>That are danced in ev'ry hall.</l>
+
+<l>And there have been a thousand raggy, draggy prances</l>
+
+<l>That are pranced at ev'ry ball.</l>
+
+<l>But the best-est one that wuzz</l>
+
+<l>Is called the "Baltimore Buzz."</l>
+
+</lg>
+<lg>
+
+<l>First you take your babe and gently hold her.</l>
+
+<l>Then you lay your head upon her shoulder.</l>
+
+<l>Next you walk just like your legs are breaking.</l>
+
+<l>Do a fango like a tango,</l>
+
+<l>Then you start the shimmy to shaking.</l>
+
+<l>Then you do a raggy, draggy motion,</l>
+
+<l>Just like any ship upon the ocean.</l>
+
+<l>Slide&#8212;and then you hesitate.</l>
+
+<l>Glide&#8212;oh, honey, ain't it great!</l>
+
+<l>You just go simply in a trance,</l>
+
+<l>With that "Baltimore Buzz"-ing dance.</l>
+
+</lg></sp>
+
+
+<stage>[SONG: "African Dip"]</stage>
+
+
+
+<stage>ACT 2 FINALE</stage>
+
+
+
+<stage>(Curtain.)</stage>
+
+
+
+
+
+
+<stage>The End</stage>
+
+</div>
+</div></body></text></TEI>
+

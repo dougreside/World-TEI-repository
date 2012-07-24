@@ -1,0 +1,4992 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="drama.xsl"?>
+<!DOCTYPE TEI SYSTEM "tei_drama.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Little Johnny Jones</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>New York Public Library for the Performing Arts</publisher>
+                <pubPlace>New York City</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Little Johnny Jones</title>
+                    <author>George M. Cohan</author>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <titlePart>
+                    <title>"LITTLE JOHNNY JONES"<lb/></title>
+                 </titlePart>
+                 <docAuthor>   
+				
+BY:<lb/>
+GEORGE M. COHAN
+
+</docAuthor>
+</titlePage>
+
+<pb/>
+<div type="characters">
+<head>
+-- Original Cast --
+</head>
+<castList>
+<castItem>ANTHONY ANSTEY, an American Gambler.--------------------J.J. Cohan</castItem>
+<castItem>SING SONG, Editor of the Pekin Gazette.-----------------Bernard Dyllyn</castItem>
+<castItem>TIMOTHY D. McGEE, an American Politician
+                    and horse owner------------------------Sam J. Ryan</castItem>
+<castItem>HENRY HAPGOOD, a young friend of Goldie's.--------------Donald Bryen</castItem>
+<castItem>WHITNEY WILSON, who also makes the trip-----------------Tim Lewis</castItem>
+<castItem>STARTER, of the Cecil.</castItem>
+<castItem>CAPTAIN SQUIRVEY, of the St. Hurrah:--------------------C. Jack Harrington</castItem>
+<castItem>BELL BOY:</castItem>
+<castItem>CABIN BOY:----------------------------------------------William Seymour</castItem>
+<castItem>JOHNNY JONES, the American Jockey-----------------------George M. Cohen</castItem>
+<castItem>MRS. KENWORTH, Goldie's Aunt----------------------------Helen F. Cohan</castItem>
+<castItem>FLORABELLE FLY, of the Frisco Searcher-------------------Truly Shattuck</castItem>
+<castItem>BESSIE, The American Girl-------------------------------Eddie Tyler</castItem>
+<castItem>GOLDIE GATES, an heiress in love with Jones, and THE EARL OF BLOOMSBURY-------Ethel Levey</castItem>
+<castItem>INSPECTOR OF POLICE-------------------------------------Charles Bachman</castItem>
+</castList>
+</div>
+<div type="scenes">
+<list>
+<item>ACT 1st -- Exterior Cecil Hotel - London, England.</item>
+<item>ACT 2nd -- South Hampton Dock, St. Hurrah Steaming</item>
+<item>ACT 3rd -- Chinatown, San Francisco.</item>
+</list>
+</div>
+<pb/>
+</front>
+<body>
+<div type="act" n="1">
+<head>-ACT 1.-</head>
+
+<stage>(Opening number done by starter and all the chorus.)</stage>
+<stage>(At opening of number reformers enter from 1st entrance left, and enter
+hotel, and appear on balcony.)</stage>
+<stage>(During number the newsboy comes from 1.E.L. deals out papers to members
+of chorus, while he and starter are singing, starter following
+him around.)</stage>
+<stage>(At finish of number, cabbies down stage - exit 1.E.L. and chorus stays
+up stage - pantomine talk.)</stage>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Calling off L.1.E.)</stage> <p>Here, here, keep to the left - keep to
+the left. </p><stage>(Sarcastic)</stage><p> Drives his cab to the right like a
+blooming Yankee. </p><stage>(Enter Henry from hotel and down to starter)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Good morning, starter. </p><stage>(Starter turns to R.)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>A ripping nice morning, yes sir.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Fine day for the derby.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Yes indeed, sir.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Henry turns to L. and looks up at decorations.)</stage><p> Tell me, what
+are these decorations for.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Decorations, haven't you heard? Sing Song, the great Chinese
+newspaper man here to see the Derby. They do say the Emperor
+sent him. Four of the Emperor's wards are with him, sir.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Emperor's wards!</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Sure. Chinese women my word, they are a sight.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Are there many Americans here?</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>All sorts and sizes, sir.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Notice any uncommon, extraordinary, I might say suspicious ones
+among them?</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Say, where are you from? Scotland Yards?</p></sp>
+
+<sp><speaker>Henry</speaker>
+<stage>(Laughing)</stage><p> Why?</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>You talk like a blooming inspector. Something up, is there?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Hesitatingly)</stage><p>
+Why no, -- but --</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Something you want to know, sir? </p><stage>(Holding out hand)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>There you are again - well here. </p><stage>(Slips him tip)</stage> <p>Is there a
+Mrs. Kenworth here?</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Mrs. Kenworth, oh, yes, sir. She's been here for several
+days, sir.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Who's with her? </p><stage>(THEY go to R. of stage)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>A lot of young females, sir. Some sort of a reforming society,
+I understand. They look like Salvation Army folks to me, sir.
+</p>
+</sp>
+<stage>(At this girls enter from hotel. Come down stage, all turn and look up
+at balcony, and discover reformers. Pointing up and laughing, both
+Henry and Starter turn, and both look up at balcony and cross to extreme
+left.)</stage>
+
+<sp><speaker>Starter.</speaker>
+ <stage>(All excited)</stage> <p>There they are, sir. Them is them, sir.</p>
+<stage>(At this girl comes down stage C. surrounded by all the girls
+and Starter stays extreme L. looking off. Henry goes up stage,
+talks to boys.)</stage></sp>
+
+<pb/>
+
+<sp><speaker>1st Girl.</speaker>
+<p>Do you know who they are?</p></sp>
+
+<sp><speaker>All the Girls.</speaker>
+<p>
+No.</p>
+</sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>
+They're the San Francisco Female Reformers.</p></sp>
+
+<sp><speaker>All.</speaker>
+<stage>(Laugh)</stage></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>They tried to close up the Chinese Lottery game. </p><stage>(Girls
+all laugh-turn and go up stage. 1st girl goes up to extreme
+R. and Henry comes down to Starter.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Much obliged to you Starter for the information.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Holding out hand)</stage><p> Anything else I can do, sir?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Yes, stop holding out your hand all the time. </p><stage>(Laughs, runs
+up to hotel and exits.)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Thank you sir. </p><stage>(Turns to L. and calls off)</stage><p> Here, here-
+drive to the left - drive to the left. </p><stage>(Exits L.1.E.)</stage><stage> (In
+the meantime, boy comes from door R. down to first girl
+with papers - she takes one, reads and goes to C.)</stage></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<stage>(Reading paper)</stage><p> Look here, girls, it says Yankee Doodle is
+the favorite in the Derby. </p><stage>(All get around her.)</stage></sp>
+
+<sp><speaker>2nd Girl.</speaker>
+<p>Who rides Him?</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>It doesn't say. </p><stage>(Enter McGee from hotel and right down to
+girls.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(As he comes on)</stage><p> That's all right now, etc.-----</p></sp>
+
+<sp><speaker>Girls.</speaker>
+<stage>(All turn)</stage><p> It's Mr. McGee. </p><stage>(All run up to him and crowd
+around him) </stage><stage>(Business here of him trying to back away, and
+finally succeeds.)</stage><stage> (All come down stage.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(1st girl at his R.)</stage><p> By gorra's I wish you girls wouldn't
+be so glad to see me, but say, I got great news for you,
+but remember it's a secret.</p></sp>
+
+<sp><speaker>All.</speaker>
+<stage>(All interested)</stage><p> A secret? </p><stage>(Get close)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Laughs)</stage><p> I can see this bunch keeping a secret. Listen to
+this. "Go as far as you like on the English Derby". J. J.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>Who's J. J.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Johnny Jones, the American jockey.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>What's he ride?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Yankee Doodle, and any time Jones says bet, the race is in.
+He left Paris last night - he'll be here before noon.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>Will you introduce us to Mr. Jones?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Don't be afraid, he'll introduce himself. Now remember I've
+chartered a tally-ho for the Derby and we'll all go together.</p></sp>
+
+<sp><speaker>All.</speaker>
+<stage>(Delighted and go up stage.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(To first girl with arm around her)</stage><p> But don't mention the
+tip. Mum's the word.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>Mum's the word.</p></sp>
+
+<sp><speaker>McGee. </speaker>
+<p>And if they run out of Mums, we'll drink any old thing
+they've got.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<stage>(With arm around him)</stage><p> Do you know Mr. McGee I think you're
+the dearest, darlingest and sweetest man that ever - - -
+</p><stage>(Bus. of taking roll of greenbacks from his pockets.)</stage>
+<pb/></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Aside - seeing her take money.)</stage><p> Rough work - rough work.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<stage>(Fooling with money)</stage><p> What's this, American Money?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Yes, American money.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>It's no good over here.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Taking it and putting it in pocket on other side.)</stage><p> No, then
+I'll put it over here.
+</p><stage>(At this, 1st girl releases him and runs off - sore. Exits
+1st entrance R.)</stage> <p>But all joking aside</p>
+<stage>(Turns and girls all come down and surround him.)</stage><p> I'd like
+to meet you girls in New York.</p></sp>
+
+<sp><speaker>All girls.</speaker>
+<stage>(Chorus-)</stage> <p>Oh, New York.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>I may not be the whole thing in England, but in New York,
+why say-- they're all my friends.
+</p><stage>(MUSIC CUE - SONG - "THEY'RE ALL MY FRIENDS" - done by McGee and
+Chrous. - at finish of number the girls all exit either side
+and music continues and McGee and boys continues singing and
+dancing. At finish boys exit. 1st E. L. and Reformers
+exit balcony. McGee sits at right of table at extreme left.
+Boy enters from door R. whistling. McGee turns and calls
+him.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Boy comes over.)</stage><p> Say, Boy, is there any mail?</p></sp>
+
+<sp><speaker>Boy.</speaker>
+<p>What's the name, sir?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Timothy D. McGee.</p></sp>
+
+<sp><speaker>Boy</speaker>
+<p>I'll see, sir. </p><stage>(Exits door L.)</stage><stage> (Enter Fly from hotel - comes
+down to table where McGee is.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Timothy D. McGee -- in London, quite a bit of news for the
+society columns I must say.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>I'm all out of wind, a man of any age shouldn't be dancing.
+</p><stage>(Turns L. recognizes her.)</stage>
+<p>Florabelle Fly!</p> <stage>(Gets up and shakes hands)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>As ever yours, Florabelle. </p><stage>(Sits down)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>What brought you here?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>The American line, of course.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Here to do the Derby, eh?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Exactly, and incidentally making notes of the different
+celebrities, I come in contact with.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Still in the newspaper business, eh?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Still scribbling scribbles for the San Francisco Searcher.
+Tell me, what are you doing here, Mack?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Come to see the Derby.</p></sp>
+
+<sp><speaker>Fly.
+Is that all?
+</speaker>
+<p>McGee.
+And why?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Oh, nothing, I see Anthony Anstey is here.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Surprised.)</stage><p> Anthony Anstey.</p></sp>
+
+<sp><speaker>Fly.
+Yes.
+
+McGee.</speaker>
+<p>In London?</p></sp>
+
+<sp><speaker>Fly.</speaker><p>
+Yes.
+</p>
+<pb/></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>What's he here for?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Why do you ask?</p></sp>
+
+<sp><speaker>McGee</speaker>
+<p>Oh, nothing, but - - -</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>But you have an idea he's here after Johnny Jones, isn't that
+is, Mack?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>No, not exactly - - -</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>And you are here for the same purpose.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>And who told you?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Common Sense. If I meet a lady in Paris, I know she's there
+for hats and gowns. If I meet a horse owner in London, I know
+he's here for Johnny Jones. Have you seen him yet?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Well, to tell you the truth, I have not.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Don't be afraid Mack. I'll not print your secret. Where is
+Jones?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>He's on his way from Paris. </p><stage>(At this Fly gets up - crosses in
+front of table and stools to C.)</stage> <p>Gets here about noon, I
+guess. But tell me, Fly, are you sure Anstey's after him.
+</p><stage>(Fly turns L. to McGee.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Do you know a horse owner who isn't?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>I guess you're right.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>You see Anstey's in a trifling way connected with the story I'm
+after, for the Searcher, and oh, such a story, Mack. </p><stage>(At this
+she strolls to McGee's side)</stage> <p>Inside of a few days I expect to
+have a page or two of sensational reading that will throw our
+'Frisco competitors into seven kinds of journalistic fits. </p><stage>(Then
+she turns and strolls to extreme right.)</stage></sp>
+
+<sp><speaker>McGee.
+Murder?
+
+Fly.</speaker>
+<p>No.</p></sp>
+
+<sp><speaker>McGee.
+Robbery?
+</speaker>
+<p>Fly.
+No.</p></sp>
+
+<sp><speaker>McGee
+Love affair.
+</speaker>
+<p>Fly.
+There you have it. </p><stage>(McGee gets up and goes over to Fly. Laughs.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Story about a girl going to marry an English Lord.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>No, a story about a girl who doesn't want to marry an English
+Lord.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>That ought to make a good story. </p><stage>(Enter servant - 2nd entrance
+L. with note on tray and hands same to McGee.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Leave that to me. </p><stage>(Business)</stage> <stage>(Servant calling McGee by name)</stage></sp>
+
+<sp><speaker>Boy.
+Mr. McGee?
+</speaker>
+<p>McGee.
+</p><stage>(Looking at note)</stage> <p>What's this? </p><stage>(Business. Reads)</stage> <p>Sing
+Song wants to see me. </p><stage>(Bus. Boy. bows affirmatively, and goes
+to 2nd E.L. and stays there.)</stage></sp>
+
+<sp><speaker>Fly.
+Sing Song?
+</speaker>
+<p>McGee.
+Yes, the Chinese newspaper man. Here to do the Derby. Haven't
+you met him?</p></sp>
+
+<sp><speaker>Fly.</speaker><p>
+I'd like to.
+</p>
+<pb/></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Come on, I'll introduce you. </p><stage>(Turns to go at same time to
+servant.)</stage> <p>Tell him I'll be right there. </p><stage>(Exits servant.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Laughs)</stage><p>
+Chinese newspaper man - whoever heard of such a thing?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Yes, the Editor of the Pekin Gazette, and a real live sport.</p></sp>
+
+<sp><speaker>Fly.
+(Laughs)</speaker>
+<p>Chinaman, - Sport?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Sent here by the Emporer.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>The Emperor? </p><stage>(MUSIC CUE. Soft Waltz.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>So they say, but come on, I want you to meet him. </p><stage>(Exits door L.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Follows)</stage><p> This will make a story in itself. Chinese newspaper
+man - funniest thing I ever heard. </p><stage>(Exits laughing)</stage> <stage>(Enter
+Henry from Hotel. Looks about. Enter boy from door L. Shouting
+"Johnny Jones". Crosses and exits in door R.)</stage> <stage>(Music Forte now.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(When boy exits, Henry comes down stage and calls.)</stage><p> All right
+Goldie, come right along, the coast is clear. </p><stage>(Music double
+Forte, and enter Goldie Gates from hotel, over to table R.)
+(Henry follows)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Are you quite sure?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Not a soul in sight. </p><stage>(Fly enters from door L. goes to C. and
+discovers them.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>What a relief. I've never been so nervous in all my life.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Pluck up courage- everything is going along nicely. I've a
+thousand things to tell you.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Do you suppose any one suspects?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>No, but be careful. Don't get into conversation with any one.
+I've given them to understand here that you're a French girl,
+and no one knows a thing about you.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Except Florabelle Fly. What a story - what a scoop for the
+Searcher. </p><stage>(Turns and exits in door L.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Tell me, what have you heard?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>A thousand things, Goldie. To begin with, your aunt has
+engaged herself to be married.</p></sp>
+
+<sp><speaker>Goldie.
+To whom?
+</speaker>
+<p>Henry
+Anthony Anstey, an American gambler. </p><stage>(At this Goldie sits at
+R. of table)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>A gambler? Anthony Anstey? He comes from 'Frisco and is well
+known.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Notoriously so. That man would rob a newsboy of a Canadian
+dime.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Aunt Annette engaged to be married. </p><stage>(Laughs)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Now don't get meritorious.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>But what of this husband she's picked out for me - this nobleman?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Lord Walter Wetherington-Earl of Bloomsbury.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>The Earl of Bloomsbury!</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Yes, a young man who desires to tie up with an American
+heiress. Anstey is to introduce him to your Aunt.
+
+</p><pb/></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Oh, then she hasn't met him yet?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>No, I understand he is to be here today.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Good, then I'll get a look at my future husband.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Goes in back of table)</stage><p> Look here, Goldie, there is some sort of
+a game on foot between this man Anstey and this Chinese newspaper
+man, Sing Song.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>What makes you think so?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Closeted meetings. Whispered conversations - all sorts of
+mysterious notions. </p><stage>(Henry goes up to the L. side of table.
+Faces Goldie.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>What sort of a looking man is this Anstey?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Well, he's a man of about fifty, rather short, keen-eyed and-</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(From inside)</stage><p> Going to the Derby? Well, I should say I am
+going to the Derby.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Here he is now. </p><stage>(Henry goes L. Enter Anstey from hotel-
+comes down stage C.)</stage> <stage>(Goldie takes paper and reads)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Glorious land of the - - - - - </p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Goes over to Anstey)</stage><p> Good morning, Mr. Anstey, good morning,
+sir!</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns)</stage><p> Ah, good morning. Why as I live, the young man
+I met at the American bar last evening. </p><stage>(Holds out hand)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Shakes his hand)</stage><p> The same sir. Identically the same.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Fine day for the Derby.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Glorious. </p><stage>(Goes to L. table)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns discovers Goldie.)</stage><p> Who's your friend?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Oh, beg pardon, allow me. </p><stage>(Crosses)</stage> <p>Mlle., I present
+Monsieur Anstey, Rosario Fanchonette - </p><stage>(Goldie gets up and
+Henry crosses to L.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Bowing)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Bus. dialect)</stage><p> Delighted Monsieur. Oh, you have such
+beautiful hair.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Let's all have a drink. </p><stage>(Calls)</stage> <p>Waiter. </p><stage>(Waiter who has
+been up stage comes down.)</stage> <p>A quart of wine - you know the
+vintage I mean.</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>Aye, Governor. </p><stage>(Waiter bows affirmatively - exits into
+hotel.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns to Goldie)</stage><p> You are going to the Derby, I suppose.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Oui, oui, that is why I come from Paris. </p><stage>(Goldie goes in
+back of right chair.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Goes to table R.)</stage><p> Oh, you come from Paree.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Comes over to him.)</stage><p>
+Yes, she's a French girl.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>A French girl, well, well! A French girl from Paree. That's
+strange. </p><stage>(Sits down at left of table.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>That is rather strange. </p><stage>(Turns and goes L.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>You are an American gentleman? Yes? </p><stage>(Anthony sits down.)</stage>
+
+<pb/></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Henry comes over to Anstey.)</stage><p> American, all wool and a yard
+wide. </p><stage>(Goldie and Henry laugh.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>What makes the Americans so proud of their country?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Other countries.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Laughs)</stage><p> Henry.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Coughs)</stage><p> Very good, very good! </p><stage>(Turns and goes L.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>You like the Americans, eh?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Not so much. The English are much better.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Bus. coming close to Anstey.)</stage><p> Yes, you see, Mlle. prefers
+titled gentlemen. She has a score of acquaintances amongst
+the nobilities.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(To Henry)</stage><p> Run away, young man, run away. </p><stage>(At this Henry
+turns and goes L.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Nobility! Do you know the Earl of Bloomsbury?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Ah! He is my dear friend. </p><stage>(Anstey interested. Henry up
+stage, watches what is going on.)</stage> <p>He will be here today.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>No, the Earl will not be here for a week.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Will not be here for a week.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>No, not for a week.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Tell me, who is this heiress?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Only a school girl. </p><stage>(At this Goldie crosses in back of
+table to C. and motions Henry to go.)</stage> <stage>(Henry goes up
+steps of hotel and stays there.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Only a school girl?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Yes, a beautiful young school girl.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>She is very beautiful?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(At this Anstey gets up and goes over to Goldie.)</stage><p> Well, I've
+never seen her myself, but - - - </p><stage>(Bus. of leaning over
+to her.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Ah, you're engaged to be married.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Now, who told you?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Oh, I heard, Madam Kenworth has lots of money.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Yes, she has lots of money.</p></sp>
+
+<sp><speaker>Goldie</speaker>
+<stage>(Jabs him in the ribs.)</stage><p> Ah, you are a wise old guy, all
+right, all right.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Laughs)</stage><p> A wise old guy?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>You are a flirt Monsieur. </p><stage>(At this Henry exits in hotel)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>A flirt, in London, why not? Paris is a gay town. </p><stage>(Laughs)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>You've never been in Paree?</p></sp>
+
+<sp><speaker>Anstey.
+Never.
+</speaker>
+<p>Goldie
+</p><stage>(Surprised)</stage> <p>Oh, Monsieur! </p><stage>(MUSIC CUE) SONG -"MLLE.
+FANCHETTE" (Bus. of Henry and Anstey during song.)</stage> <stage>(Henry
+exits R. At finish of number, exits Goldie door L.)</stage>
+<pb/>
+
+<stage>(Over to table R. and laughs heartily. Sits down. Waiter
+enters with wine in cooler from hotel down to Anstey.)</stage></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>Here's your wine, sir.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>I ordered that wine a half hour ago.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Bus. Enters from hotel also. Down to Amstey.)</stage><p> You didn't
+say as how you were in a hurry, sir.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Americans are always in a hurry.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>So it seems, sir.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>I don't want the wine now.</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>Very good, sir. </p><stage>(Bus. Turns. exits in door L.)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Down to Anstey)</stage><p> You know America is not the only country
+in the world, sir?</p></sp>
+
+<sp><speaker>Anstey.
+Isn't it?
+</speaker>
+<p>Starter.
+No sir. England's on the map, sir.</p></sp>
+
+<sp><speaker>Anstey.
+Is it?
+</speaker>
+<p>Starter.
+Yes, sir. Anything else, sir?</p></sp>
+
+<sp><speaker>Anstey.
+No sir.
+</speaker>
+<p>Starter.
+Thank you, sir. </p><stage>(And starts to exit.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Bus. Aside.)</stage><p> Damn fool.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Bus. Turns)</stage><p> Idiot! </p><stage>(Exits into hotel.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Anglo Saxon Brotherhood. </p><stage>(Enter Fly and McGee from door L.
+Down stage C. Fly at R. of McGee. Both laughing.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Bus. as they enter.)</stage><p> Chinese newspaper man. It's an awful
+joke with me.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Yes, and me too.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>You say you are going to have a tally-ho to the Derby?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Yes, won't you join us? </p><stage>(Anstey turns-discovers Fly and
+gets up, surprised.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>With pleasure. </p><stage>(Bus. Fly turns, discovers Anstey, surprised.)</stage>
+<p>why, Mr. Anstey.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Hello, Anstey!</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns)</stage><p> Tim McGee. </p><stage>(Crosses to him)</stage> <p>Well, well, this is
+a surprise.</p></sp>
+
+<sp><speaker>McGee. </speaker>
+<p>What are you doing over here?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Well, I was always crazy to come to London. </p><stage>(McGee and
+Anstey stroll to table L. McGee sits at L. Anstey at R.
+Fly strolls over behind table L.C.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>I think anybody's crazy to come to London.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Here to see the Derby?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Yes, that is I - - - - -
+</p><pb/></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>I see Johnny Jones rides in the Derby. </p><stage>(She gives them both a
+look)</stage> <stage>(McGee and Anstey both turn and look at each other, and
+then turn away)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Aside)</stage><p> Just as I suspected.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Aside)</stage><p> He's after the kid sure enough. </p><stage>(Fly goes to C.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Aside)</stage><p> I'll keep my weather eye on you, Mr. Anstey. </p><stage>(Anstey
+turns.)</stage> <p>Bye, bye gentlemen. </p><stage>(Both get up and bow.)</stage> <p>I must dig
+up some more celebrities for my article on Americans abroad.
+News is not hard to find around the Cecil hotel. </p><stage>(Exits into
+hotel.)</stage> <stage>(Anstey and McGee sit down again)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>How's 'Frisco?</p></sp>
+
+<sp><speaker>Anstey.
+Slam Bang.
+</speaker>
+<p>McGee.
+How is the stable?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Not so loud, Mack.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>What's the matter, ruled off?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Hardly. But it isn't necessary that every one should know
+that I'm a race track man. Why not a retired merchant or
+something of that sort?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>And what's the idea?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Women at the bottom of it.</p></sp>
+
+<sp><speaker>McGee</speaker>
+<stage>(Surprised)</stage><p> Women, and who is your friend?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>More than my friend, my fiancee.</p></sp>
+
+<sp><speaker>McGee.
+Engaged?
+</speaker>
+<p>Anstey.
+Surest thing you know. Came all the way from 'Frisco together -
+got so we could coo in a business-like manner.
+By the time we hit London, we were engaged to be married.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Wonderfully romantic. I suppose you told her everything you
+know. </p><stage>(Bus. Anstey gets up strolls to C. and turns.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>She's heard my life story from the cradle to the grave.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Did you tell her your right name?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>She knows my name, but not my game.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>She doesn't suspect that you're mixed up with the ponies.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Ponies - why certainly not. You must know, my dear boy, she
+is the President of an organization known as the San Francisco
+Female Reformers, a band of young Western damsels that would
+make any Parkhurst Society blush with shame. Why their attack
+upon 'Frisco's Chinatown cleaned out the pigtail quarters,
+</p><stage>(Bus. Anstey strolls to C. and then strolls back behind table 
+to such an extent that the Highbinders have already threatened
+the life of the future Mrs. Anstey.</stage> <stage>(At this boy enters from
+hotel shouting.)</stage></sp>
+
+<sp><speaker>Boy.</speaker>
+<p>Telegram for Johnny Jones. </p><stage>(Continues shouting and exits door
+R. At same time American boy and girl enter from E.R. and
+exit into hotel. Anstey by this time is behind table and McGee
+gets up. Both look toward boy; after boy exits McGee sits down
+and Anstey still looks toward boy.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>The Highbinders threatened her life?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Still watching boy)</stage><p> Eh! </p><stage>(Bus. then goes and sits down.)</stage>
+<p>Papers still full of it all over the Pacific Coast.</p>
+<pb/></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>What brought her to London?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Here to find a suitable husband for her niece. An Earl, a
+Duke, or something of that sort.</p></sp>
+
+<sp><speaker>McGee.
+Her Niece?
+</speaker>
+<p>Anstey.
+Yes, daughter of the late Gerald Gates.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Gerald Gates, the millionaire?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>My fiancee is his widowed sister, Mrs. Kensworth.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Mrs. Andrew Kenworth - one of the richest women in the West?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Misjudge me not, man, I am not marrying her because she has
+twenty millions.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>I understand.</p></sp>
+
+<sp><speaker>Anstey</speaker>
+<p>I'd marry her if she had forty millions.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Spoken like a true American, and she's here to buy a title?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>That is if all the titles in England are not copyrighted.
+</p><stage>(Music, soft waltz at this point and Reformers enter from
+hotel)</stage> <stage>(A lot of talk and stay up stage.)</stage> <stage>(Anstey and
+McGee get up, turn and see them.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(As reformers appear)</stage><p> Look, them are those, I mean those
+are them, these are they.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Who are they?</p></sp>
+
+<sp><speaker>Anstey</speaker>
+<p>Members of my fiancee's society.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Did she bring them with her?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>They are with her all the time.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Spoken from within)</stage><p> Where are you, my chidren?
+</p><stage>(Reformers line up R.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Here she is now. </p><stage>MUSIC FORTE.</stage><stage> (Enter Mrs. Kenworth from
+hotel and down stage C.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Anthony.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>My dear Annette. </p><stage>(Goes to her - kisses her hand)</stage> <p>I present
+an old time friend, Mr. McGee. </p><stage>(McGee crosses to Mrs. Kenworth)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Timothy D. McGee. At your service.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>From the other side?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>East side, tenth ward.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Points to girls.)</stage><p> My children.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Bus. Surprised)</stage><p> Your children?</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Not my daughters, my children. We are organized for a
+purpose that is sweet and dear to us. We love each
+other, do we not, my dearies?</p></sp>
+
+<sp><speaker>Six.
+Yes, Mamma.
+</speaker>
+<p>Mrs. Kenworth.
+I suppose Anthony has told you of our engagment?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>He has, and allow me to congratulate you both, and permit me
+to say that ever before has it been my good fortune to meet so
+sweet and amiable a woman. </p><stage>(Bus. McGee gets very close to Mrs. Kenworth
+at this.)</stage> <p>Such beauty, such elegance and such - - - -
+</p><pb/></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Calling him)</stage><p> Oh, Mack, just a minute.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(To Mrs. Kensworth.)</stage><p> Excuse me. </p><stage>(Turns to him and talks in
+pantomine)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Turns to Reformers)</stage><p> Now, children, remember London
+is a very large city, and you must be very careful where and how you
+get about. You should have an escort. </p><stage>(Looks over at Anstey, then
+turns to Reformers again.)</stage> <p>I have it. </p><stage>(Calls.)</stage> <p>Anthony.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Yes, my dear. </p><stage>(Comes to her)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>I want you to show the girls about town. Point out
+the different historial buildings and so on. </p><stage>(McGee laughs to himself.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>All right, my dear. </p><stage>(They cross. Mrs. Kenworth goes down to
+McGee, who is looking the other way.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>And now Mr. McGee if it is not too much </p><stage>(McGee turns
+and looks surprised.)</stage> <p>I will ask you to escort me as far as Picadilly.
+I have quite some shopping to do.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>The pleasure is mine Mrs. Kenworth. </p><stage>(She takes his proffered
+arm.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Turns to Anstey.)</stage><p> You'll take good care of the little
+dearies, won't you, Anthony?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>The Best of care, my dear.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Laughs -- turns to Anstey.)</stage><p> Yes, be careful crossing the
+streets.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(They start to exit)</stage><p> Now, you don't mind, do you?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Not at all, not at all.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>It's very very kind of you.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Turns. Both are laughing.)</stage><p> Stick around, don't go away.
+</p><stage>(They exit arm in arm laughing and talking L.1.E.)</stage> <stage>(Reformers
+go up stage. Anstey looks after McGee and Mrs. Kenworth, and then
+down stage C.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Laugh on my proud beauty. He who laughs screams with
+delight. You'll close up 'Frisco's China Lottery, will you? Cheat me
+out of one hundred thousand dollars a year, will you? Wait till you
+are Mrs. Anstey. </p><stage>(Anstey goes to table L.)</stage> <p>I'll soon teach you and
+your crusading band of fool women to stay at home and mind your own
+damn business. McGee wants Jones. He shan't have him. </p><stage>(Anstey sits
+down)</stage> <p>I'll pay that Jockey more money than any man on the American
+turf. </p><stage>(Reformers come down stage, extreme right at this and line up
+and call.)</stage></sp>
+
+<sp><speaker>Six.</speaker>
+<p>We are waiting, kind sir.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Sees them.)</stage><p> Oh, Lord. Imagine me parading the streets of
+London with six puny looking, pale-faced females. </p><stage>(Enter starter,
+blowing whistle. Over to girls.)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>'Ansom, ladies, 'ansom. </p><stage>(Over to Anstey.)</stage> <p>'ansom, sir,
+'ansom. </p><stage>(Anstey gets up -- goes to C.)</stage></sp>
+
+<sp><speaker>Six.</speaker>
+<p>Thank you, sir.</p></sp>
+<sp>
+<speaker>
+Anstey.</speaker>
+<p>
+Yes, six of them. Drive in a row like a circus parade.
+Take good care of the little dearies, and see that they are back
+here in an hour, and if anybody asks for me, tell them I am telling
+funny stories to Sing Song, the Chinese newspaper man. </p><stage>(Exits in
+door L.)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Yes sir. </p><stage>(Turns to Reformers)</stage> <p>Beg pardon, ladies, one
+moment ladies.
+</p><pb/>
+
+<stage>(To first entrance left, blowing whistle.)</stage> <stage>(Calls.)</stage> <p>Six 
+'ansoms, six 'ansoms. </p><stage>(And goes on porch of hotel.)</stage><stage> MUSIC CUE</stage><stage>
+(Enter cabbies and do the number with six Reformers. At finish
+of number, lot of laughing on inside. Enter Whitney Wilson from
+Hotel, with a bun on. Goes down to table left.</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Sitting down.)</stage><p> I have been down in the American bar, and I
+have an American cocktail that would choke a Hoboken cab driver.
+The bar tender got sore on me because I said I could lick
+Charley Mitchell. </p><stage>(Hits bell on table. Waiter with tray and
+tea on same enters at this from door R. and down to Wilson.)</stage></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>Did you call me, sir?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>No, but I will if you give me any lip. I'll call you or
+anybody else. What time is it?</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>31st of May, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I know the date, what time is it?</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>Do you mean the hour, sir?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Aside)</stage><p> Can you beat that?</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>Half after eleven, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Mocks him.)</stage><p> Half after eleven, sir.</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>Correct, sir. Do you feel like a cup of tea, sir?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>No, I don't feel like a cup of tea. Do I look like a cup of
+tea?</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>I have a cup of tea here, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Well, go ahead and drink it, don't let me stop you.</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>Thank you, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Twenty-three.</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>
+What sir?
+</p></sp>
+
+<sp><speaker>Wilson.</speaker><p>
+Twenty-three.</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>
+Who, sir?</p>
+</sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>
+You.</p></sp>
+
+<sp><speaker>Waiter.</speaker>
+<p>No sir, thirty-six. Is there anything else I can do, sir?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>If there was you wouldn't be a waiter. </p><stage>(Waiter turns and
+exits into door L.)</stage> <p>Now he's what I call a nice little
+fellow. If I lived here we'd be together all the time.
+</p><stage>(Gets up)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Enters at this from hotel down to Wilson)</stage><p> Morning, sir.
+Like to take a drive this morning?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Yes, drive me to a drink. Who are you?</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>I'm the starter, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>The Starter?</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>
+Yes, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Well, don't you start anything you can't finish.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Very good, sir.
+</p><pb/></sp>
+
+<sp><speaker>Wilson</speaker>
+<stage>(Looking at uniform)</stage><p> What are you, a soldier?</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Laughing)</stage><p> No, sir. I'm not a soldier.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Well you ought to be ashamed of yourself. Why don't you be
+a soldier? Go to war and fight for your country.</p></sp>
+
+<sp><speaker> Starter.</speaker>
+<p>But there's no war now, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Then start one. What's the good of brass buttons if there
+ain't going to be a war?</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>I hope we'll never have another war, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Hope we'll never have another war. How do you suppose the
+soldiers are going to make a living if there ain't goin' to
+be any war? </p><stage>(Starter laughs.)</stage><p>Come on, let's get a drink.</p>
+<stage>(Takes Starter by the arm)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>I don't drink, sir. </p><stage>(At same time walks away.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Don't drink? How do you expect the saloons to keep open if
+you don't drink? Gee, whiz, you've got a mean disposition.
+You don't want any war, and you don't drink. If you keep on
+you'll put all the soldiers and saloons and keepers out of 
+business.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Laughs)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Twenty-three.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>
+What, sir?
+</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>
+Twenty-three.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>I don't understand, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Certainly you don't. I'll bet you a ten pound note you don't
+know how much twenty-three is.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>I never gamble, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Never gamble. Now how do you expect to circulate currency?
+Gee, whiz, you just signed a peace treaty, and throw all the
+war correspondents out of work, Carrie Nations all the saloons
+and now you're going to close up all the gambling houses.</p>
+<stage>(Wilson crosses and stops)</stage> <p>You've got the meanest disposition
+of any man I've met since I've been here, and I certainly had a
+good time here in Pittsburgh.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>
+Pittsburgh?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Turns)</stage> <p>I mean, London. Ain't it funny I always get these two
+towns mixed? London and Pittsburgh. But say, no joking, London is
+a great town for fun.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Comes close to Wilson)</stage><p> Right you are, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Never mind what these other Americans say, I've been a sport
+all my life.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>You look it, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>And you take it from me, for a good time London makes
+Worcaster and Springfield look like thirty cents. </p><stage>(Turns to go)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Shall I call you a hansom sir?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Call me anything you like. </p><stage>(Singing)</stage> <p>Sticks and stones will
+hurt my bones, but names will never break me. </p><stage>(Exits with
+Starter - door R.)</stage> <stage>(Enter Florabelle with girls from hotel-
+down stage C.)</stage>
+<pb/></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>You know I'm awfully glad to meet you girls, it's such a
+treat for Americans to meet Americans abroad. All going to the
+Derby, I suppose.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<stage>(At left of Fly.)</stage><p> Yes, Mr. McGee is going to take us.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Good, I'll be with you. We'll all put a bet on Yankee Doodle.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>Johnny Jones rides Yankee Doodle.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Yes, do you know him? </p><stage>(Girls shake heads)</stage> <p>It's a shame to
+bet on him. It's like taking candy away from a baby.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>He must be a bird. </p><stage>(Crosses to extreme right.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Why girls he'll just coax that horse's nose by the wire like
+the Yankee bird coaxed the English sparrow to America.</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<stage>(Exits 1st entrance R.)</stage><stage> MUSIC CUE. "NESTING IN A NEW YORK
+TREE". Sung by Fly and Girls. Fly and Girls exit
+at finish of number.</stage><stage> MUSIC CUE. Enter Anstey followed
+by Sing Song from door L. Down stage C.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>We can talk better in the open Sing.</p></sp>
+
+<sp><speaker>Sing Song.</speaker>
+<stage>(Aside- Anstey at right of Sing)</stage><p> Tell me, Anstey, does
+this American jockey Jones ride in to-day's Derby?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Jones is on the favorite, Yankee Doodle.</p></sp>
+
+<sp><speaker>Sing Song.</speaker>
+<p>And you think Mr. McGee is here to get him.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>He's not the only one. Ever since Jones made the fact
+Public that he would return to America, hundreds of horse
+owners have made him fabulous offers. I've already sent him
+a check for ten thousand dollars for first call on his
+services.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Ahha, the early bird, Eh?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Nay, nay, the wise owl. </p><stage>(Goes to table R.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>But this band of Reformers, where are they? </p><stage>(Takes stage.)</stage></sp>
+
+<sp><speaker>Anstey</speaker>
+<p>You'll see them soon enough, never fear. </p><stage>(Both to table
+and sit down. Anstey right chair, Sing left chair.)
+(Wilson enters from door R. crosses to table L. and sits
+down.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Tell me, why did you make the meeting place London?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Because the Chinese Lottery game is not safe in America
+with Mrs. Kenworth there. I drove her from that country
+with threats supposedly made by the Highbinders, followed
+her here, forced my acquaintance upon her, now we are
+engaged to be married.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>She has money?</p></sp>
+
+<sp><speaker>Anstey</speaker>
+<p>All kinds, I'l get the money, never fear.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Anstey, you're a shrewd man.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>It's for your protection as well as my own. Haven't we
+been partners for five years?</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>True, the Chinese Lottery in America has made a fortune for
+you and for me. But should the Emperor discover that I am
+connected with the game - </p><stage>(Bus.)</stage> <p>off would go my head.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>How did you manage to get here? </p><stage>(Bus.)</stage> <stage>(Wilson gets up
+and strolls up to hotel and enters.)</stage>
+<pb/></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Easily enough. Since your last visit to China, I've been
+made editor of the Pekin Gazette. Upon receiving word from you
+to come to London, I suggested to His Majesty the idea of coming
+here and writing a story on the English Derby, so here I
+am. Now what are your plans? </p><stage>(Anstey gets up and goes to C.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>You must come with me to San Francisco.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>And why? </p><stage>(Sing follows him.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Because the game is at a standstill. The Chinamen are afraid
+to operate. All I've said and done is of no avail. A word
+from you and the game goes on.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>But this woman and her band of - - - -</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Leave that to me - once my wife. I'll guarantee her band of
+Reformers will be no more. </p><stage>MUSIC CUE- CHINESE MUSIC.</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Soft, Peddle. Here comes the words. </p><stage>(Anstey goes to extreme
+left. Chinese girls enter from door left and down stage C.
+and sit on pillows.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Aside. Goes up behind them.)</stage><p> Ahmila, Amoy, Agoy, Ahfung.
+Hung, Tun, Hila Muck a ting. Sung Fing Ko To la ma Fo Lung
+Ching tee. </p><stage>(To Anstey)</stage> <p>I told them you were a friend of mine.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Who are they?</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Those are the Emperor's four favorite wards. Wanted to see
+England and America, so he sent them in my charge. </p><stage>(Come down
+to Antsey)</stage> <stage>(Laughter from inside by McGee and Mrs. Kenworth)</stage></sp>
+
+<sp><speaker>Antsey.</speaker>
+<p>Here comes the fair lady now. </p><stage>(Points L.1.E.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Mrs. Kenworth!</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>
+Yes, and Mr. McGee, the man that's after Jones.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>What about this nobleman? </p><stage>(At this Anstey crosses and goes
+to extreme R. Sing follows.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>I get 50% of his income.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Antsey you are a shrewd man.</p></sp>
+
+<sp><speaker>Antsey.</speaker>
+<p>I'm a business man. </p><stage>(Both talking in pantomine. Enter
+McGee and Mrs. Kenworth L.1.E. laughing)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Now don't over laugh yourself.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>I don't know when I've enjoyed a stroll so much.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Both stop at extreme left-laughing.)</stage><p> Here too, Mrs.
+Kenworth, and all me to say that never before - - - -</p></sp>
+
+<sp><speaker>Mrs. Kenworth</speaker>
+<stage>(Screams when she sees Chinamen.)</stage><p> Look, look, save
+me, save me, Anthony. </p><stage>(Gets behind McGee.)</stage></sp>
+
+<sp><speaker>Antsey.</speaker>
+<p>Why, what's the matter, my dear. </p><stage>(Crosses over to her.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Crosses McGee to Anstey.)</stage><p> Anthony the Highbinders
+are after me. </p><stage>(Laughter from all.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Nonsense, my dear. I have the honor to present Sing Song,
+a Chinese newspaper man. This lady, Sing, is Mrs. Kenworth
+of whom I wrote you in my last letter.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Crosses to Mrs. Kenworth. Anstey goes to C.)</stage><p> Ah, Charmed
+Mrs. Kenworth. Mr. Anstey has told me of the good work you
+are doing and believe me I am as much opposed to Chinese
+gambling as you are yourself, and if I can be of any service
+to you, pray commend me.
+</p><pb/></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>You are very kind, sir. </p><stage>(Shudders and crosses over
+to Anstey.)</stage> <p>Take me away from here. </p><stage>(Both exit
+1st entrance R.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Crosses to McGee.)</stage><p> Ah, Mr. McGee.</p></sp>
+
+<sp><speaker>McGee.
+Hello, Sing.
+</speaker>
+<p>Sing.
+I no see you a long time.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Going to the Derby, I suppose.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>That's it. His Majesty has sent me here to write of the
+English and American sports. There are his four favorite
+wards. </p><stage>(Over to girls, repeats Chinese speech.)</stage> <p>Hung Tung,
+Hi la Muck a Wing. Sung Fing Ko To la ma Fo Lung, Ching tee.
+I told them who you were.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Laughs)</stage><p> I thought you were singing a song. </p><stage>(Enter Wilson
+from hotel, Sing goes extreme R. Laughing from inside.)</stage>
+<stage>(Sing sits down)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Talking off)</stage><p> That's right, make a fool out of me. That's
+the way with you Englishmen, you're always kidding the
+poor Americans. </p><stage>(Turns and sees Chinese women)</stage> <p>Hello,
+what's this? A Chinese comic opera? </p><stage>(To ladies)</stage> <p>How
+do do, ladies.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Gets up.)</stage><p> How do you do, sir.</p></sp>
+
+<sp><speaker>Wilson</speaker>
+<p>Just the fellow I want to see. </p><stage>(Goes over to Sing.)</stage>
+<p>Say, if I give you some laundry to-night, can I get it
+Friday night?</p> <stage>(Sing gets very sore. A lot of Chinese
+talk. In his anger walks up and down, talking to Chinese
+girls.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Goes over to McGee.)</stage><p> Gee, he's got a mean disposition.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Laughing)</stage><p> He's no laundryman.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>What is he, a juggler, or a musician?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>He's the editor of a Chinese newspaper sent here by the
+Emperor.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Over to Sing.)</stage><p> Oh, I beg your pardon. I didn't know you
+were a press agent.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Press Agent! Press Agent! </p><stage>(Thinks it over.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>How's everything in China?</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>China's doing nicely.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>How's the emp----</p></sp>
+
+<sp><speaker>Sing.</speaker><p>
+Who - what?
+</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>The Emp--- the main squeeze.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>The main squeeze?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Yes, the big smoke.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Business-treacherously)</stage><p> Do you mean his royal Majesty,
+the Emperor? </p><stage>(A lot of Chinese talk)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Over to McGee.)</stage> <stage>(Sing goes to girls and talks Chinese.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Come, my little ones, it's time to chop suey. </p><stage>(Sing and
+girls go up stage with music and off door left.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Wilson and McGee go over to R. table and sit down.)</stage><p> They
+run like a lot of ducks.
+</p><pb/></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>You're an American, aren't you?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I don't look like a Dago, do I?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Here to see the Derby.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>To tell you the truth, I don't know what I'm here for. I
+got on a boat in New York to bid a friend good-bye, and I
+fell asleep. When I awoke I was all at sea. My wife is
+waiting for me on the dock. That's ten days ago. </p><stage>(McGee
+laughs)</stage> <p>She's still waiting for me on the dock. Now I'M
+even.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>And how is that?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>She used to keep me waiting for her out in front of Siegel
+&amp; Cooper's. I remember one day she kept me waiting pretty
+near three days. </p><stage>(McGee and Wilson talking and laughing
+quietly.)</stage> <stage>(Enter American girl singing from 1.E.R. passes
+McGee and Wilson. Then turns to them smiling. Runs up into
+hotel, Wilson excuses himself to McGee and starts to
+follows her, but stops up stage. McGee gets up. Enter starter,
+with grip. L.1.E. followed by cabbie with another grip
+to C.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Here, here, come back here. </p><stage>(Aside)</stage> <p>By golly that fellow
+takes the cake. </p><stage>(Cabby enters with grip. Calls to Starter.)</stage></sp>
+
+<sp><speaker>Cabby.</speaker>
+<p>Here's the other one, sir.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Takes grip)</stage><p> I say, you know who your fare is?</p></sp>
+
+<sp><speaker>Cabby.</speaker>
+<p>Blowed if I do.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Johnny Jones.</p></sp>
+
+<sp><speaker>Cabby.</speaker>
+<p>Johnny Jones? My word, let's see him go by. </p><stage>(Starter and
+cabby stand left, and Jones enters whistling, and walks by
+them to C.)</stage> <stage>(Jones gives dog to servant who exits with
+dog to hotel.)</stage> <stage>(Turns and sees Mack.)</stage></sp>
+
+<sp><speaker>Jones.
+Hello, Mack.
+</speaker>
+<p>McGee.
+Well, Jonsey, my boy. </p><stage>(Jumps up and shakes his hand.)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(To cabby- aside.)</stage><p> Isn't he a ripper?</p></sp>
+
+<sp><speaker>Cabby.</speaker>
+<p>He's a pippin, sir. </p><stage>(Exits L.1.E.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Well, Jonsey, old boy, how are you?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Fine and dandy. Boston nobby. Fat and fine and splendid.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>How did you leave Paris?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Perfectly sober, the way you see me now.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(To Jones)</stage><p> Put your luggage in, sir?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Turns to Starter)</stage><p> Yes, put it right in, that's the boy.
+</p><stage>(Starter exits in hotel)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Comes down stage to Jones.)</stage><p> Say, boy, will you join me
+in a drink?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Crosses Mack to Wilson.)</stage><p> No, thanks, nothing doing.
+</p><stage>(Crosses Wilson to table, extreme right)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(To Mack)</stage><p> How about you?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Crosses him to table)</stage><p> Not for mine.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I must have company. A drink is no good without sociability.
+Sociability is no good without a drink.
+</p><pb/></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Laughs)</stage><p> That's a good speech. </p><stage>(Sits down left chair.)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Yes, but it doesn't make me thirsty. </p><stage>(Sits down right chair.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Well, I'll see you boys later. Make it as late as possible.
+I'm a late boy. </p><stage>(Starts to go up stage. Turns.)</stage><p> If you see
+anything of King Edmund trotting along here, tell him I'm
+satisfied with life.</p> <stage>(Jones and McGee watch him until off.)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>He's a nice fellow.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Oh, he's all right.</p></sp>
+
+<sp><speaker>Jones.
+I like him.
+</speaker>
+<p>McGee
+</p><stage>(Business, gives him a side look)</stage> <p>I can see that.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Who is he, Mack?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Nobody to know.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>What brought you to London?</p></sp>
+
+<sp><speaker>McGee.
+You.
+
+Jones.</speaker>
+<p>How's that?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>You're going back to America?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Yes, with bells on.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>I want you, Jones.</p></sp>
+
+<sp><speaker>Jones.
+What for?
+</speaker>
+<p>McGee.
+Because you're the best jockey in the world. Name your price,
+I'll - - -</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Let's not talk shop, Mack. I've half way agreed to ride for
+- - - - -</p></sp>
+
+<sp><speaker>McGee.
+Anstey?
+</speaker>
+<p>Jones.
+I didn't say.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>No, but I've heard - - - -</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>You mustn't believe all you hear. Anyhow I don't expect to
+ride much longer.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Are you going to retire - marry, settle down, give up the
+track forever.</p></sp>
+
+<sp><speaker>[HANDWRITTEN:
+Jones.</speaker>
+<p>Someday.]</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Laughs.)</stage><p> Impossible.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Nothing of the sort. I'm a free born American, twenty-one
+years of age, and I can do as I please, I guess.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>And who's the fair damsel?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>The sweetest girl in California.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>When did this all happen?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Two years ago.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>When you were riding in 'Frisco?</p></sp>
+
+<sp><speaker>Jones.
+Yes.
+
+McGee.</speaker>
+<p>Say, when did you first see her?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>You want to know everything.
+</p><pb/></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Well, I'd like to know that much.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Well, it's a long story, Mack.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Well, I'll listen to it.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Would you like to hear it?</p></sp>
+
+<sp><speaker>McGee.
+I would.
+</speaker>
+<p>Jones.
+The first time I saw her, I was perched on a 50 to 1 shot
+that ought to have been dragging on ice wagon.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>You were sitting on the horse.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Yes, going to the post on an old nag. A girl leaned over 
+the rail and shouted, I've got a bet on you Jonesy, so out
+and win.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>The girl shouted -</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>And then ran away, disappeared, but her face was photographed
+and my heart was the film. I can't tell you how I felt
+because I don't know myself.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Well, did you win?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Did I win? </p><stage>(Laughs)</stage> <p>Why, I just pushed that old skate's
+nose to the barrier and from the second the starter said go-</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Deeply interested)</stage><p> Yes, go on, go on -</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>You'll be betting on this race before you get through.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>By golly, you had me going that time.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Well, I'm not going to grandstand it and describe the race
+but on the square, Mack, I could make that scene in Old
+Kentucky look like thirty cents.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>And when the race was over you met the girl that looked
+over the rail, and she's the girl you're going to marry,
+and everything ends happily and so on, etc.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Now you have it.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>But how about her parents?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>She has none-lives with her aunt. She's a very wealthy
+girl, Mack. Her father was known as the Copper King. His
+name was Gerald Gates.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>And the Aunt's name is? --</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Kenworth. She's a fanatic on the subject of reform.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>President of the Female Reformers?</p></sp>
+
+<sp><speaker>Jones.
+Yes.
+
+McGee.</speaker>
+<p>Why it's like a story in a book.</p></sp>
+
+<sp><speaker>Jones.
+How is that?
+</speaker>
+<p>McGee.
+She's here.</p></sp>
+
+<sp><speaker>Jones.
+Who?
+
+McGee.</speaker>
+<p>Mrs. Kenworth.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Here, in London?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Yes, but that's not all. She's engaged to be married.
+</p><pb/></sp>
+
+<sp><speaker>Jones.
+To whom?
+</speaker>
+<p>McGee.
+Anthony Anstey.</p></sp>
+
+<sp><speaker>Jones.
+The Devil.
+</speaker>
+<p>McGee.
+That's what I think he is.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Must be some mistake. </p><stage>(Gets up - crosses to C.)</stage></sp>
+
+<sp><speaker>McGee. </speaker>
+<stage>(Follows to C.)</stage><p> Sure, wasn't I talking with her. Didn't
+she tell me the whole business?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>What business?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>About the engagement with Anstey, and how he's going to
+introduce her to an English nobleman that they're going
+to cart back to America to marry the girl.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>An English Nobleman?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Yes, the Earl of something, I forgot the name. Sure I
+met Anstey. He introduced me to her and she up and tells
+me the whole story.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>There's something behind this Mack.</p></sp>
+
+<sp><speaker>McGee.
+Evidently.
+</speaker>
+<p>Jones.
+Is Anstey here?</p></sp>
+
+<sp><speaker>McGee.
+Certainly.
+</speaker>
+<p>Jones.
+I'll be back in a minute. </p><stage>(Turns to go off L. and McGee
+pulls him back.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Here now, Jonsey, keep cool! Don't rush head long into
+trouble, think it over. Keep you head, there's lots of time.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Shakes his hand)</stage><p> You're right, Mack, but I've had my
+eye on that fellow for a long time. </p><stage>(Both go to R. Enter
+Florabelle from hotel down C. followed by American girls)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Who said Johnny Jones was here?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Turns to her.)</stage><p> What Florabelle Fly? </p><stage>(Goes to her and
+shakes hands.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Jonsey. </p><stage>(Turns him around)</stage> <p>Turn around and let me see you.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>How do I look?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Just as cute a kid as ever.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>What are you doing in London?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Came to see you win the Derby.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Turns to McGee)</stage><p> Did you hear that, Mack?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>He'll do that all right. </p><stage>(Girls pulling at Fly's dress, seeking
+introduction.)</stage></sp>
+
+<sp><speaker>Fly</speaker>
+<stage>(Turns to girls)</stage><p> Ladies, allow me. Mr. Johnny Jones, the
+American Jockey. </p><stage>(She crosses over to McGee and Jonsey crosses
+to girls. They swarm around him like a lot of bees and in
+a second he is enclosed with them. Fly laughingly to McGee.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Pretty soft for Jonsey, eh, Mack?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Oh, when I was a boy I had a lot of women after me.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>And how was that?
+</p><pb/></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>I stole a pocketbook. </p><stage>(They exit arm in arm R.1.E.
+laughing.)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Breaks away from girls.)</stage><p> Well, by Jove, this is a treat.
+You know I didn't think there were so many Americans in
+the whole city of London. I suppose you're all going to
+the Derby?</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>You bet we are.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Want a little tip?</p></sp>
+
+<sp><speaker>All.</speaker>
+<stage>(Interested)</stage><p> You bet we do.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Pawn your jewelry, go in hock, and play Yankee Doodle straight
+to win. </p></sp>
+<stage>(American girl exits on run 1.E.R.)</stage>
+<stage>
+MUSIC CUE. SONG: "YANKEE DOODLE BOY"</stage>
+<stage>(After number all exit - both sides. Jones goes into hotel.)</stage>
+
+<stage>MUSIC CUE. </stage><stage>(Enter Mrs. Kenworth and Anstey, R.1.E. arm in arm.)
+(Waiter comes and places table and chairs. Jones comes from hotel
+down to waiter.)</stage> <stage>(Business, and follows Anstey and Mrs. Kenworth
+off door left.)</stage> <stage>(Boy crosses from door R. and exits 1.E.L. Shouting)</stage>
+
+<sp><speaker>Boy.</speaker>
+<p>Anthony Anstey. Anthony Anstey!</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Come right along old chap. </p><stage>(Enter Henry from hotel and looks
+around. Runs up and motions to Goldie O.K. Enter Goldie
+in male attire, and goes directly to table R.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Fine day for the Derby.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Glorious indeed.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>A cigarette, Leslie.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Yes ma'am. </p><stage>(Hands her a cigarette.)</stage></sp>
+
+<sp><speaker>Goldie.
+Yes ma'am.
+</speaker>
+<p>Henry.
+I beg your pardon, I mean-yes sir.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>No, no, Lordship, Lordship!</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Yes, of course, your Lordship.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Now remember, I'm the Earl of Bloomsbury.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Very well, your Earlship. Is Earlship correct? What?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Lordship, just Lordship.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Oh, just Lordship.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Yes, can't you think?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>How can I think and keep these whiskers on at the same
+time. </p><stage>(Pulls them down.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Sees waiter, who appears and comes down to Henry.)</stage><p>
+Sh---- don't do that around here.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>Something wanted sir?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Just one moment, do you want anything Early?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Disgusted)</stage><p> Don't call me Early.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Don't call you Early, very clever indeed. </p><stage>(Turns to
+starter)</stage> <p>No, the Earl doesn't want something.</p></sp>
+
+<sp><speaker>Starter.</speaker><p>
+The Earl---</p>
+<pb/></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>The Earl, of course the Earl.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>The Earl of what, sir?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Why the Earl of Bloomsbury.</p></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>The Earl of Bloomsbury, my word! </p><stage>(Starter crosses to Goldie
+and Henry to extreme left.)</stage> <p>I'm pleased to meet you your
+Earlship. </p><stage>(Bows and goes up stage, then turns.)</stage> <p>I shall not
+forget your Lordship. </p><stage>(Turns and bows again)</stage> <p>Long live
+the Earl of Bloomsbury. Hurrah for the Earl of Bloomsbury.
+etc., etc. </p><stage>(Exits in hotel)</stage> <stage>(Goldie watches his bewildered.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>What are you strutting around like an ostrich for?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>I can't help it, Goldie, I'm nervous.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Well, don't get nervous and don't call me Goldie.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>All right your steamship.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Gives him a look)</stage><p>
+Steamship.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>No, no I mean your - - - - - what kind of a ship is it?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Lordship, just Lordship.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Yes your Lordship. Now tell me what is the idea again?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>The idea is that I am the Earl of Bloomsbury.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Then you're going to marry yourself?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Figuratively speaking. You see Mr. Anstey has never met the
+Earl of Bloomsbury. I am going to introduce myself to Mr.
+Anstey as that distinguished personage.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>But he has word that the Earl wouldn't be here for a week.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Well the Earl suddenly changed his mind- thought it quite a
+lark to pop in and surprise all hands.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Strolls C.)</stage><p> I see, it's an awful chance, though.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>My dear boy we take chances every time we cross the street.
+</p><stage>(Hears someone coming)</stage> <p>Sh - - - </p><stage>(Enter Sing Song, Mrs. Kenworth
+and Anstey, from door L. down stage. Sing goes to
+extreme L.)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<stage>(Starter coming down from hotel to Henry.)</stage><p> Anything wanted
+Sir?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Starter turns goes up stage.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(As they enter)</stage><p> You see, my dear, the English Derby doesn't
+come under the head of an ordinary horse race. It is an event
+anxiously looked forward to, by all classes of people in
+England.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Say, I understand that ministers of the gospel attend.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Really, and do you think it would be perfectly proper
+for me to go?</p></sp>
+
+<sp><speaker>Anstey.
+Absolutely.
+</speaker>
+<p>Sing.
+Most assuredly. </p><stage>(Sing sits down at table, interested all the
+time.)</stage> <stage>(Goldie crosses Henry and over to Anstey, and Fly comes
+from hotel and stays on porch sizing things up.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Beg pardon, but could you tell me where I might find a
+gentleman named Anthony Anstey?
+</p><pb/></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Right here sir. </p><stage>(Over to her. This brings Goldie and him C.
+Leaves Mrs. Kenworth and Sing L. and Henry R. Henry sits down.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Ah, indeed, that makes it very single. I am the Earl of
+Bloomsbury.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Surprised)</stage><p> The Earl?</p></sp>
+
+<sp><speaker>Goldie.
+The Earl.
+</speaker>
+<p>Anstey.
+Oh, my dear Earl this is a surprisingly great honor. But I --</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>-- my sudden appearances here overwhelms you, I understand.
+I thought it best not to linger. Left Berlin right after I
+sent you the word of my delay.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Delighted, delighted, my dear Earl. I have so much to say -
+so much to talk of. </p><stage>(To Mrs. Kenworth)</stage> <p>My dear Annette,
+I have the great honor to present Sir Walter Worthington -
+The Earl of Bloomsbury. This lady, your Lordship, is Mrs.
+Kenworth, of whom I spoke in my last letter. </p><stage>(Anstey crosses
+over to Sing.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Ah, Mrs. Kenworth, your niece is the American heiress of
+whom I --</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Yes, your Lordship, I am Goldie's Aunt.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Pleased, awfully pleased.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Aside to Sing.)</stage><p> Thing are coming my way, Sing.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Aside)</stage><p> Evidently.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Calls)</stage><p> Ah, my dear Earl.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Business. Crosses to him.)</stage><p> My dear Anstey - - </p><stage>(Mrs. Kenworth
+over toward Henry and looks him over, with lorgnette. Henry
+gets up, turns and faces Mrs. Kenworth, and quickly turns
+from her. She goes up stage L.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>I present Sing Song, Editor of the Pekin Gazette. </p><stage>(At this
+Sing gets up and bows to Goldie, and Anstey up stage and
+joins Mrs. Kenworth. Florabelle at this point is up stage,
+writing in memo, and sizing up the situation. Mrs. Kenworth
+strolls up stage and looks Florabelle over.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Bows)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Delighted - delighted, delighted, pardon, just a moment.
+</p><stage>(Goldie goes over to Henry. Mrs. Kenworth crosses down
+stage to extreme left, with Sing and Anstey also at same
+time extreme L. Leaving center clear.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Down stage-writing.)</stage><p> He introduced her to her Aunt as the Earl
+of Bloomsbury. Great Scot what a story. </p><stage>(Up stage L. behind
+table.)</stage> <stage>(Everyone interested at what Goldie says.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(To Henry)</stage><p> Leslie, you had best go to the Kings Club, and
+inform them that the Prince and myself will desire the
+Royal billiard table at seven P.M.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Yes, your Lordship. </p><stage>(Starts to go L.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>And I say, Leslie.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Stops)</stage><p> Yes sir.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Cash that draft.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Which one, sir?
+</p><pb/></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>The one for the sixty thousand pounds.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Yes, your Championship.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Over to Anstey.)</stage><p> Beastly lot, these servants. </p><stage>(Anstey
+Sing and Mrs. Kenworth now sitting at table.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Going to the Derby, your Lordship?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Rather, haven't missed the Derby since my fifth year. </p><stage>(Goldie
+goes up around table and down to extreme left - Fly follows.)
+(Wilson and McGee enter from hotel, arm in arm, followed by
+all the girls laughing and dress the stage.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Wilson and McGee both down stage to Anstey.)</stage><p> Say, I just
+had a fight with an English bell boy. He got sore because I
+said cricket was a kid's game. </p><stage>(Up stage C.)</stage> <p>CUE -FIFE AND
+DRUMS. </p><stage>(All this down stage and looks off R.1.E. Shouting
+Here comes the soldiers. At this Reformers appear on balcony-
+soldiers enter first E.R. and line up R.)</stage></sp>
+
+<sp><speaker>Starter.</speaker>
+<p>What's the blooming row, now?</p></sp>
+
+<sp><speaker>Soldier.</speaker>
+<stage>(Steps down.)</stage><p> We are here to excort our Chinese visitor to
+the Derby.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(To C.)</stage><p> Ah, my noble escort. One moment. </p><stage>(Goes and calls
+Chinese girls from door L.)</stage> <p>Ah Mila, Ah Moy, Ah Goy, Ah Vong!
+</p><stage>(Turns to Soldiers.)</stage> <p>I told them we were ready.</p></sp>
+
+<sp><speaker>Soldier.</speaker>
+<stage>(Turns to give order.)</stage><p> Attention, company, left foot forward
+march. </p><stage>(Soldiers exit single file 1.E.R. Sing and Chinese
+girls follow. McGee and Wilson stroll over to table R. and
+sit down.)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Enters from hotel. Comes down stage C. and looks off R.
+after soldiers.)</stage><p> Hello, what's all the excitement?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Over to Jones)</stage><p> Jonsey, just the boy I want to see.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Aside to Anstey)</stage><p> Is this Mrs. Kenworth?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Yes, but for Heaven's sake don't tip my hand as a sporting
+man.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>I want to talk to you.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>I haven't time now. </p><stage>(Turns to go away.)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Pulls him around)</stage><p> Well you'll make time to talk to me.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>What do you mean?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Just what I say. You're playing a crooked game Mr. Anstey,
+and I'm going to find out what it is.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Why, you young rat I'll - - - </p><stage>(Scream by all)</stage> <stage>(Attempts
+to strike a blow with cane, and Jones wrests it from him and
+breaks it.)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>There goes your cane, Anstey, and your neck will be next if you
+don't stop where you are. </p><stage>(Throws cane away.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Why Anthony, what does this mean?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>I'll tell you what it means, Mrs. Kenworth, I'm engaged to
+your niece, and have been ever since I left 'Frisco a year ago.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.
+WHAT?</speaker>
+<p>
+Anstey.
+Do you hear this, Mrs. Kenworth? This common jockey, this
+rat of the stables, engaged to your niece.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>This man is mad.
+</p><pb/></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Turns to all.)</stage><p> A big joke, isn't it - a jockey engaged to
+an heiress.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Yes, a gigantic joke.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Is there no protection against a public insult
+from a madman?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(To Mrs. Kenworth.)</stage><p> Is there no protection against a woman
+of your sort, Mrs. Kenworth? To force upon a young girl an
+outrageous marriage with a cur. </p><stage>(Jones points to Goldie
+and Goldie laughs.)</stage> <p>who would sell himself for an American
+bank roll. </p><stage>(At this Anstey steps close to Jones.)</stage> <p>You just
+called me a rat Anstey.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>That's what you are and for this insult I'll drive you
+from the track, if it takes every dollar I possess.
+</p><stage>(Everybody interested.)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>You'll never do that. If your record was as clean as mine,
+you'd have a good appetite and many a good night's rest. I never
+bet on a mount or rode a crooked race in all my life, and you've
+turned every dirty trick that's known to the racing world -
+fixed your jockeys - pulled your horses, and fooled the public
+time after time, and you call me a rat?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>That's what you are.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>I wasn't too much of a rat to receive this check from you 
+ten days ago, Anstey, </p><stage>(At this Jones tears up check, and at
+finish of speech throws check in Anstey's face. Everybody
+horror struck.)</stage> <p>But I don't want your kind of money, and there's
+your check, there it is, right square in your face. </p><stage>(A scream
+by all. Mrs. Kenworth goes up stage and exits in door L.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(To Jones)</stage><p> I'm not through with you yet. </p><stage>(Up stage and
+follows Mrs. Kenworth off.)</stage></sp>
+<stage>
+- - - - CURTAIN - - - -</stage>
+<pb/>
+</div>
+<div type="act" n="2">
+<head>ACT II.</head>
+
+<stage>SCENE: SOUTHAMPTON DOCK, with the
+Steamer St. Hurrah ready to
+steam away.</stage> 
+
+<stage>(OPENING NUMBER - SAILORS OF THE ST. HURRAH CHORUS, sung by Sailors.
+At finish of chorus boy and Reformers enter R.3.E. Go around stage
+singing chorus. Sailors join them. At finish boy exits R.2.E.
+Reformers exit ship, and sailors go aboard ship and stay there.
+Enter Fly, an American girl and do number. At finish of their
+chorus, Fly and girls exit aboard ship. At finish of number enter
+Wilson R.2.E. precedd by boy carrying his grip.)</stage>
+
+<sp><speaker>Boy.</speaker>
+<p>Right this way, sir. Here's the St. Hurrah right here, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>That's all right I'll take the grip. </p><stage>(Takes grip and
+crosses boy.)</stage></sp>
+
+<sp><speaker>Boy.</speaker>
+<stage>(Holding out hand.)</stage><p> Thank you, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Stops)</stage><p> Got your hand out again, have you? Tip, tip, tip.
+That's all I've been doing since I landed in England, but 
+I'll give you a tip. The next time I tip anyody, I'll be
+tipsy. </p><stage>(Gives him a side glance.)</stage> <p>Did you hear that one?
+The next time I tip anybody I'll be tipsy. All my own
+stuff. I made it up as it went along. Gee, whiz! You're
+a great audience. Prommised your mother you'd never laugh,
+didn't you? </p><stage>(Over to him)</stage> <p>There ain't going to be any
+donation.</p></sp>
+
+<sp><speaker>Boy.</speaker>
+<p>Thank you, sir. </p><stage>(Exits same as entrance.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Now he's what I call a nice little fellow. Great company.
+</p><stage>(At this point Captain Squirvy comes down the gang plank
+and crosses Wilson)</stage> <p>Hello whiskers.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Turns)</stage><p> Whiskers.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Say, how do you expect the barber shops to keep open, if
+you're going to let those things grow out all the time.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Very indignant.)</stage><p> Is it me you address?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I don't want your address, I want you to get a shave.</p></sp>
+
+<sp><speaker>Captain</speaker>
+<stage>(Indignant)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Now don't get sore, Whiskers.</p></sp>
+
+<sp><speaker>Captain.
+Whiskers?
+</speaker>
+<p>Wilson.
+</p><stage>(Looks at boat)</stage> <p>Say what is this, the Fall River Line?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Sore)</stage><p> Bah! </p><stage>(Walks away)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Aside)</stage><p> There's another nice little fellow. Say what time
+does this boat break out?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Walks back to Wilson)</stage><p> Are you going to sail with me, sir?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Who are you?</p></sp>
+
+<sp><speaker>Captain</speaker>
+<p>Who am I? </p><stage>(Laughs)</stage> <p>Who am I, sir - I am ----</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Wait a minute, just tell me who you are, don't rave about it.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>I am Captain Squirvy, sir.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Captain of what?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Captain of the St. Hurrah.
+</p><pb/></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Gee, whiz! I thought you were Captain of the base ball
+team. Say, Whiskers, -</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Real sore)</stage><p> Not Whiskers, sir, not whiskers.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Not Whiskers, well, they look like whiskers.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>My name is Squirvy, sir. SQUIRVY.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>How'd you get that name?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Takes hat off)</stage><p> That was my father's name. </p><stage>(Puts hat on
+again.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Oh, well, then you're not to blame. It's hereditary. Come
+on let's get a drink. </p><stage>(Starts to go and stops.)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Thank you, I'm not thirsty.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Looks at him.)</stage><p> Well, you don't have to be thirsty, don't
+you ever wash your face till it gets dirty?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Laughs)</stage><p> Very good - Very good!</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Do you like that one?</p></sp>
+
+<sp><speaker>Captain.
+Splendid.
+</speaker>
+<p>Wilson.
+Would you like to hear another?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Yes, indeed.</p></sp>
+
+<sp><speaker>Wilson,</speaker>
+<p>Well there ain't going to be any more.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Laughs heartily)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>What are you laughing at?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Really, I don't know.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>What's the good of laughing? Save up your laughter for a
+good Joke.  Then burst out and make a fool out of it.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Laughs)</stage><p> Why don't you go and get a sleep?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Why don't you go and get a shave?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Bah! </p><stage>(Walks away to R.2.E. and looks off)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>It's plain to be seen that the Captain hates himself.
+</p><stage>(Train effect. Enter girls from ship and down plank.)</stage></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>Come on, girls, let's see if our baggage is all right.
+</p><stage>(Girls come down plank, turn and go extreme left. Wilson
+stays C.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Ah, how do you do bright eyes.</p></sp>
+
+<sp><speaker>Girl.</speaker>
+<p>How do you do, sir?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Say, have you girls met the Captain?</p></sp>
+
+<sp><speaker>Girl.</speaker>
+<p>Yes, have you seen him?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>There he is. </p><stage>(Points to him.)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Raising hat)</stage><p> Ah, ladies. </p><stage>(Girls all run over to him
+except the first girl, who lingers with Wilson)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Say, the Captain's a devil among the ladies, isn't he?</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>Yes, he's a fine fellow.
+</p><pb/></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I'll bet he spends his money like a sailor. Always stick
+up for a sailor. Remember Jack Sharkey was a sailor. Well
+here I go on the water wagon. </p><stage>(Starts up plank, and all
+laugh.)</stage></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<stage>(Goes and joins girls and turns to Wilson.)</stage><p> Hope you won't
+be sick.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Turns)</stage><p> Hope I won't be sick! Well, how do you suppose the
+doctors are going to make a living if we don't get sick every
+once in a while. Gee, whiz, if you had your way you'd put all
+practicing physicicans out of business. You've got the meanest
+disposition of any woman I ever met in all my life. </p><stage>(Exits
+boat.)</stage> <stage>(Girls all laugh as he exits and stroll to C.)
+(Captain approaching first girl goes left.)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(To girl)</stage><p> Tell me, who is that fellow?</p></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>I don't know.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>A boat gambler I presume. I'll keep my eye on him. </p><stage>(Both
+go C. At this boy comes from L.2.E. and joins Captain.)</stage></sp>
+
+<sp><speaker>1st Girl.</speaker>
+<p>I hope we don't have a storm at sea.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Laughs as girls shudder.)</stage><p> A storm at sea to me is as welcome
+as the sunshine of a spring morning to a birdie in its nest.
+When the thunger crashes -- </p><stage>(Girls shudder)</stage> <p>and the lightning
+flashes --</p><stage>(Girls shudder)</stage> <p>the rain pours down, the pyramid
+waves splash the deck - the old ship is rocking like a cradle
+and the --</p></sp>
+
+<sp><speaker>Girls</speaker>
+<p>Ah, Captain!</p> <stage>(1st girl exits aboard ship - seasick.)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Laughs)</stage><p> Bah, sailors, eh? </p><stage>(Laughs)</stage></sp>
+
+<sp><speaker>2nd Girl.</speaker>
+<p>Captain have you always been a sailor?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>No indeed, when I was a boy like this lad I worked in a
+store. </p><stage>MUSIC CUE. </stage><stage>(SONG- "Captain of a Ten-Day Boat", sung by
+Captain and Girls, sad boys enter at introduction from ship
+and do number with them. At finish all exit R.2.E. Also
+boy and Captain stays left. Florabelle appears on deck
+of boat at finish of this number with kodak, and coming
+down plank laughing.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Captain Squirvy entertains the American girls with a sailor's
+hornpipe on the Southampton Dock. More news for the Searcher.
+</p><stage>(Approachs Captain - laughing)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Turns to Fly and greets her)</stage><p> Ah, Miss Fly, going to cross?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>With you again, Captain. </p><stage>(Goes down stage L. and turns.)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Well, well, with Sing Song, the Chinese newspaper man, and
+Florabelle Fly, the press will be well represented on the
+St. Hurrah.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>A boat load of celebrities, eh, Captain?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Yes, indeed, I suppose you know Johnny Jones crosses with
+us.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Yes, poor Jones.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>That's what I say, Fly. Why in the world was he ever ruled
+off the English track?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>No one seems to know.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Do you suppose it was because he lost the English Derby?
+</p><pb/></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Well, of course his horse was favorite, but then other
+favorites have lost. </p><stage>(Bus. Fly taking Captain's picture.)</stage>
+<p>Stand up straight, fix your tie. There have been no facts
+made public. We only know he's off the track.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>There's something behind it all.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Evidently, but it's all a mystery up to now. </p><stage>(Shouting and
+yelling and laughing without.)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Hello, what's this? </p><stage>(Both up stage.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Mrs. Kenworth and her female Reformers have arrived.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Oh, yes, I read of them in the London Times. Sing Song
+is to accompany them back to San Francisco I see.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Crosses to extreme R.)</stage><p> Yes, going to protect them from the
+Highbinders. </p><stage>(Laughs.)</stage> <p>She's proved a great subject for the
+press.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Goes L.)</stage><p> A better subject for an insane asylum, I should
+say. </p><stage>(At this Mrs. Kenworth enters from R.2.E. preceded
+by boy with grips.)</stage></sp>
+
+<sp><speaker>Boy.</speaker>
+<p>Here you are, here's the St. Hurrah. Right this way, Ma'am.
+</p><stage>(Enter Mrs. Kenworth)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Sees her)</stage><p> Why Mrs. Kenworth. </p><stage>(At same time snapping her
+picture.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Ah, Miss Fly, awfully glad to hear that you are going
+to make the trip with us.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>I'm tickled to death myself. Have you met Captain Squirvy,
+Mrs. Kenworth - </p><stage>(Introduction)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Bows in acknowledgment)</stage><p> Mrs. Kenworth!</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Captain? Captain of the St. Hurrah?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Swells up)</stage><p>
+Yes, madam.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>I suppose you have crossed the ocean many times.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>A hundred and three times, madam, and twice in a row boat.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Brave fellow. I like brave men. </p><stage>(Captain swells
+out.)</stage> <p>I adore brave women who stand by their rights.
+</p><stage>(Turns to Fly and back again.)</stage> <stage>(At this boy comes from
+ship - crosses to R. bus. with trunk.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Aside)</stage><p> Here's one who stands by her rights alright, alright,
+alright.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>I've heard a great deal of you Mrs. Kenworth through the
+newspapers.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Newspapers! Rubbish. </p><stage>(Captain crosses to C. Mrs.
+Kenworth to L. and looks up at boat.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>I wonder if she was looking at me when she said that.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>It looks that way.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Turns to Captain.)</stage><p> Have my little dearies arrived
+yet, Captain?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Turns to Mrs. Kenworth.)</stage><p> Yes, half hour ago.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Will you be so kind as to present them to the
+stewardess, my dear Captain?
+</p><pb/></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>With pleasure, my dear Mrs. Kenworth, and I assure you the
+pleasure is all mine. I will see to them at once. </p><stage>(Goes
+up plank and off ship.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Goes over to Mrs. Kenworth.)</stage><p> Tell me, is it true the Earl of
+Bloomsbury is to marry your niece, Mrs. Kenworth?</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Yes, indeed. Ah, lucky girl. An Earl for a husband.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Then her engagement to the American jockey Jones is ----</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Interrupts her)</stage><p> ---Jones, that insignificant, horrid
+creature. Whatever foolish escapade my niece may have
+had with this jockey was a joke, a mere lark. Goldie
+is fascinating, I might say coquetteish, and the poor
+fool took her seriously. </p><stage>(Laughs)</stage> <stage>(At this sailors
+enter from R.2.E. and Boy exits R.2.E.)</stage> <p>Ridiculous,
+ridiculous. </p><stage>(Laughs haughtily and exits aboard ship.
+Sailors take trunks and exit aboard ship.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>The story gets stranger as the chapters progress. </p><stage>(This is
+aside.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Without)</stage><p> Come along your lordship, right this way, your
+lordship.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Up stage, looks off R.)</stage><p> Hello, here comes my heroine now,
+from England to America in male attire, and the Searcher scoops
+the story. </p><stage>(Down stage as Goldie and Henry enter, turns and
+snaps them with her kodak. Enter Henry carrying grips, and so
+followed by Goldie still disguised as the Earl.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Goes L.)</stage><p> Here we are, your lordship, here's the St. Hurrah.
+Shall we go right aboard?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>May as well, I suppose. </p><stage>(Looks at ship)</stage> <p>Beastly looking
+boat, isn't it?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Yes, awful looking catamoran.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Turns sees Fly.)</stage><p> Ah, Miss Fly. </p><stage>(Tipping hat)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Howdy, my dear Earl. I suppose you're anxious for the trip
+to be over with, and see what your future wife really looks
+like. </p><stage>(Both come C.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>I don't care what she looks like.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Turns)</stage><p> He wouldn't care if she looked like thirty cents.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Has Miss Gates heard of the match?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>I believe her Aunt cabled her the good news, that I had
+agreed to become her husband. Ah, she's the lucky girl.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>What do you suppose the outcome will be?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>I don't care what the outcome is.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>No, by Jove it's the income he's after. </p><stage>(Turns and looks
+at boat)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>But I understand this girl is in love with Johnny Jones, the
+jockey.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>If she marries him she's disinherited.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Jones don't care, he loves her for herself.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Do you think so?</p></sp>
+
+<sp><speaker>Fly.
+He told me so.
+</speaker>
+<p>Goldie.
+</p><stage>(Overjoyed)</stage> <p>He did, when?
+</p><pb/></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Turns and coughs at this point.)</stage><p> Don't you think we'd best
+get aboard, your Lordship? </p><stage>(Fly walks up stage)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Put the luggage in my stateroom, Leslie.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Down to Goldie, aside)</stage><p> Don't talk too much.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Aside)</stage><p> Leave that to me.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Aside)</stage><p> I never did like these female newspaper men. </p><stage>(Starts
+exit aboard ship.)</stage> <p>Coming right aboard your silly old boat,
+Captain, and you shall make way for the Earl of Bloomsbury.
+</p><stage>(At this Wilson comes down plank and meets Henry, who look
+each other over.)</stage> <stage>(Henry turns from Wilson.)</stage> <p>My word, what
+a silly looking man.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Say, how do you expect the expressman to make a living if
+you are going to carry that stuff around with you all the
+time?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Crosses Wilson and up plank.)</stage><p> You mind your own business
+you old fool, and if you don't I'll give you a piece of my
+mind, you silly old sponge cake.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Follows him)</stage><p> Now don't get sore Clare, he'll be great company
+for me, all right. </p><stage>(Both exit ship)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(To fly who comes down stage R.)</stage><p> And so you really think
+this Jones would marry Miss Gates if she hadn't a dollar in
+the world?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Undoubtedly, but I hardly think she'll care for him now that
+he's disgracefully accused of throwing the English Derby. I
+understand his suspension extends to America, and that he is
+actually ruled off the track forever.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>She loves him just the same.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>What makes you think so?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Oh, silly fools, these girls you know.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Laughs - goes over to plank.)</stage><p> Are you going aboard, my dear
+Earl? </p><stage>(Goes up plank.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Goes over to trunk R.)</stage><p> No, I'm going to sit here and watch
+the sailors bid good-bye to their sweethearts.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Jimney Christmas, what a story this is getting to be. </p><stage>(Exits
+aboard ship) MUSIC CUE. (SONG - "GOOD-BYE FLO" Sung by Goldie
+with chorus behind her. At finish crowd hollering and shouting
+without. Goldie and sailors exit aboard ship, and girls exit
+R.2.E. Enter McGee on run from R.2.E.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>By gorra, I never got in a crowd like that in my life. They're
+trying to mob poor Jonsey. Swarmed around him like a lot of
+bees. </p><stage>(Yelling and hollering and Bus.)</stage> <stage>(Yells)</stage> <p>Go it,
+Jonsey, go it. He soaked one of them, down he goes. Give
+it to him again. </p><stage>(Supposed to be looking at fight off R.)</stage>
+<p>Come on, come on, and lick the devil ----- </p><stage>(Enter Jones with
+jeers, hisses and yelling)</stage> <p>Are you all right? Turn around
+and let me see. </p><stage>(Turns Jonsey around)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Why, I could fight my way through as an army of ours like them.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Who the devil started it?</p></sp>
+
+<sp><speaker>Jones.
+Anstey!
+</speaker>
+<p>McGee.
+Anstey.
+</p><pb/></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>The minute I stepped from the train he shouted to the crowd,
+"there he is Johnny Jones, the crooked jockey", why they
+were on top of me before I where I was at. </p><stage>(Goes down
+stage R.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Where is the kid that had our grips?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(To kid as he enters with grips)</stage><p> Ah, there you are! Good boy!
+</p><stage>(He starts to walk plank - Jones follows, boy turns.)</stage></sp>
+
+<sp><speaker>Boy.</speaker>
+<p>Good boy nothing. If I'd have known as who you were I'd never
+carried your blooming luggage. Johnny Jones, eh? Threw the
+English Derby, did you? </p><stage>(Hisses him.)</stage> <p>I hope the next horse
+you get on falls down and breaks your blooming neck. </p><stage>(Tails)</stage>
+<p>Robber, thief, cad!</p> <stage>(Hisses - exits aboard ship.)</stage> <stage>(Enter
+Wilson on deck and listens.)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(To McGee)</stage><p> I'm a hot favorite, Mack. </p><stage>(Down stage R.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Follows him)</stage><p> You are in bad luck, kid.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>I throw the English Derby? Why I never tried so hard in all
+my life, yet for the last three days every kid in the streets
+of London has jeered me - pointed me out to passers-by with
+calls of thief! Robber! Cad! and all such things.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Goes C.)</stage><p> And no satisfaction from the English Club?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Not a bit. Called before the steward and suspended. Called
+before the committee and ruled off. No satisfaction, no
+explanation, except what the papers have printed and they
+merely intimate that I may have ridden a crooked race.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>And even if you did, you're not the first that - - -</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Wait a minute, Mac. Do you think I did?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Turns)</stage><p> I didn't say that, Jonsey.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(McGee goes extreme R.)</stage><p> No, but you may as well. Gee, whiz!
+Haven't I a friend in the world? </p><stage>(McGee offers Jones his
+hand. Wilson, who has just come down plank.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Have you got any money?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>I've got all kinds of money.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>To hell with the friends. </p><stage>(Goes and looks off R.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Jones and McGee cross Wilson and look at him surprised and
+go up stage L.)</stage><p> There's no hand, kid. I'm going to go the
+route for you and stick right with you till you prove to the
+whole damn world that you are on the square.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>That's awfully nice of you, Mack. </p><stage>(Cheers, and shouts in
+distance at this)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Looking off R.)</stage><p> I guess I'll get aboard before I'm mobbed
+again. </p></sp>
+<stage>(Jones, McGee and Wilson go aboard ship and stay there.)</stage>
+<stage>
+MUSIC CUE - FORTE. </stage><stage>(ENTER TOMMY ATKINS SOLDIERS AND SING SONG; AND the
+Four Chinese Girls, who do big number and dance. At finish of dance
+Chinese girls exit aboard ship, and Tommy Atkins Soldiers exit R.2.E.
+Sing Song stays on stage - goes up to plank. McGee exits into ship.
+Henry comes on deck, now listening. BOTH. Sailors are on the deck all
+through this set.)</stage>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Coming down plank at finish of number.)</stage><p> Ah, my dear Sing
+Song, welcome to the St. Hurrah.</p></sp>
+
+<sp><speaker>Sing Song.</speaker>
+<p>Captain Squirvy, I believe.
+</p><pb/></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>At your service.</p></sp>
+
+<sp><speaker>Sing Song.</speaker>
+<p>I've heard Mr. Anstey speak of you. </p><stage>(Crosses to left and
+meets Mrs. Kenworth who is coming down plank. Captain
+crosses looks off right.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Where is Anthony?</p></sp>
+
+<sp><speaker>Sing Song.</speaker>
+<p>He's with the police. </p><stage>(They both go down stage L.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>With the police.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>The Earl of Bloomsbury turned out to be a bogus Earl.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>A bogus Earl?</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>So it seems. Anstey is now giving the detectives a full
+description of the counterfeit.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>He's already aboard the ship. </p><stage>(Crosses to C.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Good. I believe they intend to surround the boat and capture
+him at once.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Will wonders never cease?</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>They'll get him if he's aboard the ship.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>He's aboard the ship right now.</p></sp>
+
+<sp><speaker>Heny.</speaker>
+<stage>(Aside)</stage><p> But he won't be in a minute. </p><stage>(Exits into ship hurriedly)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Oh, this is horrible, terrible.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Turns.)</stage><p> What seems to be the matter?</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Nothing, everything. </p><stage>(Enter Anstey with inspector. R.2.E.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Come along Perkins.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Up to him)</stage><p> Ah, Anthony!</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Inspector stops)</stage><p> You heard!</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Yes, what does it mean?</p></sp>
+
+<sp><speaker>Isnpector.</speaker>
+<p>Imprisonment for life, Ma'am if we get the man.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Inspector Perkins!</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<stage>(Turns at mention of name)</stage><p> Hello, Captain. </p><stage>(Shakes hands)</stage>
+<p>May I have your permission to search the St. Hurrah for a
+person enrolled on the passenger list as the Earl of
+Bloomsbury?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Go as far as you like, Inspector. Come along, I'll help
+you. This way, Inspector. </p><stage>(Crosses - goes up plank and
+exits.)</stage> <stage>(Inspector follows to plank and stops, turns to Anstey)
+(By this time Sing Song has gone up stage and has joined
+Anstey and Mrs. Kenworth.)</stage> <stage>(At this Wilson comes aboard
+ship and down plank.)</stage></sp>
+
+<sp><speaker>Inspector.</speaker>
+<stage>(To Anstey.)</stage><p> Have no fear Mr. Anstey, I'll take him dead
+or alive. </p><stage>(Inspector starts up plank and meet Wilson who
+is just coming down - then stops.)</stage> <p>Hello, Wilson, how are
+you? </p><stage>(Holding out hand. Jones exits into ship.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>There must be some mistake. </p><stage>(Anstey, Sing and Mrs. Kenworth
+stand at R.2.E. pantomine talk.)</stage>
+<pb/></sp>
+
+<sp><speaker>Inspector.</speaker>
+<stage>(Wilson crosses Inspector.)</stage><p> I beg your pardon, I thought
+you were somebody else.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Well, if I ain't somebody you thought I was, I must be
+somebody else.</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<stage>(Exits aboard ship, saying)</stage><p> All right, Captain, I'm coming.
+</p><stage>(Exits on run. Wilson goes up stage.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>How did you discover him to be an imposter?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Shakes letter in hand)</stage><p> This letter.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>From the real Earl?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Exactly I've wired him to follow on the next boat.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>The wretch may approach my dearies. I must protect
+them at once. </p><stage>(Goes aboard ship.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Nothing to fear now, my dear.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>But the brute may speak to them. </p><stage>(Exit hurriedly and
+excited into boat. Anstey goes over to boat and sees
+her exit.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Who do you suppose this masquerading person can be?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Some imposter or fool taking a desperate chance. </p><stage>(Goes over
+to Sing.)</stage> <p>The Chinese Lottery papers, where are they?</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Takes papers from sleeve.)</stage><p> There they are.</p></sp>
+
+<sp><speaker>Anstey.
+Oh!
+
+Sing.</speaker>
+<p>I see Jones' name is on the passenger list.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Yes, the little rat.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>He'll beat the Earl to the field of battle.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Will he? I'll cable Chung Fow to kidnap the girl. On Mrs.
+Kenworth's arrival in Frisco she will learn of the disappearance
+of her niece.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>What's the scheme?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Ransom money for the girl's release, and a promise of
+silence, and no more uprising against the Chinese Lottery
+game.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>It's blackmail.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Not at all. Business proposition.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Tell me, how was that jockey affair arranged?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Easily enough. On the day of the Derby I circulated a report
+that Jones was bought by an American syndicate to throw the
+race. My appearance at the track strengthened the story to
+such an extent that the American colony watched every move
+I made. I took a long chance on Jones' defeat; bet six
+thousand pounds on British Boy, which put the English betting
+ring into a wild turmoil. Long before the race was run,
+Jones was called before the Stewards. He must have convinced
+them of his innocence, for he went to the post on Yankee
+Doodle. Now had he finished our ot the money, under ordinary
+circumstances, well and good, but meeting defeat in the face
+of the accusation and the American Money switching over
+to the long shot, British Boy, brought the English to their
+feet with a cry of fraud. He was mobbed in the paddock,
+barely escaped with his life. Jones unconditionally suspended
+and ruled off the English track.
+</p><pb/></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Crosses.)</stage><p> Hop, Toy, Sing.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>The whole scheme has to be handled with gloves, my dear
+Sing Song, and no one but a conniving, scheming, deep-
+thinking man, could have succesfully operated this little
+game I played, for sweet revenge. I'll not soon forget the
+insult he publicly hurled at me in the Court of the Hotel
+Cecil. </p><stage>(Anstey laughs heartily. Wilson who has been up
+stage now pushes his way in between the two.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Say, will you boys join me in a little drink?</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>No clinky. </p><stage>(Turns up stage L.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>I'm just as much obliged.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>You boys are great commons all right.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Crosses him to left.)</stage><p> You'll excuse me I'll - - -</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Beg pardon -- </p><stage>(Business of brushing off his shoulder with
+one hand and taking papers from pocket with the other. Puts
+papers in his own pocket.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns)</stage><p> What's the matter?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I thought I saw some dust on your shoulder.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>You're liable to see a lot of things the way you are going.
+
+</p><stage>(Turns - goes up stage L.)</stage></sp>
+
+<sp><speaker>Wilson</speaker>
+<stage>(Aside)</stage><p> You won't see much where you're going. </p><stage>(Turns R.
+to go off.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Up stage)</stage><p> I wonder if they captured the counterfeit Earl.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>I believe they have him by this time.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Turns)</stage><p> Sorry you boys won't join me. I wouldn't have your
+disposition for anything in the world. </p><stage>(Exits R.2.E.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Points to Wilson.)</stage><p> Who is he?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Comes down stage C. Looks up at boat.)</stage><p> Some fool or
+another. </p><stage>(At this point Inspector appears on deck. Fly
+follows him and watches.)</stage> <p>Hello, did you get your man?</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>No, he's vanished. Disappeared entirely.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>That's strange.</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<stage>(On plank)</stage><p> He must be ashore. </p><stage>(He descends - Fly follows
+and watches the Inspector.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>You'd best guard the boat.</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>I have men here. </p><stage>(Whistles off R.2.E. four English policemen
+appear from R.2.E.)</stage> <stage>(To men.)</stage> <p>You have the description?</p></sp>
+
+<sp><speaker>Four Bobbies.</speaker>
+<p>Aye Governor.</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>Go aboard and keep your eyes open.</p></sp>
+
+<sp><speaker>Four Bobbies.</speaker>
+<p>Thank you, Governor. </p><stage>(The four exit boat on run.)</stage></sp>
+
+<sp><speaker>Inspecotr.</speaker>
+<stage>(To Anstey)</stage><p> I'll look about the station.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Watch the London train.</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>He'll not escape, sir. </p><stage>(Exits R.2.E. Fly follows him off.)
+(When policeman exit in boat. Henry appears on deck and starts
+down plank.)</stage>
+<pb/></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Who is left, writing in some book.)</stage><p> This will be news for
+the Pekin Gazette.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Come along, Sing, let's get aboard. </p><stage>(They start for the
+boat and meet Henry, who has discarded his diguises and is
+back to himself.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Coming down plank.)</stage><p> How do you do, Mr. Anstey.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Well, well, my young friend of the American bar, going to
+cross?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Expect to. Excuse me - - - </p><stage>(Crosses and looks off R.2.E.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Points to plank)</stage><p> This way, Sing.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Good, I must see that my ladies are comfortably situated.
+</p><stage>(Crosses and starts up plank.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>I'll be with you directly.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Very good, I'll be in the cabin or somewhere. </p><stage>(Exits aboard
+ship.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(To Henry)</stage><p> Oh, I say - - - </p><stage>(Calls)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Turns)</stage><p> Did you call, Mr. Anstey?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Yes. </p><stage>(Looks about to see if the coast is clear)</stage> <p>How about
+the little French girl, is she going to cross?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Yes, oh, yes. She's aboard the ship.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Good, good! </p><stage>(Laughing)</stage> <p>Splendid, splendid! Go right along
+Sing, I'm coming. </p><stage>(Exits both hurriedly)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>What an old villain he is. I would like to know what game he
+and that Chinamen are playing. By Jove, what a narrow escape!
+Goldie got rid of her diguise none too soon. </p><stage>(At this Inspector
+enters in great hurry from R.2.E. towards ship Fly
+follows, and Henry goes R.C.)</stage> <stage>(Aside)</stage> <p>Hello, the Inspector.
+
+Inspector. </p><stage>(Turns and sees Henry who is R.C.)</stage> <p>You name, sir?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Hapgood - - Henry Hapgood.</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>His hiding place is on that ship. He was seen going aboard.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Comes down plank)</stage><p> Your men are searching. </p><stage>(Crosses to Henry)</stage>
+<p>Hello, who is this?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>You remember me, Captain, I crossed with you.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Oh, yes, Mr. - - -</p></sp>
+
+<sp><speaker>Henry.
+Hapgood.
+</speaker>
+<p>Captain.
+Hapgood. Correct. </p><stage>(They shake hands)</stage></sp>
+
+<sp><speaker>Inspector.</speaker>
+<stage>(To Captain)</stage><p> All right, Captain?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Turns to Inspector.)</stage><p> All right? Yes. </p><stage>(Henry and Captain
+talk in pantomine)</stage> <stage>(NOTE - At this the policemen appear on
+deck.)</stage></sp>
+<pb/>
+
+<sp><speaker>1st Bobby. </speaker>
+<stage>(Calls to Inspecor)</stage> <p>Not a sight of his Governor.</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>Guard that deck. </p><stage>(The police all salute and walk up and
+down deck.)</stage> <stage>(NOTE - When Inspector entered from R.2.E. he
+was again followed by Fly who stare up stage and makes note
+of all his actions.)</stage></sp>
+
+<sp><speaker>Fly</speaker>
+<stage>(Comes down stage.)</stage><p> What's all the excitement?</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<stage>(Down to her)</stage><p> Your name, please.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Florabelle Fly, representing the San Francisco Searcher.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Crossing Captain to Fly)</stage><p> The San Francisco Searcher, did
+you say?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Yes, you seem interested.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Well, rather, that is to say, I've -- I've -- heard of the
+paper.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Laughs)</stage><p> Oh, I see. </p><stage>(To Inspector and crosses)</stage> <p>you needn't
+be alarmed, Inspector, I'm perfectly harmless. </p><stage>(Laughs heartily
+and runs up plank and exits aboard ship)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>I dare say you'll be glad to get home.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>You bet I will, Captain. </p><stage>(Aside)</stage> <p>No more masquerading trips
+for Henry, once I hit good old California.
+
+</p><stage>MUSIC CUE. "GOOD OLD CALIFORNIA" (Sung by Henry and male chorus,
+Sailors stroll on from boat at introduction. Bobbies on plank and
+Captain aside of Henry. After number policemen exit ship. Enter
+McGee from ship calling.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(As he enters)</stage><p> Hello, what's the matter, are we all pinched?
+</p><stage>(Looking at police as he descends plank.)</stage></sp>
+
+<sp><speaker>Inspector.</speaker>
+<stage>(Who has been standing at foot of plank during number. Goes
+toward McGee.)</stage><p> Your name, please.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Where are you from?</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>Scotland Yard.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Whistling and starts down stage.)</stage><p> I don't want to play in
+your yard.</p></sp>
+
+<sp><speaker>Inspector</speaker>
+<stage>(Down to McGee.)</stage><p> Your name?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Turns)</stage><p> McGee. </p><stage>(Inspector nods - turns and goes up stage.)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Calls to Mack.)</stage><p> Hello, Mack.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Crosses to Captain R.)</stage><p> Ship ahoy, Captain, what's the fuss?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>All kinds of excitement. </p><stage>(They pantomine)</stage> <stage>(Enter Goldie
+down plank at this and stops short as she meets Inspector.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(As French girl again)</stage><p> Pardon, Monsieur, have you seen a
+Mr. Hapgood?</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>Hapgood? Yes. </p><stage>(Points to Henry)</stage> <stage>(Henry who has since song
+been looking off up stage R.3.E. comes over himself to
+greet Goldie.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Crossing)</stage><p> Thank you. </p><stage>(Aside to Henry)</stage> <p>It's all up, I'm
+afraid. </p><stage>(Both down stage L.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>What's happened?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>I met my aunt face to face.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>
+She knew you?</p></sp>
+<pb/>
+
+<sp><speaker>Goldie.</speaker>
+<p>I'm afraid so. She stopped and stared and - - - -</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Sees her coming)</stage><p> Sh- - - </p><stage>(Goldie and Henry walk to entrance L.)
+(At this Mrs. Kenworth and Anstey on deck and come
+down plank, followed by Fly who stays up stage R.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>You must be mistkane, my dear. It can't be possible that-----</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Down stage C.)</stage><p> But I tell you I'm not mistaken. I
+know the girl when I see her, I - - </p><stage>(Sees Goldie and
+points)</stage> <p>Look, see, there she is.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Over to Mrs. Kenworth.)</stage><p> Did you call me, Madam? </p><stage>(Anstey
+laughs haughtilly at this)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Looks from one to the other in surprise.)</stage><p> Why, what's
+the matter?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Still laughing, crosses Mrs. Kenworth.)</stage><p> My dear, allow me!
+Miss Fanchette. Mlle. I present Mrs. Kenworth. </p><stage>(Goes over
+to Henry)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Crossing him to her)</stage><p> I am very pleased to make my acquaintance,
+Madam.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Looks at her suspiciously)</stage><p> What is the name?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>My name? Fanchette, Rosario Fanchette. </p><stage>(Mrs. Kenworth
+stands and stares at Goldie.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(To Henry, laughing)</stage><p> She thought this French girl was her
+niece. </p><stage>(Laughs heartily.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Her niece? </p><stage>(Joins in the laugh)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Is there something I can do for you, Madam?</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>No, nothing. </p><stage>(Still looks at her.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>I'll see you again. </p><stage>(In French.)</stage> <stage>(Turns to Anstey and Henry)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(To herself)</stage><p> What a remarkable resemblence.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Still amused. Crosses to her as she speaks. Laughingly)</stage><p>
+Well, my dear, are you satisfied?</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Who is this girl?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>A Parisian flirt - nothing more nor less. </p><stage>(Laughs)</stage> <p>You see,
+my dear, how easily one may be mistaken. </p><stage>(Turns back again
+to Goldie and Henry.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(To herself.)</stage><p> If I were not sure Goldie is at school in
+San Francisco, I'd swear she - - -</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Toward Mrs. Kenworth.)</stage><p> Ah, Mrs. Kenworth. </p><stage>(Captain at this
+point turns and goes up stage and joins Fly.)</stage> <stage>(NOTE: Florabelle
+has been on stage making notes all during this scene, she
+having followed on stage Mrs. Kenworth and Anstey.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Turns to McGee.)</stage><p> Hello, going to cross Mr. McGee?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>I'm going as far as the boat goes.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Good, I'm awfully glad. </p><stage>(Takes his arm and they stroll
+right)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(To Anstey - laughing)</stage><p> And she thought I was her niece.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Laughing)</stage><p> That's it.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>She must be crazy. </p><stage>(Laughing)</stage>
+<pb/></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns to Mrs. Kenworth)</stage><p> You see, my dear --- </p><stage>(Sees her
+with McGee R. stands looking at them)</stage> <p>With McGee again.
+</p><stage>(Inspector comes on deck.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Aside to Goldie)</stage><p> Goldie you're a wonder!</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(aside)</stage><p> Another narrow escape.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(To Mrs. Kenworth)</stage><p> And you thought she was your niece?</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>I could have sworn it. </p><stage>(They both laugh heartily)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Calls)</stage><p> Oh, my dear, --</p><stage>(McGee and Mrs. Kenworth take no
+notice of him)</stage> <p>My darling --- my honeysuckle -- </p><stage>(They laugh
+heartily and talk in pantomine)</stage> <p>Damn that Irishman. </p><stage>(Inspector
+who has been on deck comes down plank and down stage to Anstey.)</stage></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>I can't account for our man's disappearance.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns up stage)</stage><p> Nor I. I'll take a look about the boat
+myself. </p><stage>(Starts up plank.)</stage></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>Keep a sharp watch. I'll see if my men in the station
+have an inkling. </p><stage>(Starts for R.2.E.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(On deck plank)</stage><p> She seems very much interested in McGee.
+</p><stage>(Exits aboard ship.)</stage></sp>
+
+<sp><speaker>Inspector.</speaker>
+<stage>(Meets Wilson who enters R.2.E. and as Wilson crosses him
+he turns and looks at him.)</stage><p> I'd like to know what he's doing
+in England. </p><stage>(Wilson directly over to plank and exits into
+boat. At this point Fly and Captain come down C.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(To Captain)</stage><p> And the Earl turns out to be an imposter, very
+strange. Isn't it?</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Yes, very. </p><stage>(Effect of train arriving without. At this
+Tommy Atkins boy enters R.2.E. and exit into ship. Leaves
+Fly and goes up stage, looking off R.2.E.)</stage> <p>Hello, here's
+another train.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Writing in memo.)</stage><p> Mrs. Kenworth converses with Timothy McGee
+on the subject of reform.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Turns to her.)</stage><p> Ridiculous. </p><stage>(Crosses her and over to
+Goldie.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>That's just what I think. </p><stage>(Over to McGee.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Say, you're raising the devil.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>And raising my salary at the same time.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Looking at Goldie.)</stage><p> Why I never saw such a thing.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Indignant)</stage><p> You mean me, Madam?</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>It's positively striking, I ----</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Oh, yes, the gentleman told me I look like a young lady ----</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Down to Mrs. Kenworth at this)</stage><p> What do you say to a stroll
+on deck, Mrs. Kenworth?</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Delighted. </p><stage>(Goldie turns to Henry.)</stage> <stage>(At this crowd
+hollering and jeering without.)</stage></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>Something up. </p><stage>(Exits R.2.E. Jones appears on deck.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>It sounds like a riot.
+</p><pb/></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>I'll have to see what all this about. </p><stage>(Exits on run R.2.E.
+Noise subsides and Henry and Goldie stroll to L. Down stage
+and Jones comes down from ship.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Up to Jones)</stage><p> Hello, Jonsey, where have you been?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Aside to Henry.)</stage><p> There he is.</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Keep your nerve.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(To Mack.)</stage><p> There's a poker game aboard, Mack.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>A poker game? </p><stage>(Crosses and starts up plank.)</stage> <p>What's the
+limit?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Laughing)</stage><p> You're the limit.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Politics and poker are two games where a man should always
+have a few things up his sleeve. </p><stage>(Exits boat.)</stage> <stage>(Jones
+laughs and turns to C.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Walking directly to Jones, and Goldie going R. and looks
+off.)</stage><p> Hello, Jones.</p></sp>
+
+<sp><speaker>Jones.
+How are you?
+</speaker>
+<p>Henry.
+You kno't know me, my name's Hapgood. I've been a great
+follower of yours. Sorry to hear of your trouble.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Forget it, my boy. It doesn't bother me in the least.
+Who's the little swell? </p><stage>(Looks at Goldie.)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Oh, pardon me, Mlle. </p><stage>(Goldie turns.)</stage> <p>This gentleman is the
+great Johnny Jones, the American jockey.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Thanks, old chap. </p><stage>(Both cross Henry to L. Jones to Goldie.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(To Jones)</stage><p> Ah, the great Johnny Jones. Delighted to meet
+you. </p><stage>(In French)</stage> <stage>(Jones over to her and stares)</stage> <p>What is
+the matter? Why you look at me so? </p><stage>(Crosses him.)</stage> <p>I am
+a nice girl, eh? </p><stage>(Jones walks right up to her and looks
+into her face.)</stage> <stage>(Henry down stage at this extreme left)
+(Goldie runs over to Henry)</stage> <p>What is the matter with him.
+Is he crazy? </p><stage>(In French)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<stage>(Crosses over to Jones)</stage><p> What seems to be the trouble, Jones?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Who is this girl?</p></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>Fanchette. Rosario Fanchette.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Are you sure?</p></sp>
+
+<sp><speaker>Henry</speaker>
+<p>Certainly, I've met her a dozen times in Paris. She's a ---
+Why, what's the matter?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Nothing. </p><stage>(Boy dashes from R.2.E. and on to boat calling.)</stage></sp>
+
+<sp><speaker>Boy.</speaker>
+<p>Henry Hapgood. Message for Henry Hapgood. </p><stage>(Exits aboard ship)</stage></sp>
+
+<sp><speaker>Henry.</speaker>
+<p>That's me. </p><stage>(Calling and after boy)</stage> <p>Here boy, here you are-
+that's me. </p><stage>(Exits on run up plank and aboard ship.)</stage> <stage>(Jones
+over to Goldie - stares at her again. At this Fly enters
+R.2.E. and over to plank. Looks down and sees Jones and
+Goldie. Stays on plank and watches.)</stage></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Crosses Jones and stops.)</stage><p> Oh, again I look like someone, eh?
+Just now the lady tells me I look like her niece and - - -</p></sp>
+
+<sp><speaker>Jones</speaker>
+<stage>(Interested)</stage><p> The lady told you this?</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Yes, she was all excited. She thought I look so much like --</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Aside)</stage><p> She means Mrs. Kenworth.
+</p><pb/></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Who I look like now, eh? </p><stage>(Jones just stares)</stage> <p>I say, who
+I look like now, eh?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Staring at her.)</stage><p> Why, you look just like a girl I know.
+
+MUSIC CUE. </p><stage>(SONG AND DANCE done by Jones and Goldie. At finish of
+number Goldie exits R.2.E. Jones looking after her. Fly comes
+down plank.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Ah, that's the time I caught you, Jonsey. Naughty, naughty.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Turns)</stage><p> Say, who is she?</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>How should I know. Pretty isn't she?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>I should say so, by Jove!</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Both take C. stare.)</stage><p> You haven't fallen in love, have you?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Not exactly that, but - - -</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>She looks like the real thing, eh?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>I should say she does.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Strange this Earl should turn out to be an imposter.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Goes up stage)</stage><p> Yes, very strange.</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Aside)</stage> <stage>(Goes extreme left.)</stage> <p>He doesn't suspect - good.
+</p><stage>(At this point Captain and Anstey come down plank all excited.)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Where could you have lost them?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>I can't imagine Captain. They were in my pocket not ten minutes ago.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Are you sure?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Looking about)</stage><p> Absolutely sure. I tell you, Captain, I've
+been robbed. </p><stage>(Goes to R.C.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Something lost?</p></sp>
+
+<sp><speaker>Captain</speaker>
+<p>Valuable papers.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Yes, very valuable papers. It's the work of a thief.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>I don't know who the thief can be. </p><stage>(At this point Jones
+down stage to Anstey and stops.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns - sees Jones and looks at him.)</stage><p> I think I do. A man
+who will cheat the public will pick a pocket. </p><stage>(At this
+point Mrs. Kenworth enters from ship)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Look out for your watch, Captain. </p><stage>(Turns and goes up to side
+of plank. Bus. of Captain throwing up hands - turns and
+goes up stage.)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Aside.)</stage><p> Anstey loses valuable papers. </p><stage>(Anstey turns up
+stage - sees Mrs. Kenworth on plank.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Ah, my dear. </p><stage>(Descends plank)</stage> <p>The papers.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>It's nothing. Papers of importance in a business way, that's
+all. </p><stage>(Mrs. Kenworth crosses over to Fly L. At this the
+four Bobbies appear on plank.)</stage></sp>
+
+<sp><speaker>1st Bobby.</speaker>
+<p>Is the Inspector about, Governor?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>No, what luck?</p></sp>
+
+<sp><speaker>1st Bobby.</speaker>
+<p>None. Our man is not aboard this ship.
+</p><pb/></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>I'm glad of that.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Then, where the devil is he?</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Strange!</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Very. </p><stage>(Noises of crowd yelling and jeering without.)</stage></sp>
+
+<sp><speaker>Captain.</speaker>
+<stage>(Looking off R.)</stage><p> What's this? </p><stage>(Shrill whistle blows at
+this point)</stage></sp>
+
+<sp><speaker>1st Bobby.</speaker>
+<p>That's for us. </p><stage>(Four bobbies exit on a run from ship
+to R.2.E.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>What's up now? </p><stage>(At this point Wilson appears on plank.
+Sailor enters at this R.2.E.)</stage></sp>
+
+<sp><speaker>Sailor.</speaker>
+<stage>(Excited, salutes Captain, takes Captain by the hand and
+goes down stage C.)</stage><p> Captain, big crowd, police driving
+back. They want to get the ship to mob Johnny Jones.</p></sp>
+
+<sp><speaker>Captain.</speaker>
+<p>Mob Johnny Jones?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Going extreme L.)</stage><p> I can see my finale.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Laughing to Mrs. Kenworth)</stage><p> Come my dear, we'd best get
+aboard. </p><stage>(Captain, Fly and Mrs. Jenworth exit aboard ship)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Down to Jones, and slips him a pistol.)</stage><p> Here use this if
+it comes to a show down. </p><stage>(Enter McGee from ship in haste)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Appears on deck)</stage><p> What's all the fuss? </p><stage>(Everything excitement
+around stage and jeering of crowd is heard without.
+Mob scene here. Mob enter with police trying to fight
+them back. At this Wilson and Jones shoot off pistol.
+Mob who get frightened, turn and run off R.2.E. lots of
+noise.)</stage> <stage>(As mob exits Tommy Atkins boy enter from aboard
+ship, down stage.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(All excited, over to Wilson)</stage><p> Do you know what you are doing?
+Do you know all England has been cheated, robbed by this
+our you are trying to protect? Who are you?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I'm a Democrat. </p><stage>(Anstey exits hurriedly into ship. Wilson
+down stage C. calling.)</stage> <p>Come here, everybody. </p><stage>(All surround
+him. Inspector at his right. Jones and Hapgood at L.)</stage>
+<p>This man Anstey is scheming to drive Johnny Jones out of
+England.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>But he'll not do it. I'll stick here and prove that I'm on
+the level.</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>That's the boy, Jonsey. </p><stage>(Shakes his hand)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I'll have a written confession of his scheme before the ship
+is two hours out.</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>What's the inducement?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Takes papers from pocket and shows them)</stage><p> These papers.</p></sp>
+
+<sp><speaker>Inspector.</speaker>
+<p>I'll report to headquarters. You signal Lizard Island.</p></sp>
+
+<sp><speaker>Wilson.
+How?
+</speaker>
+<p>Inspector.
+By a skyrocket from the ship.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Good! A skyrocket from the ship at Lizard Island will
+prove that Johnny Jones is on the square.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>If that rocket goes off I'll be on the next boat.
+</p><pb/></sp>
+
+<sp><speaker>Sailors.</speaker>
+<stage>(Aboard ship)</stage><p> All ashore that's going Ashore!
+
+</p></sp>
+<stage>MUSIC CUE. </stage>
+<stage>(Bobbies and Tommy Atkins Boy line up R. Wilson goes
+aboard ship. Goldie who exited R.2.E. now enters same and goes
+aboard ship. Hapgood stays on plank during number, which Jones sings.
+All action up stage. Henry down and business with Jones. Then leaves
+Jones and exits aboard ship. Boy comes down from ship and gives Jones
+his hat and grip, and exits aboard ship. Sailor brings Jones' trunk and
+dog from ship, and takes them off R.2.E. and returns to ship. Everybody
+sing as ship strikes out, and bell rings, dark stage. TRANSFORMATION.
+Piano Chorus.)</stage>
+
+<stage>-- CURTAIN --</stage>
+</div>
+<pb/>
+
+
+
+<div type="act" n="3">
+<head>ACT III</head>
+
+
+<stage>(Business at opening - Chinaman crossing stage - also policeman.)</stage>
+<stage>(Enter Wilson up stage - R.3.E. and meets policeman L.C.)</stage>
+
+<sp><speaker>Wilson.</speaker>
+<p>Say, excuse me. Could you tell me where I can find a policeman?</p></sp>
+
+<sp><speaker>Officer.</speaker>
+<p>Are you speaking to me?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Certainly I'm speaking to you. How do you suppose people 
+are going to get acquainted if they don't speak to each other.</p></sp>
+
+<sp><speaker>Officer.</speaker>
+<p>Move on, move on. </p><stage>(Crosses him -goes up to R.U.E. and
+looks off.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Gee, you've got a mean disposition. </p><stage>(Shouting and yelling
+heard without and back of stage.)</stage> <p>Who's making the holler?</p></sp>
+
+<sp><speaker>Officer.</speaker>
+<stage>(Turns and goes to Wilson.)</stage><p> The Chinamen are celebrating
+the arrival of Sing Song.</p></sp>
+
+<sp><speaker>Wilson.
+Who is he?
+</speaker>
+<p>Officer.
+A Chinese newspaper man, sent here by the Emperor to study
+modern Journalism.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Gee, I thought it was Grover Cleveland's birthday. </p><stage>(Turns
+and starts to go.)</stage> <p>Come on, let's get a drink.</p></sp>
+
+<sp><speaker>Officer.</speaker>
+<p>I don't drink on duty.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Stops and turns.)</stage><p> Well then drink on me.</p></sp>
+
+<sp><speaker>Officer.</speaker>
+<p>Are you looking for somebody?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Yes, I want to find a policeman.</p></sp>
+
+<sp><speaker>Officer.</speaker>
+<p>Well, what do I look like?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Looks him over.)</stage><p> I'm ashamed to tell you. </p><stage>(Drum beating
+without and officer exits up stage R.U.E. and swinging
+club)</stage> <stage>(As policemen exits, newsboys enter R.1.E. with
+papers and runs around stage calling.)</stage></sp>
+
+<sp><speaker>Newsboy.</speaker>
+<p>Extra, extra, full account of the great kidnapping case.
+Extra - all about the disappearance of Goldie Gates. Extra-
+extra. </p><stage>(Boys exit L.1.E. on run.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Looks about, and whistles up to balcony left.)</stage> <stage>(Chinamen
+appears on balcony and leans over to see who it is.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Are you Chung Fow?</p></sp>
+
+<sp><speaker>Chinamen.</speaker>
+<p>Yes, all right.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Tell Anstey I'm here.</p></sp>
+
+<sp><speaker>Chinaman.
+Wilson?
+</speaker>
+<p>Wilson.
+Yes, Wilson. </p><stage>(Chinaman disappears into den)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Starts to go R.C.)</stage><p> This is a nice, cheerful little place.
+If I lived in 'Frisco I'd hang out here all the time.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Enters from down left, slaps door behind him and looks all
+about until he sees Wilson, R.C.)</stage><p> Is that you? </p><stage>(Comes down
+C. and stops.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>No. --This is me, -- that's you there.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Well, I'm here, I kept my word.
+</p><pb/></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Yes, for the first time in your life.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Goes to strike him with cane.)</stage><p> What?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Here. Put it down, put it down. Don't force me to chastize
+you. Be a nice good little boy and listen to me.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Puts down cane.)</stage><p> Go on, don't waste words - you know my
+disposition. </p><stage>(Turns away.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Yes, you've got a damn mean disposition.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns to Wilson.)</stage><p> You've got me cornered Wilson, but
+don't torture me, please don't torture me! </p><stage>(Turns aside.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I'm not going to. However a few words will not be amiss.
+To begin with, Mr. Anstey, the lottery King - </p><stage>(Anstey turns.)</stage>
+<p>I've been after you since you first began to deal that
+crooked game in the Chinese quarter. Any time you crossed
+the Pacific or the Atlantic I was within shooting distance.
+It took me three years to lend you and now you make one
+wrong move, or refuse to write or do anything I dictate,
+and I'll send you up for the rest of your natural existance.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Starts to walk away L.)</stage><p> And if I turn state's evidence -</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>You're a free man, pretty soft, eh? </p><stage>(Wilson laughs at him
+as he grits his teeth.)</stage></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Turns and stops.)</stage><p> Laugh. Ruin a man, then laugh at his
+disgrace.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Why didn't you think of that when you tried to put that
+little jockey out of business in England?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>Well, that's all past and gone. Hasn't be been reinstated?
+Hasn't my written confession ruled me off the track forever?
+I'm a ruined man, - what more do you want?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I want that kidnapped girl before I leave Chinatown.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>The Chinamen know nothing of her disappearance.</p></sp>
+
+<sp><speaker>Wilson</speaker>
+<p>You cabled Chung Fow to kidnap the girl.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<p>But the girl was not in Frisco.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Anstey if you lie to me, I'll make you break stones twelve
+hours a day for the next twenty years.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Over to Wilson.)</stage><p> Well, I'll submit to the inevitable, anything
+you say, but don't send me away, please don't.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Points to den left.)</stage><p> Go in there and wait for me, and
+don't forget the job in the stone yard I spoke about.
+</p><stage>(Shouts)</stage> <p>Go on - Twenty-three.</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Bus. Hesitatingly.)</stage> <stage>(Exits into den and slams the door
+after him.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>He's what I call a nice little fellow. </p><stage>(Looks at watch.)</stage>
+<p>It's about time McGee kept his appointment. He's fifteen
+minutes late. </p><stage>(Shouts and yells heard without at this.)</stage><stage>
+(Wilson goes L. Enter McGee and Mrs. Kenworth R.U.E.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>It's all right now, cheer up. The whole town is on the
+search. </p><stage>(Looks off R.)</stage> <p>Wilson was to be here at eleven,
+and -----</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>It's a quarter past eleven now.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Turns, surprised)</stage><p> Hello.
+</p><pb/></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Crosses to him quickly.)</stage><p> Tell me, is there any news?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Goes to her.)</stage><p> Now don't get excited. Everything will
+turn out all right. She's in safe keeping even if she is
+kidnapped.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Of course, sure they're only waiting for the ransom.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>I'll pay anything. Promise silence, but --</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>The best thing you can do is to keep quiet. I'll find the
+girl before the night is over.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Do, and I'll reward you.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I don't want any reward, I want to talk to you. </p><stage>(At this
+McGee goes upstage and looks off right.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I am tickled to death to see you with this man - McGee. </p><stage>(At
+mention of his name McGee turns and swells up.)</stage> <p>He's a
+good man - I know him. He's a Brooklyn Elk. You don't want
+to overlook this jockey Jones. They may have fixed that
+horse in England but they couldn't fix the jockey. He's
+the candy all right. I don't blame your niece for getting
+sweet on him. </p><stage>(At this McGee strolls down stage.)</stage> <p>but
+this man with the gray looks. He's no good, arouse mit him.
+I'm going to get him to sign this, the skedew. I want to
+give you a little bit of advice.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Yes, yes, go on.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Give up this band of reformers and let the Chinamen alone.
+Don't dictate to anyone whom they should marry. Stay at
+home, do your knitting and sewing and let the rest of the
+world take care of itself.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Why sir, I ---</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Now don't mind me; that was on my chest and I had to get it
+off - That's all.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(Crosses her to Wilson.)</stage><p> Where's Jones? </p><stage>(Mrs. Kenworth goes
+up stage R.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Jones is doing a little detective work on his own hook.
+</p><stage>(Drums beating without again and big noise. All up stage
+look off R.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>What's this?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Sing Song's reception in Chinatown. </p><stage>(All down stage C.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Now go take a walk and come back in about ten minutes, and
+if I haven't got your niece by that time it's because she's
+not in Frisco. </p><stage>(Mrs. Kenworth and McGee start to exit)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Turns)</stage><p> How can I ever thank you?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Send me an invitation to the wedding.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>We'll do that.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Looks at McGee.)</stage><p> What?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Oh, I forget ----</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>Why Mr. McGee, I'm surprised, I -----</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Slip of the tongue--slip of the tongue. </p><stage>(They exit arm in
+arm laughing L.1.E.)</stage>
+<pb/></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Over to den R. and nears in.)</stage><p> I wonder how Jones is getting
+on with his detective work. </p><stage>(Chinaman appears - Enter from
+L.U.E. to C. and whistles to Wilson.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Turns and over)</stage><p> Good, I've been waiting for you - what's
+new?</p></sp>
+
+<sp><speaker>Chinaman.</speaker>
+<p>Anstey's right - the girl never was kidnapped.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>I never thought she was.</p></sp>
+
+<sp><speaker>Chinaman.</speaker>
+<p>Sing Song's now reviewing Chinatown.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Go in there and tell Anstey to put his signature to this.
+</p><stage>(Hands him paper)</stage> <p>Tell him to grab a fast train east. He
+won't have a Chinaman's chance in Frisco from the minute he
+signs it. </p><stage>(Chinaman goes over to den L. raps on door and
+when the slit is raised says "Ho la ha." Door opens and he
+exits into den L.)</stage> <stage>(Wilson goes to extreme R.1.E. takes
+out watch and looks.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Quarter past eleven. Quarter past eleven. Gee I'm glad I'm
+not in Boston. </p><stage>(Enter Chinaman R.U.E. down stage and exit
+into den L. Enter Hapgood from R.U.E. and looks all
+around followed by Goldie, who is veiled.)</stage></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>She's disappeared but I'm almost certain she came this way.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(R stage C.)</stage><p> Was she alone?</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<stage>(L. stage C.)</stage><p> Oh, no, McGee was with her. He's been
+running in and out of the Pinkerton offices all day. The
+whole town's on a search for you, Goldie. It ceases to be a
+joke.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>What'll I do?</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>Give up this deception. Let people know who you are.
+Things are getting serious.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Things are just as I want them. I've at least taught my
+Aunt a lesson, and that's what I started out to do.</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>I know, but the notoriety.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>Notoriety. She started all that with her crusading society.</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>But think of Jones. That poor kid has turned Frisco upside
+down in search of you.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>And at the same time convinced my Aunt what a man he is.</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>Great Scott, she's agreed to your marriage, done away with
+her society; offered all sorts of rewards for your
+restoration. I can't see the sense of carrying things
+further.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<stage>(Laughs)</stage><p> But just imagine the fun I'm having, reading the
+accounts of my disappearance. The kidnapping stories, the
+search of Chinatown and so on.....</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<stage>(Gets very sore)</stage><p> I don't see anything to laugh at, Goldie.
+It's a nightmare with me. </p><stage>(Drums heard without.)</stage> <stage>(Both
+run up stage and look off R.)</stage> <stage>(NOTE- As drums beat Wilson
+enters from 1.E.R. sees Goldie and Hapgood and watches both
+under cover. Hapgood and Goldie run up stage and look off R.)</stage></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<stage>(Down stage C. at R. of guide.)</stage><p> Here comes the Chinese
+parade - let's get away from here. </p><stage>(They exit hurriedly L.1.E.
+MUSIC CUE. MARCH.)</stage> <stage>(Wilson exits R.1.E.)</stage> <stage>(At finish 
+of march the Chinese are left on stage, and Sing Song enters
+with guide from R.U.E.)</stage>
+<pb/></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Down stage C. at R. of guide.)</stage><p> Wonderful sight--wonderful
+sight! One would think China had been transplanted in
+America. The Emperor would be proud to behold this settlement--
+proud of his people. </p><stage>(Cheers from all)</stage></sp>
+
+<sp><speaker>Guide.</speaker>
+<p>This is the famous Chinese gambling den of Frisco.</p></sp>
+
+<sp><speaker>Sing.
+Gambling den?
+</speaker>
+<p>Guide.
+The Chinese lottery game has made it famous.</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>A disgrace to our people.</p></sp>
+
+<sp><speaker>Guide.</speaker>
+<p>It's controlled by Americans, I believe.</p></sp>
+
+<sp><speaker>Sing.
+Oh, I see.
+</speaker>
+<p>Guide.
+It's one of the greatest sights of Chinatown - shall we visit
+here?</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Not in there - not I. We will proceed to the Joss house. Lead
+on my good people. </p><stage>(MUSIC CUE- Parade marches off, leaving
+Sing Song and Guide alone.)</stage></sp>
+
+<sp><speaker>Guide.</speaker>
+<stage>(Starts up stage L.)</stage><p> This way, Sing. </p><stage>(Points to L.U.E.
+Sing follows.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Wait, perhaps 'twould be best were I to visit here. The
+Emperor should know of his workings. Come, I will see this
+place. </p><stage>(Both go to den L. and guide raps.)</stage></sp>
+
+<sp><speaker>Chinaman.</speaker>
+<stage>(Inside through slit)</stage><p> Ho, la, ma.</p></sp>
+
+<sp><speaker>Guide.</speaker>
+<stage>(To Sing as door opens.)</stage><p> This way. </p><stage>(Sing exits and Guide
+follows. A lot of Chinese talk from Sing as they exit.)</stage> <stage>(At
+same time Florabelle enters from den R.H. side.)</stage></sp>
+
+<sp><speaker>Florabelle.</speaker>
+<stage>(Sees them exit and takes stage.)</stage><p> Sing Song visits
+lottery den- Johnny Jones turns detective. Now Miss
+Gates if you'll please become yourself again I'll have a
+sensational finish to a story that will make every newspaper
+in America sit up and notice things. </p><stage>(At this
+Chinaman opens slot at door of den L. Hollers.)</stage></sp>
+
+<sp><speaker>Chinamen.</speaker>
+<p>Sing Ta! </p><stage>(Fly sees door of den open - runs up stage R. and
+looks. All attention. Enter Chinamen from den and blows
+whistle - looks off R. Enter Wilson R.1.E. and run up to
+Guide.
+Guide pantomines to him that Sing is in there and
+he exits den L. followed by Chinaman.)</stage></sp>
+
+<sp><speaker>Florabelle.</speaker>
+<stage>(Crosses to L. when they've exited.)</stage><p> A dash of mystery
+about all this. I'll keep my eyes open here. </p><stage>(Exits L.2.E.)
+(Newsboys rush on stage again, and around and
+exits R.U.E.)</stage></sp>
+
+<sp><speaker>Newsboys.</speaker>
+<p>Extra - extra - full account of the kidnapping case. Extra -
+extra! </p><stage>(Exits)</stage> <stage>(Enter Jones and looks about.)</stage></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>There isn't a nook or corner in Chinatown I haven't searched,
+and what a study it all is. By golly, life's a funny proposition
+after all. </p><stage>(SONG)</stage> <stage>(Sits on box down stage L. and
+sings a song.)</stage> <stage>(After song Chinaman appears on balcony of den
+L. and blows whistle. Enter policeman from upper R.E. and
+Wilson from den L. and meets policman, and points to den L.
+police enter den L. Wilson goes up stage. Jones gets up from
+box and looks into door of den R. Enter Hapgood and Goldie
+up stage L.)</stage></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<stage>(Looking at Jones)</stage><p> Why, there is Jones.</p></sp>
+
+<sp><speaker>Goldie.</speaker>
+<p>The poor kid. Go on, tell him, I'll wait in the cab.
+</p><stage>(Goldie turns and faces Wilson who motions her to keep quiet
+and takes her off R.U.E.)</stage>
+<pb/></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>By George! </p><stage>(Goes over to Jones)</stage> <p>Oh, I say, Jones?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Jones turns, sees who it is and grasps his hand.)</stage></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>Miss Gates is waiting for you.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Miss Gates, where?</p></sp>
+
+<sp><speaker>Hapgood.
+At home.
+</speaker>
+<p>Jones.
+What do you mean?</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>Keep cool, she has a lot to say, and wants to see you
+right away.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Are you sure?</p></sp>
+
+<sp><speaker>Hapgood</speaker>
+<p></p><stage>(Laughs)</stage> <p>Well, rather, I - - - <stage>(Jones gets excited)</stage>
+now don't get excited, here's your Aunt. </p><stage>(Enter McGee and
+Mrs. Kenworth R.1.E.)</stage></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>This suspense is very trying.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Everything will be all right, you leave it to Wilson.
+</p><stage>(Sees Jones)</stage> <p>Hello, Jones, any news?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Goes over to Mrs. Kenworth.)</stage><p> All kinds of news, Mrs.
+Kenworth - - - -</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<stage>(Pulls Jones back and Crosses to Mrs. Kenworth.)</stage><p> Wait a
+minute let me tell it. Mrs. Kenworth, there's a young
+lady in the cab wants to see you right away.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<p>A young lady?</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>Yes, Mlle. Fanchette, you'll perhaps remember having
+crosses the ocean with her.</p></sp>
+
+<sp><speaker>Mrs. Kenworth.</speaker>
+<stage>(Thinks)</stage><p> Fanchette?</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>The French girl.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Realizes)</stage><p> I always thought so, by Jove.</p></sp>
+
+<sp><speaker>Hapgood.</speaker>
+<p>Permit me Mrs. Kenworth. </p><stage>(Offers her his arm which she
+accepts.)</stage> <p>You'll excuse me Mr. McGee, I'll be with you in
+a minute, Jonsey. </p><stage>(They exit arm in arm hurriedly R.U.E.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<stage>(To Jones)</stage><p> What'sit all about?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>Nothing, everything - it's all right. I understand it all
+now.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Yes, but I don't.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>No, but you shall. How can I ever thank you for sticking
+by me like you did.</p></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Just win a few races for me this summer.</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<p>If I ever ride again </p><stage>(Shakes hands)</stage> <p>that's the answer.
+</p><stage>(Anstey enters from den L. crosses to R. Jones and McGee
+see him come out.)</stage> <p>Helo, Anstey, where are you going?</p></sp>
+
+<sp><speaker>Anstey.</speaker>
+<stage>(Stops and turns)</stage><p> I'm going as far away from here as I 
+can get. I don't stand a Chinaman's chance in this burg.
+</p><stage>(Exits R.U.E. on the run.)</stage></sp>
+
+<sp><speaker>McGee.
+Poor devil?
+</speaker>
+<p>Jones.
+It's the only chance he had.
+</p><pb/></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>I'll keep my eye on that Larry-Buck, and see that he grabs
+a fast train for the East. </p><stage>(Follows him off on run)</stage> <stage>(Jones
+runs up and looks after them)</stage></sp>
+
+<sp><speaker>Fly.</speaker>
+<stage>(Enters from U.E.L.)</stage><p> Hello, Jonsey, any news?</p></sp>
+
+<sp><speaker>Jones.</speaker>
+<stage>(Turns and sees Fly.)</stage><p> All kinds of news - Goldie Gates and
+Mlle. Franchette ---</p></sp>
+
+<sp><speaker>Fly.</speaker>
+<p>Are one and the same. </p><stage>(Lots of life all through this till
+finish. Enter Wilson and Goldie, followed by McGee and Mrs.
+Kenworth from R.1.E. all excitment.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Has Goldie by the hand. Sees Jones and goes up to him.)</stage><p>
+There he is now. </p><stage>(Goldie crosses Wilson to Jones, who
+embraces her. Enter Mrs. Kewnorth preceded by McGee.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Come on, now. Everything will be all right. </p><stage>(Looks up and
+sees Wilson.)</stage> <p>Why, there's Wilson now.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Yes, and there's your niece. </p><stage>(Pulls Goldie from Jones and
+over to Mrs. Kenworth. Both embrace.)</stage></sp>
+
+<sp><speaker>McGee.</speaker>
+<p>Well, how can we reward you?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Takes Goldie from Mrs. Kenworth and pulls her over to Jones)</stage><p>
+There's the only reward I want. </p><stage>(At this a lot of noise
+heard inside of den. Enter police from den with Sing
+handcuffed. At this Mrs. Kenworth takes Goldie away from
+Jones and both exit excitedly on run L.1.E. and Fly exits
+R.U.E.)</stage></sp>
+
+<sp><speaker>Sergeant.</speaker>
+<stage>(To Sing)</stage><p> Come on, get a move on, we'll be a long time
+together. </p><stage>(Sing crosses officer. Other policemen go up
+stage R. and line up. Wilson comes down stage to Sing.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>What does this all mean?</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>It means that you and me are going to take a long trip to
+China together -- Do you play Pinocle?</p></sp>
+
+<sp><speaker>Sing.</speaker>
+<stage>(Wild with rage.)</stage><p> Ling, Kow, Fring to long, China tok ki Ling
+ki la and so on. </p><stage>(Denouncing Wilson. McGee and Wilson go 
+extreme left and look on.)</stage></sp>
+
+<sp><speaker>Wilson.</speaker>
+<p>Now don't lose your head, you'll lose that soon enough.
+I'm going to introduce you to the Emperor all over again.
+</p><stage>(Bus. with hand indicating "You'll lose your head" and
+turns to go.)</stage></sp>
+
+<sp><speaker>Sing.</speaker>
+<p>Gee, you've got a mean disposition.</p></sp>
+
+<sp><speaker>Wilson.</speaker>
+<stage>(Turns)</stage><p> Come on. </p><stage>(Starts to exit R.1.E. and turns in time
+to see Sing turn to strike officer)</stage> <p>Here! Come on - be careful.
+</p>
+</sp>
+<stage>(Wilson, Sing and Officer exit L.E.R. McGee leaves
+Jones and follows them off on run.)</stage> <stage>(Lights up - chorus
+enter singing. Mrs. Kenworth, Goldie and McGee enter 1.E.R.
+McGee stays L. Mrs. Kenworth takes Goldie over to Jones, and
+they embrace. Mrs. Kenworth goes back to McGee. Hapgood
+and Fly enter R.U.E. and down stage center arm in arm
+singing.)</stage>
+
+<stage>-- CURTAIN --</stage>
+</div>
+</body>
+</text>
+</TEI>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7223 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="drama.xsl"?>
+<!DOCTYPE TEI SYSTEM "tei_drama.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ozma of Oz</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>New York Public Library for the Performing Arts
+				</publisher>
+				<pubPlace>New York City</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Ozma of Oz</title>
+					<author>L. Frank Baum</author>
+					<date>1909</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+				<titlePart>
+					<title>
+						--: OZMA OF OZ :--<lb/>
+						<lb/>
+						A MUSICAL EXTRAVAGANZA<lb/><lb/>
+						In TWO ACTS<lb /><lb/>
+					</title>
+				</titlePart>
+				
+				<docAuthor>
+					By L. Frank Baum<lb/><lb/>
+				</docAuthor>
+				<pb />
+			</titlePage>	
+				<div1>
+				
+				<tech>
+ACT I.<lb/>
+<lb/>
+BOOK and LYRICS by L. Frank Baum<lb/>
+MUSIC COMPOSED by Manuel Klein.<lb/>
+SCENIC EFFECTS by Arthur Voegtlin.<lb/>
+<lb/>
+SCENARIO,<lb/><lb/>
+Copyright 1909,<lb/><lb/>
+by L. Frank Baum.<lb/><lb/>
+<lb/>
+<pb/>
+OZMA OF OZ<lb/>
+---<lb/>
+<lb/>
+SCENES IN<lb/>
+<lb/>
+ACT I.<lb/>
+<lb/>
+------------------<lb/>
+<lb/>
+PRELUDE: A STORM AT SEA.<lb/>
+<lb/>
+SCENE 1.--HOTHOUSE OF THE ROSE KINGDOM.<lb/>
+With a Supplementary Setting of THE ROYAL GARDENS.<lb/>
+<lb/>
+SCENE 2.--A CROSS-ROADS. (In 2.<lb/>
+<lb/>
+SCENE 3.--HOME OF THE FIELD FLOWERS.<lb/>
+<lb/>
+------------------<lb/>
+<lb/>
+<pb/>
+2.<lb/>
+<lb/>
+OZMA OF OZ.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+LIST OF CHARACTERS<lb/>
+<lb/>
+In ACT I.<lb/>
+<lb/>
+(As they are introduced.)<lb/>
+<lb/>
+---<lb/>
+<lb/>
+BETSY BAKER: A Ship-wrecked girl from Schenectady.<lb/>
+<lb/>
+HANK: Her mule.<lb/>
+<lb/>
+BADEN-BADEN: A Spring Chicken.<lb/>
+<lb/>
+MOSS ROSE    )<lb/>
+TEA ROSE:    ) Subjects of the Rose Kingdom.<lb/>
+JACQUE ROSE: )<lb/>
+<lb/>
+ROYAL GARDENER: With troubles of his own.<lb/>
+<lb/>
+<hi rend="underline">THE SHAGGY MAN</hi>: A Pilgrim in search of his Lost Brother.<lb/>
+<lb/>
+PRINCESS OZMA OF OZ: Hereditary Ruler of the Rose Kingdom.<lb/>
+<lb/>
+POLYCHROME: The Rainbow's Daughter, who has lost her bow.<lb/>
+<lb/>
+<hi rend="underline">TIKTOK</hi>: A Clockwork Man, who does exactly what he is wound up<lb/>
+to do.<lb/>
+<lb/>
+QUEEN ANN SOFORTH: Of Oogaboo.<lb/>
+<lb/>
+PRIVATE FILES: Constituting the Army of Oogaboo.<lb/>
+<lb/>
+GENERAL PUSS: )<lb/>
+              )<lb/>
+COLONEL KORN: ) Officers of<lb/>
+              )<lb/>
+MAJOR KEY:    ) The Army of Oogaboo.<lb/>
+              )<lb/>
+CAPTAIN YOUNG:)<lb/>
+<lb/>
+------------<lb/>
+<lb/>
+CHORUSES:<lb/>
+<lb/>
+The Rose Maidens.<lb/>
+Daughters of the Rainbow.<lb/>
+Animated Clocks.<lb/>
+Daisy Sextette,<lb/>
+Buttercup Sextette,<lb/>
+Rose Sextette.<lb/>
+Officers of Army of Oogaboo.<lb/>
+Field Flowers.<lb/>
+<lb/>
+---<lb/>
+<pb/>
+3.<lb/>
+<lb/>
+OZMA OF OZ.<lb/>
+<lb/>
+MUSICAL NUMBERS IN<lb/>
+<lb/>
+ACT I.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+SCENE 1.<lb/>
+<lb/>
+1.--OPENING CHORUS: BETSY and ROSE MAIDENS.<lb/>
+<lb/>
+2.--SONG: "AN APPLE'S THE CAUSE OF IT ALL." SHAGGY MAN.<lb/>
+<lb/>
+3.--WALTZ SONG and DUET: "THE MAGNET OF LOVE." BETSY, SHAGGY<lb/>
+MAN, and CHORUS of ROSE MAIDENS.<lb/>
+<lb/>
+4.--CONCERTED NUMBER: "THE ROYAL PRINCESS." BETSY, OZMA,<lb/>
+GARDENER and ROSE MAIDENS.<lb/>
+<lb/>
+SCENE 2.<lb/>
+5.--(a) Instrumental: "SUMMER RAIN."<lb/>
+    (b) RAINBOW CHORUS and DANCE.<lb/>
+    <lb/>
+6.--SONG: "WHEN THE RAINBOW COMES AGAIN." POLYCHROME.<lb/>
+<lb/>
+7.--SONG: "DEAR OLD HANK." BETSY.<lb/>
+<lb/>
+8.--SONG: "TIK-TOK." TIKTOK, PRINCIPALS and CLOCK CHORUS.<lb/>
+<lb/>
+9.--MARCH SONG: "THE ARMY OF OOGABOO." QUEEN ANN and ARMY.<lb/>
+<lb/>
+10.--DUET: "ASK THE FLOWERS TO TELL YOU." OZMA and PRIVATE<lb/>
+FILES, with Special Choruses.<lb/>
+<lb/>
+SCENE 3.<lb/>
+<lb/>
+11.--TRIO and DANCE: "OH, NOAH!" BETSY, SHAGGY MAN, TIKTOK.<lb/>
+(Mule assisting in Dance.<lb/>
+<lb/>
+12.--CONCERTED NUMBER and FINALE: PRINCIPALS and CHORUS of<lb/>
+FIELD FLOWERS.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+<pb/><lb/>
+<lb/>
+4.<lb/>
+				</tech>
+
+				
+</div1>
+	
+			</front>
+			<body>
+
+<div type="prelude">
+<head>
+PRELUDE.
+---
+</head>
+<stage>
+<hi rend="underline">A STORM at SEA.</hi>-- A ship on the horizon founders and breaks up.--
+As ship disappears beneath the waves a girl is
+seen clinging to a floating chicken-coop.--
+This coop also contains a mule and a chicken.
+It drifts across stage and disappears, in wings.
+---
+</stage>
+</div>
+<div type="act" n="1">
+<head>
+ACT I.
+</head>
+<div type="scene" n="1">
+<head>SCENE 1.--THE ROSE KINGDOM.--
+</head>
+<stage>Stage set to represent a huge hothouse,
+with dome roof and sides representing panes of
+glass. The background is gauze, with a supplementary
+setting of "The Royal Gardens" behind it.--AT RISE, no
+lights back of gauze, front lights making the background
+appear opaque.--In foreground, groups of girls
+are discovered dressed to represent Roses, surrounding
+BETSY BAKER who is sitting down with the chicken on
+her shoulder and Mule by her side.
+---
+</stage>
+<div type="song">
+<head>
+OPENING CHORUS:
+</head>
+<sp><speaker>
+ROSES:</speaker>
+<lg>
+<l>What an impolite intrusion!</l>
+<l>You have filled us with confusion--</l>
+<l>An action most ungracious in a mortal such as you!</l>
+<l>We are occupied in growing</l>
+<l>And you really must be going</l>
+<l>For to interfere with roses is a careless thing to do.</l>
+</lg>
+</sp>
+<sp><speaker>
+BETSY:</speaker>
+<lg>
+<l>But I've just been badly wrecked</l>
+<l>And I surely can expect</l>
+<l>A little hospitality in such a bow'r of beauty,</l>
+<l>But I'll tell you what's the matter:</l>
+<l>There are thorns in all your chatter,</l>
+<l>And some day you will be reproached for laxness in your duty.</l>
+</lg>
+</sp>
+<sp><speaker>
+ROSES:</speaker>
+<lg>
+<l>We are very cultivated;</l>
+<l>Our variety is stated</l>
+<l>By expert horticulturists to be exceeding rare,</l>
+<l>But when angered ev'ry petal</l>
+<l>Is at once upon its nettle,</l>
+<l>And every bud and blossom is as dangerous as fair.</l>
+</lg>
+</sp>
+<sp><speaker>
+BETSY:</speaker>
+<lg>
+<l>Hey dey! That is to say,</l>
+<l>You're pretty to look at but horrid to Strangers!</l>
+<l>Heigh ho! Where shall we go?</l>
+<l>Wherever we wander we run into dangers.</l>
+</lg></sp>
+<pb/>
+
+<note>OZMA-----5.</note>
+
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<lg>
+<l>Poor little Hank!</l>
+<l>There's no one to love us or comfort us, dear.</l>
+</lg>
+</sp>
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<lg>
+<l>Who but a crank</l>
+<l>Would turn us away when we want to stay here?</l>
+</lg>
+</sp>
+<sp>
+<speaker>ROSES:</speaker>
+<lg>
+<l>You are very pert and saucy!</l>
+<l>And inclined to be quite bossy,</l>
+<l>But we'll not submit to impudence from any mortal maid!</l>
+<l>Spite of all your bluff and braying</l>
+<l>You have no excuse for staying</l>
+<l>This hot-house is too warm for you we're very much afraid.</l>
+</lg>
+</sp>
+<sp>
+<speaker>BETSY:</speaker>
+<lg>
+<l>Roses, you are on the scent!</l>
+<l>Fragrant though you stalk,</l>
+<l>Vagrant is the scent-I-meant</l>
+<l>That prevades your talk!</l>
+</lg>
+<lg>
+<l>Though so dainty now you look,</l>
+<l>You're a lot of loons:</l>
+<l>When you get the pruning-hook</l>
+<l>You'll be full of prunes.</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+ROSES:
+</speaker>
+<lg>
+<l>You are very inconsistent,</l>
+<l>For although you are persistent</l>
+<l>In claiming hospitality where none is offered you:</l>
+<l>We must still insist on saying</l>
+<l>That our laws we are obeying</l>
+<l>By forcing you to leave us and to bid our land adieu.</l>
+</lg>
+</sp>
+</div>
+<div>
+
+<sp><speaker>BETSY:</speaker>
+<p>I'm not welcome here, I guess!</p>
+</sp>
+<sp>
+<speaker>MOSS ROSE:</speaker>
+<p>Why did you come?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Couldn't help it, my dears. A little while ago I was all at
+sea, but the ship broke up in business and I became a floater.
+I stranged on your shore, outside, and here I am---me and dear
+old Hank and Baden-Baden.
+</p></sp>
+<pb/>
+
+<note>OZMA-----6.</note>
+
+<sp><speaker>TEA ROSE:</speaker><p>
+Who are Hank and Baden-Baden?
+</p></sp>
+<sp><speaker>BETSY:</speaker>
+<p>Hank's my mule---faithful and true; ain't you Hank?</p>
+</sp>
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<sp><speaker>CHORUS:</speaker>
+<p>How dreadful!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Only at first. When you get used to it, it puts you to sleep.</p>
+</sp>
+<sp><speaker>MOSS ROSE:</speaker>
+<p>And who is Baden-Baden?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>My spring chicken. You can't see the springs: they're inside.</p>
+</sp>
+<sp><speaker>
+JACQUE ROSE:</speaker><p>
+Are the springs the most important part of Baden-Baden?</p></sp>
+
+<sp><speaker>BETSY:</speaker>
+<p>Oh, no. The most important thing is the Casino.</p>
+</sp>
+<sp><speaker>TEA ROSE:</speaker>
+<p>Why don't you <hi rend="underline">call</hi> her Casino?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Don't want to make game of her. <del rend="strikethrough">She's an innocent pullet just
+new. When she gets older she'll be a pusher!</del> But say, Roses,
+are we invited to your party, or not? Usually ship-wrecked
+people are joyfully received wherever they land. It's considered
+lucky, you know.
+</p>
+</sp>
+
+<sp><speaker>MOSS ROSE</speaker>
+<p>For whom?</p>
+</sp>
+
+<sp><speaker>BETSY:</speaker>
+<p>For those ship-wrecked.</p>
+</sp>
+<pb/>
+
+<note>OZMA-----7.</note>
+<sp><speaker>MOSS ROSE:</speaker>
+<p>Inn't lucky for us. This is our own especial hot-house and 
+only Roses are allowed here.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Some of you are pretty loud, that's true. <stage>(Turns to mule)</stage></p>
+<p>
+Hank, are we roses?
+</p></sp>
+<sp><speaker>HANK:</speaker>
+<p>Hee haw! <stage>(Chicken flaps wings)</stage></p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>He says we are. Hank's a full-blown Jacque Rose. Even his
+tail's bushy.</p></sp>
+<sp>
+<speaker>JACQUE ROSE:</speaker>
+<p>
+He's a jack; we can see that. But you must go away to some
+other place. We cannot entertain you.
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Very well, I'll cut you dead. Then you'll be cut roses-----
+thirty cents a dozen in the Bargain Basement.</p>
+</sp>
+<sp><speaker>TEA ROSE:</speaker>
+<p>We are perfectly fresh.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>You look it.</p>
+</sp>
+<sp><speaker>MOSS ROSE:</speaker>
+<p>And of excellent variety.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Then you ought to go into vaudeville. "Those roses that bloom
+in the spring, tra, la!" You could do all right, you know.
+</p></sp>
+<sp>
+<speaker>JACQUE ROSE:</speaker>
+<p>
+Cease this chatter, and leave us to ourselves.
+</p></sp>
+<pb/>
+
+<note>OZMA-----8</note>
+
+<sp><speaker>BETSY:</speaker>
+<stage>(Starting to go)</stage><p>Don't you need a gardener?</p>
+</sp>
+<sp><speaker>MOSS ROSE:</speaker>
+<p>We have one, who is responsible for our culture and beauty.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Then he's a wonder. Where is he?</p>
+</sp>
+<sp>
+<speaker>
+GARDENER</speaker>
+<stage>(ENTERING hastily from R.)</stage> <p>Here I am!</p>
+</sp>
+
+<stage>(Hank makes a dive at the GARDENER, who runs and makes hasty
+EXIT. A crash of glass is heard and the SHAGGY MAN falls
+through a sash at L. ROSES all draw back startled and EXIT.
+SHAGGY MAN is eating an apple as he comes to sitting position
+on stage. BETSY, with Baden-Baden on her shoulder, and HANK,
+approach him and look at him curiously. He continues to eat
+his apple and pays no attention to his surroundings. Around
+his waist are fragments of the sash. BETSY tries to lift it off.</stage>
+
+
+<sp><speaker>BETSY:</speaker>
+<p>Good gracious! Where did <hi rend="underline">you</hi> come from?</p>
+</sp>
+
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Pointing toward broken sash)</stage><p> From outside. Don't untie my
+sash. It makes me feel dressed up. Ah, this is a pane-ful
+experience. I climbed an apple-tree over yonder and the branch
+gave way. I took a drop too much, and here I am. For the
+first time in my life I might be accused of being a second-
+story man.
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>You're in good company, then. Lots of these Roses are porch-
+climbers. Say, gimme an apple!
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Wait a minute and see if there's a core. Apples aren't good for
+little girls. They've caused most of the trouble in this world
+from Eve down, and the less you eat of them the better off you
+will be, and so will I.
+</p></sp>
+<pb/>
+
+<note>OZMA-----9.</note>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 2. SONG: SHAGGY MAN.<lb/>
+"AN APPLE'S THE CAUSE OF IT ALL."
+</head>
+<sp>
+<lg>
+<l>In historee</l>
+<l>An apple tree</l>
+<l>In the Garden of Eden stood</l>
+<l>And Adam and Eve</l>
+<l>Did both believe</l>
+<l>Its fruit was not much good.</l>
+<l>Then long came a serpent mighty slick</l>
+<l>And told 'em an apple they should pick</l>
+<l>And eat it quick, and they did the trick</l>
+<l>And the apple made 'em sick.</l>
+</lg>
+<lg>
+<l>And so you see</l>
+<l>In historee</l>
+<l>An apple's the cause of the fall,</l>
+<l>To eat it was surely considered unlawful,</l>
+<l>But Eve took a bite and then Adam a jawfull:</l>
+<l>The pain that it gave 'em was just something <hi rend="underline">awful</hi>--</l>
+<l>An apple's the cause of it all.</l>
+</lg>
+<stage>2.</stage>
+<lg>
+<l>Perhaps you knew</l>
+<l>The peach that grew</l>
+<l>In the orchard was an apple.</l>
+<l>And John and Sue,</l>
+<l>If the story's true</l>
+<l>With the apple had to grapple.</l>
+<l>It laid 'em out in a minute or two,</l>
+<l>And that's just what it'll do to you;</l>
+<l>So the apple you had best eschew,</l>
+<l>Or only chew a few.</l>
+</lg>
+<lg>
+<l>Now you'll agree</l>
+<l>I guess with me</l>
+<l>The apple's a colicky ball;</l>
+<l>Some folks eat it green when they think it is ripe</l>
+<l>And it gets in its work with an octopus gripe;</l>
+<l>I'd much prefer Jeffries would give me a swipe--</l>
+<l>And the apple's the cause of it all.</l>
+</lg>
+<stage>3.</stage>
+<lg>
+<l>An apple makes</l>
+<l>More tummy-aches</l>
+<l>Than rarebits, lobsters, cheese;</l>
+<l>The doctor comes,</l>
+<l>Looks wise, haw-hums</l>
+<l>And tries your pain to ease.</l>
+<l>But the apple laughs at the measely pill,</l>
+<l>And the secton digs in the grave-yard still;</l>
+<l>For as long as an apple has its will</l>
+<l>It surely fights to kill.</l>
+</lg>
+<note>OZMA-----10</note>
+<lg>
+<l>And so I eat</l>
+<l>'Em sour or sweet;</l>
+<l>And wish I could eat 'em all!</l>
+<l>It's a matter of taste, and the more diabolic</l>
+<l>Your agony is, why, the more it will frolic,</l>
+<l>And if you expire in a fit of the colic</l>
+<l>An apple's the cause of it all!</l>
+</lg>
+</sp>
+</div>
+<div>
+<sp><speaker>BETSY:</speaker>
+<p>Dear me, I shouldn't think you'd dare eat apples.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Somebody's got to eat 'em, or they'd get so plentiful the whole
+world would be one big tummy-ache. I'm willing to sacrifice
+myself by eating all I can get, in a vain effort to save humanity.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Are you a rose?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Well, I rose from where I fell; didn't i?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>But this is a hot-house devoted especially to roses. They've
+turned me out, and I suppose they'll turn you out, too.
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Nothing ever turns out the way you expect. <stage>(Points to mule)</stage></p>
+<p>
+Who's your friend?
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>His name is Hank.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Ah, a rag and a bone and a hank of hair.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>How's that?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Hank is Henry; and Henry is Harry---so Hank's hairy, isn't he?</p>
+</sp>
+<pb/>
+
+<note>OZMA-----11.</note>
+
+<sp><speaker>BETSY:</speaker>
+<p>Sure! I never thought of that.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Pointing to chicken)</stage><p> This is hen-nery, I s'pose.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>No; that's Baden-Baden.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Why didn't you get a good'n-good'n?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>When?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>When you were under the hen-roost.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>She's my own little chicken, that I raised from an egg.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>How'd you raise the egg?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Never you mind. What's <hi rend="underline">your</hi> name?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>They call me Shaggy Man. Lost the family bible and can't
+remember what I was christened. Very young at the time.
+</p></sp>
+<sp><speaker>
+GARDENER
+</speaker>
+<stage>(ENTERING hastily, with an air of importance)</stage><p> Say, folks,
+you'll have to get out of here.</p></sp>
+<stage>(HANK makes a dash at him and GARDENER files out R.</stage>
+
+<sp><speaker>BETSY:</speaker>
+<p>How did you happen to stray into these gardens?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Looking for my brother.</p>
+</sp>
+<pb/>
+<note>OZMA-----12.</note>
+
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You're wrong. No family resemblance.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Where is your brother?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Still looking for him. Want to hear the story of my life?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Is it copyright?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>No, it's all wrong. Brother and I owned a mine in Colorado---
+real mine--no stocks. Scooped out gold nuggets by the pail-full,
+Oh, joy! One day I left brother digging in the mine. When I
+came back he was gone---mine was gone--- everything gone. Oh,
+mis'ry!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>And there were no stockholders?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Nary one.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>How strange!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Couldn't understand it at first. Then I found on the spot where
+the mine had been, an asbestos letter. Here it is.</p></sp>
+<stage>(Hands paper to BETSY)</stage>
+<sp><speaker>BETSY:</speaker>
+<stage>(Reads)</stage><p> "This mine is mine, so I have taken it away to my underground
+kingdom, and with it the audacious mortal who was robbing
+<pb/>
+<note>
+OZMA.-----13.
+</note>
+me of my gold. Let this be a warning to mankind not to interfere
+with the right of, SIGNED: The Metal Monarch." Goodness
+me, who's the Metal Monarch?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>That's a hard question to answer. He's metal.</p></sp>
+<sp><speaker>
+GARDENER:</speaker>
+<stage>(ENTERING hastily)</stage><p> Say, isn't it about time to move on?</p>
+</sp>
+<stage>(HANK makes a bolt for GARDENER who EXITS R.</stage>
+<sp><speaker>SHAGGY:</speaker>
+<p>Time to move, all right.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>I've heard of the Copper King, and the Steel King; but I never
+before heard of the Metal Monarch. Where does he live?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>He didn't give his address.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>And is your brother still in his power?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>He must be. Brother's broke out of jail seven times, but the
+Metal Kingdom must be too strong for him. Never mind. I mean
+to find my brother some day, and rescue him.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>How?</p></sp>
+<sp><speaker>SHAGGY:</speaker>
+<p> I can't imagine. But as long as I've got the Love Magnet I'm
+not worrying.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>What's the Love Magnet?</p>
+</sp>
+<pb/>
+<note>OZMA-----14.</note>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Mysteriously seizing her wrist)</stage><p>Sh--h--h! I'll show you.</p></sp>
+<sp>
+<speaker>
+GARDENER:
+</speaker>
+<stage>(ENTERING with pitchfork. HANK starts to run at him, sees
+pitchfork and turns and hides behind BETSY.)</stage>
+<p>
+Say folks, this won't do. You've no right in this place and
+I've been ordered to put you out.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Wait a minute. Shaggy Man is just going to show me the Love
+Magnet.</p>
+</sp>
+<sp>
+<speaker>
+GARDENER:</speaker>
+<stage>(Approaching curiously)</stage> <p>What sort of a thing is that?</p></sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>It's a new invention; Dan Cupid patentee. Whoever owns the Love
+Magnet wins the love of everyone he meets. No courting, car-fares,
+flowers or theatre tickets. No trouble to borrow money;
+always welcome when you visit your friends. Fine, ain't it? I
+own this Love Magnet; and here it is!
+</p></sp>
+<stage>(Takes from his pocket a shining silver magnet. Immediately the
+GARDENER tries to embrace him, while BETSY leans against the
+SHAGGY MAN and puts her arms around his neck. The mule comes and
+kneels down at this feet and rubs his head against SHAGGY MAN'S
+legs, while chicken flies from BETSY's shoulder to that of
+SHAGGY MAN.</stage>
+
+<sp>
+<speaker>
+GARDENER:</speaker><p>
+Say, you're the best thing that ever happened, even if you <hi rend="underline">are</hi>
+shaggy. Here, take this money; it's all I've got, but you're
+welcome to it. I love you so much I'm sorry I haven't got more
+to give you.</p> <stage>(Offers SHAGGY a handful of coins which latter
+takes and puts in his pocket.)</stage>
+</sp>
+<pb/>
+
+<note>OZMA-----15.</note>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>You see, my dear, the Magnet works perfectly.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Gee! I wish I had it.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>There's only one in the world and I intend to hang on to it.</p>
+</sp>
+<sp>
+<speaker>
+ROSE MAIDENS:
+</speaker>
+<stage>(Appearing at wings)</stage> <p>Have you put them out, Gardener?</p>
+</sp>
+<sp><speaker>GARD:</speaker>
+<p>No, indeed! Come here, my beauties, and see this wonderful
+thing called a Love Magnet.</p>
+</sp>
+
+<stage>(ROSE MAIDENS ENTER and form group behind PRINCIPALS</stage>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 3. Waltz Song. DUET: SHAGGY MAN and BETSY.
+<lb/>
+"THE MAGNET OF LOVE."
+</head>
+<sp>
+<lg>
+<l>When bright eyes grow tender and brighter,</l>
+<l>When smiles are both dimpled and sweet;</l>
+<l>When hearts are contented and lighter</l>
+<l>And red lips delicious to meet:</l>
+<l>'This due or a power hypnotic</l>
+<l>That's working by Cupid's own laws:</l>
+<l>When passion is raging chaotic</l>
+<l>The Magnet of Love is the cause.</l>
+</lg>
+</sp>
+<sp><speaker>
+CHORUS:
+</speaker>
+<lg>
+<l>The Magnet of Love is the rarest</l>
+<l>Of gifts that have come from above;</l>
+<l>It quickens the humblest and fairest---</l>
+<l>This wonderful Magnet of Love.</l>
+<l>Love, love, the Magnet of Love!</l>
+<l>True hearts it is always attracting!</l>
+<l>We can't get away</l>
+<l>From its magical sway</l>
+<l>For the Magnet of Love is distracting.</l>
+</lg>
+<stage>2.</stage>
+<lg>
+<l>We know there are glances magnetic</l>
+<l>That challenge the heart to respond:</l>
+<l>We know there are murmers pathetic</l>
+<l>That win for us whispering fond;</l>
+<l>But nothing that Cupid's invented</l>
+<l>Can equal this token I name--</l>
+<l>When two eager hearts are cemented</l>
+<l>The Magnet of Love is to blame.</l>
+</lg>
+</sp>
+<pb/>
+
+<note>OZMA-----16.</note>
+<sp>
+<speaker>
+CHORUS:</speaker>
+<lg>
+<l>The Magnet of Love is the rarest</l>
+<l>Of gifts that have come from above:</l>
+<l>It quickents the humblest and finest--</l>
+<l>This wonderful Magnet of Love.</l>
+<l>Love, love, the Magnet of Love!</l>
+<l>Its powers are really shocking;</l>
+<l>Its pleasures we crave</l>
+<l>Though it makes us its slave--</l>
+<l>To the Magnet of Love all are flocking.</l>
+</lg></sp>
+<stage>(At conclusion of song, the ROSE MAIDENS hover around SHAGGY 
+MAN trying to embrace him; seizing his hands, etc. BETSY and
+GARDENER indignantly try to keep them away. SHAGGY MAN kisses
+one or two of the ROSES, at which BETSY jealously renews her
+efforts.)</stage>
+</div>
+<div>
+<sp><speaker>SHAGGY:</speaker>
+<p>It's no use, my dear, they've seen the Love Magnet and every
+one of their hearts is mine.</p>
+</sp>
+
+<sp><speaker>MOSS ROSE:</speaker>
+<p>Take your pick, Shaggy Man!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I'm no ditch-digger. <stage>(Chucks her under chin)</stage></p>
+</sp>
+<sp><speaker>TEA ROSE:</speaker>
+<p>We give you every leaf---every leaf is yours.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I'll turn over a new one. <stage>(Kisses her)</stage></p>
+</sp>
+<sp><speaker>
+JACQUE ROSE:</speaker><p>
+You're welcome to every scent we have.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I'll open a bank.</p>
+<stage>(BETSY and GARDENER try to keep ROSES away from SHAGGY MAN.</stage>
+<p>Don't interfere. It's nice to be loved, even by a crowd. I 
+forgive them all, Gardy.</p></sp>
+
+<sp>
+<speaker>
+GARDENER:</speaker><p>
+That won't help you. I, myself, love you dearly; but you are
+intruding in this place and its my duty to arrest you all.
+</p></sp>
+<pb/>
+
+<note>OZMA-----17.</note>
+<sp>
+<speaker>
+SHAGGY and BETSY:
+</speaker>
+<p>
+Arrest us!
+</p>
+</sp>
+<sp><speaker>GARD:</speaker>
+<p>Yes: put you in our glass jail.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Wouldn't that jar us, though!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>We'll break out----sash-ay to liberty, so to speak---and shatter
+our hopes.</p>
+</sp>
+<sp><speaker>MOSS ROSE:</speaker>
+<p>You mustn't do that.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Why not? If you had as many aches as you have panes, you'd
+be glad to get rid of 'em.</p>
+</sp>
+<sp><speaker>TEA ROSE:</speaker>
+<p>It's against our laws.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Laws sakes! Who makes the rules and regulations of this
+green-house?</p>
+</sp>
+<sp><speaker>GARD:</speaker>
+<p>Not me. They're printed in a book. Page 13: "If any strangers
+enter they must be arrested and put to death, being condemned
+by the Ruler."</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Who's the Ruler?</p>
+</sp>
+<sp><speaker>GARD:</speaker>
+<p>There isn't any.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Then we're safe.</p>
+</sp>
+
+<pb/>
+<note>OZMA-----18.</note>
+
+<sp><speaker>GARD:</speaker>
+<p>You see, the Rulers of the Rose Kingdom all row on bushes in
+the Royal Gardens, and the last one we had got bug-house and
+had to be planted before his time. Just now there is none ripe
+enough to pick; so there's no Ruler to succeed him.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>How do you know?</p>
+</sp>
+<sp><speaker>GARD:</speaker>
+<p>I'm the Royal Gardener.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Can't you take measures to get another Ruler?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Why don't you pick a green-horn? Seems to me it's a poor
+Ruler that don't work both ways.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Take us to see these queer gardens, won't you?</p>
+</sp>
+<sp><speaker>GARD:</speaker>
+<p>No; a thousand times, no!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Once is enough.</p>
+</sp>
+<sp><speaker>GARD:</speaker>
+<stage>(Sternly)</stage><p> You shall be seized and imprisoned.</p> <stage>(Grabs BETSY'S arm. HANK strikes out with heels, so GARDENER releases BETSY
+and starts to run.</stage>
+</sp>
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Calling after him)</stage><p> Don't you love me, Gardy?</p>
+</sp>
+<stage>(GARDENER hesitates, glancing at HANK.</stage>
+
+<pb/>
+
+<note>OZMA-----19.</note>
+
+<sp><speaker>ROSES:</speaker>
+<p><hi rend="underline">We</hi> do! </p></sp><stage>(They run to SHAGGY and try to embrace him again)</stage>
+
+<sp><speaker>BETSY:</speaker>
+<p>Scat! You leave the Shaggy Man along, you wall-flowers! What <hi rend="underline">you</hi> need is some Paris green.</p>
+</sp>
+<sp><speaker>ROSES:</speaker>
+<p>We love him.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>That isn't <hi rend="underline">your</hi> fault, my dears, and I don't blame you. Also
+it isn't my fault. But what I want to know is, if Gardy, here,
+loves me?
+</p>
+</sp>
+<sp><speaker>GARD:</speaker>
+<stage>(Coming back)</stage><p> I dote on thee.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>He's in his dotage. I'm afraid the Gardener's a sad rake, and
+eats too much hoe-cake. Any girl that married him would have
+to wear weeds and eat prunes.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Coaxingly)</stage><p> Gardy, lead us to the Royal Gardens, for 
+the love of me.</p>
+</sp>
+<sp><speaker>GARD:</speaker>
+<p>I'll do it. It's agin the laws, but I'll do it. When a fellow's
+in love he isn't responsible.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Hurray! Where <hi rend="underline">are</hi> the Royal Gardens?</p>
+</sp>
+<sp>
+<speaker>
+ROSES and GARD:
+</speaker>
+<p>
+Here!
+</p>
+</sp>
+<stage>(They turn toward background, which gradually disappears and
+discovers the ROYAL GARDENS.</stage>
+
+<pb/>
+</div>
+
+<note>OZMA-----20.</note>
+</div>
+<div type="scene" n="1b">
+<head>
+SUPPLEMENTARY SETTING to SCENE 1.--THE ROYAL GARDENS.--A
+</head>
+<div>
+<stage>
+Dark change, and a Transformation
+of the rear drops, caused by the lights being raised behind the
+gauze and lowered in front, discovers these Gardens beautifully
+illuminated. The ROYAL GARDENS consist of a row of trees with
+a high hedge in the extreme background, bearing beautiful flowers
+illuminated with electric lights. Upon the low branches 
+of the trees, people are growing in every stage of development.
+There are fluffy blossoms with baby faces in them, babies and
+children of all sizes standing among the leaves and low foliage,
+and, in the foreground, (C.) upon a low limb, is a Royal
+Princess of rare beauty. She is motionless, but fully developed,
+daintily dressed, and seemingly "all ready to pick".
+ROSES and GARDENER kneeling to form a picture. The SHAGGY
+MAN and BETSY and HANK in central group facing the ROYAL
+GARDENS.</stage>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 4. Concerted Number:
+</head>
+<sp><speaker>ROSE:</speaker>
+<l>See the Royal Gardens where our Rulers are maturing;</l>
+</sp>
+<sp><speaker>CHORUS:</speaker>
+<lg>
+<l>Isn't it a pretty sight, pleasant and alluring?</l>
+<l>On their stems they gently sway;</l>
+<l>Bud and blossom, too, are they;</l>
+<l>They'll be ripe and plucked some day,</l>
+<l>Royalty assuring.</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+BETSY:
+</speaker>
+<stage>(Approaching tree on which OZMA stands. During this
+number the ROSES rise and stand in a group around
+SHAGGY MAN, at L. where they softly sing the "Magnet of
+Love", as a counter-theme. One verse, with Refrain
+repeated.)</stage>
+<lg>
+<l>Beautiful Princess, I pray thee</l>
+<l>Art living? Oh, answer me quick!</l>
+<l>Speak, and I'll gladly obey thee;</l>
+<l>Thy form I am longing to pick.</l>
+<l>'Tis shame that so charming a creature--</l>
+<l>One destined by fate to command,</l>
+<l>Should stand in inanimate feature</l>
+<l>When she should be ruling the land.</l>
+</lg>
+</sp>
+<sp>
+<speaker>OZMA: </speaker>
+<lg>
+<l>So long I've been patiently waiting</l>
+<l>Your presence I welcome with joy:</l>
+<l>I've no hesitation in saying</l>
+<l>Your service I employ.</l>
+<l>Now! Now! Pray gather me now!</l>
+<l>That I may be Queen of the Roses--</l>
+<l>To you I'll be true</l>
+<l>If you graciously do</l>
+<l>What Ozma, the Princess, proposes.</l>
+</lg>
+</sp>
+<pb/>
+<note>OZMA-----21.</note>
+<sp>
+<speaker>
+BETSY:
+</speaker>
+<lg>
+<l>Dear Princess, I'll gladly obey you,</l>
+<l>If you in return promise me</l>
+<l>To guard and protect us, and say you</l>
+<l>Will set us poor prisoners free.</l>
+</lg>
+</sp>
+<sp>
+<speaker>OZMA: </speaker>
+<lg>
+<l>Yes, yes, I promise you true!</l>
+<l>The word of a Princess receiving,</l>
+<l>You can't go astray;</l>
+<l>So take me away,</l>
+<l>My royal impatience relieving.</l>
+</lg>
+</sp>
+<stage>(BETSY assists OZMA to the ground. The ROSES and GARDENER now 
+rush forward, followed by the SHAGGY MAN.)</stage>
+<sp>
+<speaker>ROSES: </speaker>
+<lg>
+<l>What have you done</l>
+<l>Audacious one!</l>
+<l>A girl can never rule us!</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+BETSY:
+</speaker>
+<lg>
+<l>Oh, yes, she can,</l>
+<l>As well as a man;</l>
+<l>So do not try to fool us!</l>
+</lg>
+</sp>
+<sp>
+<speaker>OZMA: </speaker>
+<lg>
+<l>Prithee, pretty subjects,</l>
+<l><stage>(To ROSES)</stage> Won't you welcome me?</l>
+<l>I have come to rule you</l>
+<l>From my Royal Tree:</l>
+<l>Let me be your Princess,</l>
+<l>Ruler of your band,</l>
+<l>Let there be rejoicing</l>
+<l>In this flowery land.</l>
+</lg>
+</sp>
+<sp>
+<speaker>ROSES: </speaker>
+<lg>
+<l>No! No! No!</l>
+<l>Away you go!</l>
+<l>Out in the cold world dolorous;</l>
+<l>No woman shall pose as</l>
+<l>The Ruler of Roses</l>
+<l>No one but a man shall rule o'er us!</l>
+</lg>
+</sp>
+<sp>
+<speaker>GARDENER:
+</speaker>
+<lg>
+<l>You're exiled, you see</l>
+<l>And sentenced to be</l>
+<l>A wanderer from your home--</l>
+<l>And with you this brute <stage>(Points HANK)</stage></l>
+<l>And the girl, here, to boot;</l>
+<l>And the Shaggy Man with you must roam.</l>
+</lg>
+</sp>
+
+<sp><speaker>ROSE CHORUS and GARDENER:)____</speaker><l>( That is so!</l></sp>
+<sp><speaker>OZMA, SHAGGY MAN, BETSY: )</speaker><l>( Woe----woe!</l></sp>
+<sp><speaker>ROSE CHORUS and GARDENER:)____</speaker><l>( Away you go.</l></sp>
+<sp><speaker>OZMA, SHAGGY MAN, BETSY: )</speaker><l>( Away we go!</l></sp>
+<sp><speaker>ALL: </speaker>
+<lg>
+<l>Out in the cold world dolorus.</l>
+<l>No woman can pose as</l>
+<l>The Ruler of Roses</l>
+</lg>
+</sp>
+<sp><speaker>OZMA, SHAGGY MAN, BETSY: )</speaker><l>    A wandering life is before us.</l></sp>
+<sp><speaker>ROSE CHORUS and GARDENER:)</speaker><l>     No one but a man can ruler o'er us.</l></sp>
+<stage>
+END OF SCENE 1.</stage>
+<stage>
+DARK CHANGE TO SCENE 2.
+</stage>
+<pb/>
+</div>
+</div>
+<div type="scene">
+<head>
+<hi rend="underline">OZMA OF OZ</hi>
+<lb/>
+<hi rend="underline">ACT I.</hi>
+<lb/>
+<hi rend="underline">SCENE 2.</hi>
+<lb/>
+---
+</head>
+<pb/>
+<div>
+<note>OZMA-----22.</note>
+<stage>
+ACT I.-- SCENE 2.--(In 2.)--A CROSS-ROADS.-- (Setting as per Mr.
+Voegtlin's diagram.)--In C. is an old-
+fashioned well with chain supposed to
+support a bucket. The Scene opens with a 
+Rainstorm effect prepared by Mr. Voegtlin---
+something entirely new. As the rain ceases,
+a rainbow descends, and back of this bow is
+seen the CHORUS of RAINBOW MAIDENS.)
+</stage>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 5. (a) Instrumental: "SUMMER RAINSTORM."
+(b) RAINBOW CHORUS and DANCE.<lb/>
+---</head>
+<sp>
+<lg>
+<l>We're the daughters of the Rainbow</l>
+<l>In the clouds our palace stands,</l>
+<l>There we're daily dancing gaily</l>
+<l>In the realm our sire commands.</l>
+<l>When the great world just beneath us</l>
+<l>Is submerged by summer showers</l>
+<l>All our sky-land is a dry land</l>
+<l>And a merry life is ours.</l>
+</lg>
+<lg>
+<l>Dancing on the shifting clouds</l>
+<l>Where the Rainbow dwells,</l>
+<l>Well we know our sunny bow</l>
+<l>Lovely skies foretells.</l>
+<l>We're as happy as the day</l>
+<l>Frolicsome and light and gay</l>
+<l>Though to earth we sometimes stray</l>
+<l>Cloudland is our home.</l>
+</lg>
+</sp>
+</div>
+<div>
+<stage>
+POLYCHROME, one of the Rainbow's daughters, dances down the
+arch upon the stage. The bow lifts and disappears with CHORUS.
+Stage lightens, disclosing the setting distinctly for the
+first time.)
+</stage>
+<sp>
+<speaker>
+POLYCHROME:
+</speaker>
+<p>
+Oh, oh! There goes the Rainbow and my sisters with it! Dear
+me! What shall I do? How careless of me to wander on this
+cold earth instead of remaining in safety. And here I must
+stay---in this dreary place---until there is another rainstorm
+and the rainbow comes again.
+</p>
+</sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 6.
+<lb/>
+SOLO: POLYCHROME:
+<lb/>
+"WHEN THE RAINBOW COMES AGAIN."
+<lb/>
+<pb/>
+<note>OZMA-----23.</note>
+<lb/>
+WHEN THE RAINBOW COMES AGAIN.
+<lb/>
+---
+<lb/>
+</head>
+<sp>
+<lg>
+<l>Cold is the world---mortals it's sport!</l>
+<l>Clouds drift across life's most glorious dreams.</l>
+<l>Strive through we may, Fortune to court,</l>
+<l>Fate is more just than it frequently seems.</l>
+<l>Close to our joy, follows despair,</l>
+<l>Love and ambition seem joyless and drear;</l>
+<l>Yet there's a hope banishes care:</l>
+<l>A rainbow of Promise is sure to appear.</l>
+</lg>
+<stage>REFRAIN:</stage>
+<lg>
+<l>When the Rainbow comes again</l>
+<l>Sunny skies prevail;</l>
+<l>Joy and gladness banish pain--</l>
+<l>Clouds are ever frail.</l>
+<l>Courage then should guide us all</l>
+<l>In sunshine or in rain</l>
+<l>For every fear will disappear</l>
+<l>When the Rainbow comes again.</l>
+</lg>
+<stage>(TWO VERSES.</stage>
+</sp>
+</div>
+<div>
+<stage>(ENTER BETSY, HANK, OZMA, SHAGGY MAN. The mule goes to the well and examines it.)</stage>
+<sp><speaker>BETSY:</speaker>
+<stage>(Running to POLYCHROME)</stage><p> Oh, what a darling creature!</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<stage>(Sobbing)</stage><p> I'm the most miserable girl in the whole world.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Tell us your troubles, pretty one.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I've lost my bow.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Take me!</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I don't want you. I want my rainbow.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Don't I reign in your heart?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>No, you don't.</p>
+</sp>
+
+<pb/>
+
+<note>OZMA-----24.</note>
+
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<stage>(He tumbles half way into the well and gets stuck. SHAGGY MAN
+and BETSY run to assist him, but he kicks so vigorously they
+don't dare go near. SHAGGY MAN throws a chain around HANK and winds up the windlass, drawing him up from the well.
+</stage>
+<sp><speaker>OZMA:</speaker>
+<stage>(To POLY.)</stage><p> Where <hi rend="underline">is</hi> your rainbow, dear?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>It's gone, and left me on this cold, horrid earth. I just
+danced down the end of the bow to the ground for a moment,
+not realizing my danger, and when I looked around the bow had
+gone.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Then you must stay with us until you find it again.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Where do you live?</p>
+</sp>
+<stage>(The SHAGGY MAN and BETSY now rejoin them. HANK is again
+examining the well.</stage>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>We live wherever we happen to be, for we are wanderers, Betsy
+and me, and Princess Ozma has been exiled from her own country.
+You are welcome, my dear, to join our party.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<stage>(Looking at him)</stage><p> I don't like you.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>No? </p><stage>(Holds up the Love Magnet. She clasps her hands and
+advances eagerly toward him.</stage>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I love you!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Of course you do. But you can't help it, my dear---it's the
+<pb/>
+<note>OZMA-----25.</note>
+Love magnet. Now then, can you tell us where all these roads
+lead to?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>No; most beautiful and bewitching one. I have never been
+here before.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>I'm a stranger in these parts myself. What is your name, dear?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I'm called Polychrome.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Goodness me! What a hard name to say. It reminds me of a
+cross between a parrot and a paint-box. May I call you Polly
+for short?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>If you like. But where are you all going to? </p>
+<stage>(Turns to OZMA)</stage>
+<p>
+Do <hi rend="underline">you</hi> know the way to some place?
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>No, dear. I've just been picked. This is my first experience
+outside the Rose Gardens where I grew. We were driven out
+by my rebellious subjects, who wanted a man to rule over them,
+and so we have wandered to this place. But there are so many
+roads we can't decide which one to take.
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<stage>(To POLY.)</stage><p> If you're the Rainbow's daughter you ought to know 
+some magic. Don't you?
+</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<stage>(Doubtfully.)</stage><p> A little, not much. This magic wand will do some 
+things for me up in the skies; but I'm not sure it will always
+work down here upon the earth.
+</p></sp>
+<pb/>
+<note>OZMA-----26.</note>
+<sp><speaker>SHAGGY:</speaker>
+<p>Suppose you try it, and see.</p>
+</sp>
+<sp>
+<speaker>
+A VOICE:
+</speaker>
+<stage>(Person unseen)</stage><p> Use com-mon sense.</p></sp>
+<stage>(All start</stage>
+<sp><speaker>BETSY:</speaker>
+<p>Why, what was that?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>That must have been Hank.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Nonsense; Hank can't talk. But what did it mean? Common 
+sense can't help us.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>No; for I've got a pocket full of it. </p></sp>
+<stage>(Shows coins the GARDENER
+gave to him.)</stage>
+
+<sp><speaker>OZMA:</speaker>
+<stage>(Sadly)</stage><p> Nothing can help us, I'm afraid.</p></sp>
+<sp>
+<speaker>
+VOICE
+</speaker>
+<p>
+Fid-dle-stickes!</p>
+</sp>
+<stage>(All start and SHAGGY MAN approaches
+the mule.</stage>
+<sp><speaker>SHAGGY:</speaker>
+<p>Hank, are you kidding us?</p>
+</sp>
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<stage>(To Poly.)</stage><p> Suppose you use your magic wand on my dear old 
+mule and discover whether he has learned to talk, or not?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Very well. </p></sp>
+<stage>(She approaches mule and waves her wand over him.
+He strikes out with his heels and SHAGGY goes
+rolling over on stage. HANK follows, while
+BETSY tries to restrain him. Humorous bus.
+between SHAGGY, BETSY and mule, while OZMA and
+POLY. slowly EXIT, arm in arm, along one road.
+</stage>
+<pb/>
+
+<note>OZMA-----27.</note>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>Hi, there, Polly! Where in thunder's the girl with the magic 
+wand?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>She's wand-ering.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Well, her magic won't go with Hank, that's sure. If I had an 
+axe I'd show you what <hi rend="underline">would</hi> go.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<stage>(Indignantly)</stage><p> Don't you hurt Hank. He's my best friend.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>But he hasn't any Love Magnet.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Yes he has; there's a magnet on each of his hoofs. That's why 
+I love him.</p></sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 7. SONG: BETSY.
+<lb/>
+"DEAR OLD HANK."
+</head>
+<sp>
+<lg>
+<l>There are many kinds of treasures,</l>
+<l>There are many kinds of jew'ls;</l>
+<l>There are many kinds of pleasures,</l>
+<l>There are many kinds of mules.</l>
+<l>There's the jackass, donkey, burro,</l>
+<l>But I'll make a statement frank;</l>
+<l>You'll never find but one-of-a-kind</l>
+<l>Like dear----old----Hank!</l>
+</lg>
+<lg>
+<l>A steed in-deed</l>
+<l>Is dear old Hank!</l>
+<l>His pedigree and fam'ly tree</l>
+<l>Are of the highest rank;</l>
+<l>And though his bray</l>
+<l>You hear all day</l>
+<l>It's very safe to bank</l>
+<l>That a jewel</l>
+<l>Of a mu-le</l>
+<l>Is dear----old----Hank!</l>
+</lg>
+<pb/>
+
+<note>OZMA-----23.</note>
+<stage>
+2.
+</stage>
+<lg>
+<l>There are many kinds of kickers---</l>
+<l>You can meet 'em any day;</l>
+<l>There are those whose howls and bickers</l>
+<l>Make us tired of their bray;</l>
+<l>But in all my times of trouble</l>
+<l>All my lucky stars I thank</l>
+<l>That I have won a champion</l>
+<l>Like dear----old----Hank!</l>
+</lg>
+<lg>
+<l>A rum old chum</l>
+<l>Is dear old Hank!</l>
+<l>He's not a steel engraving</l>
+<l>And he's rather lean and lank:</l>
+<l>But none can fool</l>
+<l>This clever mule</l>
+<l>Or dare his tail to yank--</l>
+<l>Or he might feel</l>
+<l>The left hind heel</l>
+<l>Of dear----old----Hank!</l>
+</lg>
+</sp>
+<stage>(During this number the mule dances and cavorts, acting as if
+he comprehended BETSY'S words. The SHAGGY MAN meantime sits on
+the well-curb, looking into the well, and at the conclusion of song
+he calls BETSY.
+</stage></div>
+<div>
+<sp><speaker>SHAGGY:</speaker>
+<p>Look here, Betsy! I believe old Hank saw something strange 
+in this well.
+</p></sp>
+<sp>
+<speaker>
+BETSY</speaker>
+<p>
+He did?</p> <stage>(Approaches)</stage>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Yes; Hank was hankering for something down here, and that's 
+what made him act so foolish and mulish.
+</p>
+</sp>
+<stage>(Together they look down the well.</stage>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>Ha! Let's see what it is?</p>
+<stage>(SHAGGY winds up chain, and dumps
+a lot of old junk--such as an
+old-fashioned hoop-skirt, tin
+pails, etc. He holds up dead cat)</stage>
+<p>Ding, dong, dell--pussy in the well!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Throw it away. Ugh!</p>
+</sp>
+<pb/>
+
+<note>OZMA-----29.</note>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>It's part of the catagory. But there's something more down
+there, I guess. </p></sp>
+<stage>(Drops bucket again.</stage>
+
+<sp><speaker>BETSY</speaker>
+<p>Up with it, then!</p>
+</sp>
+<stage>(SHAGGY draws up bucket and dumps out TIKTOK,
+who is huddled in a heap, rusted and motionless.
+They look at it curiously, while 
+HANK proceeds to prance around them.)</stage>
+
+<stage>(ENTER OZMA and POLYCHROME.</stage>
+
+<sp><speaker>POLY:</speaker>
+<p>What have you found, beautiful one?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>We haven't named it yet. <stage>(Rolls TIKTOK over with his foot.)</stage></p>
+</sp>
+<sp><speaker>BETSY</speaker>
+<p>Looks like a copper man.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Looks like anything you want to call it.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>There's so many dents in him we might call him an accident.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Do you think he's alive?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Not yet. All he's good for is old metal--half a cent a pound 
+at the junk shop.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Here's a sign. Let's read it.</p>
+<stage>(Leans over TIKTOK and reads.</stage>
+<p>
+"Smith and Tinker's Patent Adjustable, Triple-Action, Automatic
+Clockwork man, TIKTOK. Warranted to keep in any climate and
+prepared in comformance with the Pure Food and Drugs Act.
+Mechnaism guaranteed for a thousand years. Any infringments
+will be vigorously prosecuted."
+</p>
+</sp>
+<pb/>
+<note>OZMA-----30.</note>
+<sp><speaker>OZMA:</speaker>
+<p>Dear me!</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>How strange!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>He's a wonder!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Isn't he complicated, though? But here's more. Listen!</p>
+<stage>(Reads)</stage>
+<p>
+"Directions for Use: Wind up the Clockwork Man under his left
+arm and he will think as cleverly as any rich man's son in the
+world. Wind him up under his right arm and he will speak as
+correctly as an after-dinner orator. Wind him up in the center
+of his breast and he will move in a natural and intelligent
+manner and act as well as Edwin Forrest."
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Ah, now we know when he was made---sometime in the last Century.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Then he ought to work yet, if we wind him up.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Yes, he's guaranteed for a thousand years; perhaps he was intended 
+for a Chorus Girl. Where's the key?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>This must be it. </p><stage>(He picks up key from a heap of metal.</stage>
+<p>
+Now let's get him ready for the operation.
+</p>
+</sp>
+<stage>(BETSY and SHAGGY raise TIKTOK to his feet and move his joints
+so that he will stand upright. He sways and topples this way
+and that until they get him balanced so he stands steadily.
+HANK prances joyfully around. The others are all much interested 
+in the proceedings.)</stage>
+<sp><speaker>POLY:</speaker>
+<p>What is that thing on his forehead?</p>
+</sp>
+
+<pb/>
+
+<note>OZMA-----31.</note>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>Looks like an electric button. And here are some words on
+it: "Don't touch!"</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>I wonder why not?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Can't say. But if we're going to follow directions we'd better 
+not touch that button. Eh?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>All right. What part of him shall I wind up first?</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>His thoughts, of course.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Yes; set his think-works going. If they work all right he'll 
+be a free thinker.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Which is his left arm?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>That's the right one.</p>
+<stage>(Points</stage>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>But I want the left.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Of course: the left one's the right one, isn't it?</p>
+</sp>
+<stage>(BETSY winds TIKTOK under left arm.)</stage>
+<sp><speaker>POLY:</speaker>
+<p>I don't see any difference, now he's wound.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Course you don't. He's just thinking.</p>
+</sp>
+<sp>
+<speaker>
+OZMA</speaker><p>
+Oh, is he?
+</p></sp>
+<pb/>
+<note>OZMA-----32.</note>
+<sp><speaker>SHAGGY:</speaker>
+<p>He don't look it.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Thinks don't show. Sometimes I think, myself.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I'll bet we've found a gold-brick.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Listen! Can't you hear him tick? <stage>(All listen)</stage></p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Sure!</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I can hear him go, "tick-tock!"</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Wind up his phonograph, Betsy, and see if that ticks. If he 
+isn't fake he's got to explain himself.</p>
+</sp>
+<sp><speaker>BETSY</speaker>
+<p>I will. Which is the right arm?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>The one left. </p>
+</sp><stage>(BETSY winds TIKTOK under right arm.</stage>
+<sp><speaker>TIKTOK:</speaker>
+<p>
+Ma-ny thanks!</p>
+</sp>
+<stage>(All start back and exclaim. TIKTOK always
+speaks in a monotone.</stage>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>Bully for you, Tiktok!</p> <stage>(Slaps TIKTOK on back. The Clockwork 
+Man collapses and falls in a heap.
+Rattling of metal off stage.)</stage>
+</sp>
+<sp><speaker>TIKTOK:</speaker>
+<p>Pick-me-up-pick-me-up-pick-me-up-pick---</p>
+<stage>(Continues this phrase
+until raised to his feet
+</stage></sp>
+<sp><speaker>BETSY:</speaker>
+<p>Good gracious! Pick him up! </p></sp>
+<stage>(They raise TIKTOK and stand him 
+on his feet.)</stage>
+
+<pb/>
+
+<note>OZMA-----33.</note>
+
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Well, his phonograph's all right, but I'm inclined to doubt 
+the think-works.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>When in doubt breed mumps---</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>You mean lead trumps.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I mean what I say.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You're wrong.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I'm right according to my ma-chin-er-y.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Then your machinery's out of gear.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Z-z-z-z-</p>
+<p>
+Don't blame me, blame the pat-en-tee.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>What's wrong with your speech works?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Some of the cogs are missing in that wheel.</p>
+</sp>
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>All right, Tiktok; we'll take your record for it.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>What record?</p>
+</sp>
+
+<pb/>
+
+<note>OZMA-----34.</note>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>I don't know whether it's an Edison or a Victor.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>To the Victor belongs the boils.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You're wrong. You mean spoils.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I mean what I say, and I'll back my ma-chin-er-y to be cor-rect.
+Wind up my act-ion and I'll fight a du-el with you.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Not any. We don't fight duels these days. If you're going 
+to make trouble you don't act, so there!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Oh, wind up his action. I don't care. Hank will protect me;
+won't you Hank?</p>
+</sp>
+
+<stage>(Mule kicks out toward TIKTOK, who
+again collapses with sound of rattling 
+metal and tumbles in a heap.
+</stage>
+<sp><speaker>TIK:</speaker>
+<p>Pick-me-up-pick-me-up-pick-me-up-pick-----</p>
+
+<stage>(They raise him to his feet.)</stage>
+<p>Ma-ny thanks!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>He's all right.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Wind me tight and I'll show I'm all right and can go.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Oh, <hi rend="underline">do</hi> wind up his action, Betsy!</p>
+</sp>
+
+<pb/>
+
+<note>OZMA-----35.</note>
+
+<sp><speaker>BETSY:</speaker>
+<p>Here we go. I may be encouraging another bad actor; but 
+that's not my fault.
+</p>
+</sp>
+<stage>(She winds TIKTOK on his breast.
+He moves automaticaly around
+in a circle and then comes to a 
+stop, front. The Clockwork Chorus
+ENTERS.</stage>
+
+<stage>(NOTE: Each girl has a clock over her head, her face appearing
+in the center of the dial. From this a golden pendulum is suspended
+and sways back and forth against her dark skirts,
+which she holds spread out as she dances. Also in her
+hand she has a "cricket" to sound "tick-tock" as required.
+At the repetition of the second refrain the
+clocks all strike the hour, or could even play the
+melody as they strike, each clock having a bell in one
+corner, which can be rung by a cord running to the girl's hand. 
+This will all be arranged by Mr. Klein in the music score.)</stage>
+
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 8. SONG: TIKTOK, Principals and Chorus
+</head>
+<sp>
+<speaker>
+TIKTOK: </speaker>
+<lg>
+<l>I'm a man of ma-ny parts and compli-ca-ted,</l>
+<l>Clock-work makes me go------------</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+CHORUS: </speaker>
+<l>Tik--------tok!</l>
+</sp>
+<sp>
+<speaker>
+TIKTOK: </speaker>
+<lg>
+<l>I can run be-cause I'm fine-ly reg-u-lat-ed,</l>
+<l>Never fast or slow------------</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+CHORUS: </speaker>
+<l> Tik--------tok!</l>
+</sp>
+<sp>
+<speaker>
+TIKTOK: 
+</speaker>
+<lg>
+<l>Right on time you-'re al-ways sure to find me,</l>
+<l>If my works run down you must-n't mind me,</l>
+<l>Take the key and then pro-ceed to wind up</l>
+<l>And my gen-ius I will show--------</l>
+</lg></sp>
+<sp>
+<speaker>
+CHORUS: </speaker>
+<l> Tik--------tok!</l>
+</sp>
+<sp><speaker>TIKTOK:)__</speaker><l>( Al----ways----work for ne-ver play!</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik---tok!    Tik------------tok!</l></sp>
+
+<sp><speaker>TIKTOK:)__</speaker><l>( Don't de-mand a cent of pay!</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik---tok!    Tik-------tok!</l></sp>
+
+<sp><speaker>TIKTOK:)______</speaker><l>( What I'm wound to</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik------------tok!</l></sp>
+
+<sp><speaker>TIKTOK:)______</speaker><l>( Do I do do ---</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik------tok!</l></sp>
+
+<sp><speaker>TIKTOK:)______</speaker><l>( Isn't that the nice-est way?-----</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik---tok!    Tik-------tok!</l></sp>
+
+<sp><speaker>TIKTOK:)______</speaker><l>( I'm ----a----ve-ry cle-ver man!</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik---tok!  Tik------------tok!</l></sp>
+
+<sp><speaker>TIKTOK:)______</speaker><l>( Show my e-qual if you can!</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik---tok! Tik--------tok!</l></sp>
+
+<pb/>
+
+<note>OZMA-----36.</note>
+
+<sp><speaker>TIKTOK:)______</speaker><l>( When you wind me,</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik----------tok!</l></sp>
+
+<sp><speaker>TIKTOK:)______</speaker><l>( You will find me</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik----------tok!</l></sp>
+
+<sp><speaker>TIKTOK:)__</speaker><l>( Work-ing on the clock-work plan!------</l></sp>
+<sp><speaker>CHORUS:)</speaker><l>( Tik---------tok! Tik------------tok!</l></sp>
+<stage>
+2.
+</stage>
+<sp><speaker>TIKTOK:)__</speaker>
+<lg>
+<l>( Mor-tal man has no stem-wind-ing works to guide him</l>
+<l>When he gets too fast.--------</l></lg></sp>
+
+<sp><speaker>CHORUS:)__</speaker><l>(         Tik-----tok!</l></sp>
+<sp><speaker>TIKTOK:)__</speaker><lg>
+<l>( No one knows what dev-il-ry there lurks in-side</l>
+<l>Till the act-ion's past-------</l>
+</lg>
+</sp>
+<sp><speaker>CHORUS:)</speaker><l>(         Tik-----tok!</l></sp>
+
+<sp><speaker>TIKTOK:)__</speaker><lg>
+<l>( In my case I'm al-ways true and trust-y:</l>
+<l>Ne-ver get too must-y or too dust-y;</l>
+<l>Keep my oiled and I am ne-ver rust-y</l>
+<l>And a thousand years I'll last.---</l>
+</lg>
+</sp>
+
+<sp><speaker>CHORUS:)</speaker><l>(           Tik-----tok!</l>
+
+<stage>(Repeat Refrain as before.</stage>
+
+<stage>(Refrain is again repeated, when after a
+line or two TIKTOK with a gurgle, stops
+singing and waves his hands to indicate
+his speech has run down. The Principals
+pick up the air.)</stage>
+
+<lg>
+<l>He's a very clever man---</l>
+<l>Show his equal if you can!</l>
+</lg>
+
+<stage>(Here TIKTOK's motion runs down and he
+stops abruptly in an absurd posture and
+remains motionless while the refrain
+continues.</stage>
+<lg>
+<l>When you wind him</l>
+<l>You will find him</l>
+<l>Working on the Clockwork plan.</l>
+</lg>
+</sp>
+<stage>(At conclusion of refrain Clockwork Chorus
+EXITS.)</stage>
+</div>
+<div>
+<sp><speaker>POLY:</speaker>
+<p>Oh, dear; look at him, Betsy! He's run down.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Poor man; how dreadful! Wind him up.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>All right.</p>
+</sp>
+<stage>(She winds his speech.</stage>
+
+<pb/>
+
+<note>OZMA-----37.</note>
+
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<stage>(Who is winding up his action.)</stage><p> Don't mention it.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Why, he's quite an institution, this fellow. Say, Tiktok,
+there's no alarm inside you, is there?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>No. For that reason I ne-ver strike.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Good for you.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Perhaps this queer man can tell us which road to take.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Where to?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Why, I want to find the way to the Kingdom of the Metal Monarch.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I know the ras-cal.</p>
+</sp>
+<sp>
+<speaker>
+ALL</speaker>
+<p>Oh, you do!
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>He threw me in the well.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Well, well!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Be-cause my ma-chin-er-y would not do his wick-ed bid-ding.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Oh, wouldn't it?</p>
+</sp>
+<pb/>
+
+<note>OZMA------38.</note>
+
+<sp><speaker>TIK:</speaker>
+<p>No, be-cause the Met-al Mon-arch is in-fluen-ced by hate, and 
+on-ly love can con-trol my mech-an-ism.
+</p></sp>
+<sp><speaker>
+BETSY, OZMA, POLY:</speaker>
+<p>
+Love!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>It's love that makes the wheels go 'round.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You mean the world go 'round.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I mean what I say.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You're wrong.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I'm right ac-cord-ing to my mach-in-er-y.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Then I don't need to wind you up.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Yes you do; you have the key to my af-fect-ions, and my af-fect-
+ions are my wheels, be-cause they are the on-ly things that
+af-fect me.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Tell us, then; which road leads you to the Metal Kingdom?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>You take the--gr-r-r---bib-i-kib-i-gig-a-chug-kik-a-dik-----</p>
+</sp>
+<stage>(As he mumbles incoherently, they shrink
+away from him.)
+</stage>
+<sp><speaker>POLY:</speaker>
+<p>Oh, dear! What's gone wrong now?</p>
+</sp>
+
+<pb/>
+
+<note>OZMA-----39.</note>
+
+<sp><speaker>SHAGG:</speaker>
+<p>It's his think-works. They've run down.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Wind them up, Betsy! Quick!</p>
+</sp>
+<stage>(as TIKTOK continues to mumble, BETSY winds
+him up under the left arm.)
+</stage>
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks! Beg par-don for go-ing dip-py, but if a man's
+thoughts run down he's out of his bus-'ness.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>True. Many a man needs his think-machine wound up.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I was a-bout to say that-----</p>
+</sp>
+<stage>(Stops short and waves his arms wildly.</stage>
+
+<sp><speaker>BETSY:</speaker>
+<p>Oh, it's his talk-works, now. Guess I didn't wind 'em very
+tight.</p></sp> <stage>(Winds him under right arm.)</stage>
+
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Tiktok, I'm ashamed of you. Your carburetor is sadly out of
+order. You need more gasoline.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Don't blame me. Blame-z-z-z-z-the pat-en-tee!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Cog slipped, eh? Well, tell us, before you go dead again, 
+which road leads to the Metal Monarch's Kingdom.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I won't!</p>
+</sp>
+<pb/>
+
+<note>OZMA------40.</note>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>No? Well, if love can influence your one-cylinder meter, I'll 
+<hi rend="underline">make</hi> you tell me.
+</p>
+</sp>
+<stage>(Holds up Love Magnet. TIKTOK at once
+advances and embraces SHAGGY, who tries
+to escape, and cries for help. HANK
+runs up and kicks TIKTOK, who falls
+in a heap. They put him on his feet
+again, and he leans his head on SHAGGY
+MAN'S shoulder and chucks him under 
+the chin.</stage>
+
+<sp><speaker>TIK:</speaker>
+<p>Toot-sie, woot-sie!</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>He loves you, beautiful one.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Of course he does. now, Tiktok, will you tell me the road to 
+the Metal Monarch's Kingdom?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I can't, hon-ey love.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Why not?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I don't know the road.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>That's pleasant. Hank knows as much as this junk-shop, and more.</p>
+<p>
+Don't you, Hank?
+</p>
+</sp>
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+<stage>(He prances up stage and points a hoof
+along one of the roads.)</stage>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Is that the way, Hank?</p>
+</sp>
+<sp><speaker>HANK:</speaker><p>
+Hee haw!
+</p></sp>
+<pb/>
+
+<note>OZMA-----41.</note>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>He wants us to hoof it.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Come on, folks! I told you Hank would know. That mule is 
+as wise as the mummy of Solomon.</p></sp>
+
+<stage>(They all EXIT up stage, followed by
+TIKTOK. Presently the Clockwork Man
+stops short and calls out.</stage>
+
+<sp><speaker>TIK:</speaker>
+<p>Help! Wind-me-up-wind-me-up-wind-me-up-wind------</p>
+</sp>
+
+<stage>(BETSY runs in and winds him.)</stage>
+
+<sp><speaker>BETSY:</speaker>
+<p>Goodness me! What a run down condition you're in. Hurry up 
+now, Tiktok!
+</p></sp>
+<stage>(BETSY EXITS followed by TIKTOK who
+with awkward movements runs into wings;
+backs out: turns abrupt corners and
+finally heads for the road and marches
+out.
+</stage>
+<stage>(Trumpets sound in distance, heard faintly at first, then
+louder and swelling into March Number. ENTER the Army
+of Oogaboo, headed by QUEEN ANN SOFORTH. This army consists
+of 17 people---- 4 generals, 4 colonels, 4 majors,
+4 captains and one private.)</stage>
+
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 9. MARCH SONG and CHORUS: QUEEN ANN and ARMY.
+<lb/>
+"THE ARMY OF OOGABOO."<lb/>
+---</head>
+<sp><speaker>ANN:</speaker>
+<lg>
+<l>I'm the Queen of Oogaboo--</l>
+<l>And this here is meh ar-my!</l>
+<l>I'll confide a fact to you:</l>
+<l>No enemy can harm me!</l>
+<l>We can conquer any land---</l>
+</lg>
+</sp>
+<sp><speaker>
+ARMY:</speaker>
+<stage>(Marking time</stage>
+<l>Hip! Hip! Hip! Hip!</l>
+</sp>
+<sp><speaker>
+ANN:</speaker>
+<l> We can fight to beat the band----</l></sp>
+
+<sp><speaker>
+ARMY:</speaker>
+<l>Hip! Hip! Hip! Hip!</l>
+</sp>
+
+<sp><speaker>
+ANN:</speaker>
+<lg>
+<l>Foemen see us, quickly flee us--</l>
+<l>Every one would like to be us!</l>
+<l>We're courageous through and through,</l>
+<l>And fight for Oogaboo!</l>
+</lg>
+</sp>
+<pb/>
+
+<note>OZMA------42.</note>
+
+<sp><speaker>
+ARMY:</speaker>
+<lg>
+<l>We are the Army of Oogaboo!</l>
+<l>Penants flying, foes defying,</l>
+<l>Brave, undaunted, bold and true:</l>
+<l>If we fight and run away</l>
+<l>We can fight another day</l>
+<l>That is why we always cry:</l>
+<l>Hurrah for Oogaboo!</l>
+</lg>
+</sp>
+<sp><speaker>GENERALS:</speaker> <stage>(Drawing swords.)</stage> <l>March!</l></sp>
+<sp><speaker>COLONELS:</speaker> <stage>(Drawing swords.)</stage> <l>March!</l></sp>
+<sp><speaker>MAJORS:</speaker><stage> (Drawing swords.)</stage> <l>March!</l></sp>
+<sp><speaker>CAPTAINS:</speaker><stage> (Drawing swords. )</stage><l>March!</l></sp>
+
+<sp><speaker>PRIVATE: </speaker><l>On the march I be! </l><stage>(Starts to march.)</stage></sp>
+<sp><speaker>ALL OFFICERS:</speaker><l> No army in the universe can march as well as he!</l></sp>
+<sp><speaker>GENERALS:</speaker> <stage>(Returning swords.)</stage> <l>Halt!</l></sp>
+<sp><speaker>COLONELS:</speaker> <stage>(Returning swords.)</stage> <l>Halt!</l></sp>
+<sp><speaker>MAJORS:</speaker><stage> (Returning swords.)</stage> <l>Halt!</l></sp>
+<sp><speaker>CAPTAINS:</speaker> <stage>(Returning swords. )</stage><l>Halt!</l></sp>
+
+<sp><speaker>PRIVATE: </speaker><stage>(Halts.)</stage><l> Halted now I be!</l></sp>
+
+<sp><speaker>ALL OFFICERS:</speaker><l>No Army in the Universe can halt as quick as he!</l></sp>
+<stage>
+2.
+</stage>
+
+<sp><speaker>
+ANN:</speaker>
+<lg>
+<l>Blood's a dreadful thing to see--</l>
+<l>An' so we never shed it,</l>
+<l>We can't bear to hurt a flea--</l>
+<l>It's greatly to our credit;</l>
+<l>But we seem so fierce and grand</l>
+</lg>
+</sp>
+
+<sp><speaker>
+ARMY:</speaker>
+<stage>(Marking time</stage>
+<l>Hip! Hip! Hip! Hip!</l>
+</sp>
+
+<sp><speaker>
+ANN:</speaker>
+<l>No one dares us to withstand--</l></sp>
+
+<sp><speaker>
+ARMY:</speaker>
+<l>Hip! Hip! Hip! Hip!</l>
+</sp>
+<sp><speaker>
+ANN:</speaker>
+<lg>
+<l>When advancing, weapons glancing,</l>
+<l>We're a sight that's most entrancing</l>
+<l>Uniforms of gorgeous hue--</l>
+<l>The pride of Oogaboo!</l>
+</lg>
+<stage>(Repeat Refrain and Chorus as before.)</stage>
+</sp>
+</div>
+<div>
+<sp><speaker>QUEEN ANN:</speaker>
+<p>My brave boys, we've come all the way from home, seeing adventures,
+and your advent hasn't turned up any excitement so far.
+</p></sp>
+<sp><speaker>OFFICERS:</speaker>
+<p><stage>(Speaking together.)</stage> That's not our fault!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>No sass! Be respectful, or I'll dock your pay.</p>
+</sp>
+<sp><speaker>PRIVATE FILES:</speaker>
+<p>You can't dock mine, Your Majesty.</p>
+</sp>
+<pb/>
+
+<note>OZMA------43.</note>
+
+<sp><speaker>ANN:</speaker>
+<p>Why not?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Because I don't get any pay. All I get is promises.</p>
+</sp>
+<sp><speaker>GENERALS:</speaker>
+<p>That's all <hi rend="underline">we</hi> get, Private.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>I'm a man of high birth. Whenever I travel I take an upper.
+This life is not what I expected when I enlisted.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>What <hi rend="underline">did</hi> you expect?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>War! Carnage! Devastation, conflict and blood!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>But that would be wrong. If that's what you want you ought 
+to go hunting lions in Africa. Eh, Colonels?</p></sp>
+
+<sp><speaker>COLONELS:</speaker>
+<p>True, Your Majesty.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>I've had enough of it. I'm going to resign.</p>
+</sp>
+<sp><speaker>
+ALL OFFICERS:</speaker>
+<p>
+What!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>You can't, Private. You're the only Army we have. So you may 
+as well be resigned to your fate, for it's the only resignation
+I'll accept.
+</p></sp>
+<sp><speaker>
+GENERAL:</speaker><p>
+If we lose the private---
+</p></sp>
+
+<sp><speaker>COLONEL:</speaker>
+<p>We won't have anybody to-----</p>
+</sp>
+
+<pb/>
+
+<note>OZMA-----44.</note>
+
+<sp><speaker>MAJOR:</speaker>
+<p>
+Command, and that would break us up----
+</p>
+</sp>
+
+<sp><speaker>CAPTAIN:</speaker>
+<p>
+----in business!
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Very true. But there's another reason.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>What is it?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>I love you. You're the pride of meh heart and the idol of meh---</p></sp>
+<sp><speaker>
+FILES
+</speaker>
+<p>
+Pshaw! What's love got to do with the Army?
+</p></sp>
+
+<sp><speaker>GENERAL:</speaker><p>
+Sir, a soldier's---
+</p></sp>
+
+<sp><speaker>COLONEL:</speaker>
+<p>
+---chief duty---
+</p></sp>
+
+<sp><speaker>MAJOR:</speaker>
+<p>
+---is to win the hearts---
+</p></sp>
+
+<sp><speaker>CAPTAIN:</speaker>
+<p>
+--of women!
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>And you've won mine, Private.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>I don't want it.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Do you intend to obey my orders?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>I didn't enlist to----</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>You enlisted to obey orders. I'm going to command you to marry
+me and become my royal consort.</p></sp>
+
+<pb/>
+
+<note>OZMA-----45.</note>
+<sp><speaker>GENERAL:</speaker>
+<p>If you do that---</p>
+</sp>
+<sp><speaker>COLONEL:</speaker>
+<p>---Your majesty may as well--</p>
+</sp>
+<sp><speaker>MAJOR:</speaker>
+<p>--disband the whole--</p>
+</sp>
+<sp><speaker>CAPTAIN</speaker>
+<p>Bloomin' army!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Can't I hire another private?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Where can you find another victim to take my place?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Why not?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>You don't pay, so the job don't pay.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Pay! Pay! Is this an army of mercenaries or the Army of 
+Oogaboo? Who cares for money?
+</p></sp>
+<sp><speaker>
+ARMY:</speaker>
+<stage>(Together)</stage><p> We do!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Listen, then! Here we are in a foreign country. It looks
+prosperous; so tomorrow we'll conquer it and divide the spoils.
+</p>
+</sp>
+<sp><speaker>
+ARMY:</speaker><p>
+Hurray!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>But you mustn't hurt anybody.</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p>No, Your Majesty!</p>
+</sp>
+<pb/>
+
+<note>OZMA-----46.</note>
+<sp><speaker>FILES:</speaker>
+<stage>(Desperately.)</stage><p> <hi rend="underline">I</hi> will! I'll kill, slay, murder, butcher---
+anything for excitement!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Why don't you marry <hi rend="underline">me</hi>?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>I---I'm not brave enough.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Officers, prepare to make camp on this spot.</p>
+</sp>
+<sp><speaker>GENERALS:</speaker>
+<p>Attention!</p>
+</sp>
+<sp><speaker>COLONELS:</speaker>
+<p>Attention!</p>
+</sp>
+<sp><speaker>MAJORS:</speaker>
+<p>Attention!</p>
+</sp>
+<sp><speaker>CAPTAINS:</speaker>
+<p>Attention!</p>
+<stage>(Private stiffens and
+comes to attention.</stage>
+</sp>
+<sp><speaker>GENERALS:</speaker>
+<p>Break!</p>
+</sp>
+<sp><speaker>COLONELS:</speaker>
+<p>Break!</p>
+</sp>
+<sp><speaker>MAJORS:</speaker>
+<p>Break!</p>
+</sp>
+<sp><speaker>CAPTAINS:</speaker>
+<p>Break!</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<stage>(All together.)</stage> <p>Ranks!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>The ranks are broke already.</p>
+</sp>
+<pb/>
+
+<note>OZMA----47.</note>
+
+<sp><speaker>GENERALS:</speaker>
+<p>Make!</p>
+</sp>
+<sp><speaker>COLONELS:</speaker>
+<p>Make!</p>
+</sp>
+<sp><speaker>MAJORS:</speaker>
+<p>Make!</p>
+</sp>
+<sp><speaker>CAPTAINS:</speaker>
+<p>Make!</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<stage>(All together.)</stage> <p>Camp!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>That's it; if there's any work, it's up to me. If there's 
+any pay----</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Obey orders, sir! Come officers, let us explore the enemy's
+territory!</p></sp>
+
+<stage>(EXIT ANN with OFFICERS. FILES takes off
+knapsack and unfolds a small toy tent,
+which he sets up on stage.
+</stage>
+<sp><speaker>FILES:</speaker>
+<p>Talk about warfare! I haven't seen anything fair since I've 
+been in this business----</p>
+
+<stage>(ENTER OZMA, hastily. Stops abruptly
+on seeing FILES.)</stage>
+
+<p>----until now! Your servant, my dear!</p>
+
+<stage>(Salutes.
+</stage></sp>
+<sp><speaker>OZMA:</speaker>
+<p>Oh, I didn't know you were here! I've lost all my friends.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>And found another! I'm Private Files, of the Army of Oogaboo.
+And you-----?</p>
+</sp>
+<pb/>
+
+<note>OZMA-----48.</note>
+
+<sp><speaker>OZMA:</speaker>
+<p>I'm Princess Ozma of Roseland, but my subjects have driven me
+into exile because they wanted a man to rule over them.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Now that is strange. So lovely a blossom should have more 
+devoted subjects; and, if your own foresake you, here is another
+at your feet. </p><stage>(Kneels.)</stage>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>I'm afraid you can't help me.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<stage>(Rising.)</stage><p> I can do anything. Why, I'm the whole army, except
+the officers. Try me and see.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>My friends and I are trying to find the way to the Metal 
+Kingdom; but we don't know which road to take.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Why don't you call upon your cousins to assist you?</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<stage>(Wonderingly)</stage><p> My cousins?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Yes, my fair Rose Princess. Are not the Field Flowers your 
+cousins, humble though they are?</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Of course.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>They must know where the roads lead to, for the Field Flowers 
+have listened to travelers for ages.</p></sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 10. DUET: OZMA and FILES.
+</head>
+<pb/>
+<note>OZMA-----49.</note>
+<stage>"ASK THE FLOWERS TO TELL YOU."<lb/>
+---<lb/></stage>
+<sp>
+<speaker>
+FILES: </speaker>
+<lg>
+<l>There's a little floweret--</l>
+<l>Pretty little floweret!--</l>
+<l>Nestling in the meadow green!</l>
+<l>Petals white and spreading</l>
+<l>Golden center wedding--</l>
+<l>Daintier was ever seen!</l>
+<l>Lovers come to gather</l>
+<l>It and ask it whether</l>
+<l>"He loves me, or loves me not!"</l>
+<l>Like a necromancer</l>
+<l>Daisy gives the answer---</l>
+<l>Then the flower is soon forgot.</l>
+</lg>
+</sp>
+<sp><speaker>OZMA:</speaker><l> He loves me--</l></sp>
+<sp><speaker>FILES: </speaker><lg><l> She love me not!</l>
+<l>She loves me--</l>
+</lg></sp>
+<sp><speaker>OZMA:</speaker><l> He loves me not!</l>
+</sp>
+<stage>------------<lb/>
+(Chorus girls ENTER with
+big daisies, each having
+16 petals. They pluck
+off a petal at each line,
+and EXIT when all are
+fallen.)<lb/>
+-----------
+</stage>
+<sp><speaker>BOTH: </speaker>
+<lg>
+<l> Daisy leaf</l>
+<l>Pray tell me true--</l>
+<l>Loves <stage>(she)/(he)</stage> me?</l>
+<l>Oh, tell me, do!</l>
+</lg>
+</sp>
+<sp><speaker>FILES: </speaker><lg><l>She loves me--</l></lg></sp>
+<sp><speaker>OZMA: </speaker><lg><l>He loves me not!</l>
+<l>He loves me--</l></lg></sp>
+<sp><speaker>FILES: </speaker><lg><l>She loves me not!</l></lg></sp>
+<sp><speaker>BOTH: </speaker><lg><l>Give me quick</l>
+<l>The answer, pray:</l>
+<l>Loves <stage>(she)/(he)</stage> me?</l>
+<l>Oh, Daisy, say!</l>
+</lg>
+</sp>
+<stage>REFRAIN:</stage>
+<sp><speaker>BOTH: </speaker>
+<lg>
+<l>Ask the flowers to tell you</l>
+<l>And they'll always tell you true:</l>
+<l>They're the wisest little things</l>
+<l>That mortals ever knew.</l>
+<l>When you're puzzled or in doubt</l>
+<l>Seek the clever blossoms out---</l>
+<l>Ask the flowers to tell you</l>
+<l>And they'll always tell you true.</l>
+</lg>
+</sp>
+<stage>2</stage>
+<sp><speaker>OZMA: </speaker>
+<lg>
+<l>Out in meadows hiding,</l>
+<l>Modest and confiding</l>
+<l>Grows the golden buttercup;</l>
+<l>Yellow hues reflecting</l>
+<l>If, its glow expecting,</l>
+<l>To your chin you hold it up---</l>
+<l>Seeing is believing,</l>
+<l>So it's not deceiving</l>
+<l>When it tints your face with gold;</l>
+<l>Blissfully assuring,</l>
+<l>Happy and alluring</l>
+<l>Is the message when it's told.</l>
+</lg>
+</sp>
+<pb/>
+
+<note>OZMA------50.</note>
+
+<stage>------------<lb/>
+(Chorus girls ENTER with big
+Buttercups, which they hold
+beneath their chins. These
+buttercups light electrically,
+flooding their faces with
+yellow hues.)<lb/>
+-----------</stage>
+
+<sp><speaker>FILES:</speaker>
+<lg>
+<l>Buttercup</l>
+<l>Pray let me see</l>
+<l>If your test</l>
+<l>Means joy for me!</l></lg>
+</sp>
+<sp><speaker>OZMA: </speaker>
+<lg>
+<l>If you're fond</l>
+<l>Then you must be</l>
+<l>My true love</l>
+<l>Eternally!</l>
+</lg></sp>
+<sp><speaker>FILES:</speaker>
+<lg>
+<l>Here's the sign</l>
+<l>Well known of old</l>
+<l>If you love</l>
+<l>Reflect the gold!</l></lg>
+</sp>
+<sp><speaker>OZMA: </speaker>
+<lg>
+<l>But if not</l>
+<l>A visage cold</l>
+<l>O'er the flower</l>
+<l>We may behold.</l></lg>
+</sp>
+<stage>(REFRAIN as before.</stage>
+
+<stage>3.</stage>
+<sp><speaker>FILES:</speaker>
+<lg>
+<l>You may ask the Roses</l>
+<l>When your love proposes,</l>
+<l>If you'll answer yes or no.</l>
+<l>He won't have to guess it,</l>
+<l>For they'll quick confess it,</l>
+<l>By the color that they show.</l>
+<l>In her hair reposes</l>
+<l>Reddest of the Roses,</l>
+<l>If the maid will answer, "Yes".</l>
+<l>But a white rose choosing</l>
+<l>Means that she's refusing</l>
+<l>And your suit you may not press.</l>
+</lg></sp>
+<stage>--------<lb/>
+(Chorus girls ENTER in a line
+showing large red roses placed
+above each girls' left ear.
+Then they turn about, forming
+line in opposite direction, and
+show white roses placed in same
+manner above right ear. They
+may remain to sing Refrain or
+EXIT.)<lb/>
+----------<lb/></stage>
+
+
+<sp><speaker>OZMA: </speaker>
+<lg>
+<l>Roses red</l>
+<l>Have ever said</l>
+<l>That the maid</l>
+<l>Her love will wed.</l>
+</lg></sp>
+<sp><speaker>FILES:</speaker>
+<lg>
+<l>Roses white</l>
+<l>will Cupid fright--</l>
+<l>Lovers all</l>
+<l>Deplore the sight;</l>
+</lg></sp>
+<sp><speaker>OZMA: </speaker>
+<lg>
+<l>So the maids</l>
+<l>With careless grace</l>
+<l>In their hair</l>
+<l>The tokens place,</l>
+</lg></sp>
+<sp><speaker>FILES:</speaker>
+<lg>
+<l>And your fate</l>
+<l>You quickly see:</l>
+<l>"Yes" or "No"</l>
+<l>'Tis sure to be.</l>
+</lg></sp>
+<stage>(Refrain repeated as after first verse.</stage>
+
+<stage>(At conclusion of this Number-----
+)<lb/>
+DARK CHANGE to SCENE 3.
+</stage>
+<pb/>
+</div>
+</div>
+<div type="scene">
+<head>
+<hi rend="underline">OZMA OF OZ.</hi><lb/>
+---<lb/>
+<hi rend="underline">ACT I.</hi><lb/>
+---<lb/>
+<hi rend="underline">SCENE 3.</hi><lb/>
+---<lb/></head>
+<div>
+<pb/>
+<note>OZMA------52.</note>
+<stage>
+ACT I.--SCENE 3.--HOME OF THE FIELD FLOWERS.--Special Scenic
+effects by Mr. Voegtlin. See diagram for
+setting.<lb/>
+---<lb/>
+</stage>
+<stage>(<hi rend="underline">ENTER</hi> the mule, HANK. He squats in center
+of stage, and with a wave of his hoof beckons the
+others to hurry, as he has evidently out-distanced 
+them. <hi rend="underline">ENTER</hi> POLYCHROME.)</stage>
+<sp><speaker>POLY:</speaker>
+<p>Ah, but you've led us a chase, and it's lucky my feet were
+
+light enough to follow you.</p>
+
+<stage>(ENTER SHAGGY MAN.</stage>
+
+<p>Where are the others, most beautiful loved one?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Oh, they'll be here presently, if Betsy don't wear out the
+key winding up the junk-shop. Some of Tiktok's clockwork runs
+down every few minutes. <stage>(Sits on stump.)</stage> I've tired myself
+out trying to hurry him up.</p></sp>
+
+<stage>(ENTER BETSY.</stage>
+
+<sp><speaker>BETSY:</speaker>
+<p>Look here, Shaggy Man: I'm not going to play valet to Tiktok
+any longer.
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Where is he?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Somewhere on the way. But it's a winding way and I've turned
+the key on him for the last time. There it is.</p>
+<stage>(Throws down key.)</stage>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I wonder why his inventors didn't give him perpetual motion?
+Perhaps they tried and failed. Something stops his clock every
+few minutes. Wonder if its you, Betsy?
+</p>
+</sp>
+<pb/>
+
+<note>OZMA-----52.</note>
+<sp><speaker>TIK:</speaker>
+<p><stage>(Voice heard from outside)</stage> Wind-me-up-wind-me-up-wind----</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>There he is now. Who's going to give him another start in life?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I will! I love to hear him tick.</p>
+
+<stage>(She picks up key and runs out. Presently
+in marches TIKTOK and runs against the
+mule. HANK kicks and TIKTOK collapses in
+a heap. They raise him to his feet and
+SHAGGY places ear to TIKTOK's chest.</stage>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Heart still beating---he lives!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Have an apple?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Can't eat.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Why not?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Have-n't an-y swal-low mach-in-er-y.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I have. See the swallows homeward fly. <stage>(He eats.)</stage></p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>You're a bird.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Now look here, old man; if you run down again I'm going to
+push that button on your forehead.</p></sp>
+
+<pb/>
+
+<note>OZMA------53.</note>
+
+<sp><speaker>TIK:</speaker>
+<p>You'd ruin my-z-z-z-z-z-ma-chin-er-y.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>That wouldn't matter. Your machinery is so old and worn out 
+it probably came out of Noah's Ark.</p></sp>
+<sp><speaker>TIK:</speaker>
+<p>Per-haps. But it isn't the on-ly thing that was saved from 
+the ark.</p></sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 11. TRIO and DANCE.<lb/>
+<lb/>
+TIKTOK, SHAGGY MAN, and BETSY.<lb/>
+(HANK, the mule assists in dance.)<lb/>
+<lb/>
+"OH, NOAH."<lb/>
+---<lb/>
+</head>
+<sp><speaker>
+TIKTOK: </speaker>
+<lg>
+<l>When Noah built the ark,</l>
+<l>Of good old hick'ry bark,</l>
+<l>HE saved the whale, the high-priced quail,</l>
+<l>The June-bug and the shark:</l>
+</lg>
+</sp><sp><speaker>
+SHAGGY:</speaker> 
+<lg>
+<l>He saved the slot machine.</l>
+<l>The noodle-soup tureen,</l>
+<l>The sardine box and the blondine looks</l>
+<l>Of the girl of sweet sixteen.</l>
+</lg>
+</sp><sp><speaker>
+TRIO:</speaker> 
+<lg>
+<l>Oh, Noah, Noah!</l>
+<l>It really was too bad,</l>
+<l>That you saved us the very things</l>
+<l>We wish we'd never had!</l>
+</lg></sp>
+<stage>(DANCE.)</stage>
+<stage>
+2</stage>
+<sp><speaker>
+BETSY: </speaker> 
+<lg>
+<l>He saved the college yell,</l>
+<l>The gentle-eyed gazelle,</l>
+<l>The museum freak from Mozambique</l>
+<l>And continuous vaudeville!</l>
+</lg></sp>
+<sp><speaker>
+TIKTOK: </speaker> 
+<lg>
+<l>The jokes of dear Mark Twain,</l>
+<l>And the suffragettes' campaign</l>
+<l>He saved 'em all, both great and small</l>
+<l>And they can't get lost again.</l>
+</lg></sp>
+<sp><speaker>
+TRIO: </speaker> 
+<lg>
+<l>Oh, Noah, Noah!</l>
+<l>You had it in for us--</l>
+<l>You might have drowned the curios</l>
+<l>And saved a lot of fuss.</l>
+</lg></sp>
+<stage>(DANCE.</stage>
+
+<pb/>
+
+<note>OZMA-----54.</note>
+<stage>
+3.
+</stage>
+<sp><speaker>
+SHAGGY: </speaker> 
+<lg>
+<l>When Noah built the ark,</l>
+<l>He saved--but keep it dark--</l>
+<l>He saved the boy musician, just to</l>
+<l>Show he loved a lark!</l>
+</lg></sp>
+<sp><speaker>
+BETSY: </speaker> 
+<lg>
+<l>He saved the Jersey keeter,</l>
+<l>The over-worked gas-meter</l>
+<l>To make us feel that life was real,</l>
+<l>And might be vastly sweeter.</l>
+</lg></sp>
+<sp><speaker>
+TRIO: </speaker> 
+<lg>
+<l>Oh, Noah, Noah!</l>
+<l>What made you treat us so?</l>
+<l>You had a chance to soak 'em</l>
+<l>But you let the freaks all go.</l>
+</lg></sp>
+<stage>(DANCE.)</stage>
+
+<stage>(Verses ad lib.)</stage>
+<stage>(Characters dance off stage to allow <lb/>
+ENTRANCE of QUEEN ANN and OFFICERS)</stage>
+</div>
+<div>
+<sp><speaker>ANN:</speaker>
+<p>Cheer up, Officers. Don't look so glum.</p>
+</sp>
+<sp><speaker>GENERAL:</speaker>
+<p>Can't help it, your Maj----</p>
+</sp>
+<sp><speaker>COLONEL:</speaker>
+<p>---esty; the private is gone----</p>
+</sp>
+<sp><speaker>MAJOR:</speaker>
+<p>---and there is no one to command----</p>
+</sp>
+<sp><speaker>CAPTAIN:</speaker>
+<p>---to fight the foe!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>The private is a deserter. But although he has run away, my 
+love for him remains.
+</p></sp>
+<sp><speaker>
+GEN. FUSS:</speaker>
+<p>
+But, Your Majesty, your love won't fight!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Won't it, though! You wait till I've married Private Files, 
+and see.
+</p></sp>
+<stage>(ENTER: SHAGGY, BETSY, TIKTOK, and HANK.</stage>
+
+<pb/>
+
+<note>OZMA-----55.</note>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>Hello, what's this outfit?-----banditti?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Fellow, I'm Queen Ann of Oogaboo--and this is my army--all 
+except Private Files. There's no private.</p>
+</sp>
+<sp><speaker>TIKTOK:</speaker>
+<p>It's a pub-lic ar-my. "For-ward the tight bri-gade, Charge
+for the drinks, he said!"</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You're wrong. "Forward the <hi rend="underline">light</hi> brigade----"</p>
+</sp>
+<sp><speaker>TIKTOK:</speaker>
+<p>I'm right according to my ma-chin-er-y.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Your machinery's on the bun.</p>
+</sp>
+<sp><speaker>TIKTOK:</speaker>
+<p>Don't blame me--blame-z-z-z-z-z-z-z-z-the pat-en-tee.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<stage>(To ANN)</stage><p> What's the good of an army in this forsaken place?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>We're here to conquer the world, inquisitive female.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Don't you call me a female! Hank, will you see me insulted?</p>
+</sp>
+<stage>(HANK dives among the OFFICERS, kicking,
+and scatters them right and left.)</stage>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>Are you the original Queen Ann?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>I am, and I'm a terrible person when scorned.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p><stage>(Kissing his hand to Ann.)</stage> I think are love-ly.</p>
+</sp>
+<pb/>
+
+<note>OZMA-----56.</note>
+
+<sp><speaker>ANN:</speaker>
+<p>And you are right. Evidently you are a very proper man.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I am. My clock-work ticks on-ly for you.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>How sudden!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You're queen high, now, Ann. Talk about being scorned---</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>The private scorned me, just the same. But wait till I 
+catch him----that's all.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Poor fellow! I'll save him from your love.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>You can't.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Just watch me and see. </p><stage>(He holds up Love Magnet. ANN makes 
+a leap and clings around his neck.</stage>
+<p>Hi, there! Help, somebody, help!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Sir, re-lease, the la-dy.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I can't. She won't let me.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>I love---I love but thee!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Where do <hi rend="underline">I</hi> come in?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You go out. Now, Ann--Ann! Be reasonable! I don't mind your
+loving me, for having seen the Love Magnet you can't help it.
+
+<pb/>
+
+<note>OZMA-----57.</note>
+
+But you must remember you're only one of a crowd.</p></sp>
+
+<stage>(Releases himself and holds her at arm's 
+length.)</stage>
+
+<sp><speaker>ANN:</speaker>
+<p>You must be mine!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Can't think of it. I belong to the universe.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>You shall be my soldier. I need you to act as the army of 
+Oogaboo.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>What's the pay?</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<stage>(Together.)</stage> <p>Promises!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Then I'll promise to be the army---some day, but not now.</p>
+</sp>
+<sp><speaker>GEN. FUSS:</speaker>
+<p>We need a private---</p>
+</sp>
+<sp><speaker>
+COL. KORN:</speaker>
+<p>---to command, so we can order him---</p></sp>
+<sp><speaker>
+MAJ. KEY:</speaker>
+<p>---to fight our battles, and----</p>
+</sp>
+<sp><speaker>
+CAPT. YOUNG:</speaker>
+<p>---conquer the world!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Ah, I have an idea! I need this outfit to fight and conquer 
+the Metal Monarch---</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Who's he?</p>
+</sp>
+<pb/>
+
+<note>OZMA-----58.</note>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>Ruler of the underground Metal Kingdom.</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p>Is he rich?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Owns all the metal in the world--gold, silver, copper, iron, 
+politicians, radium, tin, life-insurance agents and brass.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Good! We'll conquer him!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>And release my dear brother from captivity!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>And with the booty we'll pay my army all their arrears of salary!</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p><stage>(Enthusiastic)</stage> Hurray!</p>
+</sp>
+<sp><speaker>GEN. FUSS:</speaker>
+<p>But we---</p>
+</sp>
+<sp><speaker>COL. KORN:</speaker>
+<p>---haven't---</p>
+</sp>
+<sp><speaker>MAJ. KEY:</speaker>
+<p>----any----</p>
+</sp>
+<sp><speaker>CAPT. YOUNG:</speaker>
+<p>---private soldier!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>We must have a private soldier, my love. But I'm afraid if 
+you accept the post, you may be wounded, and that would break
+my heart.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Mine too! But stay! We'll make Tiktok the private.</p>
+</sp>
+<pb/>
+
+<note>OZMA-----59.</note>
+<sp><speaker>TIK:</speaker>
+<p>Oh, no indeed! I can't fight and I can't run!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>You can if you're wound up, Tiktok!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>If I run much I run down.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>But the enemy can't hurt you. You're fire-proof.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>And always on your mettle.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>An ideal soldier!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>You re-fused my love, so I re-fuse to fight.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<stage>(To ANN)</stage><p> He says his clockwork is only regulated by love.</p>
+<p>
+Pretend to love him and you'll win an army.
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Watch me! <stage>(Approaches TIKTOK)</stage> My darling Tiktok! Although Ilove another man in the flesh, you are the only clockwork
+individual I admire. Every wheel, pinion, spring and eccentric
+in your anatomy is dear to me. Say you'll be my army and I'll
+swear never to love another machine as I do you.
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Fair Queen, you have my cog-wheels! I ac-cept your of-fer!</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p>Hurray!</p>
+</sp>
+<sp><speaker>GEN. FUSS:</speaker>
+<p>With this noble army----</p>
+</sp>
+<pb/>
+
+<note>OZMA-----60.</note>
+<sp><speaker>COL. KORN:</speaker>
+<p>---we'll march to victory!</p>
+</sp>
+<sp><speaker>MAJ. KEY:</speaker>
+<p>We'll conquer or we'll die---</p>
+</sp>
+<sp><speaker>CAPT. YOUNG:</speaker>
+<p>---our whiskers!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Very good. Let us march on the Metal Kingdom at once!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Where is it?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>One of these roads leads to it, but we don't know which.</p>
+</sp>
+<stage>(ENTER: POLYCHROME, dancing gaily.</stage>
+<sp><speaker>POLY:</speaker>
+<p>I found them!</p>
+</sp>
+<sp><speaker>ALL:</speaker>
+<p>Whom?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Princess Ozma and Private Files.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Where were they?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Kissing behind a rose-bush.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>How scan-da-lous!</p>
+</sp>
+<stage>(ENTER: OZMA and FILES.)</stage>
+
+<sp><speaker>FILES:</speaker>
+<p>Not at all! I'm going to take the Army of Oogaboo to the RoseKingdom, conquer the rebellious subjects, and marry the Princess.
+</p>
+</sp>
+<pb/>
+
+<note>OZMA-----61.</note>
+<sp><speaker>ANN:</speaker>
+<p>You're too late, my good man. Your resignation has been
+accepted, and this noble soldier <stage>(Pointing to TIKTOK)</stage> is
+now the Army of Oogaboo.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>I thought you loved me.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Here is my love! </p><stage>(Leaps and grabs SHAGGY around neck. He
+throws her off. She is caught by the 
+Generals and whirled down the line of
+Colonels, Majors and Capatins-finally
+landing in TIKTOK's arms.</stage>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(To FILES)</stage><p> Sir, you owe your escape to me. she loves me---<lb/>
+she loves you not!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Thank goodness!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Thank the Love Magnet. And now we're going to conquer the
+Metal Kingdom and rescue my brother from the Metal Monarch.
+That is, we're going as soon as we discover the way.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I'll show you the way.</p>
+</sp>
+<sp><speaker>ALL:</speaker>
+<p>You!</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Yes, if you will promise to help these true lovers as soon as 
+you have conquered the Metal Monarch.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>It's a bargain.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>But this bunch of old iron can't fight! <stage>(Points to TIKTOK.)</stage></p>
+</sp>
+<pb/>
+
+<note>OZMA-----62.</note>
+<sp><speaker>BETSY:</speaker>
+<p>He's scrap-iron!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Oh, that's different.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Are you ready to march?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Just as soon as the army forms ranks. Officers, do your duty!
+</p>
+</sp>
+<sp><speaker>GENERALS:</speaker>
+<p>Fall!</p>
+</sp>
+<sp><speaker>COLONELS:</speaker>
+<p>Fall!</p>
+</sp>
+<sp><speaker>MAJORS:</speaker>
+<p>Fall!</p>
+</sp>
+<sp><speaker>CAPTAINS:</speaker>
+<p>Fall!</p>
+</sp>
+<sp><speaker>ALL OFFICERS:</speaker>
+<p>In!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Fall in what?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Marching order.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Then wind me up.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>That's your job, Polly. <stage>(POLY. winds up TIKTOK)</stage></p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks!</p>
+</sp>
+<pb/>
+
+<note>OZMA-----63.</note>
+<sp><speaker>GENERALS:</speaker>
+<p>'Ten----</p>
+</sp>
+<sp><speaker>COLONELS:</speaker>
+<p>'Ten----</p>
+</sp>
+<sp><speaker>MAJORS:</speaker>
+<p>'Ten----</p>
+</sp>
+<sp><speaker>CAPTAINS:</speaker>
+<p>'Ten----</p>
+</sp>
+<sp><speaker>ALL OFFICERS:</speaker>
+<p>Shun!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>You musn't in-ter-fere with my ten-sion or I won't work.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Now, Polly, show us the way to go.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>The Field Flowers will tell us the way.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>These creatures! <stage>(Pointing.)</stage></p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>They're my second cousins!</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>They've been here for years, and heard all the travelers talk.
+Surely they know the way to the Metal Kingdom.
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Ask them, dear.</p></sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 12.<lb/>
+<lb/>
+CONCERTED NUMBER and FINALE.<lb/>
+PRINCIPALS and CHORUS.<lb/>
+---<lb/>
+</head>
+<pb/>
+
+<note>OZMA-----64.</note>
+<sp><speaker>
+POLYCHROME:
+</speaker><lg>
+<l>Prithee little field-floers,</l>
+<l>Pretty little field-flowers,</l>
+<l>Listen as we sing:</l>
+<l>We have lost our way, so</l>
+<l>Tell us how we may go</l>
+<l>To the Metal King.</l>
+</lg>
+<lg>
+<l>If you'll truly guide us</l>
+<l>And a way provide us</l>
+<l>I will promise you,</l>
+<l>That the rains will bless you</l>
+<l>And the Sun caress you</l>
+<l>All the long year through.</l>
+</lg>
+</sp>
+<stage>(Field Flowers come to life, rising to dance to the air. They
+make a low bow to POLY. as she finishes and then sing minuet
+chorus and dance about the stage, gradually forming themselves into
+a long lane diagonally across stage.)</stage>
+<sp><speaker>
+FIELD FLOWERS:
+</speaker><lg>
+<l>Gladly</l>
+<l>We consent to guide you and to grant your sweet request--</l>
+<l>Sad-ly</l>
+<l>Would the way betide you if you wander to the West--</l>
+<l>Dan-gers</l>
+<l>You'll be undertaking in the North so cold and drear--</l>
+<l>Strang-ers</l>
+<l>South and East forsaking find the way lies only here.</l>
+</lg>
+<lg>
+<l>There lies the way--</l>
+<l>So have no hesitation;</l>
+<l>There lies the way</l>
+<l>Unto your destination.</l>
+<l>The Metal Monarch you will find</l>
+<l>To strangers ever most unkind;</l>
+<l>But if to dangers you are blind,</l>
+<l>There lies the way.</l>
+</lg>
+</sp>
+<stage>(They point along lane.</stage>
+
+<sp><speaker>MALE CHARACTERS: </speaker>
+<lg>
+<l>Oh, now we know which way to go</l>
+<l>These beauties show us clearly, so</l>
+<l>We'll make a start and all depart</l>
+<l>With courage smart and cheerful heart.</l>
+</lg></sp>
+
+<sp><speaker>FEMALE CHARACTERS:  </speaker>
+<lg>
+<l>No more we dwell beneath a spell</l>
+<l>These flowers tell us very well</l>
+<l>The very thing we need to bring</l>
+<l>Us to the ringing Metal King.</l>
+</lg>
+</sp>
+<stage>
+MARCH SONG:
+</stage>
+<sp><speaker>
+ANN: 
+</speaker>
+<lg>
+<l>We'll march against the enemy</l>
+<l>The Metal Monarch bold--</l>
+</lg>
+</sp>
+<sp><speaker>
+FILES: 
+</speaker>
+<lg>
+<l>We'll capture all his treasures</l>
+<l>And revel in his gold.</l>
+</lg>
+</sp>
+<pb/>
+
+<note>OZMA-----65.</note>
+<sp><speaker>
+BETSY: </speaker>
+<lg>
+<l>The deed will crown us with renown--</l>
+<l>We'll conquer or we'll die.</l>
+</lg></sp>
+<sp><speaker>SHAGGY:  </speaker>
+<lg>
+<l>We'll win a name and wealth and fame</l>
+<l>Or know the reason why.</l>
+</lg>
+</sp>
+<stage>REFRAIN:</stage>
+<sp><speaker>GENERALS: </speaker><lg><l>Then for-----</l></lg></sp>
+<sp><speaker>COLONELS: </speaker><lg><l>-----ward, March!</l></lg></sp>
+<sp><speaker>ALL:</speaker><lg><l> We'll march to victory!</l></lg></sp>
+<sp><speaker>MAJORS: </speaker><lg><l> Then for-----</l></lg></sp>
+<sp><speaker>CAPTAINS: </speaker><lg><l> --ward, MARCH!</l></lg></sp>
+<sp><speaker>TIKTOK: </speaker><lg><l> I'm marching, can't you see---</l></lg></sp>
+<sp><speaker>ALL: </speaker><lg><l> We'll take the Metal Monarch, and</l></lg></sp>
+<sp><speaker>SHAGGY and PRINCIPALS:  </speaker><lg><l> We'll set (my/his) brother free!</l></lg></sp>
+
+<sp><speaker>ALL: </speaker><lg><l>When we go marching to vict'ry!</l></lg></sp>
+
+<stage>2.</stage>
+<sp><speaker>ALL: </speaker><lg>
+<l>The Flowers of the Field have told</l>
+<l>Us just the road to take.</l>
+<l>We'll march along this high-way, for</l>
+<l>We can't make a mistake--</l>
+<l>And when the Metal Monarch sees</l>
+<l>Our grim, determined band,</l>
+<l>If he's no fool, he'll know his rule</l>
+<l>Is over in the land.</l>
+</lg></sp>
+<stage>REFRAIN:</stage>
+<sp><speaker>ALL: </speaker><lg>
+<l>So march away</l>
+<l>To win a victory:</l>
+<l>We love the fray,</l>
+<l>We're gallant, brave and free--</l>
+<l>The breath of life</l>
+<l>Is war and strife</l>
+<l>To soldiers such as we,</l>
+<l>When we go marching to vict-ry!</l>
+</lg></sp>
+<stage>(During last verse, one by one the PRINCIPALS march up the lane,
+the OFFICERS waving swords and marking time. During the last
+Refrain, TIKTOK starts to march and runs down. SHAGGY and
+FILES run to his aid and set him on HANK, the mule, who kicks
+desperately, but finally carries TIKTOK off.)</stage>
+<stage>
+PICTURE and<lb/>
+<lb/>
+CURTAIN.<lb/>
+---<lb/>
+<lb/>
+END OF ACT I.
+</stage>
+<pb/>
+</div>
+</div></div>
+<div type="act" n="2">
+<head>
+OZMA OF OZ<lb/>
+<lb/>
+---<lb/>
+<lb/>
+ACT II<lb/>
+<lb/>
+---</head>
+<floatingText>
+<front>
+<head>
+SCENE 1.<lb/>
+<lb/>
+---<lb/>
+<pb/>
+</head>
+</front>
+<body>
+<tech>
+OZMA.--II--66.<lb/>
+<lb/>
+OZMA OF OZ.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+SCENES IN<lb/>
+<lb/>
+ACT II.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+SCENE 1.--THE UNDERGROUND CAVERN OF THE METAL MONARCH.<lb/>
+<lb/>
+SCENE 2.--A CANYON IN THE WILDERNESS. (In 2.<lb/>
+<lb/>
+SCENE 3.--THE METAL FOREST.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+----------<lb/>
+<lb/>
+<pb/>
+<lb/>
+<note>OZMA-----67.</note><lb/>
+<lb/>
+OZMA OF OZ.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+LIST OF CHARACTERS<lb/>
+<lb/>
+Introduced in ACT II,<lb/>
+in addition to those in ACT I.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+RUGGEDO: THE METAL MONARCH: who hates mankind because they<lb/>
+have robbed his kingdom of its<lb/>
+wealth.<lb/>
+<lb/>
+FLASH: The Chief Imp: Subject of the Metal Monarch.<lb/>
+<lb/>
+THE UGLY MAN: the Shaggy Man's beloved brother.<lb/>
+<lb/>
+A MESSENGER: from the Rose Kingdom.<lb/>
+<lb/>
+----------<lb/>
+<lb/>
+CHORUSES:<lb/>
+<lb/>
+METAL IMPS.<lb/>
+<lb/>
+OFFICERS OF OOGABOO.<lb/>
+<lb/>
+RED-ROSE CHORUS.<lb/>
+<lb/>
+RAINBOW CHORUS.<lb/>
+<lb/>
+FIREFLY CHORUS.<lb/>
+<lb/>
+PIRATE FLEET.<lb/>
+<lb/>
+----------<lb/>
+<lb/>
+<pb/><lb/>
+<lb/>
+<note>OZMA-----68.</note><lb/>
+<lb/>
+OZMA OF OZ.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+LIST OF MUSICAL NUMBERS<lb/>
+In Act II.<lb/>
+---<lb/>
+<lb/>
+SCENE 1.<lb/>
+13.--BASS SONG and ANVIL CHORUS: "WORK LADS, WORK." RUGGEDO.<lb/>
+<lb/>
+14.--DUET: "WHEN IN TROUBLE COME TO PAPA." RUGGEDO and POLYCHROME.<lb/>
+<lb/>
+15.--MUSICAL BATTLE: (a) "FIGHT FOR OOGABOO." Officers of Oogaboo.<lb/>
+(b) Instrumental: "THE ATTACK."<lb/>
+(c) "BATTLE IMPS." Metal Imps.<lb/>
+<lb/>
+16.--SONG and CHORUS: "A RAINBOW BRIDE." OZMA and PRINCIPALS.<lb/>
+<lb/>
+SCENE 2.<lb/>
+<lb/>
+17.--BALLAD: "MY LOVELY ROSE." Private FILES.<lb/>
+<lb/>
+18.--DUET: "GIRLS ARE ALWAYS THE SAME." QUEEN ANN and OZMA.<lb/>
+<lb/>
+19.--DUET: Topical Song: "CAPTAIN KIDD." TIKTOK and SHAGGY MAN.<lb/>
+<lb/>
+20.--QUARTETTE: "LOVE WILL FIND A WAY." OZMA, FILES, RUGGEDO, <lb/>
+and ANN.<lb/>
+<lb/>
+21.--Instrumental: STORM MUSIC: followed by a repetition of<lb/>
+"SUMMER RAIN."<lb/>
+<lb/>
+SCENE 3.<lb/>
+<lb/>
+22.--FIREFLY CHORUS: "FAIRIES OF LIGHT."<lb/>
+<lb/>
+23.--DUET and CHORUS: "CALLAHAN." ANN and SHAGGY MAN.<lb/>
+<lb/>
+24.--FINALE: Introducing popular selections from foregoing<lb/>
+songs and "THE MAGNET OF LOVE."<lb/>
+<lb/>
+----------<lb/>
+
+<pb/>
+</tech>
+<note>OZMA-----69.</note>
+</body>
+</floatingText>
+<div type="scene" n="1">
+<head>
+OZMA OF OZ.<lb/>
+<lb/>
+ACT II.<lb/>
+---</head>
+<div type="song">
+<head>
+MUSICAL NUMBER 13. BASS SONG and ANVIL CHORUS:<lb/>
+---<lb/>
+METAL MONARCH and METAL IMPS.<lb/>
+---<lb/>
+</head>
+<stage>
+<hi rend="underline">SCENE 1.</hi>-- THE METAL MONARCH'S UNDERGROUND CAVERN.--This scene
+consists of an irregular rock setting, the rocks
+reaching nearly to the flies at background and at the 
+wings. Perched upon these rocks in various places 
+is the Chorus of METAL IMPS engaged in hammering metal
+upon anvils. These anvils are tuned so that the blows
+of the hammers play an anvil accompaniment to the
+OPENING CHORUS, and as each blow is struck the different
+anvils light up electronically, showing flashes of
+different colors. The face of the rock is everywhere
+set with colored jewels. These jewels are made by
+setting imitation cut-glass saucers, with the rounding
+side out, in the scenery, coloring them with transparent
+colors and placing an electric light behind
+each one. In the C. of the Cavern is the Metal
+Monarch's Rocky Throne, which also glistens with colored
+jewels. The METAL MONARCH is discovered seated
+upon this throne, puffing a long pipe and wearing his
+Magic Belt. This Belt is very broad and contains a
+row of electric buttons. When the METAL MONARCH wishes
+to perform any trick of magic, he pushes the proper
+button to accomplish his object, and at once a bell
+rings inside him to show that the magic has been performed.
+NOTE: THE CHORUS OF METAL IMPS is <hi rend="underline">female</hi>.)
+</stage>
+
+<sp><speaker>METAL MONARCH: </speaker><lg>
+<l>Work, lads, work!</l>
+<l>Don't let me catch you lagging:</l>
+<l>Work, lads, work!</l>
+<l>With spirits never flagging:</l>
+<l>You've got a lot of things to do</l>
+<l>Before you quit, I promise you,</l>
+<l>There'll be no rest till you are through:</l>
+<l>So work, lads, work!</l>
+</lg></sp>
+<sp><speaker>
+METAL MON. and
+CHORUS OF IMPS:</speaker>
+<lg>
+<l>We're making spirit cabinets to fool the human race,</l>
+<l>And muzzles for your mother-in-law to wear upon her face.</l>
+<l>Our thirst-producers are so fine we cannot make enough;</l>
+<l>Our corset-steels and high French heels to torture are the stuff.</l>
+</lg>
+</sp>
+<pb/>
+
+<note>OZMA-----70.</note>
+
+<sp><speaker>METAL MONARCH: </speaker><lg>
+<l>Work, lads, work!</l>
+<l>You've got to keep a-going!</l>
+<l>Work, lads, work!</l>
+<l>And set the forge glowing!</l>
+<l>Our orders we must promptly fill</l>
+<l>Because our products fill the bill,</l>
+<l>So heave your hammers with a will,</l>
+<l>And work, lads, work!</l>
+</lg></sp>
+<sp>
+<speaker>ANVIL CHORUS: </speaker>
+<lg>
+<l>Ding! Dong! Ding! Dong!</l>
+<l>Ding! Dong! Ding! Dong!</l>
+</lg>
+</sp>
+<stage>(x indicates a stroke on anvil.)</stage>
+<stage>---</stage>
+<sp>
+<lg>
+<l>We will work be-cause we must,</l>
+<l>x   x    x    x   x   x   x</l>
+<lb/>
+<l>Rain-ing might- y blows and just,</l>
+<l>x     x   x     x   x    x   x</l>
+<lb/>
+<l>Bel- lows blow- ing</l>
+<l>x     x    x     x</l>
+<lb/>
+<l>For- ges glow- ing</l>
+<l>x    x    x     x</l>
+<lb/>
+<l>Lab-- or is the com- mon lot---</l>
+<l>x        x       x        x    x   x</l>
+<lb/>
+<l>We are har- dy, stur- dy, bold,</l>
+<l>x   x   x   x    x    x     x</l>
+<lb/>
+<l>Beat- ing out the gleam- ing gold,</l>
+<l>x      x   x   x    x     x    x</l>
+<lb/>
+<l>Sparks a- fly- ing</l>
+<l>  x    x   x    x</l>
+<lb/>
+<l>Man de- fy- ing;</l>
+<l>x   x   x    x</l>
+<lb/>
+<l>Strik- ing while the met- al's hot!</l>
+<l>  x          x        x   x     x    x   x</l>
+</lg></sp>  
+<stage>2.</stage>
+<sp><speaker>METAL MONARCH: 
+and IMPS: </speaker>
+<lg>
+<l>Work, lads, work--</l>
+<l>For vengeance and for glory!</l>
+<l>Work, lads, work--</l>
+<l>Each blow will tell its story!</l>
+<l>We'll forge the shackles for mankind,</l>
+<l>Whose lust for metal makes them blind;</l>
+<l>Their fate is in our net entwined,</l>
+<l>So work, lads, work!</l>
+</lg>
+</sp>
+
+<sp><speaker>RUGGEDO:</speaker>
+<lg>
+<l>I'm known to be a wicked king, and foe to human kind,</l>
+<l>No one so nobly wicked in the universe you'll find.</l>
+<l>From love and sentiment I turn, and strive for hate alone;</l>
+<l>And yet my conscience troubles me, so wicked have I grown.</l>
+</lg>
+<lg>
+<l>Strike lads, smite</l>
+<l>The yielding, yellow gold,</l>
+<l>Clash and crash</l>
+<l>Your hammers till it's cold.--</l>
+<l>Let your anvils sing the song</l>
+<l>Of all your staunch and mighty throng!</l>
+<l>The profits all to me belong,</l>
+<l>So smite, lads, smite!</l>
+</lg>
+</sp>
+<pb/>
+
+<note>OZMA-----71.</note>
+
+<stage>(REPEAT ANVIL CHORUS AS BEFORE.<lb/>
+---</stage>
+</div>
+<div>
+<sp><speaker>FLASH:</speaker> 
+<stage>(Chief Imp.)</stage>
+<stage>(Approaching RUGGEDO)</stage> 
+<p>
+Your Majesty, there's a great demand for
+love philters. Oughtn't we to manufacture some of them?
+</p>
+</sp>
+
+<sp><speaker>RUGGEDO:</speaker><p>
+Love! Love! What have <hi rend="underline">we</hi> to do with love? Hate's the only
+thing <hi rend="underline">we're</hi> able to turn out. Never mind the love philters---
+make water-filters, if you like.</p>
+</sp>
+<sp><speaker>FLASH:</speaker>
+<p>But love is very popular, just now, up on earth.</p></sp>
+<sp><speaker>RUGGEDO:</speaker><p>
+I hate love!--but I wish I didn't. I abhor love--but I'd give
+a gold button if I understood the idiotic sentiment. That's
+one reason I hate mortals. They can love, and I can't. So I
+hate 'em---I hate everybody!
+</p>
+</sp>
+<sp><speaker>FLASH:</speaker>
+<p>And everybody hates you.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>What's that? Of course they hate me. Why shouldn't they?</p>
+
+<stage>(Scene lightens and variegated rainbow hues
+appear CHORUS of IMPS drop hammers and
+hide among rocks. RUGGEDO rises.)</stage>
+<p>
+Hello, what's up now; or rather <hi rend="underline">down</hi>? There can't be a rainbow
+underground! Im-possible!
+</p></sp>
+<stage>(ENTER: IMPS escorting POLYCHROME and BETSY.</stage>
+
+<sp><speaker>FLASH:</speaker>
+<p>It's the Rainbow's daughter, Your Majesty and a mortal maiden.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p><stage>(Sternly)</stage> What are <hi rend="underline">you</hi> doing here?</p>
+</sp>
+<pb/>
+
+<note>OZMA-----72.</note>
+<sp><speaker>
+POLYCHORME:</speaker><p>
+Are we not welcome, Ruggedo?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>No; you're both too pretty. I hate pretty girls.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Why, you old bear! If I once got my fingers in your whiskers
+I'd tear 'em out by the roots!
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>You haven't any pull in this Kingdom, so be silent!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>I won't. No man shall ever order <hi rend="underline">me</hi> 'round; that's flat!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>On the square?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Don't anger the Metal Monarch, dear.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Why, he's always so angry.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>You're right, I am. I hate everybody and everybody hates me.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Oh, go out in the garden and eat wolly ones.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Wow! <stage>(Comes down from throne.)</stage> What do you <hi rend="underline">want</hi> here?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>I'm looking around to see,</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>This is no sea-cavern. <stage>(Gazing rapturously at POLYCHROME.Ah, if only I could love!
+</stage></p>
+</sp>
+<pb/>
+
+<note>OZMA-----73.</note>
+<sp><speaker>POLY:</speaker>
+<p>Can't you---if you try?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I don't know. I've never tried. I don't know <hi rend="underline">how</hi> to try! Ihate all mortals because they rob my kingdom of its gold and
+precious metals. If they keep on digging they'll bankrupt me!
+</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>But <hi rend="underline">I'm</hi> not a mortal.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p><stage>(Surprised)</stage> No?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I'm the daughter of the Rainbow. But this mortal <stage>(Pointing to
+BETSY)</stage> is my friend.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Then I'll submit to her presence here, for your sake, little
+rainbow. Here, Flash! <stage>(To Chief Imp)</stage> Take this crazy mortal to
+the Royal Storehouse, and show her all the curious things we
+manufacture. Keep her busy for awhile--understand?</p>
+</sp>
+
+<stage>(FLASH bows.
+</stage>
+<sp><speaker>BETSY:</speaker>
+<p>I understand, too. You want to get me away, so you can make
+love to Polly.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p><stage>(Furious)</stage> Hammer and tongs! This to me! Away with her, Flash!</p></sp>
+
+<stage>(Imp leads BETSY out.
+</stage>
+<sp><speaker>POLY:</speaker>
+<p>Isn't your temper a little too violent?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>May be. You see, my dear---</p>
+</sp>
+<pb/>
+
+<note>OZMA-----74.</note>
+<sp><speaker>POLY:</speaker>
+<p><hi rend="underline">Your</hi> dear?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Hem! Of course. You see, my pretty rainbow, I can't hate everybody and keep my temper at the same time. Im-possible!
+</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>But why hate <hi rend="underline">every</hi>body? You said you thought you could love me.
+Don't you think you could make an exception in my case?
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Perhaps; if I knew how to love. Do you know, if I once gotstarted I believe I could love frantically--furiously--distractedly!
+It's all in knowing how, I suppose. Can't you
+give me a lesson, little rainbow? What are the "three R's"
+of love?
+</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Recognition, recreation and recovery.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>And what is the geography of love?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>It's bounded on the North by Flirtation; on the East by Fascination;
+on the South by Revelation; and on the West by----
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Well?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Separation.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Oh, I see. You get a glance, you have a dance, then lookaskance and take a chance.
+</p>
+</sp>
+<pb/>
+
+<note>OZMA-----75.</note>
+<sp><speaker>POLY:</speaker>
+<p>Exactly.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p><stage>(Bashfully coming nearer)</stage> Where do the kisses and hugs come in?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<stage>(Demurely)</stage><p> What are kisses and hugs?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Don't know. How should <hi rend="underline">I</hi> know? But I've heard 'em mentioned.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I imagine you know more than I can teach you, Ruggedo. Perhaps
+
+there <hi rend="underline">are</hi> such things as kisses-- I'm not very wise--</p><stage>(Hesitates</stage>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p><stage>(Tenderly)</stage> Well, I once came from Missouri, my dear.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>On the Rainbow love means happiness, a merry heart and
+contentment. When I lived there I loved only my father, and
+went to him in all my troubles.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Is that one of the privileges of love?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I think so.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Wehn in trouble come to papa, eh?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Yes; that's the idea.</p></sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 14. DUET: RUGGEDO and POLYCHROME.<lb/>
+---<lb/>
+
+<pb/>
+
+<note>OZMA-----76.</note>
+
+"WHEN IN TROUBLE COME TO PAPA."<lb/>
+---<lb/>
+</head>
+<sp>
+<speaker>
+RUGG:</speaker><lg> 
+<l>There's a friend that never fails you,</l>
+<l>Comforts you whatever ails you;</l>
+<l>At the restaurants regales you</l>
+<l>In a lordly way.</l>
+</lg>
+</sp>
+<sp>
+<speaker>POLY: </speaker>
+<lg>
+<l>If your tailor gown doesn't fit you,</l>
+<l>If your rivals all outwit you,</l>
+<l>If the handosme chaps forget you,</l>
+<l>There is one who'll say:</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+BOTH:</speaker><lg> 
+<l>When in trouble come to papa!</l>
+<l>He will see you through.</l>
+<l>If you are an old man's darling</l>
+<l>To you he'll be true.</l>
+<l>If your youthful lover quarrels,</l>
+<l>If you're feeling blue,</l>
+<l>Take your troubles all to papa--</l>
+<l>He will see you through.</l>
+</lg>
+</sp>
+
+<stage>(DANCE.</stage>
+<stage>
+2.
+</stage>
+
+<sp>
+<speaker>POLY: </speaker>
+<lg>
+<l>Papa never dares to bore you,</l>
+<l>But declares he just adores you;</l>
+<l>Dangles jewels bright before you</l>
+<l>In a merry way.</l>
+</lg></sp>
+<sp>
+<speaker>
+RUGG:</speaker><lg> 
+<l>All he asks is smiles and kisses</l>
+<l>Which a damsel never misses,</l>
+<l>Your companionship his bliss is,</l>
+<l>And he'll always say:</l>
+</lg></sp>
+
+<sp>
+<speaker>
+BOTH:</speaker><lg> 
+<l>When in trouble come to papa--</l>
+<l>He will see you through:</l>
+<l>If you are an old man's darling</l>
+<l>To you he'll be true.</l>
+<l>If you find you're out of money</l>
+<l>And your board-bill's due--</l>
+<l>Take your troubles all to papa--</l>
+<l>He will see you through.</l>
+</lg>
+</sp>
+<stage>(DANCE.)</stage>
+<stage>(They EXIT.</stage>
+
+<stage>(ENTER: SHAGGY MAN, ANN and Army of Oogaboo.
+TIKTOK is the private, sitll riding
+the mule, HANK.)</stage>
+</div>
+<div>
+<sp><speaker>OFFICERS:</speaker>
+<p>Halt!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p><stage>(Riding mule around in a circle)</stage> I can't. I have-n't an-yhalt-er. The beast won't stop.
+</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p>Halt!</p></sp>
+
+<pb/>
+
+<note>OZMA-----77.</note>
+
+<sp><speaker>HANK:</speaker>
+<p>
+Hee haw! <stage>(Mule stops suddenly and TIKTOK tumbles off in a
+heap. They help him up.</stage>
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks! The cav-al-ry is dis-mount-ed!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Where's Ozma? And where is Ex-private Files?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Lost!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Humbug!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>They seemed lost--in mushy conversation. Anyhow, they're so
+busy they couldn't hurry.
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>They'll soon be here. Love is a gr-r-r-r-r---<stage>(Waves arms wildly)</stage></p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p><stage>(Sarcastically)</stage> Oh, wind him up, so we can find out what love is.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Where's the key?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>It's hanging on his back. <stage>(SHAGGY winds TIKTOK.)</stage>
+TIKTOK
+Ma-ny thanks!
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Now, old fellow, the Queen wants to know what love is.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>That's not a queen lead. <hi rend="underline">She'll</hi> ne-ver find out.</p>
+</sp>
+<pb/>
+
+<note>OZMA----75.</note>
+<sp><speaker>ANN:</speaker>
+<p>I know already. I love--<stage>(throws herself at SHAGGY and clings 
+to him)</stage>--but thee!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Help, somebody! Help! <stage>(HANK prances up and kicks at ANN,
+who dodges around SHAGGY, still clinging
+to his clothing.
+Unhand me, madam!
+</stage></p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Never, my precious one! You made me love you, and I mean tohang on to my love like grim death!
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>But this is too much, and then some. Why don't you love me as 
+the others do? Calmly--from a distance.
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>When I love, I love irresistibly--stickitively!</p>
+
+<stage>(She grabs him around neck. He pushes her
+away and hides behind mule.)</stage>
+<p>
+You can't escape me, bewitching one. I'll have thee yet!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You pretty near halved me that time. Great Scott and Little
+Cupids! What shall I do?
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>There's many a slip 'twixt the lip and the hic!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>You're wrong. It's----</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I'm right ac-cord-ing to my ma-chin-er-y.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Then you slipped a cog-wheel.</p>
+</sp>
+<pb/>
+
+<note>OZMA-----79.</note>
+<sp><speaker>TIK:</speaker>
+<p>Don't blame me---blame the -z-z-z-z-z- pat-en-tee.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Can't your clockwork help me escape this love-sick amazon?
+What's the matter with her, anyhow?
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>It's the Love Magnet. You worked the charm once too often.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Sadly)</stage><p> You're right, I believe I have.</p>
+
+<stage>(He stands a little back of TIKTOK, takes
+out the Love Magnet, kisses it, and hands
+it on a hook on TIKTOK's back, without the
+Clockwork man seeing him.)</stage>
+<p>
+Now, my energetic Queen, I'm free!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Beautiful Tiktok! Exquisite creature! I love but thee!</p>
+
+<stage>(Throws herself upon TIKTOK, who nearly
+tumbles over. The OFFICERS catch and
+support him.)</stage>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Wait--what--what's the joke?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>I love you, my armored cruiser! You have the Love Magnet.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p><stage>(Turning around)</stage> Where? Where is it?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Gleefully)</stage><p> On your back---out of reach!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Dost thou return my love, Tiktok?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I have a chilled-steel ad-mir-a-tion and a cop-per bot-tomedres-pect for you. All my thoughts are riv-et-ted on-----
+</p>
+</sp>
+<pb/>
+
+<note>OZMA-----80.</note>
+<sp><speaker>ANN:</speaker>
+<p><stage>(Joyfully)</stage> On me!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>On my in-ter-ior. I can-not love ex-cept on tick.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Good for you, old chap! But look her, Ann, this is no time for
+love. Postpone your ecstasy. We've reached the Kingdom of
+the Metal Monarch at last, and our first business is to conquer
+him and set my brother free.
+</p>
+</sp>
+<sp><speaker>GEN. FUSS:</speaker>
+<p>What we want is----</p>
+</sp>
+<sp><speaker>ALL OFFICERS:</speaker>
+<p>Plunder!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You can't plunder till you've conquered.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Then let's conquer. But there's no one here to fight.</p>
+</sp>
+<stage>(ENTER: BETSY, her arms full of golden ornaments, etc
+</stage>
+<sp><speaker>BETSY:</speaker>
+<p>Don't worry. The place is full of Metal Imps. Look what I've
+found.
+</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p>Hurray! <stage>(They run toward her.)</stage></p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Keep off! This jewelry store belongs to me. But there's a
+cave over there chock full of gold.
+</p>
+</sp>
+<sp><speaker>GEN. FUSS:</speaker>
+<p>We'll conquer----</p>
+</sp>
+<pb/>
+
+<note>OZMA-----81.</note>
+<sp><speaker>COL. KORN:</speaker>
+<p>----or----</p>
+</sp>
+<sp><speaker>MAJ. KEY:</speaker>
+<p>---we'll---</p>
+</sp>
+<sp><speaker>CAPT. YOUNG:</speaker>
+<p>----die!---</p></sp>
+
+<stage>(ENTER: OZMA and FILES.</stage>
+
+<sp><speaker>ANN:</speaker>
+<p><stage>(Angrily)</stage> Oh, you're here at last, are you!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>You've guessed it, old lady.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Officers, arrest this deserter!</p>
+</sp>
+<sp><speaker>GEN. FUSS:</speaker>
+<p>Private Tiktok, seize the deserter!</p>
+</sp>
+<sp><speaker>TIKTOK:</speaker>
+<p>I re-fuse!</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p>Treason!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Never mind. My own true love shall do as he pleases. Officers,arrest the deserter!
+</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p><stage>(Not moving)</stage> It is not our duty!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Very well; refuse to obey me and I'll conquer the Metal Monarch
+myself, and keep all the plunder.</p></sp>	
+
+<stage>(OFFICERS run and seize FILES.
+</stage>
+<pb/>
+
+<note>OZMA-----82.</note>
+<sp><speaker>GEN. FUSS:</speaker>
+<p>What shall we do with him?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Take him away, blockhead--to the blasted hopes factory!</p>
+</sp>
+<sp><speaker>CAPT. YOUNG:</speaker>
+<p>Where is it?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Anywhere, away from Ozma. </p></sp>
+<stage>(OFFICERS lead FILES awy.)</stage>
+
+<stage>(ENTER: POLYCHROME and RUGGEDO.</stage>
+
+<sp><speaker>RUGGEDO:</speaker><p>
+Clash and clatter! What's the meaning of this invasion?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>We've come here to conquer you. I'm Queen Ann of Oogaboo--
+<stage>(ENTER: Officers.)</stage>--and this is my invincible army!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>We've come to release my brother, whom you captured in our
+Colorado mine.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>The Ugly Man! Im-possible! Ha! ha! How absurd! The wholething's absurd. Away with you--vacate at once, or I'll make
+you all my slaves!
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Sir, I declare war upon you and your whole kingdom.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Very well, have your own way!</p>
+</sp>
+<stage>(He yawns, goes to his throne, and
+lights his pipe.)</stage>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 15. MUSICAL BATTLE: (a<lb/>
+<lb/>
+"FIGHT FOR OOGABOO."<lb/>
+<lb/>
+QUEEN ANN and ARMY of OOGABOO.<lb/>
+<lb/>
+</head>
+<pb/>
+
+<note>OZMA-----83.</note>
+
+<sp><speaker>ANN:</speaker>
+<lg>
+<l>Now my men of Oogaboo</l>
+<l>Pitch in and do your duty:</l>
+<l>Teach the Metal King who's who</l>
+<l>And capture all his booty--</l>
+<l>You're invincible and bold--</l>
+</lg></sp>
+<sp><speaker>OFFICERS:</speaker>
+<stage>(Marking time.)</stage> 
+<lg><l>Hip! Hip! Hip! Hip!</l></lg></sp>
+
+<sp><speaker>ANN:</speaker>
+<lg>
+<l>Stike to win both fame and gold--</l>
+</lg></sp>
+<sp><speaker>OFFICERS:</speaker>
+<lg><l>Hip! Hip! Hip! Hip!</l></lg></sp>
+<sp><speaker>ANN:</speaker>
+<lg>
+<l>You will fright 'em when you fight 'em,</l>
+<l>Swing your swords and bravely smite 'em,</l>
+<l>You will conquer if you do,</l>
+<l>So fight for Oogaboo!</l>
+</lg>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<lg>
+<l>We are the Army of Oogaboo--</l>
+<l>Never flying, foes defying,</l>
+<l>Brave, undaunted, bold and true!</l>
+<l>We are on this conquest bent,</l>
+<l>If we win we are are content,</l>
+<l>So look out when we all about:</l>
+<l>Hurrah for Oogaboo!</l>
+</lg>
+</sp>
+<stage>(They wave swords.</stage>
+</div>
+<div>
+<sp><speaker>RUGG:</speaker>
+<p>Wait a minute, till I summon my army!</p>
+
+<stage>(He pushes a button on his Magic Belt. A
+bell rings and red glare suffuces stage.)</stage>
+<p>
+Ah, I pushed the wrong button. That's the signal to light the
+furnaces. But never find. </p><stage>(Pushes another button. Bell rings
+and crash of metal heard.</stage>
+<p>
+Another mistake! The tin mine has caved in. Here, Flash!</p>
+<stage>(Chief Imp Appears)</stage> 
+<p>Which button summons my army?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Oh, hurry up. We want to fight!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I have-n't an-y weap-ons.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Never mind. Use your fists.</p>
+</sp>
+<sp><speaker>FLASH:</speaker>
+<p><stage>(To Metal Monarch.)</stage> The North-east button summons your Majesty's
+army.</p></sp>
+
+<pb/>
+
+<note>OZMA----84.</note>
+
+<sp><speaker>RUGG:</speaker>
+<p>Im-possible!</p>
+</sp>
+<sp><speaker>FLASH:</speaker>
+<p>I'm sure I'm right.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Then go ahead, and push it. </p><stage>(FLASH pushes button and a bell rings.THE METAL IMPS appear in different
+parts of the rocks, bearing great
+golden shields, which almost hide
+their forms, and zig-zag swords
+tipped with red electric lamps. The
+scene darkens at back: the center,
+where the Army and Principals stand,
+still being lighted.</stage>
+<p>Now I'm ready, whenever you are.
+</p>
+</sp>
+<sp><speaker>GENERAL:</speaker>
+<p>Attention!</p>
+</sp>
+<sp><speaker>COLONELS:</speaker>
+<p>Advance-----</p>
+</sp>
+<sp><speaker>MAJORS:</speaker>
+<p>-----double-quicked-----</p>
+</sp>
+<sp><speaker>CAPTAINS:</speaker>
+<p>-----March!</p>
+</sp>
+<stage>(Shakey music. (b) TIKTOK walks forward a few steps then
+suddenly stops.)</stage>
+
+<sp><speaker>TIK:</speaker>
+<p>Wind-me-up-wind-me-up-wind-me-up-wind----</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Quick! Polly! <stage>(POLY. runs forward and winds him.)</stage></p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks!</p>
+</sp>
+<sp><speaker>GEN. FUSS:</speaker>
+<p>Summon the Metal Monarch to surrender!</p>
+</sp>
+<pb/>
+
+<note>OZMA-----85.</note>
+<sp><speaker>TIK:</speaker>
+<p>Sir, I sum-mon you to sur-red-ge-doo-bug-a-rug-a-dug-boo-dle-----</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Now his thoughts have run down!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Quick, Polly! <stage>(POLYCHROME winds him up.)</stage></p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Tiktok, you're a bum soldier. Hurry up and conquer.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I'm try-ing to. If I on-ly had a ---- <stage>(Stops short and wavesarms.
+</stage></p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Tiktok, you're a sad mistake. I can buy a better man of 
+Ingersoll for a dollar, with a year's guarantee.</p></sp>
+<stage>(POLY. is winding TIKTOK.)</stage>
+
+<sp><speaker>TIK:</speaker>
+<p>I have-n't an-y luck. Some-bod-y stole my Bil-li-ken.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Are you afraid?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>No. If I'm captured, there's an es-cap-ment in my -z-z-z-z-zclock-works.
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Then for goodness sake, get busy and do something.</p>
+</sp>
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Let Hank be the army. He can win, can't you, Hank?</p>
+</sp>
+
+<sp><speaker>HANK:</speaker><p>
+Hee haw!
+</p></sp>
+<pb/>
+
+<note>OZMA-----86.</note>
+
+<stage>(SHAGGY and BETSY put TIKTOK on mule's back. HANK advances
+toward METAL MONARCH'S THRONE and gives a kick. TIKTOK tumbles
+off and mule stumbles on him. They roll upon stage together.)</stage>
+
+<sp><speaker>RUGG:</speaker>
+<p>Enough! You've had your chance to fight, and now it's my turn.</p>
+<p>Soldiers of the Metal Monarch---advance and capture these invaders!</p>
+</sp>
+</div>
+<div type="song">
+<stage>
+MUS. No. 15 (c). "BATTLE IMPS." METAL IMPS. The Army of METAL
+IMPS advances, forms ranks, and counter-marches
+on stage. The scene darkens to allow their
+flaming swords to be effective.)
+</stage>
+<sp>
+<lg>
+<l>We are imps at merry fighting,</l>
+<l>We are imps in war delighting:</l>
+<l>We are imps because we serve an impish master!</l>
+<l>We will flash our weapons gladly</l>
+<l>We will dash to battle madly</l>
+<l>We will overwhelm our foemen with disaster.</l>
+</lg>
+<lg>
+<l>We march along with jest and song</l>
+<l>For war is only fun;</l>
+<l>We love to see the enemy</l>
+<l>Cut sticks and wildly run;</l>
+<l>For we may state we emulate</l>
+<l>The warriors great of early date,</l>
+<l>And if you want to meet your fate</l>
+<l>We'll challenge anyone.</l>
+</lg>
+</sp>
+
+<stage>(During this song the Officers tremble with fear and try to hide
+behind each other. The QUEEN, in despair, seizes SHAGGY's arm
+and points off to where FILES was taken. SHAGGY nods and runs
+off. During following dialogue the music is softly played.)</stage>
+</div>
+<div>
+<sp><speaker>RUGG:</speaker>
+<p>You see mortals, it is useless to resist. To conquer my Imps 
+im imp-ossible! You are defeated already, so I call on you
+to surrender.</p>
+
+<stage>(FILES runs in followed by SHAGGY.</stage>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Never!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Fah! What can <hi rend="underline">you</hi> do?</p>
+</sp>
+<pb/>
+
+<note>OZMA-----87.</note>
+<sp><speaker>FILES:</speaker>
+<p>There's a power greater than your own--the power of Cupid.</p>
+
+<stage>(Takes Love Magnet from hook on TIKTOK's
+back and holds it up.))</stage>
+<p>
+I command all your imps to love me! </p><stage>(METAL IMPS all kneel before
+him and lower their swords</stage>
+<p>
+You see, unfortunate monarch, you are defeated!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Impossible! There's one shot still left in this Magic Belt. All 
+I have to do is press a button and every mortal present will
+become powerless. </p><stage>(Touches button: bell rings. ANN, FILES,
+SHAGGY, BETSY, the OFFICERS and MULE all
+become motionless in their places. Music
+ceases.)</stage>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Dear me; what is the matter with them?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Hello? So you're not a mortal, my pretty maid?</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>No, Your Majesty. I'm a Rose Princess. But what has happened
+to our friends?
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>The neatest magic trick my wonderful magic belt can accomplish. It's a case of arrested animation. I've stopped their clocks, so
+to speak. They can't think, speak or move till I release 'em.
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>You have-n't stop-ped my clock.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>No; you're not mortal. But you'll soon run down.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p><stage>(Slowly)</stage>I feel----sort-a----run down----------now.
+</p>
+</sp>
+<pb/>
+
+<note>OZMA-----88.</note>
+<sp><speaker>POLY:</speaker>
+<p>But tell me, Ruggedo. How can you release our friends, should
+you wish to?
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>By pressing this last button on the left. <stage>(Pointing)</stage> See? 
+Until I press this button your friends will be ornamental-----
+but not useful.
+</p></sp>
+<sp><speaker>OZMA:</speaker>
+<p>
+How dreadful! And poor Files among them. Can't he recognize
+me? </p><stage>(Stepping in front of FILES.</stage>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Not a roo.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<stage>(Slowly kisses FILES)</stage><p> Poor fellow.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Your Majesty, this is cruel and unjust.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Im-possible! Consider my case, sweet Polychrome. For yearsthese mortals have been robbing my dominions of all its fold,
+and now they have the audacity to penetrate to my Royal Cavern.
+I hate 'em! I hate everybody--but you! --and I want revenge!
+</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>But revenge is wicked!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Of course. I'm terribly wicked. Frightfully wicked! I'm sowicked I sometimes scare myself. But I want revenge for the
+theft of all my gold.
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Be merciful! Forgive them!</p>
+
+
+<pb/>
+
+<note>OZMA-----89.</note>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Can't, my dear. I'm too wicked.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Must they stand there always?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>No; they'd be in the way. I'm thinking of reducing them in size, so I can put them on my mantel-piece for ornaments.
+</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Listen, Ruggedo. I now where there is enough gold to repay you
+for all that the mortals have stolen.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p><stage>(Eagerly)</stage> Where? Where?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>At the end of the rainbow. Wouldn't you be satisfied with the
+pot of gold at the rainbow's end?
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Yes, indeed! But I'm no rainbow chaser. I'm no chaser at all. Do I look like Apollinaris?
+</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>But listen. <hi rend="underline">I</hi> know exactly where to find this gold, for my
+father always drops the end of his rainbow upon the spot. If
+you'll release these mortals, I'll show you where the gold is.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I'll release them when I get the gold.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Not before?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Not a minute before. Tell me; when is the next rainstorm, mydear; and when will the next rainbow appear?
+</p>
+</sp>
+<pb/>
+
+<note>OZMA-----90.</note>
+<sp><speaker>OZMA:</speaker>
+<stage>(Coming forward)</stage><p> Look, your Majesty! Look at the sky through
+the rocks yonder! <stage>(Points)</stage> Do you see the storm approaching?</p></sp>
+
+<stage>(RUGGEDO raises his head to look and OZMA
+touches the button at the left of his magic
+belt. A bell rings and  all the mortals
+waken to life, HANK capering about as if
+glad to be free.)</stage>
+
+<sp><speaker>RUGG:</speaker>
+<p><stage>(Furious)</stage> Hammer and tongs! What have you done, girl?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Caught you in your own trap, Ruggedo! Now Officers, obey your 
+private, or you are lost. Form ranks! <stage>(OFFICERS fall in line</stage>
+Attention! <stage>(Officers draw swords.)</stage> Forward, double-quick---
+march! <stage>(OFFICERS surround RUGGEDO and two of them seize his arms</stage></p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p>Hurrah!</p>
+</sp>
+
+<sp><speaker>FILES:</speaker><p>
+Don't let him touch his belt buttons.
+</p></sp>
+<sp><speaker>RUGGEDO:</speaker><p>
+So; I'm a prisoner, eh?
+</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Right you are, sir!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>But you can't find my gold, because it's all hidden deep in theearth.
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>We demand the release of my brother.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>The Ugly Man? Im-possible! Why, his face would stop a clock!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Then don't re-lease him. My clock stops too of-ten now!</p>
+</sp>
+<pb/>
+
+<note>OZMA-----91.</note>
+<sp><speaker>POLY:</speaker>
+<p>Good people, this Metal Monarch is not so wicked as he seems.
+Let us compromise with him and be friends.
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>How compromise?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>It is true that mortals have stolen a lot of gold from the Metal
+Monarch. So I will show him how to get back an equal amount
+of gold, from the pot at the rainbow's end--on certain conditions.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>State your conditions, my dear.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>First: you must release the Ugly Man, the Shaggy Man's brother.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Agreed!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Hurrah! <stage>(Dances gleefully)</stage></p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Then you must give these officers enough gold to pay their back
+salaries.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Im-possible!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Then you remain our prisoner.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Well----agreed!</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p>Hurrah! <stage>(Embrace each other and express extravagant joy.)</stage></p>
+</sp>
+<pb/>
+
+<note>OZMA-----92.</note>
+<sp><speaker>POLY:</speaker>
+<p>And the last condition, both you and Queen Ann must agree to----
+you must march with all your armies to the Rose Kingdom and
+force Ozma's rebellious subjects to accept her as their Queen---
+---and Private Files as her Royal Consort.
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Why so?</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Because this is a case of true love, and everyone is bound to 
+assist true lovers.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Agreed!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Agreed! <stage>(FILES embraces OZMA.)</stage></p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Now, I've one condition to make myself. Polychrome must consentto marry me.
+</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>I don't mind. I'd like to reform you. It's so interesting to
+reform a wicked husband. But I'll do it from my rainbow, and if
+I don't succeed there'll be no harm done.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I couldn't live on a rainbow.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>No; you'll stay down below and worship me from afar.</p>
+</sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 16: SONG AND CHORUS: OZMA and Principals.<lb/>
+<lb/>
+(CHORUS of METAL IMPS and OFFICERS of OOGABOO<lb/>
+</head>
+<pb/>
+
+<note>OZMA-----93.</note>
+<div type="song">
+<stage>
+PRELUDE:<lb/>
+</stage>
+<sp><speaker>POLY:</speaker><lg> 
+<l>Love is too often like a rainbow--</l>
+<l>Exquisite to view.</l>
+</lg></sp>
+<sp><speaker>FILES:</speaker><lg> 
+<l>From a distance 'tis delightful-</l>
+<l>Brilliant, ever new.</l>
+</lg></sp>
+<sp><speaker>RUGG:</speaker><lg> 
+<l>Mortals view it's grace with rapture,</l>
+<l>Trusting 'twill be kind.</l>
+</lg></sp>
+<sp><speaker>OZMA:</speaker><lg> 
+<l>Hoping all it's charms to captue</l>
+<l>And contentment find.</l>
+</lg></sp>
+<sp><speaker>SHAGGY:</speaker><lg> 
+<l>So we struggle to attain it</l>
+<l>Till it fades away.</l>
+</lg></sp>
+<sp><speaker>ANN:</speaker><lg> 
+<l>Mighty few will ever gain it,</l>
+<l>Though they hope they may.</l>
+</lg></sp>
+<sp><speaker>TIKTOK:</speaker><lg> 
+<l>Rainbow gold forever cheats us,</l>
+<l>Yet we all contend:</l>
+</lg></sp>
+<sp><speaker>BETSY:</speaker><lg> 
+<l>That love's golden promise meets us</l>
+<l>At the rainbow's end.</l>
+</lg>
+</sp>
+<stage>
+---
+</stage>
+<sp><speaker>ALL:</speaker><lg>
+<l>Rainbow, rainbow, prythee tell me true--</l>
+<l>Is my love as pretty as she seems beneath thy hue?</l>
+<l>Stars and moon alike are cold--</l>
+<l>Daylight is too frank and bold--</l>
+<l>All the world is lovely 'neath the rainbow!</l>
+</lg>
+</sp>
+</div>
+<div type="song">
+<head>
+---<lb/>
+"A RAINBOW BRIDE."<lb/>
+---<lb/>
+</head>
+<sp><speaker>OZMA:</speaker><lg> 
+<l>If a youth adores a damsel,</l>
+<l>Who beyond his reach is placed,</l>
+<l>Every charm the maid possesses,</l>
+<l>Is by distance doubly graced.</l>
+<l>To him every smile is radiant,</l>
+<l>Every glance a dart of flame,</l>
+<l>Every blush is like a sunset;</l>
+<l>Form and features, Venus shame.</l>
+</lg>
+<stage>WALTZ REFRAIN: </stage>
+<lg>
+<l>She is a rainbow of bliss to him</l>
+<l>Marvelous fair she seems,</l>
+<l>While from afrar he worships his star---</l>
+<l>Goddess of all his dreams.</l>
+<l>Never a flaw in the gem he sees,</l>
+<l>She is his joy and pride;</l>
+<l>Queen of his heart, though far apart,</l>
+<l>She is his Rainbow Bride.</l>
+</lg></sp>
+<stage>(All repeat Refrain.)</stage>
+
+<stage>2.</stage>
+<sp><speaker>OZMA:</speaker><lg> 
+<l>Woe to him if she draws nearer;</l>
+<l>He will find her mortal clay.</l>
+<l>Should he see her closer, clearer</l>
+<l>He'll forever rue the day.</l>
+<l>Distance lends enchantment, surely</l>
+<l>When a hopeless lover sighs:</l>
+<l>All his dreams are rainbow tinted---</l>
+<l>She's perfection in his eyes.</l>
+</lg>
+</sp>
+<stage>(Refrain by OZMA, and repeated by ALL
+as after first verse.)</stage>
+</div>
+<div>
+<pb/>
+
+<note>OZMA-----94.</note>
+
+<sp><speaker>RUGG:</speaker>
+<p>And now we'll march away to the Metal Forest.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Where is that?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>In another part of my kingdom. It is in the Metal Forest thatyour brother is imprisoned.
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Can't we send for him?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>No. We must all go together, in order to release him.</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>And on the way we will surely find the rainbow.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>And the pot of gold.</p>
+</sp>
+<sp><speaker>OFFICERS:</speaker>
+<p>Hurray!</p>
+</sp>
+</div>
+<div type="song">
+<stage>
+MUSICAL NUMBER: A repetition of the most catchy Chorus of the
+march numbers proceeding. The PRINCIPALS and
+CHORUS start to march off; the scene darkens
+and song continues to the end, when lights up,
+discover Change to SCENE 2.<lb/>
+---<lb/>
+</stage>
+</div>
+
+<pb/>
+</div>
+</div>
+<div type="scene" n="2">
+<head>
+OZMA OF OZ.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+ACT II.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+SCENE 2.<lb/>
+<lb/>
+___<lb/>
+<lb/>
+</head>
+<div>
+<pb/>
+
+<note>OZMA-----95.</note>
+<stage>
+ACT II.--SCENE 2.<lb/>
+<lb/>
+A CANYON IN THE WILDERNESS.--Rocks tower in background, with a 
+chasm indicated by ground piece.
+See Mr. Voegtlin's diagram.)Lb/>
+---<lb/>
+(ENTER: FILES.
+</stage>
+<sp><speaker>FILES:</speaker>
+<p><stage>(Despondently)</stage> Misfortune follows misfortune. My Rose Princess 
+and I cannot have the assistance of the Army of Oogaboo and the
+Metal Imps until we've found the Metal Forest and liberated the
+Shaggy Man's brother. And the Metal Forest can't be found. Even
+the Metal Monarch, who rules it, has lost his way, because his
+Magic Belt refuses to work and open the underground passage which
+is the only road to the place. <stage>(Looks around)</stage> If only I could
+manage to cross this chasm I believe the Metal Forest would not
+be far distant. But the canyon is impassable, so I must curb my
+impatience until the time comes when I may claim my lovely Rose.</p></sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 17. BALLAD: PRIVATE FILES.<lb/>
+"My Lovely Rose."<lb/>
+</head>
+<stage>
+1.
+</stage>
+<sp>
+<lg>
+<l>I'll sing a song of love to thee,</l>
+<l>My rose, my lovely rose!</l>
+<l>In dreams thy dainty form I see</l>
+<l>Within my arms repose.</l>
+<l>Thy smiles with joy my heart imbue</l>
+<l>Thy tears are pearls of glistening dew,</l>
+<l>To you forever I'll be true,</l>
+<l>My rose, my lovely rose!</l>
+</lg>
+<lg>
+<l>My lovely rose,</l>
+<l>Of treasures fairest!</l>
+<l>Thy beauty glows</l>
+<l>With pleasures rarest:</l>
+<l>I love thine eyes so shy and pleading;</l>
+<l>I love thy lips, their pouts unheeding;</l>
+<l>I love thy cheeks where smiles are speeding</l>
+<l>And joys repose--</l>
+<l>My lovely rose!</l>
+</lg>
+<stage>
+2.
+</stage>
+<lg>
+<l>A wealth of love I bring to thee,</l>
+<l>My rose, my pretty rose.</l>
+<l>Each tender thought is ecstacy,</l>
+<l>My heart with rapture glows!</l>
+<l>To know what thou art truly mine</l>
+<l>Is like a draught of sparkling wine,</l>
+<l>An inspiration most divine---</l>
+<l>My rose, my pretty rose!</l>
+</lg>
+<pb/>
+
+<note>OZMA-----96.</note>
+<lg>
+<l>Thy fragrance rare</l>
+<l>My senses thrilling;</l>
+<l>Thy glance a snare,</l>
+<l>Thy captive willing!</l>
+<l>I love thy sighs, thy moods revealing;</l>
+<l>I love thy arm around me stealing;</l>
+<l>I love thy kiss, my ardor sealing!</l>
+<l>When passion flows,</l>
+<l>My lovely rose!</l>
+</lg>
+</sp>
+<stage>(EXIT: FILES.</stage>
+<stage>(NOTE: It is suggested that a Chorus effect could be introduced
+with the refrain as follows: costumes so provided that the back
+oof each represents a section of a red rose, extending from the
+head-dress, with stiff leaves projecting below the hips. The
+girls are arranged in a circle upon a low platform, their bodies
+inclined horizontally so that their heads meet in the center,
+their hands resting upon thier knees. In this position a perfect
+rose is displayed. The platform is drawn upon the stage by wires,
+when the girls stand upright, facing the audience, and dance to
+the refrain. Then they again form the rose upon the platform
+and are pulled off stage.)</stage>
+</div>
+<div>
+<stage>(ENTER: QUEEN ANN and OZMA.
+</stage>
+<sp><speaker>OZMA:</speaker>
+<p>Then you promise to assist me, Queen Ann?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Yes, my dear; I've a weakness for lovers, because I've weaklyloved all my life.
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Why weakly?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Because I'm still single. You might call it tri-weekly; butI'll have a man some day, if I have to chloroform him.
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>You don't want Private Files, do you?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Now now. He's too rampant. I need a husband I can bull-doze. 
+But Files is all right for <hi rend="underline">you</hi>, dear, because you need a manager,
+seeing you couldn't rule the Rose Kingdom yourself. When we've
+found this wonderful Metal Forest, if we ever do, you shall have
+my army to assist you and Files in conquering your wild roses.</p>
+</sp>
+<pb/>
+
+<note>OZMA-----97.</note>
+<sp><speaker>OZMA:</speaker>
+<p>Oh, I'm so grateful!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Don't mention it. We giddy young things must stand together,for all the world's against us.
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Is it?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Of course.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>If all the world is Private Files, I-I don't mind it.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Be careful, young woman! Caution is the watch-word for usbeauties. In my time--ahem!--in days of old, I mean, girls were
+taught what was strictly proper, and what wasn't strictly proper;
+while the girls of today----
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Oh, the girls of today aren't so strict--but they have a good
+time, just the same.</p></sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 18. DUET: QUEEN ANN and OZMA.<lb/>
+<lb/>
+"GIRLS ARE ALWAYS THE SAME."<lb/>
+</head>
+
+<sp><speaker>ANN: </speaker><lg>
+<l>Maidens of old didn't gossip or scold,</l>
+<l>Always could secrets keep;</l>
+<l>Never talked nights when they put out the lights--</l>
+<l>Always went straight to sleep.</l>
+<l>They'd say: "Oh, my dear, what a beautiful dress!"</l>
+<l>When it didn't fit anyhow--</l>
+<l>That's what an old-fashioned girl would do,</l>
+<l>What would a girl do now?</l>
+</lg></sp>
+<pb/>
+
+<note>OZMA-----98.</note>
+
+<sp><speaker>OZMA:</speaker><lg> 
+<l>A girl of today wouldn't <hi rend="underline">publicly</hi> say</l>
+<l>A friend was tackily dressed;</l>
+<l>If she suspected a gown resurrected</l>
+<l>She'd smile--we'd all know the rest.</l>
+<l>If a hat's out of date, or isn't on straight</l>
+<l>She merely raises her brow;</l>
+<l>If you know <hi rend="underline">beans</hi>, you know what <hi rend="underline">that</hi> means--</l>
+<l>That's what a girl would do now.</l>
+</lg></sp>
+<sp><speaker>BOTH:</speaker><lg> 
+<l>Ages may come and ages may go,</l>
+<l>But girls will ever be the same;</l>
+<l>If a girl didn't lie now and then, on the sly,</l>
+<l>She wouldn't be worthy the name.</l>
+</lg>
+</sp>
+
+<stage>
+2.
+</stage>
+<sp><speaker>ANN:</speaker><lg> 
+<l>Maidens of old my mothers were told</l>
+<l>Always to be discreet,</l>
+<l>Never beguiling a stranger by smiling,</l>
+<l>Never trapesing the street.</l>
+<l>Never, they'd swear, to flirt would they dare,</l>
+<l>Never been kissed they'd vow.</l>
+<l>That's what an old-fashioned girl would do;</l>
+<l>What would a girl do now?</l>
+</lg>
+</sp>
+
+<sp><speaker>OZMA:</speaker><lg> 
+<l>Girls of today have a more demure way</l>
+<l>Seldom a trick is missed;</l>
+<l>Frequently dine upon partridge and wine,</l>
+<l>Never resist when kissed.</l>
+<l>Ev'ry sweet lass is saving of gas,</l>
+<l>Ev'ry papa will allow;</l>
+<l>If asked to the play: "I'm game!" she will say--</l>
+<l>That's what a girl would do now.</l>
+</lg>
+</sp>
+<sp><speaker>BOTH:</speaker><lg> 
+<l>Ages may come and ages may go,</l>
+<l>But maids will be ever the same;</l>
+<l>Any girl with a chance will step high and prance</l>
+<l>Or she wouldn't be worthy the name.</l>
+</lg>
+</sp>
+<stage>
+3.
+</stage>
+<sp><speaker>ANN:</speaker><lg> 
+<l>Maidens of old were modest--not bold--</l>
+<l>Never were reckless or weak;</l>
+<l>Men who were busted the girls never trusted,</l>
+<l>Wouldn't permit them to speak.</l>
+<l>Told 'em they wouldn't and couldn't for true</l>
+<l>Hitch to 'em anyhow;</l>
+<l>That's what an old-fashioned girl would do--</l>
+<l>What would a girl do now?</l>
+</lg>
+</sp>
+<sp><speaker>OZMA:</speaker><lg> 
+<l>Well, if her breast with love was oppress'd,</l>
+<l>If she were fond and true,</l>
+<l>Never a maid would e'er be afraid</l>
+<l>To do what she ought to do.</l>
+<l>Money won't weigh in the same scale, they say,</l>
+<l>With love, and I guess it's true;</l>
+<l>No matter how poor, she'd have him for sure--</l>
+<l>That's what a real girl would do.</l>
+</lg></sp>
+
+<pb/>
+
+<note>OZMA-----99.</note>
+
+<sp><speaker>BOTH:</speaker><lg>
+<l>Ages may come and ages may go,</l>
+<l>But maids will be ever the same;</l>
+<l>If a girl wasn't foolish, and stubborn, and mulish,</l>
+<l>She wouldn't be worthy the name.</l>
+</lg>
+</sp>
+<stage>(They EXIT with Song.)</stage>
+</div>
+<div>
+<stage>(<hi rend="underline">ENTER</hi>: RUGGEDO, BETSY, SHAGGY MAN, TIKTOK, and HANK.
+They are all talking together and Ruggedo is angry.)</stage>
+
+<sp><speaker>RUGG:</speaker>
+<p>Crash and clatter! Give me a chance to talk, won't you?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>That's all you're good for----talk!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Why don't you <hi rend="underline">do</hi> something?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>You're a brass lob-ster!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Don't you know the way to your own Metal Forest?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Certainly. The Magic Belt always opens for me an underground 
+passage. I just touch this button--so! <stage>(Touches button)</stage> and
+the passage opens!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Only it don't!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Something's gone wrong. Ever since Private Files loaned me the 
+Love Magnet this blamed old belt refuses to work. I can touch
+every dod-gasted button on it--and nothing happens!</p> <stage>(Touches
+buttons.</stage>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>What did you want of the Love Magnet? </p><stage>(Points to the Magnet
+
+which is stuck in RUGGEDO
+belt.)</stage>
+
+<pb/>
+
+<note>OZMA-----100.</note>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I want to use it on Polychrome. A rainbow bride in the skies won't suit me. I want her in a more handy location---see?
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Poor Pol-ly!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>But what are we to do? Where's your old Metal Forest anyhow?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>It must be just across this chasm.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>That's sar-casm.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>How can we get to the forest? <stage>(ALL approach chasm.)</stage></p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Why, Bet-sy, fly! Or leap be-fore you look!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>That's wrong! You should say---</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I'm right ac-cord-ing to my ma-chin-er-y.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Oh, you make me tired!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Don't blame me, blame the -z-z-z-z-z-z-z-zpat-ten-tee!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Hank, old hoss, can't you get across?</p>
+</sp>
+<sp><speaker>HANK:</speaker>
+<p>Hee haw!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>He could kick him-self a-cross if he tried!</p>
+</sp>
+<pb/>
+
+<note>OZMA-----101.</note>
+<sp><speaker>BETSY:</speaker>
+<p>Try it, Hank! <stage>(HANK gives a kick and tumbles over edge. BETSY
+grabs him by the tail and with SHAGGY's assistance
+drags him back to safety.
+</stage></p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>See here, Ruggy--you've got to get busy and do something!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>If you don't we'll dump you in-to the chasm.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Silence! You mess of rusty wheels!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Don't be so rough, Ruggedo--get a little metal polish! Try Putz-
+Pomade!
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Let me think! </p><stage>(Places hands over eyes and stands silent. 
+BETSY steals the Love Magnet from the Belt.)</stage>
+<p>Perhaps I can find a way across the gulf!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<stage>(Holding Magnet concealed behind her.)</stage><p> If the rainbow would
+appear over the canyon we could bridge it.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>If you bridge it, I'll make it hearts. And that reminds me---</p>
+<p>I've lost Polychrome. </p><stage>(Looks off)</stage> <p>Ah! there she is!</p>
+<stage>(EXITS.</stage>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>I've got it, boys! <stage>(Holds up Magnet.)</stage></p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Kneeling)</stage><p> Adorable Betsy! I love you!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Be-witch-ing Bet-sy, I am yours!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You're not! Out of the way, cog-wheels!</p>
+
+<pb/>
+
+
+<note>OZMA-----102.</note>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Get out yourself, whiskers!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>She's mine!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>She's mine!</p>
+</sp>
+<sp><speaker>HANK:</speaker><p>
+Hee haw! </p><stage>(Mule kicks at hem. Sends SHAGGY sprawling and TIKTOK
+tumbles in a heap. HANK kneels to BETSY, then stands
+upright, lays head on her shoulder, puts one hoof
+around her waist and in other ways makes comedy love
+to her.</stage>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Oh, Hank dear! I didn't need the Magnet to make <hi rend="underline">you</hi> love me,
+did I?
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Pick-me-up-pick-me-up-pick-me-up-pick---</p><stage>(SHAGGY, who has risen, 
+and BETSY, lift TIKTOK
+to his feet.)</stage>
+<p>Ma-ny thanks! My love-ly rose!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Shut up! Ingensoll!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>She's mine!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>She's mine--ain't you, Betsy? <stage>(HANK advances threateningly
+and they retreat.
+</stage></p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>I'm my own, just now. Fight it out among yourselves, and if
+either of you win me, just send me a wireless!
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Less what?</p>
+</sp>
+<pb/>
+
+<note>OZMA-----103.</note>
+<sp><speaker>TIK:</speaker>
+<p>Less I regret, I'll say it yet---</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>You're wrong Tiktok. You should say----</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I'm right ac-cord-ing to my ma-chin-er-y.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Your machinery's got ticks.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Don't blame me, blame the z-z-z-z-z-z-z-pat-en-tee!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Well--just let me know who wins, anyway.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p><stage>(To SHAGGY)</stage> Vil-lain!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(To TIKTOK)</stage><p> Scoundrel!</p>
+</sp>
+<stage>(<hi rend="underline">ENTER</hi>: QUEEN ANN.
+</stage>
+<sp><speaker>ANN:</speaker>
+<p>Here, here! What's the trouble?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>He wants my dar-ling Bet-sy!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>She's mine, and old Clockwork can't have her!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Two of you after one girl, eh? Well, see here: I'll take either 
+of you, and that'll settle the whole difficulty. Which gets me?
+Speak quick, or I may change my mind.</p> <stage>(They turn away silent)</stage>
+<p>No hurry, boys!</p>
+</sp>
+<pb/>
+
+<note>OZMA-----104.</note>
+<sp><speaker>TIK:</speaker>
+<p>She's too mod-est to change her mind in pub-lic!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>I'm going to find some way to cross this ditch. Come on, Ann,
+there's nothing doing in the love line here.</p>
+</sp>
+<stage>(<hi rend="underline">EXIT</hi>: BETSY, ANN and HANK.</stage>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>There goes my sweetheart!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>She's mine. Stop your kid-ding!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I can't. I'm Captain Kidd!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Then go to sleep and you'll be kid-napped.</p>
+</sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 19. DUET: Topical Song.: SHAGGY MAN and TIKTOK.<lb/>
+With PIRATE FLEET CHORUS.<lb/>
+<lb/>
+"CAPTAIN KIDD."<lb/>
+</head>
+
+<sp><speaker>SHAGGY:</speaker><lg> 
+<l>When Captain Kidd was but a lad</l>
+<l>He was a lively kid;</l>
+<l>He licked the teacher,</l>
+<l>Robbed the preacher</l>
+<l>Of two quid--</l></lg></sp>
+<sp><speaker>TIKTOK:</speaker><lg> 
+<l>--he did! he did!</l></lg></sp>
+<sp><speaker>SHAGGY:</speaker><lg> 
+<l>He wouldn't mind ma at all,</l>
+<l>On Sunday he played tag and ball,</l>
+<l>The other boys he'd fight and maul</l>
+<l>Did Captain Kidd--</l>
+</lg></sp>
+<sp><speaker>TIKTOK:</speaker>
+<lg> 
+<l>--he did!</l>
+</lg></sp>
+
+<sp><speaker>BOTH:</speaker>
+<lg> 
+<l>Oh, Captain, Captain Kidd</l>
+<l>What made you act so bad?</l>
+<l>It's lucky shofers weren't invented</l>
+<l>When you were a lad!</l>
+</lg>
+</sp>
+<stage>(Dance.)</stage>
+
+<stage>2.</stage>
+<sp><speaker>TIKTOK:</speaker><lg>
+<l>When Captain Kidd was but a youth</l>
+<l>He ran away and hid;</l>
+<l>He swore and drank and</l>
+<l>Robbed a bank and</l>
+<l>Then he slid--</l>
+</lg></sp>
+<sp><speaker>SHAGGY:</speaker><lg>
+<l>--he did! he did!</l>
+</lg></sp>
+<pb/>
+
+<note>OZMA-----105.</note>
+
+<sp><speaker>TIKTOK:</speaker><lg> 
+<l>He headed for the Spanish Main</l>
+<l>And many sheckles did he gain</l>
+<l>And slaughtered men till they were slain</l>
+<l>Did Captain Kidd--</l>
+</lg>
+</sp>
+<sp><speaker>SHAGGY:</speaker><lg> 
+<l>-- did!</l></lg></sp>
+
+<sp><speaker>BOTH:</speaker><lg> 
+<l>Oh, Captain, Captain Kidd!</l>
+<l>You were a reckless youth!</l>
+<l>And much we fear a buccanneer</l>
+<l>You had become, in truth!</l>
+</lg></sp>
+<stage>(DANCE.</stage>
+<stage>(<hi rend="underline">ENTER</hi>: CHORUS with papier-mache ships around waist, legs
+concealed by sea-cloth, as indicated. Upper
+part dressed as Pirates, with fierce whiskers,
+swords and pistols. During Chorus and Dance they)
+discharge some of the guns and some ships are wrecked.)</stage>
+
+<stage>
+3.
+</stage>
+
+<sp><speaker>SHAGGY:</speaker><lg> 
+<l>When Captain Kidd became a man</l>
+<l>For piracy he bid;</l>
+<l>Sold bonds and sticks and</l>
+<l>Took the rocks to</l>
+<l>Old Madrid--</l>
+</lg></sp>
+<sp><speaker>TIKTOK:</speaker><lg> 
+<l>--he did! he did!</l></lg></sp>
+<sp><speaker>SHAGGY:</speaker><lg> 
+<l>He worked the life-insurance graft,</l></lg></sp>
+<sp><speaker>TIKTOK:</speaker><lg> 
+<l>And politics and arts-and-craft,</l></lg></sp>
+<sp><speaker>SHAGGY:</speaker><lg> 
+<l>He drove his countless victims daft</l>
+<l>Did Captain Kidd--</l></lg></sp>
+<sp><speaker>TIKTOK:</speaker><lg> 
+<l>--he did!</l></lg></sp>
+
+<sp><speaker>BOTH:</speaker><lg> 
+<l>Oh, Captain, Captain Kidd!</l>
+<l>What dreadful deeds you'd do.</l>
+<l>If Standard Oil was in your toil</l>
+<l>You'd bust the trust for true!</l>
+</lg></sp>
+<stage>(DANCE.</stage>
+</div>
+<div>
+<sp><speaker>SHAGGY:</speaker>
+<p>I'm away! Here comes the Queen! Run, Tiktok, or the antique'll
+get you.</p></sp> <stage>(<hi rend="underline">EXITS</hi>.)</stage> <stage>(TIKTOK starts to follow
+but suddenly pauses in comic position.</stage>
+
+<stage>(<hi rend="underline">ENTER</hi>: ANN.)</stage>
+
+<sp><speaker>TIK:</speaker>
+<p>Wind-me-up-wind-me-up-wind-me-up-wind-----</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>I'll wind you under one condition.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Wind me up under the arm. It's <hi rend="underline">my</hi> condition that's worrying me,not yours!
+</p>
+</sp>
+<pb/>
+
+<note>OZMA-----106.</note>
+<sp><speaker>ANN:</speaker>
+<p>Well, my condition's good.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>What is it?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>That you marry me.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>It wouldn't be right! It wouldn't be le-gal!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Why not?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I'm on-ly a ma-chine.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>I've noticed these machine marriages are as good as any.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Well, wind me up and I'll mar-ry you in the spring!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>All right! <stage>(Winds up TIKTOK)</stage> Your spring-time seems to come very often.
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>When the spring time comes, gentle, ban-an-na---</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>That's wrong!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>It's right ac-cord-ing to my ma-chin-er-y.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Oh, get out!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I will, now I'm wound. <stage>(Marching off stage)</stage> When I'm tight, 
+I'm all right. A-dieu, fair Queen!
+</p></sp>
+<pb/>
+
+<note>OZMA-----107.</note>
+
+<stage>(<hi rend="underline">EXIT</hi>: TIKTOK.
+</stage>
+<sp><speaker>ANN:</speaker>
+<p>So that's settled at last! I'm to be a bride! He says he'll
+marry me in the spring!</p>
+<stage>(Starts)</stage>
+<p> I wonder what spring he
+means? If it's a clock-spring I'll pound the deceiver into
+pin-heads!</p>
+</sp>
+<stage>(Looks off after TIKTOK.</stage>
+
+<stage>(<hi rend="underline">ENTER</hi>: OZMA and FILES.)</stage>
+
+<sp><speaker>FILES:</speaker>
+<p>Don't be downcast, dear one. Every cloud has a silver lining.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>But we can't go to my own kingdom until we've found the Metal
+Forest, and this place is so cold and cheerless that not a
+flower can live here. Sweetheart, will you see your rose wither
+away and die in this dreary canyon?
+</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>No, indeed. Be brave a little longer, my darling, and lovewill find a way.
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p><stage>(Approaching them.)</stage> Quite right, Private. Love has found away with me. Congratulate me, Ozma; I'm engaged.
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<stage>(Surprised)</stage><p> Engaged? Oh, I'm so glad, Ann!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>SO am I. Who's the lucky man, Your Majesty?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p><stage>(Bashfully)</stage> Mr. Tiktok!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p><hi rend="underline">What!</hi> Old scrap-iron?</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Didn't you say love would find a way?</p>
+</sp>
+<pb/>
+
+<note>OZMA-----108.</note>
+<sp><speaker>OZMA:</speaker>
+<p>He did, dear.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Well, Tiktok has had his weigh and he's worth his weight in gold.</p>
+<stage>(<hi rend="underline">ENTER</hi>: RUGGEDO.</stage>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Gold!--gold! Who's talking of gold? Want to rob me again, youmortals---eh?
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Oh, no, Ruggedo. All we want is to find the Metal Forest, and
+Private Files thinks Love will find a way.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Im-possible!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>You don't know the magic of love, Ruggedo.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Perhaps not; but I admit this love is a curious thing, and Inotice that mortals consider it a remedy for all ills. Perhaps
+it's more powerful than a Magic Belt.
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Especially if the magic won't work!</p>
+</sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 20. QUARTETTE: OZMA, FILES, RUGGEDO, ANN.<lb/>
+<lb/>
+"LOVE WILL FIND A WAY."<lb/>
+<lb/></head>
+<sp><speaker>ANN: </speaker><lg> 
+<l>When Thisbe was imprisoned by</l>
+<l>A stern and angry dad</l>
+<l>Young Pyramus did not despair</l>
+<l>Or weep or wail or tear his hair--</l>
+<l>He simply winked his left-hand eye</l>
+<l>Got busy, that was all,</l>
+<l>And kissed his charming Thisbe though</l>
+<l>A hole out in the wall.</l>
+</lg></sp>
+<note>OZMA----109.</note>
+
+<sp><speaker>QUARTETTE:</speaker><lg> 
+<l>Love will find a way---</l>
+<l>Love will find a way---</l>
+<l>You can't keep man and maid apart</l>
+<l>If love is reigning in each heart,</l>
+<l>No matter what you say,</l>
+<l>Oppose them as you may--</l>
+<l>No loving pair need e'er despair</l>
+<l>For love will find a way.</l>
+</lg></sp>
+<stage>
+2.
+</stage>
+<sp><speaker>RUGGEDO:</speaker><lg> 
+<l>When Juliet expressed regret</l>
+<l>Upon her balcony,</l>
+<l>Young Romeo, as well we know,</l>
+<l>Was not contented down below.</l>
+<l>He found a lattice light and strong</l>
+<l>And climbed it ev'ry night</l>
+<l>And when he'd get to Juliet</l>
+<l>He acted most polite.</l>
+</lg></sp>
+<sp><speaker>QUARTETTE:</speaker><stage>(Repeat Refrain.)</stage></sp>
+<stage>
+3.</stage>
+<sp><speaker>OZMA:</speaker><lg> 
+<l>A girl who has a chaperone</l>
+<l>A stern and watchful dame--</l>
+<l>Is not restrained from flirting some</l>
+<l>When gay admirers 'round her come.</l>
+<l>She send the staid duenna off</l>
+<l>To find a missing fan,</l>
+<l>And when the chaperone returns,</l>
+<l>She's waltzing with a man.</l>
+</lg></sp>
+<sp><speaker>QUARTETTE:</speaker><stage>(Repeat Refrain.</stage></sp>
+<stage>
+4.
+</stage>
+<sp><speaker>FILES:</speaker><lg> 
+<l>Though papa kicks a lover down</l>
+<l>A dozen pair of stairs,</l>
+<l>The girl will never mind at all</l>
+<l>However hard the chap may fall--</l>
+<l>She'll write him loving billet-doux</l>
+<l>And meet him in the park--</l>
+<l>So let us hope they'll soon elope</l>
+<l>And both enjoy the lark.</l>
+</lg></sp>
+<sp><speaker>QUARTETTE:</speaker>
+<stage>(Repeat Refrain.)</stage>
+</sp>
+<stage>(They <hi rend="underline">EXIT</hi> with song.</stage>
+<stage>(<hi rend="underline">ENTER</hi>: TIKTOK and SHAGGY MAN.)</stage>
+</div>
+<div>
+<sp><speaker>TIK:</speaker>
+<p>I say she's mine!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You're wrong, she's mine!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Ask her!</p>
+</sp>
+<pb/>
+
+<note>OZMA-----110.</note>
+<sp><speaker>SHAGGY:</speaker>
+<p>She won't say.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>My beaut-i-ful Bet-sy!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>My captivating Betsy!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Stop it!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I won't! You'll soon run down, old chap, and then you'll be
+out of the game.
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Heart-less ri-val!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Tell you what I'll do, Tiktok--I'll fight for the girl!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>All right. A du-el!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>And the one that loses, loses Betsy!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks! Wind me up and I'll pound you into mince-meat.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You must wear gloves. Brass knuckles are barred.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I'll ne-ver dis-guise my fists.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You're a knocker.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>You're a-fraid.</p>
+</sp>
+<pb/>
+
+<note>OZMA-----111.</note>
+<sp><speaker>SHAGGY:</speaker>
+<p>What! Of a junk-heap!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I dare you!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Look out, then! </p></sp>
+<stage>(Here follows a specialty scene and humorous
+prize-fight. Behind the prize-fight I'd like
+to drop a canvas painted with figures of spectators
+-- automatically rolling their eyes, opening
+their mouths and clapping thier hands. All stiff
+and worked by wires. The suggestion is up to Mr.
+Voegtlin...During this scene SHAGGY pounds TIKTOK
+and hurts his own fists more than he does the Clockwork Man.
+TIKTOK lands one blow, after many efforts, which doubles up the
+SHAGGY MAN, who returns to the fight dancing around at a safe
+distance. He pauses for breath.
+</stage>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>You're the toughest proposition I ever tackled.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>I'm a thrash-ing ma-chine.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>You won't thrash me. I'll punch that button on your face that
+is marked: "Don't Touch!"
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>If you do you'll ru-in me!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Exactly what I want. I'll teach you to make love to my girl.</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>She isn't yours, she's mine!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>That's the point we're trying to settle. Are you ready? Then
+come on! </p><stage>(The fight is renewed, SHAGGY trying to reach the button
+on TIKTOK's forehead. At last he succeeds, there
+is an effect (by Mr. Voegtlin) by means of which TIKTOK
+is apparently blown to pieces and his machinery
+strewn all over the place.)</stage>
+</sp>
+<pb/>
+
+<note>OZMA-----112.</note>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Startled)</stage><p> Ma-ny thanks! Well, I <hi rend="underline">awow</hi>! <stage>(Imitating TIKTOK)</stage></p>
+<p>Don't blame me, blame the-z-z-z-z-z-z-pat-en-tee! He's a junk
+heap now, for sure!</p></sp>
+<stage>(<hi rend="underline">ENTER</hi>: OZMA, FILES, ANN, BETSY, RUGGEDO, and HANK.</stage>
+
+<sp><speaker>FILES:</speaker>
+<p>What's the matter?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Wish I knew.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>What's all this rubbish?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>It's Tiktok! Poor fellow! He exploded.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Oh dear! I'm so sorry! I was very fond of Tiktok.</p>
+
+<stage>(She begins gathering up the pieces.)</stage>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>He's a total wreck now. But he's better off than we are, forhe's passed on and we're still here. Seems like we'll never
+cross the canyon.
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Alas! must we all perish is this dismal place?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Be brave, my sweet Rose!</p>
+</sp>
+<stage>(<hi rend="underline">ENTER</hi>: POLYCHROME, hastily.</stage>
+
+<sp><speaker>POLY:</speaker>
+<p>Quick, friends---quick! a storm is coming!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Let 'er come----we can't help it.</p>
+</sp>
+<pb/>
+
+<note>OZMA------113.</note>
+<sp><speaker>POLY:</speaker>
+<p>But it will be followed by the rainbow.</p>
+</sp>
+<sp><speaker>ALL:</speaker>
+<p><stage>(Wonderingly)</stage> The Rainbow!</p>
+</sp>
+<sp><speaker>POLY:</speaker>
+<p>Yes; it will span the canyon, and if you are quick you can
+cross on it before it lifts.
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>We'll try it, Polly, dear!</p>
+</sp>
+<stage>(Stage darkens.</stage>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 21. STORM MUSIC. and effects, followed by
+the appearance of the Rainbow,
+and repetition of the
+<hi rend="underline">"SUMMER RAINSTORM."</hi>
+</head>
+
+<sp><speaker>POLY:</speaker>
+<stage>(Raising her arms)</stage><p> Help us, dear father!</p></sp>
+
+<stage>(This is a small effect, intended merely to
+show the audience by what means the characters
+are to enter the Metal Forest.)</stage>
+</div>
+<div>
+<stage>
+PICTURE: and<lb/>
+<lb/>
+QUICK CHANGE TO<lb/>
+<lb/>
+SCENE 3.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+</stage>
+<pb/>
+</div></div>
+<div type="scene" n="3">
+<head>
+OZMA OF OZ.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+ACT II.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+SCENE 3.<lb/>
+<lb/>
+---<lb/>
+</head>
+
+<pb/>
+
+<note>OZMA-----14.</note>
+
+<stage>ACT II.--SCENE 3.<lb/>
+---</stage>
+<lb/>
+<stage>
+<hi rend="underline">THE METAL FOREST.</hi>--In this scene, which is an original
+conception by Arthur Voegtlin, the trees are all
+made of various metals, silver predominating.
+The tracery of the branches and leaves under
+the proposed lighting device, will lead a
+scene of sensational novelty and beauty.
+The CURTAIN RISES in darkness, and the
+company is provided with tiny lamps with
+which they run about, giving the effect of
+fire-flies during the following: )
+</stage>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 22. "FIRE-FLY CHORUS."
+</head>
+<sp>
+<lg>
+<l>Shine little fairies of light,</l>
+<l>Shine on!</l>
+<l>Beacons so tiny and bright,</l>
+<l>Shine on!</l>
+<l>Swift through the gloom comes thy dazzling gleam</l>
+<l>Cleaving the darkness with luminous beam;</l>
+<l>Through field and forest so dark,</l>
+<l>Shine on!</l>
+<l>Though are out for a lark,</l>
+<l>Shine on!</l>
+<l>Fairies so gay, show us the way,</l>
+<l>With your spark! spark! spark!</l>
+</lg>
+<lg>
+<l>Fireflies! Fireflies!</l>
+<l>Hither and thither your way lies;</l>
+<l>Shine when the stars are absent and shy,</l>
+<l>Shine when the clouds are veiling the sky;</l>
+<l>All through the twilight so drear,</l>
+<l>Shine on!</l>
+<l>Shedding your radiance clear,</l>
+<l>Shine on!</l>
+<l>Sentries of night, show us your light</l>
+<l>With its spark! spark! spark!</l>
+</lg>
+</sp>
+<stage>
+<hi rend="underline">Dawn breaks.</hi>-- Various colors must be shown, beginning at dark
+blue, changing to red, thence yellow and finally through blending
+tints to white. The CHORUS has disappeared, and the music of
+the Fire-fly song is softly played until the scene is fully
+revealed in all its beauty.)
+</stage>
+<stage>(<hi rend="underline">ENTER</hi>: RUGGEDO and METAL IMPS, headed by FLASH.</stage>
+
+<sp><speaker>FLASH:</speaker>
+<p>Your Majesty seems worried!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I am. I've lost the precious Love Magnet.</p>
+</sp>
+<sp><speaker>FLASH:</speaker>
+<p>Never mind. You were happy before you ever heard of it.</p>
+
+<pb/>
+
+<note>OZMA-----115.</note>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Not having seen Polychrome, and having once possessed the LoveMagnet, I shall never be happy again without the girl or the
+charm to win her.
+</p>
+</sp>
+<sp><speaker>FLASH:</speaker>
+<p>Can't we make another?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Im-possible! It's metal, to be sure, but the God of love, Cupid,breathed upon it, which accounts for its magical power of
+attraction. But I'll have my sweet Polychrome--if I have to
+follow her to the rainbow!
+</p>
+</sp>
+<sp><speaker>FLASH:</speaker>
+<p>And you! The terrible Metal Monarch, have been conquered bylove! You have even become friends with these absurd mortals.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Because they're going to restore the gold that has been stolenfrom me. The mortals are not so bad, Flash, once you come to
+know them, and they serve to amuse me!
+</p>
+</sp>
+<sp><speaker>FLASH:</speaker>
+<p>Do you intend to release the Ugly Man?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Yes; he's imprisoned in this forest. He's of no use to me becausehe's too lazy to work. Let the Shaggy Man have his ugly
+brother, if he wants him. But here come the mortals!
+</p>
+</sp>
+<sp><speaker>FLASH:</speaker>
+<p>Yes; they all crossed the gulch on the rainbow!</p>
+
+<stage>(<hi rend="underline">ENTER</hi>: ANN, OZMA, and FILES.)</stage>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>What a beautiful forest, Ruggedo.</p>
+
+
+<pb/>
+
+<note>OZMA-----116.</note>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Yes, it has amused us for many years in the making.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>It must be worth a lot of money.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I don't care for money. All I love to possess is the metalitself. But listen, mortals; I'll give the most precious tree
+in this forest for the Love Magnet.
+</p>
+</sp>
+<sp><speaker>ALL:</speaker>
+<p>The Love Magnet!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Yes. I must regain it in order to secure Polychrome's love.It is at present lost, strayed or stolen.
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>I wish I had it. You would be welcome to it, Ruggedo.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>If I had it I'd give it for half of one of your splendid trees.</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Cheer up, Ruggedo. You may win Polly without the Love Magnet.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I'm afraid not. I'm a rough fellow, hard as my own metal.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>I'm sure you have a heart of gold.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Brass, most likely!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Hammer and tongs, woman! This to me!</p>
+
+<stage>(ENTER: BETSY on HANK. She is carrying a bag of some
+material which jingles when she moves.)</stage>
+</sp>
+<pb/>
+
+<note>OZMA-----117.</note>
+<sp><speaker>BETSY:</speaker>
+<p>Storming again, Ruggedo? Your temper needs pressing with a
+flat-iron. It's got too many crimps in it.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I've lost the Love Magnet.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Oh, you have, have you?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Yes, and I'd give half my kingdom to get it back. What haveyou in that bag?
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<stage>(Sniffing)</stage><p> It's--it's--the remains of my dear defunct Tiktok.
+I picked him up piece by piece.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>What a peaceful occupation.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Did you love the Clockwork Man, Betsy?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Yes, dear! Now, when he's beyond repair, I've discovered how
+nice he was. If you could see his works, Ozma, you'd know
+he was a clean, simple man of many excellent parts.
+</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>He must have been.
+</p></sp>
+<sp><speaker>BETSY:</speaker>
+<p>And if he <hi rend="underline">did</hi> run down once in awhile----</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>Twice in awhile, sometimes!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Well, it was nobody's business but his own. Oh, dear Tiktok!</p>
+<p>How much I'd give to be able to wind you up again!</p>
+<pb/>
+<note>OZMA-----118.</note>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Did you save all the pieces?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Every one!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Then I might be able to put him together again. I know allabout metal men, being the Metal Monarch, and I remember that
+Tiktok was made in my own workshop by his inventors.
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Oh, was he?</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Yes. But he refused to obey my orders and so I threw him downa well.
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>And we pulled him up again. Oh, Ruggedo, do put Tiktok together
+-----and I'll give you---a kiss, even if it gags me!
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I don't want your kisses. All I want is the Love Magnet.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Well, I'll give you the Love Magnet, then.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p><stage>(Eagerly)</stage> Where is it, girl---where is it?</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>Tiktok will tell you, the first words he says after he's put
+together again. <stage>(Opens bag)</stage> Here are the pieces, Ruggedo; the
+quicker you work, the sooner you'll get the Love Magnet.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Very good. It won't take long to do the job.</p>
+
+<stage>(Here follows an effect provided by Mr. Voegtlin
+by which RUGGEDO restores TIKTOK.)</stage>
+</sp>
+<pb/>
+
+<note>OZMA-----119.</note>
+<sp><speaker>BETSY:</speaker>
+<p>Glory Hallelujah! Oh, Tiktok, I'm so glad!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Ma-ny thanks!</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>I saved you, Tiktok! I gathered you up when you were scattered
+and dissipated, and never lost a single piece!
+</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Then I'm yours from now on. I may wear out in time, but while I last I'm yours!
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<stage>(Handing Love Magnet to RUGGEDO)</stage><p> Here's your reward, Ruggedo---
+the Love Magnet!
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Good. Now, then, sweet Polychrome must be mine!</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>But where is she?</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>She hasn't been seen since we crossed on the rainbow.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I'll find her, never fear. And when I do the Love Magnet will
+win her heart.</p>
+
+<stage>(ENTER: SHAGGY MAN. He looks at TIKTOK and begins to
+tremble, showing excessive fear.)</stage>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>What is the matter, Shaggy Man?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>A--a--ghost! Avaunt, thou spirit of the demolished Tiktok---
+avaunt! I've-- g--g--got my fingers crossed! You--you--can't
+haunt me!
+</p>
+</sp>
+<pb/>
+
+<note>OZMA-----120.</note>
+<sp><speaker>TIKTOK:</speaker>
+<p>Down on your knees, de-struct-ive mor-tal!</p> <stage>(SHAGGY hesitatates,
+still glaring and trembling.</stage>
+<p>Mar-row bones for you, old chap, or I'll explode a-gain and
+blow you to at-oms! </p><stage>(SHAGGY kneels)</stage> <p>Now beg my par-don!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Better obey, Shaggy Man.</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>If you don't, you're a goner!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I--I--I beg your g--g--ghostly pardon!</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Grant-ed. Now stand up and be-have your-self! <stage>(All laugh asSHAGGY rises.
+</stage></p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>What! You're not a ghost!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Copper ghosts are "impossible!" Aren't they, Ruggedo?</p>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Bet-sy saved the pie-ces and the Met-al Mon-arch put meto-geth-er a-gain!
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Then I'm not a murderer! Here, Ruggedo, take this.</p> <stage>(Handing
+him coins)</stage><p> The Royal Gardener gave them to me, and they're
+yours. Sorry, old boy, I haven't more to give you.</p>
+<stage>(BETSY, HANK and TIKTOK, retire back stage examining
+Metal Forest. OZMA and FILES are also walking together
+among trees.)</stage>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Why did the Royal Gardener give you so much money?</p>
+</sp>
+<pb/>
+
+<note>OZMA-----121.</note>
+<sp><speaker>SHAGGY:</speaker>
+<p>He loved me because I had the Love Magnet. I suppose that's
+why I'm giving the coins to you, Ruggedo, isn't it?
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>True. I now possess the magic metal.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>And with it the love of all you meet.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Say, Shaggy, if I had the Love Magnet would <hi rend="underline">you</hi> love <hi rend="underline">me</hi>?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Sure, old relic; I couldn't help it!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Ruggedo, let me take the Magnet.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Hastily)</stage><p> Don't you do it, Rug!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Why, it would be a fitting punishment for all the trouble youcaused me in putting Tiktok together. Will you give it back,
+Ann, whenever I demand it?
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Of course I will! Tiktok's lost to me, and I've got to havesome man, or I'll die an old maid!
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Then take it---and I wish you joy! <stage>(Hands her Love Magnet andthen retires back stage.
+</stage></p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Starts to run.)</stage><p> Help! Help!</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p><stage>(Holding up Magnet)</stage> You're caught, Shaggy. There's no escape!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<stage>(Approaching her.)</stage><p> Beautiful vision!</p>
+</sp>
+<pb/>
+
+<note>OZMA-----122.</note>
+<sp><speaker>ANN:</speaker>
+<p>Ah, ha!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>I adore thee! Thou art the pride of my heart---</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p><stage>(Tittering)</stage> Tee, hee, hee!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>The light of my life-----</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Tee-hee-hee-hee!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>The comfort of my soul and the joy of my waking dreams! Be
+mine!
+</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p><stage>(Throws herself on him and clutches him tightly)</stage> I'll beyour gold-mine!
+</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>And I'll be a second Callahan.</p>
+</sp>
+<sp><speaker>ANN:</speaker>
+<p>Who was Callahan?</p>
+</sp>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 23. DUET: SHAGGY MAN and ANN.<lb/>
+<lb/>
+"CALLAHAN."<lb/>
+</head>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg><l>
+There was a man named Callahan--</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+ANN: 
+</speaker>
+<lg>
+<l>Callahan?</l>
+</lg>
+</sp>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg>
+<l> Callahan!</l>
+<l>And he was called a proper man</l>
+<l>By all who knew his wife!</l>
+<l>She nagged him and she twitted him,</l>
+<l>She scolded and out-witted him;</l>
+<l>That wouldn't do for Callahan--</l>
+<l>He carved her with a knife.</l>
+</lg>
+</sp>
+
+<pb/>
+
+<note>OZMA-----123.</note>
+
+<sp>
+<speaker>
+ANN: 
+</speaker>
+<lg>
+<l>Poor old Callahan!</l>
+</lg>
+</sp>
+<sp><speaker>BOTH:</speaker>
+<lg>
+<l>Calla-- Calla--</l>
+<l>Callahan!</l>
+</lg></sp>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg>
+<l>He was such a peaceful man</l>
+<l>He couldn't stand the strife.</l>
+<l>Sure he might have pounded her</l>
+<l>Confounded her, or drowned her,</l>
+<l>But he had a better plan--</l>
+<l>He carved with a knife!</l>
+</lg></sp>
+<stage>(CHORUS repeats Refrain while ANN and
+SHAGGY--DANCE.)</stage>
+<stage>
+2.</stage>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg><l>The jury tried poor Callahan--</l>
+</lg></sp>
+<sp>
+<speaker>
+ANN: 
+</speaker>
+<lg><l>Callahan?</l></lg></sp>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg><l>Callahan!</l>
+<l>They asked him how the fight began.</l>
+<l>He told 'em why and when.</l>
+<l>The judge was a married man,</l>
+<l>He'd no respect for Callahan,</l>
+<l>And so he put him in the can</l>
+<l>Among the lock-step men.</l>
+</lg></sp>
+<sp>
+<speaker>
+ANN: 
+</speaker>
+<lg>
+<l>Poor old Callahan!</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+BOTH: 
+</speaker>
+<lg>
+<l>Calla-- Calla--</l>
+<l>Callahan!</l>
+</lg></sp>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg>
+<l>His wife whose name was Mary Ann,</l>
+<l>Was not cut up, you see,</l>
+<l>She flirted with Dan Hanrahan,</l>
+<l>The man who owned the moving van,</l>
+<l>And they eloped, by Cupid doped,</l>
+<l>And Callahan was free!</l>
+</lg>
+</sp>
+<stage>
+3. 
+</stage>
+<stage>(CHORUS and DANCE.</stage>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg><l>He served his time, did Callahan--</l></lg></sp>
+
+<sp>
+<speaker>
+ANN: 
+</speaker>
+<lg>
+<l>Callahan?</l>
+</lg>
+</sp>
+
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg>
+<l>Callahan!</l>
+<l>And then for Civil Service ran</l>
+<l>And joined the polic' force.</l>
+<l>He was forever on his feet</l>
+<l>And twirled his club and walked his beat.</l>
+<l>He was the grandest in the land</l>
+<l>And happy too, of course.</l>
+</lg>
+</sp>
+<sp><speaker>
+ANN: 
+</speaker>
+<lg><l>Brave old Callahan--</l></lg></sp>
+<sp><speaker>
+BOTH: 
+</speaker>
+<lg>
+<l>Calla-- Calla--</l>
+<l>Callahan!</l>
+</lg>
+</sp>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg><l> One day an awful row begun</l>
+<l>He went to see the fun.</l>
+<l>And there he found his Mar-y Ann</l>
+<l>Was fighting, biting Hanrahan,</l>
+<l>And being such a peaceful man,</l>
+<l>He pinched 'em ev'ry one.</l>
+</lg></sp>
+<pb/>
+
+<note>OZMA-----124.</note>
+<stage>
+4.</stage>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg><l>And now he's quite a happy man--</l></lg></sp>
+<sp>
+<speaker>
+ANN: 
+</speaker>
+<lg>
+<l>Callahan?</l>
+</lg>
+</sp>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg><l>Callahan!</l>
+<l>For both his wife and Hanrahan</l>
+<l>Are in the jug for life!</l>
+<l>They each got ninety-seven years</l>
+<l>And that's the limit, it appears,</l>
+<l>It was agin the law, you see,</l>
+<l>To cause such roar and strife.</l>
+</lg></sp>
+<sp>
+<speaker>
+ANN: 
+</speaker>
+<lg>
+<l>And now Callahan--</l>
+</lg>
+</sp>
+<sp><speaker>
+BOTH: 
+</speaker>
+<lg>
+<l>Calla-- Calla--</l>
+<l>Callahan!</l>
+</lg>
+</sp>
+<sp><speaker>
+SHAGGY: 
+</speaker>
+<lg><l> He is quite a happy man</l>
+<l>And has no wife to fight.</l>
+<l>He through for good with Mary Ann,</l>
+<l>He'll never see old Hanrahan,</l>
+<l>Who used to drive the moving van--</l>
+<l>And Callahan's all right!</l>
+</lg>
+</sp>
+<stage>(CHORUS and DANCE.)</stage>
+<stage>(After Dance, the CHORUS <hi rend="underline">EXITS</hi> and Principals come
+down stage.)</stage>
+</div><div>
+<sp><speaker>OZMA:</speaker>
+<p>We congratulate you, Queen Ann!</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Me, too. Ann's a big gun in Oogaboo. I'll take her home, have
+her enameled and padded, and she won't be so bad to look at,
+after all.
+</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>You might do worse.</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Show me how, and I'm game to do it. But where's my brother,
+Ruggy?
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I nearly forgot him. Flash!</p> <stage>(FLASH appears and bows)</stage> <p>Liberate 
+the Ugly Man and command his presence here. </p><stage>(<hi rend="underline">EXIT</hi>: FLASH.</stage>
+<stage>(<hi rend="underline">ENTER</hi>: A MESSENGER from the ROSE KINGDOM.)</stage>
+<p>Ha! Where do <hi rend="underline">you</hi> come from, my man?</p>
+</sp>
+
+<pb/>
+
+<note>OZMA------125.</note>
+<sp><speaker>
+MESSENGER:</speaker>
+<p>
+From the Rose Kingdom, Your Majesty. I am sent by the subjects
+of the Princess Ozma to invite her to return and rule over them.</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Why do they ask this?</p></sp>
+
+<sp><speaker>MESS:</speaker>
+<p>
+They picked a Prince after you left, but he had so many thorns
+he led the roses a prickly life. So they planted him and now
+ask you to return.
+</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p><stage>(To OZMA)</stage> What will you do, my dear?</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>Here is my answer, Messenger. Return to the Roses and tell them
+I have found a better Kingdom to rule--the Kingdom of Love--
+in which my own dear Private Files is the king!
+</p>
+</sp>
+<sp><speaker>ALL:</speaker>
+<p>Bravo, Ozma!</p></sp>
+<stage>(MESSENGER bows and retires.</stage>
+<stage>(ENTER: FLASH and UGLY MAN)</stage>
+
+<sp><speaker>SHAGGY:</speaker>
+<p>Oh, my dearly-beloved, long lost brother! How happy I am to
+see that charming face again!
+</p></sp>
+<sp>
+<speaker>
+UGLY MAN:</speaker>
+<stage>(Scowling)</stage><p> Shut up, Shag, ye durned fool. Whatcher doin' here?</p>
+</sp>
+<sp><speaker>SHAGGY:</speaker>
+<p>Ah, that kindly, gentle voice! Those tender, loving words!</p>
+
+<p>We've come to save you, dear brother. </p></sp><stage>(Tries to embrace him but
+UGLY kicks him in shins.</stage>
+
+<stage>(During this scene between SHAGGY and UGLY, all Principals
+by their actions, etc., express horror at UGLY's unsightly
+countenance. Bus. between Mule and the Ugly Man.)</stage>
+
+<pb/>
+
+<note>OZMA-----126.</note>
+
+<sp><speaker>FLASH:</speaker>
+<p><stage>(To RUGGEDO)</stage> Your Majesty, Polychrome has returned to herRainbow. While I was out to release the Ugly Man I met a
+messenger from her. She had said you may worship
+her from a distance, but that she will never again return to
+the earth.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Woe--woe--woe is me! But I suspected it!</p>
+</sp>
+<sp><speaker>FILES:</speaker>
+<p>That's too bad, Ruggedo.</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Never mind. I'd no business to fool with love. I'll go back tomy workshop and forget the Rainbow girl. I'll exchange Cupid for
+cupidity.
+</p>
+</sp>
+<sp><speaker>OZMA:</speaker>
+<p>We're sorry for you, Your Majesty!</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>Never mind. It's just my luck. Every one here seems happilymated but me.
+</p>
+</sp>
+<sp><speaker>BETSY:</speaker>
+<p>And me! Tiktok says he'll be mine, but he can't love me
+because he's a machine.
+</p>
+</sp>
+<sp><speaker>RUGG:</speaker>
+<p>I'll fix that. Give me the Love Magnet; Ann you don't need 
+it now.</p><stage>(ANN hands Love Magnet to RUGGEDO. He opens a trap
+in TIKTOK'S head and drops Magnet in. Jingling of 
+metal is heard.</stage>
+</sp>
+<sp><speaker>TIK:</speaker>
+<p>Now I'm all right, Bet-sy, and I'll love you like any-thing.
+A man is known by his works, and I'll work for you a-lone.</p></sp>
+<pb/>
+
+<note>OZMA:-----127.</note>
+</div>
+<div type="song">
+<head>
+MUSICAL NUMBER 24. FINALE:
+</head>
+<stage>(Introducing "THE MAGNET OF LOVE" and other airs and
+concluding with one of the March Songs.)</stage>
+<stage>
+<hi rend="underline">PICTURE</hi> and<lb/>
+<lb/>
+CURTAIN.<lb/>
+<lb/>
+---<lb/>
+<lb/>
+THE END.<lb/>
+</stage>
+
+<pb/>
+</div></div>
+			</body>
+			</text>
+			</TEI>

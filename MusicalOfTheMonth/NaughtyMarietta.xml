@@ -1,0 +1,6154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="drama.xsl"?>
+<!DOCTYPE TEI SYSTEM "tei_drama.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Naughty Marietta</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>New York Public Library for the Performing Arts</publisher>
+                <pubPlace>New York City</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Naughty Marietta</title>
+                    <author>Rida Johnson Young</author>
+                    <author>Victor Herbert</author>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <titlePart>
+                    <title>
+                       Naughty Marietta<lb/>
+                        A Musical Comedy<lb/>
+                        In<lb/>
+                        Two Acts<lb/>
+                    </title>
+                </titlePart>
+                
+                <lb/>
+                <docAuthor>Books and Lyrics
+by RIDA JOHNSON YOUNG
+                </docAuthor>
+                <docAuthor>Music by Victor Herbert<lb/>
+                </docAuthor>
+                <pb/>
+            </titlePage>
+
+
+        </front>
+        <body>
+            <div type="characters">
+                <head>CAST OF CHARACTERS</head>
+<castList>
+<castItem>CAPTAIN RICHARD WARRINGTON...An American known as Captain Dick</castItem>
+
+<castItem>LIEUTENANT-GOVERNOR GRANDET</castItem>
+
+<castItem>ETIENNE GRANDET....................Son of the Lieutenant-Governor</castItem>
+
+<castItem>SIR HARRY BLAKE....................An Irish adventurer</castItem>
+
+<castItem>SILAS SLICK........................Captain Dick&#39;s servant</castItem>
+
+<castItem>RUDOLFO............................Keeper of Marionette Theatre</castItem>
+
+<castItem>FLORENCE...........................Secretary to Lieutenant-Governor</castItem>
+
+<castItem>MARIETTA D&#39;ALTENA</castItem>
+
+<castItem>LIZETTE............................A Casquette girl</castItem>
+
+<castItem>ADAH...............................A Quadroon slave</castItem>
+
+<castItem>FANCHON, NANETTE, FELICE</castItem>
+
+<castItem>NIGHT WATCHMAN, PIRATES, INDIAN, EAST INDIAN, KNIFE GRINDER</castItem>
+
+<castItem>Quadroon Belles, Spanish Girls, French Girls,
+Captain Dick&#39;s followers, Italians, etc., etc.</castItem>
+</castList>
+</div>
+<div type="synopsis">
+<head>
+----
+<lb/>
+<hi rend="underline">SYNOPSIS OF SCENES</hi><lb/>
+</head>
+<list>
+<item><hi rend="underline">ACT I:</hi> PUBLIC SQUARE in New Orleans</item>
+
+<item><hi rend="underline">ACT II:</hi></item>
+
+<item>Scene 1: A Marionette Theatre</item>
+<item>Scene 2: Ballroom of the Jeunesse Club</item>
+
+<item><hi rend="underline">PLACE:</hi> NEW ORLEANS</item>
+
+<item><hi rend="underline">PERIOD:</hi> 1780.</item>
+</list>
+</div>
+<pb/>
+<div type="properties">
+<head>
+<hi rend="underline">PROPERTY PLOT</hi>
+<lb/>
+<hi rend="underline">ACT I</hi>
+</head>
+<list>
+<item>Old-fashioned lantern (NIGHT WATCHMAN)</item>
+<item>Street lamp and lamp post</item>
+<item>Small ladder</item>
+<item>Large key on ring</item>
+<item>Booths for vendors of flowers, confectionary, candies, etc.</item>
+<item>Donkey with paniers of flowers</item>
+<item>Articles for VENDORS, ad lib, such as figs, oranges, sugar</item>
+<item>cane, parroquettes, etc.</item>
+<item>Brooms for STREET SWEEPER</item>
+<item>Knife grinder&#39;s outfit and bell</item>
+<item>Pair of scissors (ADAH)</item>
+<item>Bunch of roses</item>
+<item>Knives for TWO PIRATES</item>
+<item>Guns for DICK and FOLLOWERS</item>
+<item>Bundle of letters (DICK)</item>
+<item>Bell and official document (TOWN CRIER)</item>
+<item>Casquettes (CARQUETTE GIRLS and LIZETTE)</item>
+<item>Knives and cutlass (SILAS)</item>
+<item>Papers and gold pieces in casquette (LIZETTE)</item>
+<item>Basket (RAG PICKER)</item>
+<item>Hand organ to play music of score (RUDOLFO)</item>
+<item>Tambourines</item>
+<item>Official document (SECRETARY)</item>
+<item>Convent bell (Off stage)</item>
+<item>Church organ (Off stage)</item>
+</list>
+<list>
+<head>ACT II<lb/>
+
+Scene 1</head>
+
+<item>Complete equipment of the small marionette stage with figures 
+of Pierrette, Pierrot, Harlequin, ropes to manipulate
+figures, curtain, footlights, steps up to marionette
+platform, etc., etc., </item>
+<item>tambourine on wall -- </item>
+<item>feather duster -- </item>
+<item>stool in front of window, </item>
+<item>box or stool</item>
+<item>outside window.</item>
+</list>
+<list>
+<head>
+<hi rend="underline">Scene 2</hi></head>
+<item>Furniture of period for ballroom</item>
+<item>Fancy gilt tables, settee, chairs, etc., etc.</item>
+<item>Packs of cards and sets of dice</item>
+<item>Castanette (SPANISH GIRLS)</item>
+<item>Dog whistle (GOVERNOR)</item>
+<item>Whistle (ETIENNE)</item>
+<item>Pistols for PIRATEs</item>
+<item>Guns for DICK&#39;S MEN. (Flintlock Muskets)</item>
+</list>
+</div>
+<div type="act" n="1">
+<head>
+-----<lb/>
+<hi rend="underline">ACT I</hi><lb/>
+<lb/>
+PLACE: New Orleans.<lb/>
+<lb/>
+TIME: About 1780.<lb/>
+<lb/>
+SCENE: The Place d&#39;Armes.<lb/>
+</head>
+<stage>
+A broad open space with the levee
+at back. There is a path along
+this levee bordered on both sides
+by tall trees, some of which are
+draped with the gray Southern moss.
+There is just a glimpse of the
+Mississippi between these trees.
+Along the levee from time to time
+as act progresses, people of
+various nationalities past.
+Mexicans, Indians, Spaniards,
+Negroes, etc. At extreme L. is
+an arcaded street in which are
+booths for flower sellers, cake
+and confectionary - sailors, etc.
+Over this arcade are the high latticed
+windows of dwellings in old 
+Creole style. There is a door at
+L. into one of these houses. At
+right is the getaway entrance to
+the St. Louis Cathedral. Up
+stage in centre is a large fountain.
+The top of the fountain is
+in the form of a large urn. The
+pedestal leading from the basin to
+the urn must be large enough for
+a person to stand up in. The
+fountain is dry.
+</stage>
+<stage>
+DISCOVERED: At rise of curtain it is just dawn.
+The sky shows crimson and gold
+over the river. Some BEGGARS are
+asleep at base of fountain. The
+music is soft and low.
+</stage>
+
+<stage>
+NO. 1. OPENING CHORUS
+</stage>
+<stage>Enter NIGHT WATCHMEN with lantern.</stage>
+<pb/>
+
+<sp>
+<speaker>Night Watchman</speaker>
+<p>Five o&#39;clock and a fine clear morning. All&#39;s well.</p></sp>
+
+<stage>(BEGGARS bestir themselves and sit
+up yawning. LAMPLIGHTER comes in
+and placing his little ladder
+against side of house, exstinguishes
+lantern. SACRISTAN comes shuffling
+across stage and with great key
+unlocks the door of cathedral.
+FLOWER GIRLS&#39; VOICES off L. At
+entrance of FLOWER GIRLS the sun
+breaks forth and the stage becomes
+bright)</stage>
+
+<sp>
+<speaker>1st Flower Girl</speaker>
+<lg>
+<l>Jessamine. Jessamine and roses.</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>2nd Flower Girl</speaker>
+<lg>
+<l>Rose of May. Blushing posies.</l>
+</lg></sp>
+
+<sp>
+<speaker>1st Flower Girl</speaker>
+<lg>
+<l>Jessamine. Jessamine and roses.</l>
+</lg></sp>
+
+<sp>
+<speaker>2nd Flower Girl</speaker>
+<lg>
+<l>Fresh flowers, sweet flowers. Roses. Flowers.</l>
+</lg></sp>
+
+<stage>(CHORUS enters in twos and threes
+forming little groups. MAN enters
+with donkey L.U. baskets on donkey,
+filled with flowers which he sells
+to flower girls)</stage>
+
+<sp>
+<speaker>
+Girls
+</speaker>
+<lg>
+<l>Come, come, come for the morning is breaking.</l>
+<l>Haste, haste, haste, for the day is awaking.</l>
+<l>Youth, life, love, everywhere,</l>
+<l>Garlands of roses rare,</l>
+<l>Fragrance upon the air shaking.</l>
+</lg>
+<lg>
+<l>Come, come, haste. Sweet, sweet, sweet. Now &#39;tis springtime enthralling.</l>
+<l>Peep, peep, peep, now the love birds are calling.</l>
+</lg>
+<lg>
+<l>Cull your flowers, while you may,</l>
+<l>Short ah. Too short the day.</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+Man
+</speaker>
+<stage>(Off)</stage>
+<lg>
+<l>Paroquettes. Paroquettes.</l>
+<l>Petals will fade away falling.</l>
+</lg>
+</sp>
+<pb/>
+
+<sp>
+<speaker>
+Men
+</speaker>
+<stage>(Entering with various things for
+sale)</stage>
+<lg>
+<l>Paroquettes, paroquettes. Happy fortunes telling,</l>
+<l>Fresh figs, oranges, sugar cane. Sugar cane. ---</l>
+</lg>
+</sp>
+<sp>
+<speaker>Girls</speaker>
+<lg>
+<l>Come here, I&#39;ll buy. </l>
+<l>Don&#39;t pass us by.</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>
+Street Sweepers
+</speaker>
+<lg>
+<l>Come, clear the way, clear out I say,</l>
+<l>You foolish vendors crying</l>
+<l>We have to sweep the dust away,</l>
+<l>We have no time for buying.</l>
+<l>We have to work to clear the way,</l>
+<l>The casket girls come today,</l>
+<l>To make all fresh and fair and gay we&#39;re trying.</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Girls</speaker>
+<stage>
+1</stage>
+<lg>
+<l>Here they come the convent maids,</l>
+<l>So demure and shy</l>
+<l>Creole beauties every one,</l>
+<l>See them passing by.</l>
+<l>Downcast lashes, lips demure</l>
+<l>Stops precise and staid.</l>
+<l>Oh la la oh la la.</l>
+<l>I wouldn&#39;t be a convent maid.</l>
+</lg>
+<stage>(Start of CONVENT GIRLS from L)</stage>
+<lg>
+<l>Oh la la. Oh la la</l>
+<l>I wouldn&#39;t be a convent maid.</l>
+</lg>
+<stage>
+2
+</stage>
+<lg>
+<l>There&#39;s Mamselle de Frontenac,</l>
+<l>And Mamselle Rose Marie,</l>
+<l>Creole beauties everyone,</l>
+<l>High nobility.</l>
+</lg>
+<lg>
+<l>Looking never right or left,</l>
+<l>To smile they are afraid,</l>
+<l>Oh la la Oh la la.</l>
+<l>I wouldn&#39;t be a convent maid.</l>
+</lg>
+</sp>
+<stage>(CONVENT GIRLS exit into cathedral)</stage>
+<sp>
+<speaker>Man</speaker>
+<lg>
+<l>Paroquettes, Paroquettes. Happy fortunes telling.</l>
+<l>Sugar cane. Sugar cane.</l>
+</lg></sp>
+<pb/>
+
+<sp>
+<speaker>Street Sweepers</speaker>
+<lg>
+<l>Clear the way -- clear out I say.</l>
+</lg>
+</sp>
+<sp>
+<speaker>
+All
+</speaker>
+<lg>
+<l>Oh come, come, come, for the morning is breaking,</l>
+<l>Haste, haste, haste, for the day is awaking.</l>
+<l>Youth, life, love, everywhere.</l>
+<l>Garlands of roses rare</l>
+<l>Fragrance upon the air shaking.</l>
+<l>Sweet, sweet, sweet, now &#39;tis Springtime enthralling.</l>
+<l>Peep, peep, peep. Now the love birds are calling.</l>
+<l>Cull your flowers while you may</l>
+<l>Short, ah, too short the day.</l>
+<l>Petals will fade away, falling.</l>
+</lg>
+</sp>
+<stage>(Etc., etc. until end of Chorus)</stage>
+
+
+<stage>(At close of chorus enter from R.1.E.
+ETIENNE GRANDET, the son of the
+Lieutenant-Governor. He is a young
+man of very elegant manners and
+dress. Full of the gallantry and
+extreme courtesy of a beau of the
+times. He is supposed to be
+merely a social butterfly but is
+in reality the pirate Bras Pique,
+whose band of buccaneers is the
+terror of the whole coast)</stage>
+
+<sp>
+<speaker>Girls</speaker>
+<stage>(Ad lib)</stage><p>Monsieur Etienne. Welcome back. Welcome home. 
+<stage>(Girls rush forward and greet him)</stage></p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Ah, Felice, Nanette, Fanchon. And how goes everything in 
+Little Paris?</p></sp>
+
+<sp>
+<speaker>Felice</speaker>
+<p>Oh, Monsieur. New Orleans no longer deserves the name of 
+Little Paris with you away.</p></sp>
+
+<sp>
+<speaker>Nanette</speaker>
+<stage>(Offering flower)</stage>
+<p>Will Monsieur wear a rose?</p></sp>
+
+<sp>
+<speaker>Felice</speaker>
+<p>No. No. My jessamine.</p></sp>
+
+<sp>
+<speaker>Fanchon</speaker>
+<p>Ah no. The Fleur de Lis --</p></sp>
+
+<sp>
+<speaker>
+Etienne</speaker>
+<stage>(Taking the Fleur de Lis and putting
+it in his buttonhole)</stage>
+<p>Surely the flower of France, since I am so loyal a subject
+<pb/>
+of his gracious Majesty. Come, what is the news in Little
+Paris? What fortunes have been lost at dice? Who won the
+lottery? Who has stolen whose sweetheart?</p></sp>
+
+<sp>
+<speaker>Fanchon</speaker>
+<p>Oh, Monsieur. There is no scandal when you are away.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Laughing)</stage>
+<p>Rather a back-handed compliment, my dear.</p></sp>
+
+<sp>
+<speaker>Felice</speaker>
+<p>But such excitment -- Bras Pique, the pirate is abroad 
+again.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Indeed?</p></sp>
+
+<sp>
+<speaker>Nanette</speaker>
+<p>He has scarcely allowed one ship to come safely in harbor 
+since you sailed.</p></sp>
+
+<sp>
+<speaker>Felice</speaker>
+<p>And Monsieur, the Place d&#39;Armee is haunted.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>
+Haunted, ha, ha!
+</p>
+<stage>(Looks about laughing)</stage>
+<p>Rather an open, airy place for a ghost.</p>
+</sp>
+
+<sp>
+<speaker>Felice</speaker>
+<p>It is true. You shall hear --- A voice in the air - singing 
+-- But the voice comes from nowhere ---</p></sp>
+
+<sp>
+<speaker>Nanette</speaker>
+<p>They say it is the spirit of someone who went down in the
+last vessel scuttled by Bras Pique.</p></sp>
+
+<stage>(THEY ALL cross themselves)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Ha, ha! Nonsense.</p></sp>
+
+<sp><speaker>Felice</speaker>
+<p>But &#39;tis true, Monsieur. Everyone has heard it. The voice,
+so sweet -- so mysterious. It begins a melody and then
+dies away.</p></sp>
+
+<sp><speaker>Fanchon</speaker>
+<p>It goes like this --</p>
+<stage>(She hums the refrain of Marietta&#39;s
+dream melody)</stage>
+<lg><l>La, la, la, la, etc.</l></lg></sp>
+<pb/>
+
+<stage>(Knife grinder&#39;s bell can be heard
+off U.C.)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Someone is playing you tricks.</p></sp>
+
+<sp>
+<speaker>Fanchon</speaker>
+<p>No. No. Even Pere Antoine has heard it. He has had prayers 
+said.</p></sp>
+
+<sp>
+<speaker>Knife Grinder</speaker>
+<p>Knives to grind! Knives and scissors to grind.</p></sp>
+
+<stage>(ADAH, Etienne&#39;s quadroon slave and
+mistress, opens lattice of window
+over arcade)</stage>
+
+<sp>
+<speaker>Adah</speaker>
+<stage>(To Knife Grinder)</stage><p>Here! My shears. 
+<stage>(Throws scissors to man, sees Etienne)</stage></p></sp>
+
+<sp>
+<speaker>Nanette</speaker>
+<stage>(Aside to other Girls)</stage><p>We had better leave or we shall have our faces scratched for 
+talking to him.</p></sp>
+
+<stage>(ETIENNE takes bunch of roses from
+NANETTE and throws them up to Adah)</stage>
+
+<sp>
+<speaker>Adah</speaker>
+<p>Oh Master, it has been so long -- I feared --</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Laughing)</stage><p>You feared perhaps that I had been spliced to the yard arm 
+by Bras Pique.</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>Oh no! Not you. Will you come in?</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Presently.</p></sp>
+
+<stage>(ADAH goes in from balcony closing
+window)</stage>
+
+<stage>(Enter te TWO PIRATES, L.C.)</stage>
+
+<sp>
+<speaker>Fanchon</speaker>
+<p>Look, Monsieur. Pirates? 
+<pb/></p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Nonsense! Just innocent sailors on shore leave. The
+Casquette girls are about to land and they are here for the
+fun.</p></sp>
+
+<sp><speaker>Fanchon, Felice, Nanette</speaker>
+<p>Oh we must see the Casquette Girls too.</p>
+<p>Come, au revoir, Monsieur!</p></sp>
+
+<stage>(ALL throw kisses to him as they run
+off R.U.)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Au revoir!</p></sp>
+
+<sp>
+<speaker>1st Pirate</speaker>
+<stage>(To Etienne)</stage>
+<p>Master Pique!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Not Pique here!</p></sp>
+
+<sp>
+<speaker>1st Pirate</speaker>
+<p>
+We cannot land our goods at Barataria.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>And what have I to do with you and your goods, my good fellow? 
+<stage>(Goes toward house L)</stage></p></sp>
+
+<sp>
+<speaker>1st Pirate</speaker>
+<p>
+But Master, Captain Richard Warrington, the American, guards
+the coast for mile around the storehouses.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>In faith, &#39;tis a pretty pass when a gentleman may be accosted
+in the streets by a pack of ruffianly buccaneers. I shall
+have to inform my father, the Lieutenant-Governor, of this
+state of affairs, I shall indeed.</p></sp>
+<stage>(He again attempts to pass them)</stage>
+
+<sp>
+<speaker>1st Pirate</speaker>
+<p>But, Master -</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<stage>(Turning upon him sternly)</stage><p>
+Enough. You know where you may see your master. And,
+Manuelo, as you value your ability to wear those pretty earrings,
+never let this happen again. Adieu!</p></sp>
+<stage>(Exit house R)</stage>
+
+<stage>(SAILORS look after him a moment)</stage>
+<pb/>
+
+<sp>
+<speaker>2nd Pirate</speaker>
+<p>What did I tell you, Manuelo?</p></sp>
+
+<sp>
+<speaker>1st Pirate</speaker>
+<p>
+He is the Devil, Bras Pique! He fears nothing.
+</p></sp>
+
+<stage>(THEY go up to Knife Grinder and
+throw him their knives to grind)</stage>
+
+<sp>
+<speaker>
+Town Crier
+</speaker>
+<stage>(Entering R)</stage>
+<p>Hear ye! Hear ye all. The King of France has sent a shipment
+of Casquette maids. All men desiring wives shall present
+themselves at the King&#39;s storehouse. Hear ye, hear ye.
+All men desiring to wed.</p></sp>
+<stage>(He exits L)</stage>
+
+<stage>(Sounds of CAPTAIN DICK&#39;S MEN,
+FLOWER GIRLS, CITIZENS, etc. Enter
+U.L. street waving to Captain Dick&#39;s
+men as they enter. CAPTAIN DICK and
+HARRY BLAKE enter)</stage>
+
+
+<stage>
+NO. 2 SONG
+</stage>
+<sp>
+<lg>
+<l>Tramp! Tramp! Tramp! Along the highway.</l>
+<l>Tramp! Tramp! Tramp! The road is free!</l>
+<l>Blazing trails along the byway.</l>
+<l>Courier de bois are we!</l>
+<l>Tramp! Tramp! Tramp! Now clear the roadway.</l>
+<l>Room room room the world is free</l>
+<l>We&#39;re planters and Canucks,</l>
+<l>Virginians and Kaintucks,</l>
+<l>Captain Dick&#39;s own Infantry.</l>
+</lg>
+</sp>
+
+<stage>SONG</stage>
+<sp><speaker>Captain Dick</speaker>
+<lg>
+<l>We&#39;ve hunted the wolf in the forest,</l>
+<l>We&#39;ve raided the pirates at sea,</l>
+<l>We have no indenture,</l>
+<l>We&#39;re out for adventure,</l>
+<l>As anyone plainly can see,</l>
+<l>We&#39;ve smoked the peace pipe with the Hatches</l>
+<l>We&#39;ve fought with the Sioux wild and free</l>
+<l>We&#39;ve laughed at all dangers,</l>
+<l>We&#39;re known as the Rangers,</l>
+<l>Harry Blake - my good comrades --</l>
+</lg>
+</sp>
+
+<stage>(DICK sings chorus - MEN repeat.
+DICK and MEN repeat 3rd chorus together
+end of 3rd chorus, orchestra
+repeats chorus -- DICK&#39;S MEN and
+FLOWER GIRLS and CITIZENS all exit
+R. and L.)</stage>
+<pb/>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Calls)</stage>
+<p>Tramp! Tramp! Tramp! </p>
+<p>Silas! Silas!</p>
+
+<stage>(Enter SILAS SLICK R.U.E. Comes down
+R.C.)</stage>
+<p>
+Go to palace at once. Present these letters to the
+Governor.
+</p>
+<stage>(Hands HIM letters)</stage>
+<p>And ask when he will grant an audience to Sir Harry Blake
+and Captain Richard Warrington.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>And me?</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>And why you?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Why me, he asks! Was it not understood that I was to serve
+you until - <hi rend="underline">until</hi>, mark you - I could find an opportunity
+that will place me in the environment to which I have always
+been accustomed?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(With a laugh)</stage><p>And what good will it do you if I include you in the audience 
+to the governor?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I want to hear everything that&#39;s going on. I&#39;m a servant - 
+but I&#39;m a temperamental servant.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Enters form house R)</stage>
+<p>One moment, my good man.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I am <hi rend="underline">his</hi> good man -- for the present.</p></sp>
+
+<stage>(ETIENNE approaches CAPTAIN DICK)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>If I mistake not, I am addressing Captain Richard Warrington.</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>At your service, sir.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>I am Etienne Grandet, the son of the Lieutenant Fovernor.
+You may present your letters in person. My father will
+receive you as soon as he has disposed of the King&#39;s casket
+maids.</p></sp>
+<pb/>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Thank you, but my letters are to Governor Le Farge.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Governor Le Farge sailed last month on a private mission to 
+France. My father is in authority meanwhile.</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>Oh in that case -- of course -- Silas, the letters.</p>
+<stage>(He takes letters from SILAS. To
+Etienne)</stage>
+<p>We have permission on from your king to attempt the capture of
+this buccaneer, Bras Pique, who has made it a hazardous venture
+for English ships to bring us supplies.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Yes -- we will splice him with his own yard arm!</p></sp>
+
+<stage>(He tries to break into the conversation,
+each time THEY push him back)</stage>
+
+<sp><speaker>Etienne</speaker>
+<p>Indeed? That is good news. I trust you may be successful.
+But is not New Orleans a strange place for an attack on this</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Laughing)</stage><p>Oh, as to that, we are in New Orleans only for a few days. 
+My men are looking for --</p></sp>
+
+<sp>
+<speaker>Sir Harry</speaker>
+<p>Trouble.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Trouble -- what kind? We can perhaps oblige.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>The worst trouble, wives.</p></sp>
+
+<sp>
+<speaker>Sir Harry</speaker>
+<p>My friend here, is an acknowledged woman hater.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>You see, sir, he doesn&#39;t attract the ladies -- How I love 
+the darlings. Why? Because they love me.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>No one addressed you, Silas.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Oh, very well. 
+<pb/></p></sp>
+
+<sp><speaker>Dick</speaker>
+<stage>(To Etienne)</stage>
+<p>My lads have heard what fine wives the King&#39;s casket maids
+make, and when they learned that a fresh shipment was to be
+disposed of here in New Orleans, nothing would do but every
+one of them must run his head into the matrimonial noose.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>And let me tell you - to get caught in that <hi rend="underline">noose</hi> is not 
+<hi rend="underline">nice</hi>.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Roaring)</stage>
+<p>Quiet!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<stage>(Quickly)</stage>
+<p>Here you are, sir.</p>
+<stage>(He clamps his hand over his own
+mouth)</stage>
+</sp>
+<sp>
+<speaker>Etienne</speaker>
+<p>Is it the girls or the well filled caskets which the king 
+sends with him that attracts the men?</p></sp>
+
+<sp>
+<speaker>Sir Harry</speaker>
+<p>Sir. That is not a very gallant remark for a Frenchman.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>No harm meant. You, I take it, are Irish?</p></sp>
+
+<sp>
+<speaker>Sir Harry</speaker>
+<p>Take it or leave it, I am.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>And I -- sir, am a rising American. Submerged at present, 
+but looking for my opportunity.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<stage>(Laughing)</stage><p>
+Indeed?</p>
+<stage>(To Dick and Harry)</stage>
+<p>If you will excuse me, Messieurs, I will tell my father of
+your arrival.
+</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>We shall be obliged.</p></sp>
+
+<stage>(ETIENNE exits with elaborate bows
+R.U.E.)</stage>
+<pb/>
+
+<stage>(SILAS, taking the bows for himself,
+bows respectedly in imitation of him
+as he goes off)</stage>
+
+<sp>
+<speaker>Sir Harry</speaker>
+<p>He bows too much. I don&#39;t like the French.</p></sp>
+
+<stage>(TOWN CRIER comes in R. as DICK and
+HARRY exit L)</stage>
+
+<sp>
+<speaker>
+Town Crier
+</speaker>
+<p>
+Hear ye, hear ye, all men desiring wives -- the King has sent
+a vessel of Casket Maids -- to be disposed of at the King&#39;s
+storehouse -- Hear ye, hear ye! All men desiring wives!
+</p></sp>
+
+<stage>(He goes off R. as the music of
+CASKET MAIDS is heard)</stage>
+
+<stage>(SILAS going up to fountain)</stage>
+
+<sp><speaker>Silas</speaker>
+<p>I&#39;d better get away -- Those poor fellows will never get
+wives if the girls once see me.</p></sp>
+<stage>(Exits)</stage>
+
+<stage>(CASQUETTE MAIDS and MEN dance in and
+sing:)</stage>
+
+<stage>
+No. 3 &quot;I&#39;M COMING HERE TO BE MARRIED.&quot;
+</stage>
+<stage>(CASQUETTE GIRLS enter R.U. with
+caskets followed by MEN)</stage>
+
+<sp><speaker>Men</speaker>
+<lg>
+<l>I have broad lands and a cabin too,</l>
+<l>I&#39;ve a range well stocked with caribou,</l>
+<l>I&#39;ve a snug little nest big enough for two.</l>
+</lg>
+</sp>
+<sp><speaker>Girls</speaker>
+<stage>REFRAIN:</stage>
+<lg>
+<l>Taisez vous, taisez vous. That&#39;ll do.</l>
+<l>We&#39;re coming here to be married, married, married,</l>
+<l>We don&#39;t intend to be married, not by you!</l>
+<l>The king has given us caskets fair!</l>
+<l>Our small possessions are in there.</l>
+<l>You&#39;ll have to show you&#39;re fair and square,</l>
+<l>Taisez vous, taisez vous.</l>
+</lg>
+</sp>
+<sp><speaker>Men</speaker>
+<lg>
+<l>Oh maiden fair, oh maiden fair,</l>
+<l>Won&#39;t you marry me?</l>
+</lg></sp>
+<pb/>
+
+<sp>
+<speaker>Girls</speaker>
+<lg>
+<l>Taisez vous, taisez vous, we&#39;ll see!</l>
+</lg>
+</sp>
+
+<sp><speaker>Men</speaker>
+<lg>
+<l>I&#39;m from arcady, the mon&#39; ben&#39; lan&#39; --</l>
+<l>I&#39;m from Kaintuck, you know that&#39;s grand,</l>
+<l>I&#39;ve a house, a cow, and a bit of land.</l>
+</lg>
+</sp>
+<sp>
+<speaker>Girls</speaker>
+<lg><l>Taisez vous. That&#39;ll do.</l></lg>
+<stage>(Repeat refrain - have a little
+dance and exit L.U. after Dick&#39;s
+men)</stage>
+</sp>
+
+
+<stage>(LIZETTE enters R.U. singing, &quot;I&#39;m
+Coming Here to be Married.&quot; INDIAN
+enters R.U. and crosses stage to L)</stage>
+
+<sp><speaker>Lizette</speaker>
+<p>Not a man has noticed me yet -- but the King guaranteed us
+all husbands -- and I&#39;ll sue him for break of contract --
+if he doesn&#39;t make good.</p>
+<stage>(Sees Indian)</stage>
+<p>Oh -- maybe that is mine!</p>
+<stage>(To Indian)</stage>
+<p>Tessy vous!</p>
+</sp>
+
+<sp>
+<speaker>Indian</speaker>
+<p>Ugh!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Now I wonder what <hi rend="underline">that</hi> means.
+</p></sp>
+<sp>
+<speaker>Indian</speaker>
+<p>Ugh! Ugh!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>It must have a double meaning.</p></sp>
+
+<stage>(INDIAN exits as SILAS enters)</stage>
+
+<sp><speaker>Silas</speaker>
+<stage>(Looking after INDIAN, who walks
+out, arms folded, head high in
+exaggerated dignity)</stage><p>
+Those Indians, the way they strut. You&#39;d think they <hi rend="underline">owned</hi>
+the country.</p>
+<stage>(He sees Lizette)</stage>
+<p>Hello, what&#39;s your name?</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Lizette - and I&#39;m looking for a husband. 
+<pb/></p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>My name&#39;s Silas Slick - and I&#39;m looking for a good offer.</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Are your intentions serious?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>It depends - that casquette, the King gave you. Is it 
+valuable?</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<stage>(Taking out casquette and dangling
+it before him)</stage>
+<p>Here it is -- but it&#39;s not to be opened until <hi rend="underline">after</hi> the
+wedding.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>H-m-m - doesn&#39;t look as if there&#39;s much gold in it.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<stage>(Indignantly)</stage>
+<p>Is it the gold or me you&#39;re interested in?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>A little of both - with the gold running slightly in the lead.</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>I tell you what I&#39;ll do. I&#39;ll go to the storehouse and
+look over the crop of prospective husbands. If they&#39;re not
+any better than you - I&#39;ll come back and consider your
+proposal.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<stage>(Sputtering)</stage><p>But - wait - it was - I mean - that is - it wasn&#39;t a proposal 
+- it was an <hi rend="underline">investigation</hi>!</p></sp>
+
+<stage>(He follows HER out - both arguing
+ad lib)</stage>
+
+<stage>(Enter from R.U. LIETENANT-GOVERNOR
+and FLORENCE)</stage>
+
+<sp><speaker>Governor</speaker>
+<p>Dear me! Florence, fold the umbrella straight and don&#39;t
+stop fanning! If I had known the amount of work I&#39;d have
+to do I would never have accepted the post of Lieutenant-
+Governor!</p></sp>
+
+<stage>(Enter ETIENNE hurriedly from R.1.E.)</stage>
+<pb/>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Ah, Father!</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>So you are back!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>As you see.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<stage>(Coming down and taking him aside)</stage>
+<p>Did you have a - er - prosperous voyage to France?</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Laughing)</stage><p>To France! Oh come, you need not keep up this pretense with 
+me, old side partner!</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Don&#39;t call me side partner. You know I don&#39;t like it.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>But you are, you know. I do all the work. You protect me 
+as a loving father should and you get half the profits.</p></sp>
+
+<stage>(Enter DICK and BLAKE, L.U.)</stage>
+
+<sp><speaker>Governor</speaker>
+<p>Ssh!</p>
+<stage>(Looking around apprehensively at
+Florence)</stage>
+<p>I don&#39;t know what you are talking about. A public official
+may receive presents but not profits.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Ssh! Diplomacy, Father, diplomacy!</p>
+<stage>(Speaking to Dick and Harry)</stage>
+<p>Ah, gentlemen!</p>
+
+<stage>(DICK and HARRY come downstage)</stage>
+<p>
+Father, allow me to present Captain Richard Warrington and
+Sir Henry Blake.
+</p></sp>
+<sp>
+<speaker>Dick</speaker>
+<p>We are honored, sir. We have a warrant from your king to 
+attempt the capture of Bras Pique!</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Eh? 
+<pb/></p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>We shall need your signature.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>We must give them every assistance, Father.</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>Oh, assuredly. Assuredly! Bye and bye. At present, urgent
+affairs call me.</p></sp>
+<stage>(Goes off R.U. with FLORENCE)</stage>
+
+<sp><speaker>
+Sir Harry</speaker>
+<stage>(Aside to Dick)</stage>
+<p>In faith, Monsieur Bye and Bye will be of no great assistance
+to us.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>You must be patient with my father, Monsieur. He has much
+on his mind. He is on his way to dispose of the girls whom
+the King has sent here to wed our settlers.</p></sp>
+
+<sp>
+<speaker>
+Sir Harry</speaker>
+<p>Ah! Speaking of those Casquette girls - tell me - have
+you any news of the pretty little devil who escaped from
+them?</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Escaped!</p></sp>
+
+<sp><speaker>Sir Harry</speaker>
+<p>Yes! From Mozambique where we saw them land -- my friend
+here is dying for news of her.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Nothing of the kind. I noticed her because she was different 
+from the others.</p></sp>
+
+<sp><speaker>Sir Harry</speaker>
+<p>Yes, she was a fiery Italian girl and when the little devil
+learned that every Casquette girl was obliged to choose a
+husband, she said she&#39;d take Dick.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>No!</p></sp>
+
+<sp><speaker>Harry</speaker>
+<p>Yes -- and when Dick politely refused her, she up and struck
+him across the face with her gloves.</p></sp>
+<pb/>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Oh, it was nothing.</p></sp>
+
+<sp><speaker>Sir Harry</speaker>
+<p>And in the night, what did she do but up and vanish through
+the keyhold like smoke.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>That&#39;s strange, but, gentlemen, if you will join me at
+Antoine&#39;s Inn -- he has a pretty daughter who may do as
+well.</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>I must find ledgings for my men first -- we will see you
+later, if we may.</p></sp>
+<stage>(Going towards R.U.)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>As you will, Messieurs!</p>
+
+<stage>(DICK and BLAKE exit R.U.)</stage>
+
+<stage>(One hears MARIETTA singing very
+softly the dream melody)</stage>
+
+<stage>(ETIENNE pauses. Looks about. The
+song dies away)</stage>
+
+<p>Strange -- I thought I heard --</p></sp>
+<stage>(Goes off R.)</stage>
+
+<stage>(MARIETTA draws herself up to edge
+of urn and with a little sigh of
+relief, and a roguish laugh, sits
+on ledge of urn and sings:)</stage>
+
+<stage>
+No. 4 - SONG -- &quot;NAUGHTY MARIETTA&quot;
+</stage>
+
+<stage>(The first verse and refrain sung
+on fountain)</stage>
+
+<stage>(End verse and refrain down stage)</stage>
+
+<stage><hi rend="underline">&quot;NAUGHTY MARIETTA&quot;</hi></stage>
+<sp><lg>
+<l>There are two little maidens that live in my heart,</l>
+<l>And one is so good like dis!</l>
+<l>She look comme ca, and she talk la la!</l>
+<l>Like butter won&#39;t melt, I guess!</l>
+<l>But so other Marietta</l>
+<l>Dat&#39;s also me!</l>
+<l>Has a temper so warm, it&#39;s torrid,</l>
+<l>So when I am good,</l>
+<l>I am very good indeed!</l>
+<l>But when I am bad, I am horrid!</l>
+</lg>
+
+<pb/>
+
+<stage>REFRAIN</stage>
+<lg>
+<l>Naughty Marietta be good, say she,</l>
+<l>Mais non! Say me!</l>
+<l>Naughty Marietta, you should, say she,</l>
+<l>Be good like me!</l>
+<l>Naughty Marietta go home, say she,</l>
+<l>Mais non! Non! Say me!</l>
+<l>That naughty Marietta, she simply will not let her</l>
+<l>Be good, as she should, oui! oui!</l>
+</lg>
+<stage>(Leaves fountain, comes down)</stage>
+<stage>
+2.
+</stage>
+<lg>
+<l>Come a time, to the Convent they send me straight off,</l>
+<l>I&#39;m not fond of dat, not me!</l>
+<l>I say my prayer, well, mos&#39; everywhere</l>
+<l>And better than gold I be.</l>
+<l>But de Naughty Marietta</l>
+<l>Dat&#39;s also me.</l>
+<l>Made dat convent so warm, &#39;twas torrid</l>
+<l>Cause when she was good,</l>
+<l>She was very good indeed;</l>
+<l>But when she was bad, she was horrid.</l>
+</lg></sp>
+<stage>(At end of song)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Santa Maria! I am hungry!</p>
+
+<stage>(She xes stage to cake stand and
+buys some cakes from MAID, who
+comes from house after song --
+DICK enters R.U., sees Marietta,
+stops in C. of stage)</stage>
+<p>
+What now? If I pay in gold for everything -- soon there
+will be empty vacancy in the purse!</p>
+<stage>(She starts up stage, munching cake
+and comes face to face with Dick)</stage>
+<p>Ah! You have followed me!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Indignantly)</stage>
+<p>I have done nothing of the kind!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Well -- why not, then?</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>Why did you run away from the camp at Mozambique?</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Mischeviously)</stage><p>For fear you make me to <hi rend="underline">marry</hi> you! 
+<pb/></p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I make you -- whatever gave you that idea?</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>You maybe take serious that little joke of mine at Mozambique?
+I only said that to gain time -- I would not choose you --
+of all others.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Believe me, the incident is forgotten -- as for marrying, 
+no thought is further from my mind.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>And me too!</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>I value my freedom.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Me too!</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>I am not interested in love - it&#39;s nonsense.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Me too!</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>But you must marry. You have accepted the King&#39;s casket.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>I throw it overboard - long time ago. The Casket! Bah!</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>What are you going to do?</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>You must find me another dress.</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>What?</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Certainly -- you must get me -- what you say -- a disguise.</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>A disguise? I should say not.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Can I stay forever sitting in zat fountain like a bird on
+ze nest?</p></sp>
+<pb/>
+
+<sp>
+<speaker>Dick</speaker>
+<p>But --</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>For hours I have nothing but fruit and cake -- it makes me
+sick -- yes. I must come out I must sing and dance with
+all these gay people! I like this Little Paris -- I shall
+stay!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>But --</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Calmly)</stage>
+<p>Accordingly -- you must arrange for me something!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I -- why should I --</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Who else? You are my friend -- it is arranged -- is it not?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>It is not -- arranged!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Besides -- ze whole -- thing is your fault.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>My fault? why?</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Because. Anyway it is. If you had not make me angry, oh
+but so angry, at Mozambique -- perhaps I don&#39;t know -- maybe
+I not run away.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Do you know, I should take you at once to the Governor.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>But you will not?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Eh?</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>You are stupid, but not cruel!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Stupid?</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Like all men, maybe a little more stupid. You will get me
+the little dress. What you say? Skin and fur from here
+down, like a boy -- mais the other part -- perhaps a little
+becoming wiz lace? Yes!</p></sp>
+<pb/>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I&#39;ll do nothing of the kind.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Oh, but if you could see how -- what you say -- attractive
+I am in zose things from here down like a boy! Come, it is
+arrange! I will be one of your soldiers. &quot;Tramp! Tramp!
+Tramp!&quot; and when I am tire&#39;, you can carry me!
+</p></sp>
+<sp>
+<speaker>Dick</speaker>
+<p>It&#39;s preposterous!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Of course it is pre---- that word you say. So you will hide 
+me until the casket vessel sails away and all is over.</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>I most certainly will not hide you!</p>
+<stage>(Noise off L.U.)</stage>
+<p>Ssh! Someone is coming, quick!</p></sp>
+<stage>(Indicates fountain)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Laughing)</stage>
+<p>Oh no! You will not hide me, my friend!</p></sp>
+
+<stage>(Enter LIZETTE with SILAS following
+from L.U.)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>I can&#39;t even find the storehouse. It seems I&#39;m not wanted 
+and not wanted badly.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>It may be my opportunity -- I&#39;d risk it if she&#39;d let me have 
+a look in that casket.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Silas -- Silas!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Yes, Captain --</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>I want you to go and find an Italian named Rudolfo who has a
+Marionette Theatre on the Rue -- Rue Canondelet. Bring him
+here at once.</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>A Marionette Theatre. This may be my opportunity. I always
+thought I&#39;d be a good actor.</p></sp>
+<pb/>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Do you hear, sir?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Right away, sir. 
+<stage>(He exits L.U.)</stage></p></sp>
+
+<stage>(DICK goes up to call Marietta, when
+LIZETTE, who has been sitting disconsolately
+aside on casquette, sees
+him)</stage>
+
+<sp><speaker>Lizette</speaker>
+<p>Oh! Maybe this is my Fate.</p>
+<stage>(To Dick)</stage>
+<p>Ahem! Teasey vous! Teasey vous. You&#39;ll pardon me! I&#39;m so
+impulsive. Are you in the market?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I? No! Go away!</p></sp>
+
+<stage>(MARIETTA laughs)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Mercy! Remember I&#39;m a nervous woman! You can at least direct 
+me to the storehouse where they&#39;re giving out the husbands.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I cannot. I am strange here.</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>My opinion is you&#39;d be strange anywhere. I shouldn&#39;t have
+spoken to you at all if I had known you were a man of such
+an unsanitary character -- I bid you farewell forever!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Thanks. </p>
+<stage>(She goes off R.)</stage>
+
+<stage>(CAPTAIN DICK looks off L., watches
+her crossing stage R., goes up to
+fountain, and calls)</stage>
+<p>Marietta! Marietta!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Suddenly jumping up)</stage>
+<p>Boo! Ha, ha, ha!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>You - er - are very childish. </p></sp>
+<stage>(Liftiing HER from fountain)</stage>
+
+<sp><speaker>Marietta</speaker>
+<p>And you also, my friend.</p></sp>
+<pb/>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I have no woman friends.</p></sp>
+
+<stage>(BOTH coming down stage)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Well, I will take pity on you -- I will be your friend -- 
+come now, say it --</p></sp>
+
+<stage>
+No. 5 - SONG: <hi rend="underline">&quot;NEVER, NEVER CAN BE LOVE&quot;</hi>
+</stage>
+<sp>
+<speaker>Marietta</speaker>
+<lg>
+<l>Captain Dick</l>
+</lg></sp>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l>Well, here&#39;s my hand, we&#39;re friends you see.</l>
+</lg></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<lg>
+<l>Certainlee. Certainlee! </l>
+<l>You&#39;re sure you&#39;ll never make love at me?</l>
+</lg></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<lg>
+<l>No! No! You&#39;ll see!</l>
+</lg></sp>
+
+<sp><speaker>Mareitta</speaker>
+<lg>
+<l>You&#39;ll never try just to kiss my hand?</l>
+</lg>
+</sp>
+<sp>
+<speaker>Dick</speaker>
+<lg>
+<l>I&#39;m not that foolish kind of a man.</l>
+</lg></sp>
+
+<sp><speaker>Both</speaker>
+<lg>
+<l>Then I&#39;m sure if you&#39;re sure</l>
+<l>And I&#39;m sure I&#39;m sure,</l>
+<l>That we mutually understand!</l>
+</lg>
+
+<stage><hi rend="underline">ENCORE</hi></stage>
+<lg>
+<l>We&#39;ll call it bond platonic,</l>
+<l>Or friendship tried and true,</l>
+<l>We&#39;ll call it just good comradeship,</l>
+<l>Or simply chums will do.</l>
+<l>You may say I&#39;m your side partner,</l>
+<l>My claim all claims above,</l>
+<l>But solemly swear!</l>
+</lg>
+<stage>(Holding up hands)</stage>
+<lg>
+<l>Yes, solemnly swear!</l>
+<l>It never, never can be love!</l>
+</lg>
+<stage>(Chorus off)</stage>
+<lg>
+<l>No! It never never can be love!</l>
+</lg></sp>
+
+<stage>(At the end of song, DICK takes
+MARIETTA and hides her in fountain.
+SILAS and RUDOLFO enter L.U.)</stage>
+<pb/>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>Captain Dick -- I know a not a Captain Dick.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<stage>(To Dick)</stage>
+<p>Captain, here&#39;s Rudolfo. May I go?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Yes, you have the day to yourself.</p>
+
+<stage>(Exit SILAS R.U.)</stage>
+
+<p>Ah, you are Rudolfo, the keeper of the Marionette Theatre
+in the Rue Canondelet.</p>
+</sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>Si, Signor, poor Rudolfo! Who loss da leeetle son Rafaello, 
+so biga like dat-a, so dear-a like dis-a, bed-a like hell-a.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Exactly -- well, I bring you word of Rafaello!</p></sp>
+
+<sp><speaker>Rudlofo</speaker>
+<p>You bring me word of my Rafaello! Oh, Signor! Heaven bless
+you. Permit-a me to salute.</p></sp>
+<stage>(Attempt to kiss Captain Dick on
+cheeks)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<p>That will do!</p></sp>
+
+<sp><speaker>Rudolfo</speaker>
+<p>Where is he, my Rafaello?</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>He&#39;s safe enough at my father&#39;s plantation in Kentucky. He
+is my mother&#39;s page boy where he does nothing all day with
+infinite grace.</p></sp>
+
+<sp><speaker>Rudolfo</speaker>
+<p>Does nothing-a. Ah! That-a would please my Rafaello! He
+no like - pulls de Marionetta. He no like-a da organ-a.
+He no like-a da monk. He damn poor Italian. Oh, Signor.
+Safe and happy. I am your slave! I kiss your hands, your
+feet.</p>
+
+<stage>(MARIETTA peeps from behind fountain.
+She comes down between Dick
+and Rudolfo)</stage>
+<p>
+I am forever your slave. How can I serve you?
+</p></sp>
+<sp>
+<speaker>Dick</speaker>
+<stage>(Pointing to Marietta)</stage><p>Your boy was just so tall. 
+<pb/></p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>Perhaps, yes.</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>As I remember, this young lady is not unlike Rafaello?</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh I see, I see!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>You will take this girl. Give her proper clothing and announce 
+that your son has returned.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh excellente! Excellente! I kiss your hands, your cloak! 
+But your cheek -- no, never!</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>I no understand.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>There are reasons why she must remain unknown in New Orleans 
+for the present! She shall be your son!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Father!</p>
+<stage>(Attempts to embrace Rudolfo)</stage>
+<p>Padre mio!</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>But a girl - a my son?</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>Come, you said you would serve me!</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>But -- but --</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>It is arrange! I am your son. Come, padre mio! Come to
+the theatre of the Marionette. Oh la la! You shall see --
+I will -- pulla da marionette -- I will eata spaghetti -- I
+will even like-a da monk!
+</p></sp>
+<sp>
+<speaker>Rudolfo</speaker>
+<p>But -- but --</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>You shall be well repaid, Rudolfo.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Yes, yes. My gold is almost gone, but my friend has plenty. 
+You shall be well paid. Come, I must take off this dress.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Here! You may have my cloak. 
+<pb/></p></sp>
+
+<stage>(Goes to fountain, gets cloak and
+puts it about MARIETTA)</stage>
+
+<sp><speaker>Marietta</speaker>
+<p>Oh, you are good! Come, padre mio!</p>
+<stage>(Starts toward L.U., stops RUDOLFO)</stage>
+<p>Oh, one moment!</p>
+<stage>(She runs back to Dick)</stage>
+<p>Oh, be not afraid -- I will not kiss the cheek -- listen --
+closely -- now --</p>
+<stage>(She sings the dream melody)</stage>
+<lg>
+<l>Ah, sweet mystery of life in vain I seek thee,</l>
+<l>Ah! to know at last the secret of it all,</l>
+<l>All the longing, la la la!</l>
+</lg>
+</sp>
+<stage>(She pauses and looks at him
+expectantly)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Puzzled)</stage>
+<p>Well?</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Can you not finish my melody?</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>Finish it?</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>You see that is a dream melody! I hear it -- so many times
+when I got to sleep -- and it has been foretold me, that
+only he shall claim my heart, who will have power to sing
+the answer to it!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Then why ask me?</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh, of course you cannot. Being only my friend you would 
+not even try, eh?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I&#39;d most assuredly will not try.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>No, of course, I could not expect -- You will not even try
+--Come, padre mio --</p>
+<stage>(She goes out humming meldoy)</stage>
+<p>You will not even try?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>No. </p></sp>
+<pb/>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>No -- come, padre mio.</p></sp>
+
+<stage>(&quot;Ah, Sweet Mystery -- etc.&quot;)</stage>
+
+<stage>(Song dies away as CAPTAIN DICK
+stands listening)</stage>
+
+<sp><speaker>Dick</speaker>
+<p>Try! I should say not --</p></sp>
+
+<stage>(He starts to sing it - on exit.
+Goes off angrily, R.U.)</stage>
+
+<stage>(As he exits, SILAS and LIZETTE reenter
+R.U. She is weeping noisily)</stage>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Sh! What are you laughing at?</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>I am not laughing.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>What is it then?</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>I&#39;m such a nervous woman.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I wouldn&#39;t cry that way then if I were you.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p><hi rend="underline">You</hi> can cry any way you like. This is <hi rend="underline">my</hi> way. I can&#39;t help 
+it if I&#39;m historical.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Historical -- Are you so old as that?</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Old! I&#39;m only, only --</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Better hurry, Madam. Every minute makes it worse.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>I should say it does -- Here I am verging on -- twenty, and 
+would you believe me, I have never had a proposal.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I would believe you. 
+<pb/></p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>At the boat -- where we landed, there was scores of men
+following each girl -- all but me. What&#39;s the matter with
+my face?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I don&#39;t know. Who did it?</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>The King guaranteed husbands. If he hadn&#39;t I would never
+have come away so far from home and mother -- and lugging
+this heavy Casquette.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<stage>(Eagerly)</stage><p>It <hi rend="underline">is</hi> heavy then. </p></sp>
+<stage>(He reaches for it)</stage>
+<sp>
+<speaker>Lizette</speaker>
+<p>Hands off.</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Does it jingle when you shake it?</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Of course, there&#39;s gold in it -- Would you marry me for my 
+gold?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>For what other reason --- I -- I love you.</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>You?! Why?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I don&#39;t know -- it just came over me.</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>You are nothing but a servant.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Ah, but my bondage will not, cannot, last forever. I but 
+await my opportunity. In the meanwhile I am in training.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>In training?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Yes, to be a pirate.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>A pirate. Mercy! Remember I&#39;m a nervous woman.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>You see. My arm is already tabooded. </p></sp>
+<pb/>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Tabooded!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Yes. See! I have the name of Bras Pique tabooded here 
+with indelicate ink.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Are you Bras Pique?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Not yet. But some day -- with the help of Captain Dick --
+we will scuttle his vessel. It will be my opportunity. I
+will take his place -- I shall buccaneer all over the seas.
+Bras Pique the Second!</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Who would have thought it, a man like you.</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Ah! But I am not what I seem.</p></sp>
+
+
+<stage>
+No. 6 - SONG - <hi rend="underline">&quot;I WISH I WAS ANYBODY ELSE BUT ME&quot;</hi>
+</stage>
+
+<sp><speaker>Silas</speaker>
+<lg>
+<l>I must have been changed in my cradle,</l>
+<l>By my nurse or something like,</l>
+<l>For I ain&#39;t turned out what I ought to be</l>
+<l>And nothing seems to be right!</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<lg>
+<l>Mon Doo! Parblew! Mon chair! </l>
+<l>That is a sad affair!</l>
+</lg></sp>
+
+<sp><speaker>Silas</speaker>
+<stage>(Takes HER by the arm, goes R.)</stage>
+<lg>
+<l>So sometimes I get to dreamin&#39;</l>
+<l>As a feller will you see,</l>
+<l>Of the kind of a sort of a &quot;me&quot; I&#39;d be,</l>
+<l>If I wasn&#39;t the me that&#39;s me!</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<lg>
+<l>Mon Doo! Parblew! You speak, </l>
+<l>The word, ah! Tres tragique!</l>
+</lg></sp>
+
+<sp><speaker>REFRAIN</speaker>
+<lg>
+<l>I wish I was anybody else but me - anybody else would do</l>
+<l>It&#39;s awful discouraging being me, when I ought to be you or you!</l>
+<l>I tries to smile, but what&#39;s the use? It hits me with a slam!</l>
+<l>When I get to thinking of the man I&#39;d be, if I wasn&#39;t who I am!</l>
+</lg></sp>
+<stage>(Dance - SILAS and LIZETTE exit)</stage>
+<pb/>
+
+<stage>(SILAS has twisted up his drooping
+moustache and he struts about with
+all the braggadocin of a pirate -
+dances with LIZETTE - following -
+at end of dance, exits R.)</stage>
+
+<stage>(After SILAS and LIZETTE exit, enter
+GOVERNOR and SECRETARY from convent)</stage>
+
+<sp><speaker>Governor</speaker>
+<p>Upon my word, Florence, you are very irritating, Just as I
+think my work is over for the day, you come to me with this
+tale of a missing Caasquette girl.</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>But, your Excellency!</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>How do you know there is one missing?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>While your Excellency was asleep at the Convent --</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>Sleep! I never sleep -- I&#39;m a servant of the people.</p></sp>
+
+<sp><speaker>Secretary</speaker>
+<p>While your Excellency was as -- I mean resting, - at the
+Convent - there came three survivors from the Italian vessel
+captured by Bras Pique!</p></sp>
+
+<stage>(Enter ETIENNE, R.U.)</stage>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Survivors! Why survivors!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>That&#39;s what I say, why survivors?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>They were marooned and escaped. They bring dispatches from 
+the King of France.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<stage>(To Secretary)</stage>
+<p>Take off my hat when you mention the King.</p></sp>
+
+<stage>(Secretary takes off LIEUTENANT-
+GOVERNOR&#39;S hat and replaces it)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(To Florence)</stage><p>Of what matters are these dispatches? 
+<pb/></p></sp>
+
+<sp><speaker>Secretary</speaker>
+<stage>(Looking at papers)</stage><p>
+A command to the Lieutenant-Governor to immediately return
+one Marietta d&#39;Altena to France from whence she has escaped,
+having bribed a casket girl to give her the place.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>And of course it must be this important one who is missing?</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>The Countess d&#39;Altena! Why, that is one of the richest and 
+most powerful families in Italy. We must find her ---</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>And of course something disagreeable is promised me if I 
+fail to find this maid?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>You will fall under the King&#39;s displeasure.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Dear me -- dear me -- the things I shall have to answer for 
+when the Governor returns.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Significantly)</stage>
+<p><hi rend="underline">If</hi> he returns -- I do not think he will.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Hush! I&#39;ll not listen.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>You <hi rend="underline">must</hi> listen, Father. You hope to benefit by my plans. 
+You must not shirk the responsibility.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Well - well?</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>My men have marooned the Governor on the Isle of Pines.
+When the right moment comes, we shall announce Louisiana
+to be a Republic - we shall throw off allegiance to
+France ----</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>Hush! Hush! This is no place -- besides -- I&#39;ll not take
+the responsibility -- I&#39;ll have enough to answer for -- if
+your schemes fall through.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Laughing)</stage>
+<p>You should get a whipping boy, Father.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>What&#39;s that? 
+<pb/></p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>A whipping boy such as they had in the old times, to take
+upon themselves the punishments of royalty! Ha, ha! Just
+the things for you.</p></sp>
+<stage>(Goes into house, L.)</stage>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Did I not tell you to search every law and precedent to make things 
+easier for me?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>Yes, Excellency.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Then why have I never heard of this most convenient instituion 
+of the whipping boy?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>The law is old, obsolete, I think.</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>I reinstate it. You shall find a whipping boy for me - if
+you don&#39;t I&#39;ll make <hi rend="underline">you</hi> my whipping boy.</p></sp>
+<stage>(Governor exits R.U.)</stage>
+
+<sp><speaker>Secretary</speaker>
+<p>Oh dear, oh dear, where shall I get a whipping boy?</p></sp>
+<stage>(Runs up and down stage as if looking
+for something)</stage>
+
+<stage>(SILAS enters 1st E.R.)</stage>
+
+<sp>
+<speaker>Silas</speaker>
+<stage>(Entering)</stage>
+<p>Have you lost something?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>I&#39;m about to lose my position as Secretary to the Governor.</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Secretary to the Governor.</p>
+<stage>(Aside)</stage>
+<p>This may be my opportunity. If you lose that position will
+you speak a word for me?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>What! Are you looking for something to do?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Yes.</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>Then thank your lucky stars you met me. </p></sp>
+<pb/>
+
+<sp>
+<speaker>Silas</speaker>
+<p>It must be easy -- some sort of a sitting-down position.</p></sp>
+
+<sp><speaker>Secretary</speaker>
+<p>Providence led you to me.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I know. It&#39;s a great chance for you. I&#39;m a rising American --</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>In the name of the Lieutenant-Governor I offer you the magnificent 
+post of Whipping Boy.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I don&#39;t like the name. I refuse it.</p></sp>
+
+<sp><speaker>Secretary</speaker>
+<p>Wait! Wait! Let me read to you the prerequisites which go
+with the post of Whipping Boy.</p>
+<stage>(Searches in book)</stage>
+<p>&quot;The Whipping Boy shall receive three suite of fine marquisette
+embellished with gold braid.&quot;</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Real gold?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>Eighteen karat. &quot;He shall dine at the royal table and shall 
+first taste of each delicate viand set before his royal master.&quot;</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Wait -- why first?</p></sp>
+
+<sp><speaker>Secretary</speaker>
+<p>In case the food be poisoned.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>And you call that a fine position?</p></sp>
+
+<sp><speaker>Secretary</speaker>
+<p>Oh, but that will never happen.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I don&#39;t want the position. It sounds almost dangerous.</p></sp>
+
+<sp><speaker>Secretary</speaker>
+<p>But listen -- I have not read all.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>You&#39;ve read enough. 
+<pb/></p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>&quot;His wife shall sit next the Grand Marshall.&quot;</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>I don&#39;t know about that. What kind of a person is this
+Grand Marshall -- Maybe I couldn&#39;t trust my wife. I don&#39;t
+think much of this position - Let&#39;s call it off.</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>&quot;In addition the Whipping Boy shall receive the sum of ten 
+thousand francs per annum.&quot;</p></sp>
+
+<sp><speaker>Silas</speaker>
+<stage>(Who has been going off)</stage>
+<p>Ten thousand francs. Well, maybe I could just pretend to
+do that tasting you spoke of. How often does this annum
+business come around?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>You may draw on the Treasury at your need.</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Somebody&#39;s going to wake me up in a minute.</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>Do you accept?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Do I accept? It is the opportunity I have been waiting for.</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>Then present yourself at the palace ---</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Wait! I have a sudden thought. What is it I have to do for 
+all this?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>Oh, a mere detail; you accept the responsibilities of the 
+family.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>But suppose I have no family. I can&#39;t guarantee that.</p></sp>
+
+<sp><speaker>Secretary</speaker>
+<p>Not your family. The Governor&#39;s family.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Support the Governor&#39;s family on ten thousand francs per - 
+what is it?</p></sp>
+
+<sp><speaker>Secretary</speaker>
+<p>Oh no, no! You simply -- You see, if anyone of his family
+should commit any crime - er, I mean little discretion -
+you answer for it in your person.</p></sp>
+<pb/>
+
+<sp><speaker>Silas</speaker>
+<p>In my person! That&#39;s where the whipping comes in. Thank
+you for wasting my time. That&#39;s not the kind of a position
+I&#39;m looking for.</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>Oh, there&#39;ll be no whipping, I&#39;ll promise you!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>There&#39;ll be no whipping, I promise <hi rend="underline">you</hi>. Good day.</p></sp>
+<stage>(Exits R.1. followed SECRETARY:
+ad lib)</stage>
+
+<stage>(ETIENNE enters for a house L. followed
+by ADAH)</stage>
+
+<sp>
+<speaker>Adah</speaker>
+<p>Etienne - Etienne, Master!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Well!</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>You&#39;ve been away so long ---</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Only a month.</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>They might know, they might suspect.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Suspect what?</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>That you are Bras Pique!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>You say that so often, my dear, I shall begin to believe you 
+are right.</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>You no longer care for me, you no longer love me - am I not 
+the same?</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>You give me too warm a welcome, try indifference for once
+it may attract. There, there, Adah I was only joking -
+forgive me - But love should be free, you make it a bondage.
+Au revoir, Mademoiselle.</p></sp>
+<stage>(Exits R.2.)</stage>
+
+<sp><speaker>Adah</speaker>
+<p>Ah &#39;tis true - it is as I feared! He no longer loves me -
+he has wearied of me.</p></sp>
+<pb/>
+
+<stage>
+No. 7 - SONG - <hi rend="underline">&quot;SOUTHERN MOON&quot;</hi>
+</stage>
+<stage>(After song - ADAH re-enters house)</stage>
+
+<stage>(SILAS enters from R. - he throws
+off his cloak and his hat - throws
+them on fountain rim - he struts
+about. As he is doing this - some
+GIRLS enter R. and stand looking at
+him fearfully)</stage>
+
+<sp>
+<speaker>Nanette</speaker>
+<stage>(Aside)</stage>
+<p>Do you think he can be Bras Pique?</p></sp>
+
+<sp><speaker>Fanchon</speaker>
+<p>&#39;Twould be like his daring. See! He wears the red bonnet.</p>
+<stage>(To Silas)</stage>
+<p>Monsieur, have you letters on your arm?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Ah ha! You have been reading my letters.</p></sp>
+<stage>(He pulls up his sleeve displaying
+arm with tattooed letters)</stage>
+
+<sp>
+<speaker>Girl</speaker>
+<stage>(Shrinking from him)</stage>
+<p>&#39;Tis he! &#39;Tis Bras Pique!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<stage>(Flourishing knives)</stage><p> 
+I&#39;ve killed many thousands of mosquitoes.</p></sp>
+
+<sp>
+<speaker>Girls</speaker>
+<p>Mosquitoes!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Mousquetiers, I mean. Listen! Hist! I <hi rend="underline">am</hi> Bras Pique!</p></sp>
+
+<sp>
+<speaker>Girls</speaker>
+<stage>(Frightened)</stage>
+<p>Oh!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Wait! Fear me not! I am a gentle creature with the ladies. 
+But - on the seas - I wade in blood!</p></sp>
+
+<sp>
+<speaker>Girls</speaker>
+<p>Ugh! Silas
+Pull twenty fathoms deep lie dead man&#39;s bones! And in my
+treasure chests are gold and jewels. Jewels to adorn pretty
+maids like you -- and you -- and you!</p></sp>
+
+<stage>(GIRLS frightened, run up L.)</stage>
+<pb/>
+
+<sp><speaker>Silas</speaker>
+<p>Ah ha! Take care! Beware!</p>
+<stage>(He flourishes his knives)</stage>
+<p>In dead of night my pirate band shall come to carry off to
+coral isles - all the pretty maids of New Orleans.</p></sp>
+
+<sp>
+<speaker>Girls</speaker>
+<p>Oh help! Bras Pique! Help! </p></sp>
+<stage>(They run off L. and R.1. and U.)</stage>
+
+<stage>(Enter LIZETTE)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Well, I&#39;m ready to entertain your proposal, young man.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>My proposal! Caramba! Sapristi! </p></sp>
+<stage>(He flourishes knives at her)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Mercy! Remember I&#39;m a nervous woman!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Leave me, woman, leave me!</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>But I can&#39;t get a husband. They&#39;re all given out and --</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Peace, woman. I have made my choice. I see my opportunity! 
+I shall be wedded to nothing but the sea!</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Mercy! The sea&#39;s so wet! Anyway <hi rend="underline">somebody&#39;s</hi> got to marry me!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>That&#39;s <hi rend="underline">his</hi> problem! Leave me, woman! Leave me! Do you
+hear! Caramba! Sapristi.</p></sp>
+<stage>(He approaches her fiercely, showing
+his teeth)</stage>
+
+<sp><speaker>Lizette</speaker>
+<p>Mercy! Help!</p></sp>
+<stage>(She starts to run and drops casquette.
+It jingles)</stage>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Wait! I&#39;ll give you one chance, woman, the casquette. Open 
+it.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>I can&#39;t. The King&#39;s commands -- 
+<pb/></p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Open it - I say! If its contents are what I surmise, you 
+shall be Madam Buccaneer!</p>
+
+<stage>(LIZETTE with trembling fingers starts
+to open casquette)</stage>
+
+<p>Ah ha! Gold! Gold!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>I wouldn&#39;t do it, only I&#39;m dying of curiosity myself!</p>
+<stage>(Opens casquette. Takes out - paper
+-- reads:)</stage>
+<p>&quot;A grant of land on the Mi-si-si-pi River!&quot;</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Tut! Tut! Get to -- the gold! The gold!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<stage>(Hastily throwing other papers and
+things out, eagerly feels in bottom
+of casquette and brings up three or
+four gold pieces)</stage><p>
+Can this be all!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>What a stingy king! So long.</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Wait! Wait! You promised....</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Well, you see. I forgot -- about the tobacco -- you know
+every man who would a Casquette girl must deposit a hundred
+pounds of tobacco at the storehouse.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>And you have none?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Not a pipe full.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Here -- take the gold. Buy the tobacco. Hist! Not a word 
+to anyone - I will await you at the storehouse.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>That&#39;s right, you wait -- Don&#39;t stir until I come for you!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Not a word to anyone. Hurry, buy the tobacco. I will be
+yours, my bethrottled!</p></sp>
+<stage>(Lizette goes off U.R.)</stage>
+<pb/>
+
+<sp><speaker>Silas</speaker>
+<p>She did it herself! It&#39;s her own fault. But it&#39;s my fault
+if she ever sees me again.</p>
+<stage>(He puts gold in pocket and starts
+toward R)</stage>
+<p>Now, where did I put my cloak?</p>
+<stage>(Goes to fountain to get it)</stage>
+<stage>(Sound of voices and cries off L)</stage>
+<p>Ah! Doubtless the girls returning to hear my merry tales of
+piracy!</p></sp>
+
+<stage>(LIZETTE rushes in R)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Oh Si, my Si! The girls have told the guards you are Bras 
+Pique, the pirate! They are coming to arrest you!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Arrest me! My cloak! My hat! Where are they? Run, find
+my master -- Find Captain Dick. He&#39;ll tell them I&#39;m no
+pirate.</p></sp>
+
+<stage>(Shouts off stage getting louder)</stage>
+
+<stage>(Business of rushing about to find
+hiding place)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>You can&#39;t hide here.</p></sp>
+
+<stage>(THEY rush up stage. LIZETTE hides
+SILAS in fountain)</stage>
+
+<stage>(PEOPLE run in shouting: &quot;Bras
+Pique! Drown him! Hang him!&quot;)</stage>
+
+<stage>(ETIENNE coming in through crowd)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Here! Here! What does all this mean!</p></sp>
+
+<stage>(EVERYONE stops shouting)</stage>
+
+<sp>
+<speaker>Nanette</speaker>
+<p>Oh, Monsieur! Bras Pique the pirate!</p></sp>
+
+<sp><speaker>Fanchon</speaker>
+<p>He was here. We saw him!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Nonsense! Let us have no more talk of pirates! Listen --</p>
+
+<stage>(Music)</stage>
+<pb/>
+<p>It&#39;s the Italians -- Come! Sing! Dance! Be merry! Or I
+shall think  have landed on the shores of some Yankee town
+and not my gay New Orleans!</p></sp>
+
+<stage>(Music of organ comes nearer and
+FELICE runs in)</stage>
+
+<sp>
+<speaker>Felice</speaker>
+<p>What do you think? Rudolfo has found his little son!</p></sp>
+
+<stage>(ALL rush to entrnace and great
+RUDOLFO as he enters with his
+DAUGHTERS and MARIETTA)</stage>
+
+<sp><speaker>All</speaker>
+<p>Vive the Italians! Vive Rudolfo!</p></sp>
+
+<stage>(MARIETTA comes down and sings)</stage>
+
+<stage><hi rend="underline">&quot;SING! SING!&quot;</hi></stage>
+
+<stage>(At the close of song:)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Coming down to Musicians)</stage><p>Ah, fine song, Rudolfo, and well sung! Who is this lad, your 
+son?</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>Yes my leetle son-a, she has returned.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(To Marietta)</stage>
+<p>Ah, my little lad, so you have returned to your padre.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<stage>(To Etienne)</stage><p>
+Oh, yes, Monsieur. Now I like-a to pull-a de Marionetta.
+I like de spaghetti. I even like-a de monk.</p></sp>
+<stage>(Runs over to Rudolfo)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Ah ha, the lad has wit.</p></sp>
+
+<stage>(Bus. enter CAPTAIN DICK, L.U.)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Ah, Rudolfo, Rafaello.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(To Dick)</stage><p>You know the lad? 
+<pb/></p></sp>
+
+<sp><speaker>Marietta</speaker>
+<stage>(To Etinne)</stage><p>
+Ah, Captain Dick, he is my friend. He find poor Rafaello
+to be make roast pig by the Indians. He save me --he bring
+me back to Padre mio. I kiss his hand, his cloak -- his
+cheek.</p></sp>
+
+<stage>(Attempts to kiss Captain Dick)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Holding HER off)</stage>
+<p>Never mind -- that will do --</p></sp>
+
+<stage>(The GOVERNOR and SECRETARY enter
+from R.U.)</stage>
+
+<stage>(EVERYONE bows - CITIZENS take off
+hats to the Governor)</stage>
+
+<sp><speaker>Governor</speaker>
+<p>Dear me, dear me.</p>
+<stage>(Coming down C.)</stage>
+<p>I give it up! I give it up! How can I look the Casquette
+Girls over to find the missing one, if someone doesn&#39;t
+bring them to me!</p>
+<stage>(To Secretary)</stage>
+<p>Here -- call the people to order!</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>Silence! Attention all! The King of France offers ten 
+thousand francs --</p></sp>
+
+<sp><speaker>All</speaker>
+<p>Ten thousand francs?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>The King of France offers ten thousand francs for the return 
+of Marietta, Contessa d&#39;Altena, -</p></sp>
+
+<sp><speaker>All</speaker>
+<p>A Contessa?</p></sp>
+
+<sp><speaker>Secretary</speaker>
+<p>Who in the disguise of a Casquette Girl escaped from France.
+Said Marietta d&#39;Altena is small, dark and has a voice of
+rare beauty, is continually singing an unfinished melody.
+Here follow a lot of notes.</p></sp>
+<stage>(Attempts to sing melody in cracked
+voice)</stage>
+
+<stage>(The PEOPLE ALL laugh)</stage>
+<pb/>
+
+<sp><speaker>Etienne</speaker>
+<p>Allow me --</p>
+<stage>(Takes paper from SECRETARY)</stage>
+<lg>
+<l>La la la la la.</l>
+</lg></sp>
+<stage>(Hums Marietta&#39;s dream melody)</stage>
+
+<sp><speaker>All</speaker>
+<stage>(Ad lib)</stage>
+<p>The melody! The haunting melody. The Casquette girl must
+be here. The fountain - ten thousand francs! We will
+find her!</p></sp>
+<stage>(All rish to fountain)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>There goes Silas!</p></sp>
+
+<sp><speaker>All</speaker>
+<p>&#39;Tis Bras Pique! Bras Pique! Seize him! Catch him!</p>
+
+<stage>(TWO MEN seize SILAS - He is struggling
+to get away - they force him
+to his knees)</stage>
+<p>
+Bras Pique!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>No - no! Don&#39;t! I was only playing a pirate to please the
+girls. I am no pirate.</p>
+<stage>(Rushing over to the Governor)</stage>
+<p>O, save me! Save me! I&#39;ll do anything -- I will be your
+Whipping Boy. O, save me, Governor, save me!</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Let him alone, he is my Whipping Boy.</p></sp>
+
+<sp><speaker>All</speaker>
+<p>Whipping Boy?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(To Governor)</stage>
+<p>Why, this is my man, Silas.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>No longer. The yoke of servitude - I throw it off. This is 
+my opportunity!</p></sp>
+
+<sp><speaker>Blake</speaker>
+<stage>(Entering from R.U. coming down,
+seeing Marietta)</stage>
+<p>Well, by all that&#39;s holy, this is the runaway Casquette girl.</p></sp>
+
+<sp>
+<speaker>All</speaker>
+<p>What? 
+<pb/></p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(To Rudolfo)</stage>
+<p>No - no, Padre mio --</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(To Rudolfo)</stage><p> 
+Take her away.</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<stage>(Frightened)</stage>
+<p>No. No. No Casquette. This <hi rend="underline">lady</hi> is <hi rend="underline">my son</hi>.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(To Rudolfo)</stage><p>Ah -- so this lady is your son, eh! I thought the voice too 
+sweet for a lad. Marietta, Contessa d&#39;Altena!</p></sp>
+
+<stage>(ALL bow)</stage>
+
+<stage>(Music cue for:)</stage>
+
+<stage>FINALE</stage>
+
+<stage>(During this Finale DICK keeps urging
+Rudolfo to get away with Marietta.
+A sound of convent bells heard off.
+ETIENNE, GOVERNOR, and all the CITIZENS
+turn and kneel down at the convent
+gate, while organ is playing)</stage>
+
+<stage>(DICK urges RUDOLFO to make his
+escape with MARIETTA. RUDOLFO and
+MARIETTA exit L.U. DICK and his
+FOLLOWERS cover their retreat stopping
+ETIENNE and the PEOPLE at the
+point of their guns)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<lg>
+<l>&#39;Tis she, the Casket girl,</l>
+</lg></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<lg>
+<l>No, no, no, no! I am </l>
+<l>Rudolfo&#39;s figlia!</l>
+</lg></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<lg>
+<l>Flower of Italy&#39;s nobility </l>
+<l>To the palace, come with me!</l>
+</lg></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<lg>
+<l>No, no, my friend!</l>
+</lg></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<lg>
+<l>Protect your son Rudolfo </l>
+<l>Come, man, speak up.</l>
+</lg></sp>
+
+<sp><speaker>Rudolfo</speaker>
+<lg><l>Yes.</l></lg></sp>
+<pb/>
+
+<sp>
+<speaker>Marietta</speaker>
+<lg><l>Oh, Padre! Oh, Padre dear</l></lg></sp>
+<sp>
+<speaker>Rudolfo</speaker>
+<lg>
+<l>Yes, she is my son, yes yes!</l>
+<l>She is my son!</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Dick</speaker>
+<lg>
+<l>Protect your son -</l>
+<l>Come, speak up! She his</l>
+<l>daughter, she his son.</l>
+</lg></sp>
+
+<sp>
+<speaker>Etienne and Chorus</speaker>
+<lg>
+<l>She says he is his son,</l>
+<l>this girl his son what fun!</l>
+</lg>
+</sp>
+
+
+<sp>
+<speaker>Marietta</speaker>
+<lg>
+<l>Padre, mio padre,</l>
+<l>Oh, padre mio padre!</l>
+</lg></sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l>Dear me, dear me, more</l>
+<l>trouble! That&#39;s not fair!</l></lg>
+</sp>
+
+<sp><speaker>Adah</speaker>
+<lg>
+<l> &#39;Tis she, the casket</l>
+<l>girl &#39;tis clear!</l>
+</lg>
+</sp>
+
+
+<sp><speaker>Marietta</speaker>
+<lg>
+<l> Oh la! Papa! &#39;Tis a very</l>
+<l>pretty fix, comme ca, oh la! Papa!</l>
+<l>We will get away from them pa la! Stay</l>
+<l>near! My dear! In your loving arms</l>
+<l>enfold me here! Don&#39;t forsake me, stay beside me</l>
+<l>Safely hide me.</l></lg>
+</sp>
+
+<sp><speaker>Marietta</speaker>
+<lg>
+<l> Don&#39;t forsake me, padre mio dear!</l>
+<l>No, no, no, no, no, no, no, no.</l>
+</lg>
+</sp>
+
+
+<sp><speaker>Marietta</speaker>
+<lg>
+<l> No. Don&#39;t forsake me - stay beside</l>
+</lg></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<lg>
+<l>&#39;Tis she &#39;tis she she&#39;s casket girl! &#39;tis she.</l></lg>
+</sp>
+
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l> His son what fun come protect</l>
+<l>your son, pack up, my man! His son</l>
+</lg>
+</sp>
+
+<sp><speaker>Rudolfo</speaker>
+<lg>
+<l> Si! Si! Si! Si! Yes, I swear me, come, come, come, come,</l>
+</lg></sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l>Dear me! Dear me! More trouble now. That&#39;s not fair!</l>
+<l>Dear me! She his son what fun!!</l>
+</lg>
+</sp>
+
+<sp><speaker>Marietta</speaker>
+<lg>
+<l> Me. In your loving arms</l>
+</lg>
+</sp>
+<sp><speaker>Adah</speaker>
+<lg>
+<l>&#39;Tis she &#39;tis she the casket girl yes &#39;tis she &#39;tis</l>
+</lg></sp>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l>What fun! Come, protect your son, come, protect</l>
+<l>your speak up, my man,</l>
+</lg>
+</sp>
+
+
+<sp><speaker>Rudolfo</speaker>
+<lg>
+<l> Si! Si! mio figlia! Figlia dear, si, si, si, si,</l>
+</lg></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<lg>
+<l>With me! Come, come, oh - come with me, to the castle</l>
+</lg>
+</sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l>Dear me - more trouble that&#39;s not fair, oh, dear me dear-</l>
+</lg>
+</sp>
+
+<sp><speaker>
+Chorus
+</speaker>
+<lg>
+<l> The casket - girl is she, yes &#39;tis she &#39;tis</l>
+</lg>
+</sp>
+
+
+
+<sp><speaker>Adah</speaker>
+<lg>
+<l> She! &#39;Tis she!</l>
+</lg>
+</sp>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l> Son! Your son!</l>
+</lg>
+</sp>
+
+<sp><speaker>Rudolfo</speaker>
+<lg>
+<l> Si! I swear!</l>
+</lg>
+</sp>
+
+
+<sp><speaker>Etienne</speaker>
+<lg>
+<l> Come! With me!</l>
+</lg></sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l>Me! Dear me!</l>
+<l>Cho! She! &#39;Tis she!</l>
+</lg></sp>
+
+<sp><speaker>Marietta, Adah, Dick, and Rudolfo</speaker>
+<lg>
+<l> Come sir, you are master here, to hold the maid</l>
+<l>you&#39;ll try.</l>
+</lg>
+</sp>
+
+<sp><speaker>Etienne, Governor</speaker>
+<lg>
+<l>Wait a while!</l>
+</lg>
+</sp>
+<pb/>
+<sp>
+<speaker>
+Chorus, Marietta, Adah, Dick, Rudolfo, Etienne, and Governor</speaker>
+<lg>
+<l>The King commands be on your head his</l>
+<l>Let me think by and by</l>
+<l>by and by.</l>
+</lg>
+</sp>
+
+<sp><speaker>Marietta, Adah, Dick, Adah, Rudolfo, and Etienne</speaker>
+<lg><l>vengeance will be dire and dread!</l></lg>
+</sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l>Wait a while let me think by and by</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>
+Chorus, Marietta, Adah, and Dick</speaker>
+<lg>
+<l> Come, man, speak up! Protect your son - protect your</l>
+</lg>
+</sp>
+
+<sp><speaker>Rudolfo</speaker>
+<lg><l>Mio figlio mio figlio care mio, caro mio, caro</l></lg></sp>
+<sp><speaker>Etienne</speaker>
+<lg>
+<l>his vengeance</l></lg>
+</sp>
+
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l> wait a while, let me</l>
+</lg>
+</sp>
+<sp><speaker>Chorus</speaker>
+<lg>
+<l> By and by let him think by and by!</l>
+</lg>
+</sp>
+<sp><speaker>Marietta</speaker>
+<lg>
+<l> not forsake me not! Padre! Padre!</l>
+</lg>
+</sp>
+
+<sp><speaker>Adah</speaker>
+<lg>
+<l> man be on your head! <stage>(With cho. Soprano)</stage></l>
+</lg>
+</sp>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l> Son, speak up, speak up! Come, man, come man.</l>
+</lg>
+</sp>
+
+<sp><speaker>Rudolfo</speaker>
+<lg>
+<l> Mio caro, mio caro mio!</l>
+</lg>
+</sp>
+
+<sp><speaker>Etienne</speaker>
+<lg>
+<l> Will be dire and dread! No! No!</l>
+</lg>
+</sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l> Think, by and by, and by! Wait a while - wait a while!</l>
+</lg>
+</sp>
+
+<sp><speaker>Italians</speaker>
+<lg>
+<l> She&#39;s his figlio - she&#39;s his filgio to---</l>
+</lg>
+</sp>
+
+<sp><speaker>Chorus</speaker>
+<lg>
+<l>No! No!</l>
+</lg>
+</sp>
+
+<sp><speaker>Marietta</speaker>
+<lg>
+<l> Oh, Padre! Padre!</l>
+</lg>
+</sp>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l> Speak up come man come speak up! Come man.</l>
+</lg>
+</sp>
+
+<sp><speaker>Rudolfo</speaker>
+<lg>
+<l> Caro figlio Mio Oh no - rissimo!</l>
+</lg>
+</sp>
+
+<sp><speaker>Etienne</speaker>
+<lg>
+<l> No, no! No, no! Come, sir you&#39;re Master here No!</l>
+</lg>
+</sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l> Let me! Let me think wait awhile wait awhile</l>
+</lg>
+</sp>
+
+<sp><speaker>Italians</speaker>
+<lg>
+<l> Take his son you will not dare, we&#39;ll fight to see</l>
+<l>fair play, she&#39;s his</l>
+</lg>
+</sp>
+
+<sp><speaker>Chorus</speaker>
+<lg>
+<l>To the castle, to the castle away! a-way! figlio No!</l>
+</lg>
+</sp>
+
+<sp><speaker>Marietta</speaker>
+<lg>
+<l> Padre! Oh! Stay near</l>
+</lg>
+</sp>
+
+<sp><speaker>Rudolfo</speaker>
+<lg>
+<l> Caro figlio Caro figlio mi - O!</l>
+</lg>
+</sp>
+
+<sp><speaker>Etienne</speaker>
+<lg>
+<l> No! No! Come sir, your master here.</l>
+</lg>
+</sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l> Let me Let me think, wait a-while!</l>
+</lg>
+</sp>
+
+<sp><speaker>Italians</speaker>
+<lg>
+<l> Take his son, you - to the castle - take her away!</l>
+</lg>
+</sp>
+
+<sp><speaker>Chorus</speaker>
+<lg>
+<l> To the castle.</l>
+</lg>
+</sp>
+<pb/>
+
+<sp><speaker>Marietta, Adah, Dick, Rudolfo, Etienne, Governor, Italians, Chorus</speaker>
+<lg>
+<l>The King of France is far a-way scarely know just
+what to say!</l>
+</lg></sp>
+
+<sp><speaker>Marietta, Adah, Dick, Rudolfo, Etienne</speaker>
+<lg>
+<l> These ruffians here on ev&#39;ry side</l>
+</lg></sp>
+<sp><speaker>Governor, Italians</speaker>
+<lg> 
+<l>To take his son, you will not dare</l>
+</lg>
+</sp>
+
+<sp><speaker>Chorus, Marietta</speaker>
+<lg>
+<l> Mio padre ah.</l>
+</lg>
+</sp>
+
+<sp><speaker>Adah, Dick, Rudolfo, Etienne</speaker>
+<lg>
+<l> No, no, no, no, no, no! No!</l>
+</lg>
+</sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l>With Rudolfo let her hide Wait awhile</l>
+</lg>
+</sp>
+<sp><speaker>Italians</speaker>
+<lg>
+<l> Yes, she&#39;s his figlio She&#39;s his</l>
+</lg>
+</sp>
+
+<sp><speaker>Chorus</speaker>
+<lg>
+<l> No!</l>
+</lg>
+</sp>
+
+<sp><speaker>Marietta</speaker>
+<lg>
+<l> Ah</l>
+</lg>
+</sp>
+
+<sp><speaker>Adah, Dick</speaker>
+<lg>
+<l> Come man, speak up, come man come speak up</l>
+</lg></sp>
+<sp><speaker>Rudolfo</speaker>
+<lg>
+<l> Caro, figlio mio oh car - rissimo!</l>
+</lg></sp>
+<sp><speaker>Etienne</speaker>
+<lg>
+<l> No! No! No! No! No! Come, sir, you&#39;re master here!</l>
+</lg>
+</sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l>Wait awhile let me let me think wait awhile</l>
+</lg>
+</sp>
+
+<sp><speaker>Italians</speaker>
+<lg>
+<l>figlio to take his son you will not dare.</l>
+<l>We&#39;ll fight to see fair play she&#39;s</l>
+</lg>
+</sp>
+<sp>
+<speaker>Chorus</speaker>
+<lg>
+<l>No to the castle to the castle away a-way! His</l>
+</lg>
+</sp>
+
+
+<sp><speaker>Marietta, Adah</speaker>
+<lg>
+<l> man!</l>
+</lg></sp>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l> SPEAK up! Speak up! speak up!</l>
+</lg>
+</sp>
+
+<sp><speaker>Rudolfo</speaker>
+<lg>
+<l> caro figlio caro figlio caro</l>
+</lg>
+</sp>
+
+<sp><speaker>Etienne</speaker>
+<lg>
+<l> No! No, no, no! Come sir! Come sir! (3) figlio</l>
+</lg>
+</sp>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l>Wait awhile let me let me let me let me</l>
+</lg>
+</sp>
+
+<sp><speaker>Italians</speaker>
+<lg>
+<l>figlio she&#39;s his figlio! to take his son you will dare,</l>
+<l>we&#39;ll to the castle to the castle we&#39;ll</l>
+<l>fight, we&#39;ll fight</l>
+</lg>
+</sp>
+
+
+<sp><speaker>Marietta</speaker>
+<lg>
+<l> Ah... Ah...</l>
+</lg>
+</sp>
+
+<sp><speaker>Adah</speaker>
+<lg>
+<l> take her a - way.</l>
+</lg>
+</sp>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l> Or fight for fair play fight for fair play!</l>
+</lg>
+</sp>
+
+<sp><speaker>Rudolfo</speaker>
+<lg>
+<l> Caro figlio Ah carissi - no!</l>
+</lg>
+</sp>
+
+<sp><speaker>Etienne</speaker>
+<lg>
+<l>Come, the King commands be your head</l>
+<l>be on your head!</l>
+</lg>
+</sp>
+
+<pb/>
+
+<sp><speaker>Governor</speaker>
+<lg>
+<l>Let me think please, let me think!</l>
+</lg>
+</sp>
+
+<sp><speaker>Italians</speaker>
+<lg>
+<l>See fair play we&#39;ll fight we&#39;ll fight to see fair play</l>
+<l>we&#39;ll fight we&#39;ll fight --</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Chorus</speaker>
+<lg>
+<l>To castle take her away take her away away -</l>
+<l>away take her away!</l>
+</lg>
+</sp>
+
+<sp><speaker>Marietta, Adah</speaker>
+<lg>
+<l> Gone! Gone! Gone!</l>
+</lg></sp>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l> Gone! Gone! Gone!</l>
+</lg>
+</sp>
+
+<sp><speaker>Rudolfo and Etienne</speaker>
+<lg>
+<l> Gone! Gone! Gone!</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Governor and Italians</speaker>
+<lg>
+<l> Free! Free! Free!</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Chorus</speaker>
+<lg>
+<l>Gone! Gone! Gone!</l>
+</lg>
+</sp>
+
+<stage>
+<hi rend="underline">CURTAIN</hi>
+</stage>
+<stage>
+<hi rend="underline">End of Act I</hi>
+</stage>
+<pb/>
+</div>
+
+<div type="propertyPlot">
+<head>
+<hi rend="underline">PROPERTY PLOT</hi><lb/>
+</head>
+<list>
+<head>
+<hi rend="underline">ACT I</hi>
+</head>
+<item>1 old-fashioned lantern (NIGHT WATCHMAN)</item>
+<item>1 street lamp on post</item>
+<item>Small ladder</item>
+<item>Large keys on ring</item>
+<item>Booths or tray for VENDORS OF FLOWERS, etc. (See Varratt)</item>
+<item>Candles, figs, oranges, parrakeets, sugar cane, confections,</item>
+<item>etc., cakes, pastries</item>
+<item>Donkey with panniers of flowers</item>
+<item>Brooms (for STREET SWEEPERS)</item>
+<item>Knife-grinders&#39; outfit, knives for 2 PIRATES</item>
+<item>Pistol, holster, belt (CAPTAIN DICK)</item>
+<item>Muskets (for RANGERS)</item>
+<item>Bundle of letters</item>
+<item>24 caskets (CASQUETTE GIRLS)</item>
+<item>Knives, cutlass (SILAS)</item>
+<item>Basket (RAGPICKER)</item>
+<item>Official document</item>
+<item>Convent bell (offstage)</item>
+<item>Church organ (offtsage)</item>
+<item>Scroll (TOWN CRIER)</item>
+<item>1 umbrella (to hold over GOVERNOR)</item>
+<item>1 fan</item>
+<item>Official papers</item>
+<item>1 record book</item>
+<item>1 tattoo Bras Pique (SILAS)</item>
+</list>
+</div>
+<div type="propertyPlot">
+<head>
+<hi rend="underline">ACT II Scene 1</hi>
+</head>
+<list>
+<item>Marionette stage, marionettes (1 Pierrot &amp; Pierrette)</item>
+<item>Practical tamborine (on wall)</item>
+<item>1 bench</item>
+<item>1 stool (outside window)</item>
+<item>Box or stool (outside window)</item>
+<item>1 feather duster</item>
+</list>
+<list>
+<head><hi rend="underline">ACT II Scene 2</hi></head>
+
+<item>Furniture for ballroom (period - Baratt)</item>
+<item>Pack of playing cards</item>
+<item>Dice</item>
+<item>Small platform (auction block to be pushed on)</item>
+<item>24 castenets</item>
+<item>1 dog whistle (GOVERNOR)</item>
+<item>1 whistle (SILAS)</item>
+<item>1 Bras Pique tattoo (ETIENNE)</item>
+<item>1 whistle (offstage)</item>
+<item>Pistols for PIRATES</item>
+<item>Gambling table (dice)</item>
+</list>
+
+<pb/>
+</div>
+<div type="act" n="2">
+<head>
+<hi rend="underline">ACT II</hi><lb/>
+<lb/>
+</head>
+<div type="scene" n="1">
+<head>
+<hi rend="underline">Scene 1</hi><lb/>
+</head>
+<stage>
+Front Scene in Marionetta Theatre.
+Dark room with doors Right and
+Left. Centre of stage the Marionette
+stage with the figures of
+Pierrot and Pierette, Harlequin,
+etc., upon it. There is a little
+curtained window at Right of Centre.
+</stage>
+<stage>
+DISCOVERED: At rise, RUDOLFO in front of platform
+instructing MARIETTA, who is
+on stage, how to pull the wires
+for the Marionettes.
+</stage>
+
+<stage>
+No. 10 SONG --Rudolfo
+</stage>
+<sp>
+<lg>
+<l>Turn-a like dat-a Pierrette, just so,</l>
+<l>Bow to de lady Signor Pierrot,</l>
+<l>Santa Maria! No! No! No! No!</l>
+</lg>
+</sp>
+<sp>
+<speaker>Marietta</speaker>
+<p>
+How he is stupid, your friend Pierrot.
+</p></sp>
+
+<stage>(A little dance of the Marionettes
+done very awkwardly while RUDOLFO
+stands aside beating time)</stage>
+
+<stage>
+II
+</stage>
+<sp>
+<lg>
+<l>Come, dat is better, Signor Pierrot</l>
+<l>Take de lady in arms like so?</l>
+</lg>
+<stage>(Two figures in attempt to embrace,
+fall in a heap)</stage>
+<lg>
+<l>Santa Maria! No! No! No! No!</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>How! He is crazy, your friend Pierrot!</p></sp>
+
+<stage>(Dance again, ending in a furious
+jumble of legs and arms, RUDOLFO
+tearing his hair)</stage>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>It is alaways the same-a thing! You begin-a to learn-a de 
+Marionettes, and you make-a it all the same joke!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>That&#39;s the point, padre mio! All the world&#39;s a joke! Oh,
+how I am happy for the first time in my life! I laugh!</p></sp>
+<pb/>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>You are happy because you make-a three men miserable!</p>
+
+<stage>(MARIETTA takes tambourine from wall
+and practices throwing and catching
+it, dancing gaily about room as he
+talks)</stage>
+
+<p>First me! I say to the peoples, my son-a she has returned. 
+Then sudden you say -- No more boy&#39;s dress. I want be myself!
+Then for me to crack my brain to explain my sudden
+daughter!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>A daughter is best, Padre mio! It brings the customers!
+Now your theatre is crowded every night. How many costumes
+you have rented for the Quadroon Ball? They all come to see
+Marietta!</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>Then my good-a Capitaine Dick - and Monsieur Etienne, the 
+son-a of His Excellency -- Now you flirt with both!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<stage>(Suddenly pausing in her dancing
+about)</stage><p>
+Oh, Padre mio - I think I have my song --</p>
+<stage>(She sings dream song)</stage>
+<lg><l>
+&quot;Oh, sweet mystery of life!&quot;</l></lg></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>That song! Make-a me to go crazy!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh, but try it. Padre mio -- Maybe you can finish him -- 
+Then I love you, oh so desperately -- like fire!</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>Santa Maria forbid! We must practice some more with the 
+marionettes - stop this talk about a songs.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>I will not practice any more. I am going to rest too -
+like-a dez marionettes - they never do no work themselves.
+Always somebody have to make them move.</p></sp>
+
+<stage>(She exits. RUDOLFO follows)</stage>
+
+<stage>(Have PREMIER DANCERS enter dressed
+as Marionettes and do a dance. After
+dance enter)</stage>
+<pb/>
+
+<sp><speaker>Etienne</speaker>
+<stage>(Look about, Sees no one about and
+call)</stage><p>
+Oh, Marietta.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Enter)</stage><p>Ah, Monsieur, it is more than kind that you should so often 
+visit the house of poor Rudolfo and his unworthy daughter.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Come, Mademoiselle, have you not tired of his masquerade?</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Masquerade?</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>These mean surroundings are not fitting for you!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>I was never so happy -- I mean, I am used to it!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Come - why not announce your rank? You only postpone the
+inevitable day. At any moment your father will arrive from
+Italy and think how shall we account for your lodging here?</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Ha! Ha! When the illustrious, the Count d&#39;Altena arrives,
+you will see your mistake. How he will rave! What, this
+little brown maid, this child of the people my daughter?&quot;
+He will think you are crazy, yes.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Oh well, I know there is no use trying to persuade you.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Still you try.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>I give in for the present. I have come for a different 
+purpose. I want you to come to the Quadroon Ball tonight.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>But I cannot - I have told you. Captain Dick he say no, it 
+is no place for a very good girl like me.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Captain Dick knows nothing of our customs. Many of the
+finest women in New Orleans will be there -- masked, of
+course. So shall you!</p></sp>
+<pb/>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Captain Dick, he is my friend. He say no! It is so naughty, 
+that ball, he will not go himself!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Did he say that -- Strange! Adah - my own Adah has deserted  
+me tonight to go with him!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>What! Captain Dick will go with Adah? Wait, I will go also.</p>
+<stage>(Going towards door L.)</stage>
+<p>Yes, I laid down the law to Rudolfo -- and Captain Dick --
+I will go --</p>
+</sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>With me!?</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Mais non -- with myself! 
+<stage>(Exits door L.)</stage></p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Follows her to door)</stage><p>She is a witch! What puppets we are, the strongest of us 
+can be pulled about by a little weak woman like that.</p></sp>
+
+<stage>
+No. 11. SONG -- <hi rend="underline">&quot;YOU MARRY A MARIONETTE&quot;</hi>
+</stage>
+<sp><speaker>Etienne</speaker>
+<stage>(During the song he takes one of the
+Marionettes and setting it upon table,
+sings to it)</stage>
+<stage>
+1
+</stage>
+<lg>
+<l>Now why should a man who has courage to face</l>
+<l>God, man and the devil, all three,</l>
+<l>Give in to a bundle of satin and lace?</l>
+<l>The answer is simple as simple can be!</l>
+<l>For we men are but puppets, after all</l>
+<l>As we laugh or we sigh or we sing:</l>
+<l>Yo-ho, yo-ho, yo-ho!</l>
+<l>If we creep or we crawl, if we stand or we fall,</l>
+<l>You may gamble some woman is pulling the string!</l>
+</lg>
+
+<stage>REFRAIN</stage>
+<lg>
+<l>Oh, a man is a man, do what he can,</l>
+<l>Whatever his breed or birth!</l>
+<l>And a maid is a maid and she isn&#39;t afraid</l>
+<l>Of the biggest man on earth!</l>
+<l>So if you&#39;re a fool and expect to rule</l>
+<l>The woman you&#39;re planning to get,</l>
+<l>Then by the old Harry, be sure when you marry</l>
+<l>You marry a Marionette,</l>
+<l>My boy,</l>
+<l>Yes, marry a Marionette!</l>
+</lg></sp>
+<pb/>
+
+<stage>(At finish of song, ETIENNE goes to
+door R. and starts to exit. ADAH
+suddenly confronts him, closing door,
+stands with back to it, glaring at
+Etienne)</stage>
+
+<sp>
+<speaker>Adah</speaker>
+<p>So! You are here again!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Coolly)</stage>
+<p>And you also!</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>You - you love this girl -- you no longer love me --</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Oh come -- come -- Love -- that&#39;s a large word.</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<stage>(Moves to L.)</stage>
+<p>You have asked her to go to the ball?</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<stage>(Opening door)</stage><p>
+I have! And I told her to come early that she might see the
+sale of those slaves who have displeased their master by
+boring them with jealousy!!</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>You dare not sell me!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Sarcastically)</stage><p>Sell you! Not while you are so gentle, so sweet, so confiding, 
+so trustful! Ha! Ha!</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>Etienne!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Sell you? My sweet, never jealous companion. Never think
+it.</p>
+<stage>(Going out door R.)</stage>
+<p>Good-bye! Good-bye!</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<stage>(Running to window)</stage><p>Etienne! Etienne! 
+</p></sp>
+
+<stage>(Buries her head on windowsill)</stage>
+
+<stage>(CAPTAIN DICK enters from curtains,
+goes over to door R., look out,
+turns to Adah - touches her on shoulder)</stage>
+<pb/>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Adah!</p></sp>
+
+<sp><speaker>Adah</speaker>
+<p>Etienne!</p></sp>
+<stage>(She turns, grabbing DICK, thinking
+it is Etienne)</stage>
+
+<stage>(MARIETTA enters from L.)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh - I - don&#39;t let me disturb you.</p></sp>
+
+<sp><speaker>Adah</speaker>
+<p>I thought -- Oh -- let me go.</p></sp>
+
+<stage>(ADAH runs out door R. DICK embarrassed)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<p>She thought I was Monsieur Grandet!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>And I think you are Monsieur Liar!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Don&#39;t be angry.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Angry! Me! I! You may embrace anyone you please. What
+is it to me? I am in a beautiful mood. I have much to do
+before I prepare myself for the ball!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>You promised me you would not go!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Sarcastically)</stage><p>Me! I disremember! I am so forgetful. I disremember that 
+promise.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>But I&#39;m going to hold you to it.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<stage>(Taking feather duster, pushes it
+into CAPTAIN DICK&#39;s face)</stage><p>
+Now look you, Captain Dick, consider, I have never had one -
+what you say - a good time in all my life.</p></sp>
+<stage>(She sits on steps)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<p>It is your own fault. 
+</p></sp>
+<pb/>
+<sp>
+<speaker>Marietta</speaker>
+<p>My fault? Santa Maria! In Italy I was banished and sent 
+away to a convent to learn to be a lady --</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Where you should have stayed.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Oh, my friend. Then you would never have seen me.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I could have survived. Your parents did exactly right. And 
+I shall feel relieved when they come for you.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh, very well, they will marry me to the old man so old, so 
+ugly, with a long beard ---</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>We shall make it a condition of your safe return to France 
+that they shall not compel you to marry.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Your condition! Pooh! That&#39;s what they think of conditions.
+And you - how will you feel when poor Marietta is married
+to the old one with a beard? And no one will find her dream
+song. Have you tried it lately, Captain Dick?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I have not given it a single thought!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<stage>(Goes to stool R.)</stage><p>
+He has given it no thought! And this is my friend, my sworn
+friend! Monsieur Etienne he try like the mischief - and he
+is no friend!</p></sp>
+
+<stage>(Enter RUDOLFO door L)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Ah, Rudolfo!</p></sp>
+
+<sp><speaker>Rudolfo</speaker>
+<p>Ah, Signor, you come in time. She drive-a me crazy.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>She&#39;d drive anyone crazy.</p></sp>
+
+<sp><speaker>Rudolfo</speaker>
+<p>How soon-a you think-a they come to take-a her away?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>It will not be long, Rudolfo. </p></sp>
+<pb/>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Jumps up)</stage><p>What you think? Not long - and they smile. Barbara! Oh -- </p></sp>
+<stage>(Sits down and pretends to cry)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Goes to Marietta)</stage>
+<p>Oh come! Come! I didn&#39;t mean to hurt you.</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>Figlio mio, do not-a weep-a.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>No one love me. My padre, he does not love me!</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>Oh yes, like-a my soul -- better than my daughters. Yes -- 
+when you are good --</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>I am always good. I like pulla de marionette-a! I like de
+spaghetti, I even like da monk. Not like Rafaelo damn poor
+Italiano. Still you do not love me.</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>Ah, but yes, I love you!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Capitaine Dick, he does not love me. -- Or do you?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I certainly do not!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh terrible - miserable - my friend will not love me! 
+<stage>(Pretending to cry)</stage></p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I like you -- I like you very much.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Jumping up suddenly)</stage><p>Like - ah, miserable -- you like potatoes!</p></sp> 
+<stage>(Xes up to L)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Following Marietta)</stage><p>Come, come, Marietta, don&#39;t cry, I&#39;ll try to - to more than 
+like you!</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>He will try! Oh, poor Marietta, he cannot love me, but he
+will try --</p></sp>
+<stage>(Peeping to see affect)</stage>
+<pb/>
+
+<sp>
+<speaker>Dick</speaker>
+<p>If you&#39;ll stop crying, I&#39;ll do anything.</p></sp>
+
+<sp><speaker>Marieta</speaker>
+<p>Oh! He won&#39;t give me one friendly little kiss. Oh - oh --</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I will if I must. </p></sp>
+<stage>(Puts arms about her to kiss her)</stage>
+
+<sp><speaker>Marietta</speaker>
+<stage>(Jumping away and laughing in his
+face)</stage><p>
+Ha! Ha! Ha! Not tonight, my friend. Oh, you big stupid!
+Save your kisses for Adah!</p></sp>
+<stage>(Exits door L)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Watching after her. Turns angrily)</stage>
+<p>It&#39;s your fault, you spoil her.</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>But -- but --</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>She should have been put in the care of the nuns. I have 
+made a mistake allowing her freedom.</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>I told you!</p></sp>
+
+<sp><speaker>Dick</speaker>
+<stage>(Very angry)</stage><p>
+You did not, no one told me. Besides how can one cage fire
+or quicksilver! She - is -- oh, how glad I will be when her
+parents come for her.</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<stage>(Sadly)</stage>
+<p>I cannot be glad, if they take her away - I --</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Take her away! Oh well, it must be! And look you, Rudolfo, 
+we are responsible for her. She must not go to the ball tonight.</p></sp>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>But certainly, I lock her up tight.</p></sp>
+
+<stage>(MARIETTA seen listening from curtains)</stage>
+<pb/>
+
+<sp><speaker>Dick</speaker>
+<p>Lock her up? Poor child - but this is her own fault -- yes,
+it must be --</p></sp>
+<stage>(Goes towards door R)</stage>
+
+<sp>
+<speaker>Rudolfo</speaker>
+<p>My daughter shall take away everything -- all her clothes. 
+We will keep her safe.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>You will be well rewarded, Rudolfo, you shall see!</p></sp>
+
+<stage>(Goes out door R., followed by
+RUDOLFO)</stage>
+
+<sp><speaker>Marietta</speaker>
+<stage>(Enters from behind curtains)</stage><p>
+Lock me up! Oh, the miserable! No, no, if he have spoke
+nice, maybe then I not go. But lock me up! Right away --
+quick I go!</p>
+<stage>(Goes to Marionette platform)</stage>
+<p>Come, Pierrot! You shall aid me. La - la - la!</p>
+<stage>(She draws curtains)</stage>
+</sp>
+<sp>
+<speaker>Rudolfo</speaker>
+<stage>(Coming in)</stage>
+<p>Never fear, Captain Dick, I&#39;ll keep her safe for you.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Outside)</stage><p> 
+Not for me, stupid!</p></sp>
+
+<sp><speaker>Rudolfo</speaker>
+<p>Oh no, for her father!</p>
+<stage>(Xes to door L., calls)</stage>
+<p>Marietta! Marietta!</p>
+<stage>(No answer)</stage>
+<stage>(Begins to hum dream melody)</stage>
+<p>&quot;La! la! la! la!&quot; Oh, the old fool, me!</p>
+<stage>(Sees drawn curtain)</stage>
+<p>Ah, she hides to tease-a her old padre.</p>
+<stage>(Goes over to curtains. Pulls them
+aside, looks in)</stage>
+<p>Not here! Ah, the window - perhaps!</p>
+<stage>(Turns to door L)</stage>
+<p>My cloak! My hat!</p>
+
+<stage>(CRAZIELLA brings them)</stage>
+
+<p>I lock all the doors. I go out and search for Marietta at once.</p></sp>
+<stage>(He exits hurriedly out of door R.
+locks door after him)</stage>
+
+<sp><speaker>Marietta</speaker>
+<stage>(Drawing curtains, laughing)</stage><p>
+Oh ho! Signor Pierrot! I shall go to the ball! No! But
+<pb/>
+he will go with Adah!
+</p></sp>
+<stage>(MARIETTA comes down steps, dances
+to door L., finds it locked -- dances
+to door R., finds that also locked --
+sees window -- goes to window, takes
+domino from stool in front of window,
+throws kisses to marionette on small
+stage and exits window)</stage>
+<stage>
+<hi rend="underline">CURTAIN</hi>
+</stage>
+<stage>
+No. 12 <hi rend="underline">INTERMELLO</hi>
+</stage>
+<stage>
+<hi rend="underline">End of Act II</hi>
+</stage>
+<stage>
+<hi rend="underline">Scene 1</hi>
+</stage>
+<pb/>
+</div>
+<div type="scene" n="2">
+<head>
+<hi rend="underline">ACT II</hi><lb/>
+<lb/>
+<hi rend="underline">Scene 2</hi><lb/></head>
+<stage>
+SCENE: The ballroom before the opening
+of the ball. A large room with
+pillars at L. into larger dancing
+room. Stairs centre. Balcony at
+back upstairs with large windows
+opening onto a veranda. Doors
+into room upstairs at R. Entrance
+from street in centre under balcony.
+</stage>
+<stage>
+AT RISE: MEN are seated at tables dicing
+and playing cards. All elegant
+swaggering GENTLEMEN, full of life
+and excitement. Creole high
+society.</stage>
+
+<stage>
+<hi rend="underline">SONG</hi>
+</stage>
+<sp>
+<lg>
+<l>Gambling, gambling, racing, dicing,</l>
+<l>Life&#39;s a sort of gamble if you look at it that way</l>
+<l>We have no time for melancholy</l>
+<l>We&#39;re votaries of mirth and folly.</l>
+<l>New Orleans&#39; Jeunesse dores.</l>
+</lg>
+</sp>
+
+<sp><speaker>Man</speaker>
+<lg><l> I&#39;ll take you.</l></lg></sp>
+<sp><speaker>Man</speaker>
+<lg><l> I&#39;ll double!</l></lg></sp>
+<sp><speaker>Man</speaker>
+<lg><l> I&#39;m with you! <stage>(Throws dice)</stage></l></lg></sp>
+<sp><speaker>Man</speaker>
+<lg><l> It&#39;s yours!</l></lg></sp>
+<sp><speaker>All:</speaker>
+<lg><l> Look up! Buck up! Pay! Pay! Pay! Pay!</l></lg>
+<stage>
+II
+</stage>
+<lg>
+<l>Gambling, gambling, racing, dicing,</l>
+<l>Life&#39;s a sort of gamble if you look at it that way</l>
+<l>We have no time for melancholy</l>
+<l>We&#39;re votaries of mirth and folly.</l>
+<l>New Orleans&#39; Jeunesse dores.</l>
+</lg>
+</sp>
+<sp><speaker>Man</speaker>
+<lg><l> My cotton!</l></lg></sp>
+<sp><speaker>Man</speaker>
+<lg><l> My mistress!</l></lg></sp>
+<sp><speaker>Man</speaker>
+<lg><l> I&#39;ll take you! <stage>(Throws dice)</stage></l></lg></sp>
+<sp><speaker>Man</speaker>
+<lg><l> You&#39;ve won!</l></lg></sp>
+<sp><speaker>All:</speaker>
+<lg><l>  Look up! Buck up! Pay! Pay! Pay!</l></lg></sp>
+
+<stage>(End of Men&#39;s Chorus - enter ETIENNE
+U.R. He is very gorgeously dressed
+- as are all the OTHERS. MEN spring
+up and salute him)</stage>
+<pb/>
+
+<sp><speaker>Men</speaker>
+<p>Ah! Monsieur Etienne!</p></sp>
+
+<sp><speaker>Men</speaker>
+<p>Vive, Monsieur Etienne!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Thanks, Messieurs! Come! Off with the tables! Clear the
+room! The ladies are arriving. -- I&#39;ll bet you&#39;d play dice
+on the tombs of your grandsires.</p></sp>
+
+<sp><speaker>Man</speaker>
+<p>I&#39;ll take you! Tonight, after the ball, in the churchyard!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>I&#39;ll go you --</p>
+<stage>(Pause for clap hands from MEN)</stage>
+<p>If someone will carry you there. For it&#39;s my will, as
+Master of Ceremonies, that no man shall leave here tonight
+who can attend on his feet!</p></sp>
+
+<sp>
+<speaker>Servant</speaker>
+<stage>(From C. on landing)</stage>
+<p>His Excellency, the Lieutanant-Governor.</p></sp>
+
+<stage>(The LIEUTENANT-GOVERNOR enters,
+followed by SECRETARY and SILAS, as
+Whipping Boy. SILAS is completely
+transformed -- is magnificently
+dressed, wears a sword with which
+he is constantly becoming entangled)</stage>
+
+<stage>(MEN bow to the Governor)</stage>
+
+<sp><speaker>Men</speaker>
+<p>Vive, the Lieutenant-Governor!</p></sp>
+
+<stage>(LADIES enter from R. and L. through
+centre door top and take position on
+stairs)</stage>
+
+<stage>(LADIES and GENTLEMEN are talking low
+- a little laughter here and there)</stage>
+
+<sp><speaker>Lieutenant-Governor</speaker>
+<p>When does the entertainment begin?</p></sp>
+
+<sp>
+<speaker>Secretary</speaker>
+<p>At once, Excellency.</p></sp>
+
+<stage>(ALL laugh and continous talking,
+paying no attention to Silas)</stage>
+<pb/>
+
+<stage>(MUSIC CUE for -</stage>
+
+<stage>
+No. 14 SONG -- <hi rend="underline">&quot;THE LOVES OF NEW ORLEANS&quot;</hi>
+</stage>
+<stage>
+I
+</stage>
+<sp>
+<lg>
+<l>We are the loves of New Orleans,</l>
+<l>Its languour, its glow, its fire,</l>
+<l>We wear the badge of the red, red rose</l>
+<l>With its fragrance of desire.</l>
+<l>We are the loves of New Orleans,</l>
+<l>Sweet, slumbrous flowers of night,</l>
+<l>We drive the cares of the day away</l>
+<l>In our gardens of delight.</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>MEN</speaker>
+<lg>
+<l>Angelique! Felice! Veronique! Annice!</l> 
+<l>You drive the cares of day away in your gardens of delight.</l>
+</lg>
+</sp>
+
+<stage>(ALL repeat)</stage>
+
+<stage>(MUSIC for SPANISH GIRLS - enter from
+C. door)</stage>
+
+<sp><speaker>Spanish Girls</speaker>
+<stage>(Sing)</stage>
+<lg>
+<l>Oh hola, we dance La Cachuca!</l>
+<l>Castanets sounding so gay!</l>
+<l>The bright eyes of each senorita</l>
+<l>Shall drive every trouble away!</l>
+<l>Oh hola, we dance La Cachuca!</l>
+</lg>
+</sp>
+
+<stage>(Orchestra repeats - THEY do a
+Spanish dance)</stage>
+
+<stage>(SAN DOMINGO GIRLS take position on
+stairs. AS SPANISH GIRLS dance --
+enter door from above)</stage>
+
+<sp><speaker>Men</speaker>
+<stage>(Sing as they come slowly downstairs)</stage><lg>
+<l>Belles from San Domingo!</l>
+<l>Island far away!</l>
+<l>Lovely San Domingo!</l>
+<l>Island far away!</l></lg>
+</sp>
+
+<stage>(Orchestra repeats)</stage>
+
+<stage>(SAN DOMINGO GIRLS do slow posture
+dance)</stage>
+
+<stage>(Music for FRENCH GIRLS -- enter
+from C, door)</stage>
+<pb/>
+
+<sp><speaker>French Girls</speaker>
+<stage>(Sing)</stage>
+<lg>
+<l>You&#39;ll plainly see, we&#39;re from Paris,</l>
+<l>We have ze air, we have ze smile,</l>
+<l>Regardes vous, we have ze style!</l>
+<l>We know a thing or two we do!</l>
+<l>La Belle Marie, Annette, Frou Frou!</l>
+</lg>
+</sp>
+<stage>(THEY do a very gay dance, and then
+the entire CHORUS goes into refrain
+of the first song. Repeat once:)</stage>
+
+<stage><hi rend="underline">&quot;WE ARE THE LOVES OF NEW ORLEANS&quot;</hi></stage>
+
+<stage>(At conclusion of ensemble, GIRLS do
+cakewalk, dance, exit in twos into
+ballroom)</stage>
+
+<stage>(MEN exit R. and L. upstairs)</stage>
+
+<stage>(On encore, repeat cakewalk for
+Girls only -- MEN remain off)</stage>
+<stage>(Meanwhile, the GOVERNOR and SECRETARY
+have been seated on settee)</stage>
+
+<stage>(After encore, LIZETTE appears on
+landing in Centre door)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<stage>(Coming down, to Silas)</stage>
+<p>Is it possible -- do my eyes deceive me?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>They do! I am not what you are looking for!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Ah, that voice - my rising American! I knew I would find
+you at last!</p></sp>
+<stage>(She throws her arms around his neck)</stage>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Your Excellency - I demand protection from this woman.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<stage>(Waking with a start)</stage>
+<p>Bye and bye.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Bye and bye -- it&#39;s now I need it!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>I waited for you, Si -- I waited at the storehouse. You
+never came.</p></sp>
+<pb/>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Who is this female?</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>I am a casquette maid, sir --</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>She&#39;s home-made--</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>If you are a casquette maid, why are you not wed and out of 
+New Orleans?</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Ask him!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>You see, your Excellency, what she wants is to be sent back 
+to France.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>I don&#39;t. I want a husband. And I want him quick. Husbands 
+were guaranteed.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Did the King see you when he gave that guarantee?</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>His envoy did, and he said there&#39;d be a perfect rush in my 
+direction.</p>
+
+<stage>(The GOVERNOR gets ups and starts to
+L)</stage>
+
+<p>Wait, Your Excellency, this man took my gold.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>You gave it to me!</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>What&#39;s this?
+</p></sp>
+<sp>
+<speaker>Lizette</speaker>
+<p>He made me open the casquette. He took my gold to buy tobacco. 
+Where is it now?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Gone up in smoke.</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>This is serious! Well! Well! This must be looked into --
+but not now, bye-and-bye--</p></sp>
+<stage>(He goes off L)</stage>
+<pb/>
+
+<sp><speaker>Lizette</speaker>
+<p>Bye-and-bye --- That&#39;s always the way it is with me. I am
+always waiting, but such is the beauty of my nature that I
+never give up hope.
+</p></sp>
+
+<stage>
+No. 14 SONG -- <hi rend="underline">&quot;IN THE SWEET BYE AND BYE&quot;</hi>
+</stage>
+<sp><speaker>
+Lizette &amp; Silas
+</speaker>
+<stage>
+I
+</stage>
+<lg>
+<l>I am a maid, a pretty maid,</l>
+<l>A dainty touch-me-not,</l>
+<l>No man can say that he from me</l>
+<l>The slightest favor got!</l>
+<l>Though hosts of suitors, mad with love,</l>
+<l>Pursue me day and night,</l>
+<l>I calmly say,</l>
+<l>&quot;Stay, villain stay!&quot;</l>
+<l>I wait for Mr. Right!</l>
+</lg>
+<stage>
+<hi rend="underline">Refrain</hi>
+</stage>
+<lg>
+<l>Bye-and-bye, Bye-and-bye,</l>
+<l>Don&#39;t meet your troubles coming,</l>
+<l>And perhaps they&#39;ll pass you by.</l>
+<l>No kiss has flushed this brow of snow,</l>
+<l>No touch profaned my treasures&#39; flow,</l>
+<l>But that&#39;s all right, because I know</l>
+<l>That someone&#39;s going to love me in the Sweet Bye-and-Bye!</l>
+</lg>
+<stage>
+II
+</stage>
+<lg>
+<l>I don&#39;t deny, I burn to be</l>
+<l>The pet, the joy, the life,</l>
+<l>Of some brave man who would make me</l>
+<l>His lawful wedded wife;</l>
+<l>But if a wretch should dare to breathe</l>
+<l>A word that wasn&#39;t right!</l>
+<l>I&#39;d give a whack!</l>
+<l>Say, &quot;Villain, back!</l>
+<l>I wait for Mister Right!&quot;</l>
+</lg>
+<stage><hi rend="underline">Refrain</hi></stage>
+<lg>
+<l>Bye-and-bye, Bye-and-bye,</l>
+<l>Don&#39;t meet your troubles coming,</l>
+<l>And perhaps they&#39;ll pass you by.</l>
+<l>My prospects now seem rather spare,</l>
+<l>No one seems wild my fate to share,</l>
+<l>Oh very well, I don&#39;t despair,</l>
+<l>For someone&#39;s going to love me in the sweet Bye-and-Bye!</l>
+</lg>
+</sp>
+<pb/>
+
+<stage>
+(After a song)
+</stage>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Somebody loves you <hi rend="underline">now</hi>.</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Oh Si -- at last!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Listen! It&#39;s a dark secret!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>A dark secret? --</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>It&#39;s the Governor himself.</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>What!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Yes. He is consumed with an undying passion for you!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>But he&#39;s been asleep every time I met him.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Dreaming of you, little one, dreaming of you!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>It is not possible!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I know it, but it is! From the first moment he saw you, your 
+face has haunted him!</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>My face!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Yours, pretty one, yours! That is why no man in New Orleans
+has dared to propose to you! That is why I - the Whipping
+Boy, must step back -- erase your image from the tablets
+of my memory! I see my duty and I do it!
+</p></sp>
+
+<stage>(He stalks off tragically L., with
+LIZETTE following; awed by his manner)</stage>
+
+<stage>(MARIETTA comes through centre door
+at bottom. She is in domino and
+masked. Appears timid and frightened --
+MEN enter from ballroom. They are
+excited and hilarious)</stage>
+<pb/>
+
+<sp><speaker>Man</speaker>
+<stage>(Sees Marietta and stops)</stage><p>
+Ah! A masque!</p>
+<stage>(Rushing up, grabbing MARIETTA by
+the arm)</stage>
+<p>Come! Come!</p>
+<stage>(Brings MEN down C)</stage>
+<p>This is not allowed at the Quadroon Ball.</p></sp>
+
+<stage>(THEY surround Marietta)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh, Messieurs! I beg --</p></sp>
+
+<sp>
+<speaker>Man</speaker>
+<stage>(Taking her masque off)</stage><p> 
+No covered faces here!</p></sp>
+
+<stage>(MARIETTA struggles to retain the
+mask, which THEY take from her)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh Sire! Have pity -- Oh!</p></sp>
+
+<sp><speaker>Men</speaker>
+<p>Ah! The beautiful daughter of Rudolfo!
+</p></sp>
+
+<sp><speaker>Man</speaker>
+<p>Charming! Entrancing! Marietta! Vive Marietta!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>This is unkind, Monsieur. I do not know you.</p></sp>
+
+<stage>(ETIENNE enters from ballroom)</stage>
+
+<sp>
+<speaker>Man</speaker>
+<stage>(Taking hold of MARIETTA)</stage><p> 
+Oh, but you shall! Come -- dance, sing, laugh!</p></sp>
+
+<stage>(Taking hold of HER, pulling her
+towards ballroom)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Struggling in the embrace of a MAN)</stage>
+<p>No! No!</p></sp>
+
+<stage>(ETIENNE stops them)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>What&#39;s this? 
+<pb/></p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Running to him)</stage>
+<p>Oh sir, these men --</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(To Men)</stage><p> 
+Leave us!</p></sp>
+
+<sp><speaker>Man</speaker>
+<p>Oh no! &#39;Tis a privilege of the ball --</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>I beg as a favor, leave us --</p></sp>
+
+<sp><speaker>Man</speaker>
+<p>Oh, but certainly - later, Mam&#39;selle, later!</p></sp>
+
+<stage>(MEN exit into ballroom)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh, will you, can you have someone take me back home! I 
+shouldn&#39;t have come -- I didn&#39;t know --</p></sp>
+
+<stage>(Enter DICK and BLAKE through C.
+doors)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Nonsense, those good fellows meant no harm. &#39;Tis but the 
+license of the ball. Come now, you&#39;re under my protection!</p></sp>
+
+<stage>(He offers his arm to MARIETTA.
+They start for the ballroom)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Coming down)</stage>
+<p>Please Marietta, let me take you home.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Ah ha! My friend, I have caught you. You said you were 
+not coming to the ball!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I have just heard from Rudolfo that you were here.</p></sp>
+
+<stage>(ADAH enters C., stands on landing)</stage>
+
+<sp><speaker>Marietta</speaker>
+<p>Oh well! Then I shall stay. As long as my dear friend, my
+sworn friend is here, all is arranged. Monsieur, your arm.
+I would dance.</p></sp>
+
+<stage>(She takes ETIENNE&#39;S arm and they
+exit into ballroom. MARIETTA laughing
+over her shoulder at Dick)</stage>
+<pb/>
+
+<stage>(ADAH goes to R., looking into ballroom)</stage>
+
+<sp>
+<speaker>Blake</speaker>
+<p>Well, now we are here, I propose to enjoy myself.</p></sp>
+
+<stage>
+NO. 15<lb/>
+(MUSIC -- Orchestra plays a waltz)</stage>
+
+<sp>
+<stage>(Goes to Adah)</stage>
+<p>Madam, if you will dance, I shall be walking the floor of
+Heaven with the evening star on my arm.</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<stage>(Gloomily)</stage>
+<p>I do not dance tonight.</p></sp>
+
+<sp>
+<speaker>Blake</speaker>
+<p>Faith -- I&#39;ll see another then. 
+<stage>(Exits ballroom)</stage></p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Going up to Adah)</stage>
+<p>You are not going to dance?</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<stage>(Looking off)</stage><p>He dances first with her. Always before, he opened the ball 
+with me.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Will you favor me?</p></sp>
+
+<sp><speaker>Adah</speaker>
+<p>You are kind, but I don&#39;t feel like it now.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Come! You should have more spirit! You are beautiful.</p></sp>
+
+<sp><speaker>Adah</speaker>
+<p>Thank you, Monsieur!</p>
+
+<stage>(ETIENNE and MARIETTA enter from
+ballroom)</stage>
+
+<p>But you do not understand the heart of a woman!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh! We disturb --</p></sp>
+
+<stage>(MUSIC stops)</stage>
+
+<sp><speaker>Adah</speaker>
+<p>Mam&#39;selle, this is no place for you. You are too young.
+Go away with your good friend.</p></sp>
+<pb/>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh! I leave that to you!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Well answered! Why should she be robbed of the joy of life?</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Yes, why? I am free. I belong to no one. I shall enjoy 
+everything to the full!</p></sp>
+
+<stage>
+No. 18a <hi rend="underline">&quot;LIVE FOR TODAY&quot;</hi><lb/>
+<lb/>
+MARIETTA - CAPTAIN DICK - ETIENNE - ADAH<lb/>
+</stage>
+<sp><speaker>Marietta</speaker>
+<lg>
+<l>Would you say to the rose</l>
+<l>When it blooms to life</l>
+<l>Take care you must joyless be</l>
+<l>Close your heart, close your lips</l>
+<l>To the sunshine bright,</l>
+<l>And the breezes wild and free.</l>
+<l>Ah! Youth must be youth</l>
+<l>In a flower or maid,</l>
+<l>Though at evening the petals fall</l>
+<l>Ah let me be young while I may today</l>
+<l>I may never know joy at all!</l>
+</lg>
+</sp>
+<stage>
+<hi rend="underline">Refrain</hi>
+</stage>
+<lg>
+<l>Ah, life is sweet</l>
+<l>When love is young,</l>
+<l>A thrill in the blood like wine,</l>
+<l>Then burning glances,</l>
+<l>The soul entrances</l>
+<l>With rapture almost divine!</l>
+<l>Ah! Love is sweet,</l>
+<l>Ah! Joy complete</l>
+<l>And care is an age away,</l>
+<l>Ah! Come then surrender</l>
+<l>To love warm and tender</l>
+<l>And live for today, just today!</l>
+<l>Ah! Ah! Ah! -- </l>
+</lg>
+<stage>
+<hi rend="underline">II</hi>
+</stage>
+<lg>
+<l>I would say to the rose</l>
+<l>When it buds to life,</l>
+<l>Be guarded, be sweet, be shy,</l>
+<l>Yield not your sweets</l>
+<l>To each suitor bold</l>
+<l>That careless passes by!</l>
+</lg>
+<pb/>
+<lg>
+<l>Youth is so fleet</l>
+<l>Though its day is sweet,</l>
+<l>But joy&#39;s not the end of all</l>
+<l>You dance in the sun so gay all day</l>
+<l>But at night the petals fall.</l>
+</lg>
+<stage>(This is a big waltz song and at
+second refrain entire CHORUS slide
+in - line F.S. End line, C. - 3rd
+line, LADIES all dance off at conclusion
+of song into ballroom)</stage>
+
+<stage>(After ensemble, all exit into ballroom)</stage>
+
+<stage>(GOVERNOR enters, followed by SILAS)</stage>
+
+<sp><speaker>Governor</speaker>
+<p>&#39;Tis my duty to see that the King&#39;s commands are obeyed.
+If this woman has shown you the contents of the casquette --
+If you have taken her gold - You must wed her.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>But your Excellency does not know all.</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>All? What?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<stage>(With mock humility)</stage>
+<p>You wish me to wed the Contessa d&#39;Altena?</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>The Countessa d&#39;Altena! What do you mean?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Have they kept it from you, Governor?</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Kept what from me?</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>I can say no more. I have private information! I can say 
+no more!</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>I command you!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Hist! She comes. Do not let her know that I have betrayed
+her secret. Her secret confided in me in a moment of
+weakness.</p></sp>
+<pb/>
+
+<stage>(Enter LIZETTE, SILAS bows low)</stage>
+
+<sp>
+<speaker>Silas (Cont&#39;d)</speaker>
+<p>Ah Madam! Contessa! Madam!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>You have abused me enough, young man. Don&#39;t call me names.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<stage>(Aside to her)</stage><p>Ssh! The Governor! See how his glances gloat on you! </p></sp>
+<stage>(He exits L)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Mercy!</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>Come hither, little one.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Oh! Your Excellency! </p></sp>
+<stage>(She goes over timidly)</stage>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Fear me not. I know your life&#39;s secret!</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Oh Excellency! Don&#39;t tell anyone.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>It shall rest, between us!</p>
+
+<stage>(Governor, looking around, sees SILAS
+peering in at door)</stage>
+<p>
+Silas! Here! You!
+</p></sp>
+<sp>
+<speaker>Silas</speaker>
+<p>Did you call?</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>I wish to have some conversation with this lady!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<stage>(To Lizette)</stage>
+<p>What did I tell you!</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Take this whistle.</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>What for? Do you want soft music for your conversation?</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Sit you yonder. 
+<pb/></p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Where is yonder?</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Never mind, you go sit on it.</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Oh, very well --</p>
+<stage>(Aside to Governor)</stage>
+<p>Wouldn&#39;t you know she was a Countess, Governor -- the way
+she commands!</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>If anyone approaches, whistle.</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Oh, I see -- I&#39;m the whistling boy! Looking out for trouble. </p></sp>
+<stage>(Goes to landing)</stage>
+
+<sp>
+<speaker>Governor</speaker>
+<stage>(Motions to Lizette)</stage>
+<p>Sit.</p></sp>
+
+<stage>(LIZETTE is embarrassed, sits on his
+lap)</stage>
+
+<stage>(SILAS gives loud whistle -- BOTH
+jump)</stage>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Pardon! Pardon! I was just trying it!</p>
+
+<stage>(GOVERNOR and LIZETTE sit again --
+SILAS whistles)</stage>
+<p>
+It slipped.
+</p></sp>
+<sp>
+<speaker>Governor</speaker>
+<p>Turn your back!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>I will! I will! Can I hear to look? No!</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<stage>(To Lizette)</stage>
+<p>I understand you are not what you seem.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>No woman is what she seems, Governor.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Have you proofs of your parentage? </p></sp>
+<pb/>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Proofs? Of course!</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>Your illustrious father is a very rich man, I understand.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Well, he has a lot of money back of him. I don&#39;t know 
+whether it will ever catch up.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Under the circumstances, of course you cannot marry my 
+Whipping Boy.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Not if it pains you, Governor.</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>It would pain me very much.</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Oh governor.</p></sp>
+<stage>(She throws her arms around the
+GOVERNOR&#39;s neck)</stage>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Wait! Perhaps when your father comes, he will not consent. 
+Think of the life I have led.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Well, Governor, you&#39;ve got nothing on me!</p></sp>
+
+<stage>(SILAS has come down from landing and
+is listening eagerly)</stage>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Eh?</p></sp>
+
+<sp><speaker>Lizette</speaker>
+<p>Besides, why should my father come to America?</p></sp>
+
+<stage>(SILAS shows that he is getting
+anxious)</stage>
+
+<sp>
+<speaker>Governor</speaker>
+<p>But we have sent for him. He has offered ten thousand francs 
+for your return.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Ten thousand francs for my return. That can&#39;t be my father!</p></sp>
+
+<stage>(SILAS whistles furiously to prevent
+LIZETTE saying anything more. THEY
+turn in astonishment. SIR HARRY
+enters and going up to SILAS, slaps
+<pb/>
+him heavily on the back. SILAS
+chokes)</stage>
+
+<sp>
+<speaker>Sir Harry</speaker>
+<p>Well, Sir Whipping Boy, how are you?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>I - er --</p>
+<stage>(Whistles)</stage>
+<p>I - I ---</p>
+</sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Mercy! He&#39;s swallowed the whistle.</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>Give it up - that whistle was solid gold!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>Give it up!</p>
+<stage>(Whistles -- whistles)</stage>
+<p>I wish I could!</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Take him out! Get a pump! He&#39;ll choke!</p></sp>
+
+<stage>(She and SIR HARRY hustle SILAS off
+R., whistling furiously)</stage>
+
+<stage>(Enter ETIENNE)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Ah! Father! How does Louisiana&#39;s prospective ruler find 
+himself?</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>I find myself very uncomfortable. I don&#39;t approve of your 
+schemes, and the deeper they go the less I like them.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Oh nonsense! Affairs are progressing finely. You see my
+popularity -- &#39;Twill not be long before &#39;twill be quite
+safe to declare Louisiana a republic -- we shall rule here.</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>But the Governor -- he may bribe your man.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>I&#39;ll swear to the loyalty of my men. The Governor is safe
+on the Isle of Pines. My men but await my word to send him
+where men tell no tales!</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>Ssh! I&#39;ll not listen to it! If it comes out all right, I&#39;m
+with you -- but -- remember, I don&#39;t commit myself.</p></sp>
+<pb/>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Oh, my worthy parent --</p></sp>
+
+<stage>(He laughs as GOVERNOR exits R.)</stage>
+
+<stage>(Enter MARIETTA from ballroom)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh Monsieur! I am glad you persuaded me to come. How I have 
+laughed and enjoyed myself!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>I have observed you, Mademoiselle, and I apologize for having
+disbelieved your statement that you were not the Countessa
+d&#39;Altera!
+</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Surprised)</stage>
+<p>Eh?</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>I have seen you tonight - the spirit of the people. No lady
+highly born could have entered as you have into our rustic
+festivity.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Puzzled)</stage>
+<p>I don&#39;t know that I like that.</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Oh, believe me, it has rejoiced me, because if you had really
+been the Countessa, you would have been far from the reach
+of Etienne Grandet, but even I may aspire to the daughter
+of Rudolfo!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Indeed! And how about Adah!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>I will sell her tonight, if you will accept my hand and my 
+name.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Sell her! No! No!</p></sp>
+
+<stage>(Enter DICK from ballroom)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Marietta, may I have a word with you please?</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(To Marietta)</stage><p>You will excuse me -- but -- you will not forget my offer. 
+<pb/></p></sp>
+
+<stage>(Etienne exits. DICK to Marietta</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>You find it gay this ball, my friend?</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>Very gay, my friend.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>You find Adah charming, no?</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>I find her charming, yes!
+</p></sp>
+<sp>
+<speaker>Marietta</speaker>
+<p>Me, I am tired of everything --</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>Tired?
+</p></sp>
+<sp>
+<speaker>Marietta</speaker>
+<p>You are changed tonight - you -- I don&#39;t like you any more!</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>You have never seemed to like me to any extent, Mademoisselle!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Oh yes. I thought you were a very high character, but you 
+are a coquette!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I -- a coquette?</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>Yes, I can&#39;t have a friend who is a coquette. You are all
+the same gay, like these Creoles. Yes, drink glass after
+glass - I saw you --</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>It&#39;s just the spirit of the place, and yet, there&#39;s something 
+the matter with me -- for all I seem gay, I can&#39;t feel happy.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Me too!</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>Shall I tell you about it?</p></sp>
+
+<stage>
+No. 16 SONG -- DICK<lb/>
+<lb/>
+<hi rend="underline">&quot;I&#39;M FALLING IN LOVE WITH SOMEONE.&quot;</hi></stage>
+<pb/>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l>I&#39;ve a very strange feeling</l>
+<l>I ne&#39;er felt before</l>
+<l>&#39;Tis a kind of a grind</l>
+<l>Or depression;</l>
+<l>My heart&#39;s acting strangely</l>
+<l>Feels rather sore,</l>
+<l>Or at least it gives me</l>
+<l>That impression.</l>
+<l>My pulses leap madly</l>
+<l>Without any cause,</l>
+<l>Believe me I&#39;m telling you</l>
+<l>I&#39;m gay without pause</l>
+<l>Then and without cause,</l>
+<l>My spirits are truly, unruly.</l>
+</lg>
+
+<stage><hi rend="underline">Refrain</hi></stage>
+
+<lg>
+<l>For --</l>
+<l>I&#39;m falling in love with someone,</l>
+<l>Some one girl -</l>
+<l>I&#39;m falling in love with someone,</l>
+<l>Head awhirl -</l>
+<l>I&#39;m falling in love with someone,</l>
+<l>Plain to see,</l>
+<l>I&#39;m sure I could love someone madly</l>
+<l>If someone would only love me.</l>
+</lg>
+<stage>
+<hi rend="underline">II</hi>
+</stage>
+<lg>
+<l>I don&#39;t mind confessing that I used to scoff</l>
+<l>At this sort of sport of flirtation,</l>
+<l>I used to believe that I&#39;d never be caught</l>
+<l>In this foolish but fond complication;</l>
+<l>I&#39;m losing all relish for things that were dear,</l>
+<l>I&#39;m looking for trouble and know it,</l>
+<l>When someone is near,</l>
+<l>I&#39;m feeling quite queer,</l>
+<l>But I heartily hope I don&#39;t show it.</l>
+</lg>
+</sp>
+<stage>(After first encore, the cries of
+&quot;Etienne! Vive Etienne! Vive Master
+of Ceremonies&quot;)</stage>
+
+<stage>(ETIENNE enters from ballroom, ADAH
+follows)</stage>
+
+<stage>(LADIES and GENTLEMEN enter, following
+ETIENNE)</stage>
+<pb/>
+
+<sp><speaker>Etienne</speaker>
+<p>Listen! Hear you all! Hear you all! Silence! According
+to the long established custom of the Quadroon Ball, any
+man who wishes to buy, sell or exchange his favorite slave
+may take advantage of the Cordon Bleu auction!</p></sp>
+
+<sp>
+<speaker>Ladies</speaker>
+<p>No! No!</p></sp>
+
+<stage>(Hisses)</stage>
+
+<sp><speaker>Men</speaker>
+<p>Auction! Auction!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Any woman who has offended by jealousy or loss of charm or 
+any other cause may be put up and sold to the highest bidder.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Blake 
+No! No! Shame! Shame!</p></sp>
+
+<sp><speaker>Men</speaker>
+<p>Yes! Yes! Auction! Auction!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Come! Who will buy, sell or exchange! Is no one here brave
+enough? Well then, I will open the sale with the most beautiful
+slave in New Orleans!</p>
+<stage>(Pointing to Adah)</stage>
+<p>Adah!</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>Etienne! Etienne! </p>
+<stage>(Running up to Etienne)</stage></sp>
+
+<sp><speaker>Men</speaker>
+<p>Adah! Auction! Auction!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Grabbing ADAH by the wrist)</stage>
+<p>A bid! A bid!</p></sp>
+
+<sp><speaker>East Indian</speaker>
+<p>Five hundred francs! My friends, I am bid five hundred francs
+for the most beautiful slave in New Orleans!</p></sp>
+
+<sp>
+<speaker>Man</speaker>
+<p>A thousand francs! 
+<pb/></p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>A thousand francs! Come, that is better -- a thousand francs.</p></sp>
+
+<sp><speaker>East Indian</speaker>
+<p>Twelve hundred!</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<stage>(Turning and pleading to Dick)</stage>
+<p>Do not let him sell me to that man.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Fifteen hundred francs!</p></sp>
+
+<sp><speaker>All</speaker>
+<p>Vive the American.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Fifteen hundred francs!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Furious at Dick)</stage>
+<p>You bid for her!</p></sp>
+
+<sp>
+<speaker>East Indian</speaker>
+<p>Eighteen hundred francs!</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>Two thousand.</p></sp>
+
+<sp><speaker>All</speaker>
+<p>Ah!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Come, the game improves! Two thousand bid for La Belle Adah!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(To Dick)</stage>
+<p>If you bid again, I will never speak to you!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I can&#39;t let him sell her to that man.</p></sp>
+
+<sp><speaker>East Indian</speaker>
+<p>Twenty-two hundred!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Twenty-two hundred. I am bid twenty-two hundred! Going! 
+Going!</p></sp>
+
+<stage>(DICK hesitates -- ADAH stretches
+imploring arms to him)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Three thousand!</p></sp>
+
+<sp>
+<speaker>All</speaker>
+<p>Ah! 
+<pb/></p></sp>
+
+<sp>
+<speaker>East Indian</speaker>
+<p>Take her! I&#39;m through!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Three thousand francs. Adah, the most beautiful slave in
+New Orleans goes to Captain Dick Warrington for three thousand
+francs! Captain Warrington does not believe in slaves --
+</p>
+
+<stage>(ALL laugh)</stage>
+<p>
+Three thousand I am bid. Gentlemen, are you done?</p></sp>
+
+<sp><speaker>Men</speaker>
+<p>Done!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Going, going, gone -- sold to Captain Richard Warrington
+for three thousand francs.</p></sp>
+<stage>(Steps down C)</stage>
+
+<stage>(ADAH sinks with her face in her
+hands)</stage>
+
+<sp><speaker>Marietta</speaker>
+<stage>(Xing to Etienne)</stage><p>
+Ah, beautiful! Beautiful! Captian Dick, my friend, who does
+not believe in slaves! He makes the highest bid of all!
+After this sale, the free gift. Behold, I confess I am
+Marietta d&#39;Altena, sir - you asked me for my hand when you
+thought I was only Marietta, the daughter of Rudolfo. Now
+I bestow it upon you!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>No! No!</p></sp>
+
+<sp><speaker>All</speaker>
+<p>Yes! Yes!</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Mademoiselle, you shall never regret.</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>I forbid it!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p><hi rend="underline">You</hi> forbid? And who are you, sir?</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Come, Marietta. I&#39;ll not trust you to keep this promise till 
+tomorrow - we shall be wed tonight.</p></sp>
+
+<sp>
+<speaker>All</speaker>
+<p>A wedding! A wedding! 
+<pb/></p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>We shall end this, the most notable ball with a wedding.</p></sp>
+
+<sp><speaker>Marietta</speaker>
+<p>But these clothes! No! No! I cannot tonight.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Tonight, tonight! Friends, ladies! I leave it to you to 
+find a suitable garments for my bride.</p></sp>
+
+<sp><speaker>Nannette, Felice, and Fanchon</speaker>
+<p>
+Yes, yes, we will! Come! Come!</p></sp>
+
+<stage>(They surround Marietta)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>But - but --</p></sp>
+
+<sp><speaker>Nanette</speaker>
+<p>You shall have my dress!</p></sp>
+
+
+<sp>
+<speaker>Felice</speaker>
+<p>And my veil!</p></sp>
+
+<sp><speaker>Fanchon</speaker>
+<p>And the orange trees are in blossom!</p></sp>
+
+
+<stage>(THEY hustle MARIETTA off Centre
+door)</stage>
+
+<sp>
+<speaker>Blake</speaker>
+<p>Dick, Dick! Be reasonable! What can you do among so many?</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>I wouldn&#39;t attempt anything rash, Monsieur.</p></sp>
+
+
+<stage>(Exits to ballroom, the CROWD
+following)</stage>
+
+<stage>(ADAH, DICK and BLAKE left on stage)</stage>
+
+<sp><speaker>Adah</speaker>
+<stage>(Coming down and throwing herself at
+Dick&#39;s feet)</stage><p>
+My master!</p></sp>
+
+
+<sp>
+<speaker>Dick</speaker>
+<p>I am not your master. I bought you to set you free.</p></sp>
+
+<sp>
+<speaker>Adah</speaker>
+<p>Free! I -- you will set me free? 
+<pb/></p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Yes, I will make your papers out tomorrow.</p></sp>
+
+<sp><speaker>Adah</speaker>
+<p>I - a free woman?</p>
+<stage>(Draws a deep breath)</stage>
+<p>Then I will act like one --</p>
+<stage>(To Dick)</stage>
+<p>Listen, Monsieur, you would prevent this wedding?</p></sp>
+
+
+<sp>
+<speaker>Dick</speaker>
+<p>It must be prevented, the girl is mad! She doesn&#39;t realize....</p></sp>
+
+<sp><speaker>Adah</speaker>
+<p>On Etienne Grandet&#39;s right arm you will find his name!</p></sp>
+
+
+<sp>
+<speaker>Dick</speaker>
+<p>His name!</p></sp>
+
+<sp><speaker>Adah</speaker>
+<p>Bras Pique!</p></sp>
+
+
+<sp>
+<speaker>Dick</speaker>
+<p>Blake 
+Bras Pique!</p></sp>
+
+<sp><speaker>Adah</speaker>
+<p>I have told you -- make what use of it you will.</p></sp>
+
+<stage>(Exits to ballroom)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(To Blake)</stage>
+<p>Quick, assemble our men!</p></sp>
+
+<sp>
+<speaker>Blake</speaker>
+<p>I will - it will be a beautiful fight. </p></sp>
+
+<stage>(Blake exits door C.)</stage>
+
+<stage>(DICK exits door L.)</stage>
+
+<stage>(SILAS enters from door R., singing
+-- &quot;I&#39;m Falling in Love with Someone&quot;)</stage>
+
+<sp><speaker>Silas</speaker>
+<p>I always fall in love with someone, but nobody falls in love
+with me. It&#39;s pretty soft for Silas here, anyway.</p>
+<stage>(Blows whistle)</stage>
+<p>O, see who is coming!</p></sp>
+
+
+<stage>
+No. 17 - SONG -- <hi rend="underline">&quot;IT&#39;S PRETTY SOFT FOR YOU SILAS&quot;</hi>
+</stage>
+<pb/>
+
+<sp>
+<speaker>Silas</speaker>
+<stage> 
+1</stage>
+<lg>
+<l>King Solomon the Bible says had wives a hundred score,</l>
+<l>And still he wasn&#39;t satisfied and looked around for more!</l>
+<l>He wore a nobby purple suit and an eighteen-karat hat,</l>
+<l>And the sweet young things they couldn&#39;t resist so</l>
+<l>swell a guy as that.</l>
+<l>So he used to take a wedding trip most every day or so,</l>
+<l>And then he couldn&#39;t handle all the brides that tried to go;</l>
+<l>And he used to get ten trading stamps for every bale he got.</l>
+<l>He kept the bakers baking and the bakings they could bake</l>
+<l>To keep filled the royal pantry with the royal wedding cake;</l>
+<l>Of course a king&#39;s the sort of thing &#39;most everyone wants to be.</l>
+<l>But I don&#39;t know that Solomon had very much on me.</l>
+</lg>
+
+<stage>Refrain</stage>
+<lg>
+<l>For--</l>
+<l>It&#39;s pretty soft for Silas - that is right,</l>
+<l>A regular cinch for Silas, lucky boy!</l>
+<l>My winning ways and sunny smile</l>
+<l>Has Mr. Solomon skilled a mile.</l>
+<l>And it&#39;s pretty soft for Silas - Oi Oi --</l>
+<l>The Queen of Sheba came to see</l>
+<l>What kind of a sort of King was he.</l>
+<l>But look at the Queen that fall for me --</l>
+<l>It&#39;s pretty soft for Silas, lucky boy!</l>
+</lg>
+<stage>
+2
+</stage>
+<lg>
+<l>Folks say that old Adonis was the most best looking man,</l>
+<l>Of all the lady killer fellows since the world began!</l>
+<l>When Venus gave a swell affair, why, this woman didn&#39;t care</l>
+<l>If the other men they never showed up, if &quot;Ad&quot; was only there</l>
+<l>So he went to all the luncheons and the dinners and the teas,</l>
+<l>And everybody said he was the smoothest thing in Greece.</l>
+<l>He jollied Mrs. Mercury and Frau Denostheses</l>
+<l>And danced a dozen waltzes with Frau Hercules.</l>
+<l>The fat girls all took anti-fat, the slim ones anti-slim,</l>
+<l>They did the best they all could do to make a hit with him,</l>
+<l>Of course that social lion thing most everyone wants to be,</l>
+<l>But I don&#39;t think Adonis he, had very much on me!</l>
+</lg></sp>
+<stage>(Encore)</stage>
+
+<stage>(MAN enters door R.)</stage>
+
+<stage>(At end of song, ALL exit to ballroom)</stage>
+
+<stage>(SILAS re-enters)</stage>
+
+<stage>(Enter ETIENNE and GOVERNOR from ballroom)</stage>
+<pb/>
+
+<sp><speaker>Governor</speaker>
+<p>Dear me! Dear me! Of course I&#39;ll send for the priest if
+you say so, but this haste! Dear me! Dear me! You have
+only her word that she is the Contessa. There is another
+who claims ---</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Nonsense! She is the Contessa d&#39;Altena - Le Grand has seen
+her often in Italy. Rest easy. I made sure of that before
+committing myself.</p></sp>
+
+<stage>(DICK enters door R.)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(Going up to Etienne)</stage>
+<p>That&#39;s a very fine coat you wear, sir.</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Sir!</p></sp>
+
+<sp><speaker>Dick</speaker>
+<p>But I don&#39;t like the sleeve!</p></sp>
+
+<stage>(Seizes ETIENNE&#39;S right sleeve by
+the cuff and rips it open, disclosing
+the tattooed arm)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>You know what this means, sir?</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<stage>(To Lieutenant-Governor)</stage><p>Your Excellency! This man is Bras Pique!! You have seen 
+his name upon his arm. I demand his arrest!</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>Dear me! Dear me!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>In whose name, sir!</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>In the name of the King of France from whom I bear warrant!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>A bas! The King of France -- <hi rend="underline">I</hi> rule here!</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>One moment, wait -- we&#39;ll settle this thing when the Governor
+returns. I have no authority, alas. But in the meanwhile
+you may not know, sir, that for just such emergencies
+as this -- I have re-established the old order of the whipping
+boy!</p></sp>
+<pb/>
+
+<sp>
+<speaker>Silas</speaker>
+<p>That&#39;s me!!</p></sp>
+
+<sp><speaker>Etienne</speaker>
+<p>Ha! Ha!</p></sp>
+
+<sp>
+<speaker>Governor</speaker>
+<p>He shall take upon himself my son&#39;s punishment!</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>What?</p></sp>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Pointing to Silas)</stage>
+<p>Besides, this man bears too, on his arm the name Bras Pique!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<stage>(To Governor)</stage><p>I was only joking. I just had it tattooed to frighten the 
+girls. You told me you had such a well behaved family --</p></sp>
+
+<stage>(GUARDS up C.)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<p>Ah ho, guards!</p>
+
+<stage>(GUARDS enter C., indicating Silas)</stage>
+
+<p>Don&#39;t let this man escape -- He is Bras Pique! Take him to
+the calaboose.</p>
+<stage>(To Dick)</stage>
+<p>As for you sir, I will meet you where you please, after the 
+wedding.</p></sp>
+<stage>(Exits)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<p>We will meet, but it will not be after the wedding. </p>
+<stage>(Exits)</stage></sp>
+
+<stage>(SILAS runs up C. after DICK.
+GUARDS push him back)</stage>
+
+<sp><speaker>Silas</speaker>
+<stage>(To Governor)</stage>
+<p>Oh Governor, Governor, now don&#39;t fall asleep. I think
+something is going to happen to me. Oh, Governor, save me,
+what are they going to do with me?</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>I don&#39;t know, I am sure -- the penalty for piracy is hanging.
+Maybe I can get you out of that!</p></sp>
+<pb/>
+
+<sp>
+<speaker>Silas</speaker>
+<p>You will? </p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>Yes, -- I&#39;ll get them to shoot you, it&#39;s quicker.</p></sp>
+
+<stage>(TWO GAURDS come down and seize
+SILAS, pulling him up C.)</stage>
+
+<sp>
+<speaker>Silas</speaker>
+<p>Mercy ---</p></sp>
+
+<sp><speaker>Governor</speaker>
+<p>Mercy! Did you have mercy when you tried to foist that
+chromo off on me as the Contessa d&#39;Altena? Away with him!</p></sp>
+<stage>(Exits R)</stage>
+
+<stage>(LIZETTE enters)</stage>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Si! Si -- where are you going?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>I&#39;m not going, I&#39;m being took.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Where are you being tooken to?</p></sp>
+
+<sp><speaker>Silas</speaker>
+<p>To the Calaboose.</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Then I&#39;ll go with you. I don&#39;t care for that fat Governor!</p></sp>
+
+<sp>
+<speaker>Silas</speaker>
+<p>All right Lizette, come ahead. I don&#39;t care what becomes of 
+me now!</p></sp>
+
+<sp>
+<speaker>Lizette</speaker>
+<p>Call me Lizzie.</p></sp>
+
+<stage>(GUARDS exit through C. door with
+SILAS followd by LIZETTE)</stage>
+
+<stage>(Enter DICK&#39;S MEN)</stage>
+
+<sp>
+<speaker>Dick</speaker>
+<p>I suppose I shall have to take the law into my own hands - as 
+long as you refuse - Forward March.</p></sp>
+
+<stage>(THEY exit followed by GOVERNOR
+pleading)</stage>
+<pb/>
+
+<stage>(Enter MARIETTA and GIRLS in bridal
+clothes)</stage>
+
+<sp>
+<speaker>Girls</speaker>
+<p>Oh, how charming! How sweet!</p>
+</sp>
+<sp>
+<speaker>Marietta</speaker>
+<p> I beg of you - give me a few moments alone!</p></sp>
+
+<sp><speaker>Girls</speaker>
+<p>Assuredly! Come -- the bride must have a few moments -
+come.</p></sp>
+<stage>(THEY exit into ballroom)</stage>
+
+<sp><speaker>Blake</speaker>
+<stage>(Enters from C. door, coming down
+to Marietta)</stage><p>
+Mademoiselle! Mademoiselle! You are making a great mistake!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>What do you mean?</p></sp>
+
+<sp><speaker>Blake</speaker>
+<p>Captain Dick has set Adah free!</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Set her free?</p></sp>
+
+<sp><speaker>Blake</speaker>
+<p>Yes - and this man you are going to marry is Bras Pique.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>Etienne?</p></sp>
+
+<sp><speaker>Blake</speaker>
+<p>Yes, Etienne Grandet. Our men are on the way. In a matter
+of minutes, we&#39;ll have him and his crew.</p></sp>
+<stage>(Exits)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>He set Adah free? Oh what a fool I&#39;ve been.</p>
+
+<stage>(Goes to door. GUARDS appear)</stage>
+<p>
+Let me pass.</p></sp>
+
+<sp>
+<speaker>Guards</speaker>
+<p>Our orders are that no one is to leave until after the wedding.</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>But there will be no wedding, stupid! 
+<pb/></p></sp>
+
+<sp><speaker>Guard</speaker>
+<p>We have our orders.</p></sp>
+<stage>(Exits)</stage>
+
+<sp>
+<speaker>Marietta</speaker>
+<stage>(Tearfully)</stage>
+<p>I am so unhappy - so unhappy.</p></sp>
+
+<stage>
+No. 18 - (MUSIC CUE --<hi rend="underline">DREAM MELODY</hi>)
+</stage>
+<stage>(CAPTAIN DICK is heard outside
+singing)</stage>
+
+<sp><speaker>Dick</speaker>
+<lg>
+<l>Oh sweet mystery of life, at last I&#39;ve found thee</l>
+<l>Ah! I know at last the secret of it all!</l>
+<l>All the longing, seeking, striving, waiting, yearning,</l>
+<l>The fond hopes, the joy and foolish tears</l>
+<l>that fall --</l>
+</lg>
+
+<stage>(MARIETTA has risen and is listening
+intently)</stage>
+
+<stage>(CAPTAIN DICK is seen cautiously
+entering at window from balcony)</stage>
+
+<lg>
+<l>For &#39;tis love and love alone the world is seeking,</l>
+<l>And &#39;tis love and love alone can satisfy;</l>
+<l>This the answer, this the end and all of living!</l>
+<l>For it is love alone that rules for aye.</l>
+</lg></sp>
+
+<stage>(He comes downstairs signing, his
+arms outstretched to MARIETTA. She
+joins in the song and THEY sing it
+through together)</stage>
+
+<stage>(At the close she is in his arms)</stage>
+
+<stage>(Enter ETIENNE in wedding clothes
+followed by GUESTS)</stage>
+
+<sp>
+<speaker>Etienne</speaker>
+<stage>(Seeing MARIETTA in DICK&#39;S arms)</stage>
+<p>What&#39;s this? My bride?</p></sp>
+
+<sp>
+<speaker>Marietta</speaker>
+<p>No No Monsieur he has sang my song, the prophecy has come true.</p></sp>
+
+<stage>(SILAS and LIZETTE enter followed
+by BLAKE and HIS MEN)</stage>
+<pb/>
+
+<sp>
+<speaker>Silas</speaker>
+<p>They have reloosed me! The have reloosed me!</p></sp>
+
+<stage>(BLAKE pointing to Etienne)</stage>
+
+<sp><speaker>Etienne</speaker>
+<stage>(Runs upstairs but is stopped by
+OTHERS of BLAKE&#39;S MEN)</stage><p>
+The game&#39;s well played, Monsieur, you win.</p></sp>
+
+<sp>
+<speaker>Dick</speaker>
+<p>Let him go! I <hi rend="underline">have</hi> won, all I want in this world.</p></sp>
+
+<stage>(Takes MARIETTA in his arms as ALL
+sing DREAM MELODY, possible &quot;ZING
+ZING&quot; for curtain)</stage>
+<stage>
+<hi rend="underline">CURTAIN</hi>
+</stage>
+<stage>
+<hi rend="underline">END OF PLAY</hi>
+</stage>
+</div>
+</div>
+</body>
+</text>
+</TEI>
